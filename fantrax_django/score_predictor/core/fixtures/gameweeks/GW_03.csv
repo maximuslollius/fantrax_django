@@ -1,0 +1,529 @@
+Player,Team,Position,Rk,Status,Opponent,FPts,FP/G,% Owned,+/-
+Sebastien Haller,WHU,F,1,ColmL,WHU 3<br/>@WAT 1 F,28.25,28.25,100%,1.2%
+David Silva,MCI,M,2,ZKL,MCI 3<br/>@BOU 1 F,26.45,26.45,100%,0%
+Mohamed Salah,LIV,F,3,Damo,ARS 1<br/>@LIV 3 F,26.25,26.25,100%,0%
+Sergio Aguero,MCI,F,4,ZKL,MCI 3<br/>@BOU 1 F,26.1,26.1,100%,0%
+Joel Matip,LIV,D,5,ZKL,ARS 1<br/>@LIV 3 F,22.1,22.1,100%,3.1%
+Mateo Kovacic,CHE,M,6,ColmOF,CHE 3<br/>@NOR 2 F,21.75,21.75,92%,28.3%
+Tammy Abraham,CHE,F,7,Damo,CHE 3<br/>@NOR 2 F,21.5,21.5,100%,3.2%
+Emerson,CHE,D,8,ColmOF,CHE 3<br/>@NOR 2 F,21.05,21.05,92%,2.2%
+Nathan Redmond,SOU,"M,F",9,Eoghanoc,SOU 2<br/>@BHA 0 F,21,21,92%,-2.2%
+Teemu Pukki,NOR,F,10,ColmOF,CHE 3<br/>@NOR 2 F,20.5,20.5,100%,1.2%
+Ben Foster,WAT,G,11,ColmOF,WHU 3<br/>@WAT 1 F,20,20,25%,-22.6%
+Jeffrey Schlupp,CRY,"D,M",12,FA, CRY 2<br/>@MUN 1 F,19.55,19.55,58%,-1%
+Mason Mount,CHE,M,13,Seanmacd,CHE 3<br/>@NOR 2 F,19.35,19.35,100%,7.8%
+Jannik Vestergaard,SOU,D,14,MKFC,SOU 2<br/>@BHA 0 F,18.9,18.9,75%,18.3%
+Fabian Schar,NEW,D,15,ZKL,NEW 1<br/>@TOT 0 F,18.8,18.8,92%,2.9%
+James Maddison,LEI,M,16,Damo,LEI 2<br/>@SHU 1 F,18,18,100%,0%
+John McGinn,AVL,M,17,ColmL,EVE 0<br/>@AVL 2 F,18,18,92%,0.1%
+Christian Atsu,NEW,M,18,FA,NEW 1<br/>@TOT 0 F,18,18,33%,6.3%
+Jota,AVL,M,19,FA,EVE 0<br/>@AVL 2 F,17.75,17.75,8%,-12.1%
+Will Hughes,WAT,M,20,MKFC,WHU 3<br/>@WAT 1 F,17.5,17.5,50%,3.5%
+Ross Barkley,CHE,M,21,mcavinur,CHE 3<br/>@NOR 2 F,17.25,17.25,100%,15.6%
+Emiliano Buendia,NOR,M,22,ColmL,CHE 3<br/>@NOR 2 F,17.25,17.25,100%,9.9%
+Martin Dubravka,NEW,G,23,FA,NEW 1<br/>@TOT 0 F,17.25,17.25,33%,4.9%
+Fabinho,LIV,M,24,mcavinur,ARS 1<br/>@LIV 3 F,17,17,75%,-9.1%
+Mark Noble,WHU,M,25,FA,WHU 3<br/>@WAT 1 F,17,17,58%,29.2%
+Angus Gunn,SOU,G,26,FA,SOU 2<br/>@BHA 0 F,17,17,8%,-6.9%
+Caglar Soyuncu,LEI,D,27,Damo,LEI 2<br/>@SHU 1 F,16.8,16.8,75%,-6.4%
+Felipe Anderson,WHU,M,28,ZKL,WHU 3<br/>@WAT 1 F,16.6,16.6,100%,0.5%
+Raul Jimenez,WOL,F,29,Eoghanoc,BUR 1<br/>@WOL 1 F,16.45,16.45,100%,0.2%
+Raheem Sterling,MCI,F,30,ColmL,MCI 3<br/>@BOU 1 F,16.45,16.45,100%,0%
+Andre Gray,WAT,F,31,FA,WHU 3<br/>@WAT 1 F,16.35,16.35,58%,24.4%
+Trent Alexander-Arnold,LIV,D,32,ColmOF,ARS 1<br/>@LIV 3 F,16.3,16.3,100%,0%
+Jamaal Lascelles,NEW,D,33,FA,NEW 1<br/>@TOT 0 F,16.15,16.15,50%,20.4%
+Paul Dummett,NEW,D,34,FA,NEW 1<br/>@TOT 0 F,16.15,16.15,8%,2.3%
+Harry Wilson,BOU,M,35,Damo,MCI 3<br/>@BOU 1 F,15.75,15.75,92%,20.3%
+Tyrone Mings,AVL,D,36,mcavinur,EVE 0<br/>@AVL 2 F,15.75,15.75,75%,0.9%
+Patrick van Aanholt,CRY,D,37,ZKL, CRY 2<br/>@MUN 1 F,15.6,15.6,92%,-4.1%
+Kevin De Bruyne,MCI,M,38,Eoghanoc,MCI 3<br/>@BOU 1 F,15.25,15.25,100%,0.1%
+Ederson,MCI,G,39,ColmL,MCI 3<br/>@BOU 1 F,15.25,15.25,100%,0.2%
+Wesley,AVL,F,40,FA,EVE 0<br/>@AVL 2 F,15.25,15.25,75%,6.6%
+Bjorn Engels,AVL,D,41,FA,EVE 0<br/>@AVL 2 F,15.15,15.15,8%,1.1%
+Frederic Guilbert,AVL,D,42,FA,EVE 0<br/>@AVL 2 F,15.1,15.1,17%,1.9%
+Cesar Azpilicueta,CHE,D,43,mcavinur,CHE 3<br/>@NOR 2 F,15.05,15.05,100%,0.2%
+Abdoulaye Doucoure,WAT,M,44,FA,WHU 3<br/>@WAT 1 F,15,15,75%,-6.6%
+Neil Taylor,AVL,D,45,FA,EVE 0<br/>@AVL 2 F,14.95,14.95,0%,-2.3%
+Christian Pulisic,CHE,M,46,Eoghanoc,CHE 3<br/>@NOR 2 F,14.75,14.75,100%,0.7%
+Dwight McNeil,BUR,M,47,ZKL,BUR 1<br/>@WOL 1 F,14.75,14.75,92%,8.9%
+Jordan Ayew,CRY,F,48,FA, CRY 2<br/>@MUN 1 F,14.75,14.75,75%,24.3%
+Todd Cantwell,NOR,M,49,FA,CHE 3<br/>@NOR 2 F,14.75,14.75,67%,-13.2%
+Jan Bednarek,SOU,D,50,FA,SOU 2<br/>@BHA 0 F,14.65,14.65,8%,1.1%
+George Baldock,SHU,D,51,FA,LEI 2<br/>@SHU 1 F,14.6,14.6,33%,17.6%
+Tim Krul,NOR,G,52,FA,CHE 3<br/>@NOR 2 F,14.5,14.5,0%,-6.1%
+Ashley Barnes,BUR,F,53,Seanmacd,BUR 1<br/>@WOL 1 F,14.25,14.25,100%,1.5%
+Willy Boly,WOL,D,54,Eoghanoc,BUR 1<br/>@WOL 1 F,14.05,14.05,100%,1.3%
+Jamie Vardy,LEI,F,55,ColmOF,LEI 2<br/>@SHU 1 F,13.6,13.6,100%,0.1%
+Moussa Djenepo,SOU,M,56,FA,SOU 2<br/>@BHA 0 F,13.6,13.6,25%,19.1%
+Leandro Trossard,BHA,M,57,FA,SOU 2<br/>@BHA 0 F,13.5,13.5,83%,13.7%
+Lucas Torreira,ARS,M,58,FA,ARS 1<br/>@LIV 3 F,13.5,13.5,67%,34%
+Kevin Danso,SOU,D,59,FA,SOU 2<br/>@BHA 0 F,13.5,13.5,0%,-0.9%
+Nathan Ake,BOU,D,60,MKFC,MCI 3<br/>@BOU 1 F,13.4,13.4,83%,1.5%
+Joelinton,NEW,F,61,FA,NEW 1<br/>@TOT 0 F,13.3,13.3,92%,11.4%
+Arthur Masuaku,WHU,D,62,ColmOF,WHU 3<br/>@WAT 1 F,13.3,13.3,75%,14.3%
+Tom Heaton,AVL,G,63,mcavinur,EVE 0<br/>@AVL 2 F,13.25,13.25,17%,-12.2%
+Oliver Norwood,SHU,M,64,ZKL,LEI 2<br/>@SHU 1 F,13.2,13.2,75%,13.8%
+Emil Krafth,NEW,D,65,FA,NEW 1<br/>@TOT 0 F,13.2,13.2,0%,-1.4%
+Pierre-Emerick Aubameyang,ARS,F,66,ColmOF,ARS 1<br/>@LIV 3 F,13,13,100%,0.1%
+Nicolas Pepe,ARS,F,67,Seanmacd,ARS 1<br/>@LIV 3 F,13,13,100%,4.6%
+Danny Ings,SOU,F,68,FA,SOU 2<br/>@BHA 0 F,13,13,83%,4.5%
+Callum Wilson,BOU,F,69,Eoghanoc,MCI 3<br/>@BOU 1 F,12.75,12.75,100%,0.8%
+Anwar El Ghazi,AVL,M,70,FA,EVE 0<br/>@AVL 2 F,12.75,12.75,33%,22.9%
+Manuel Lanzini,WHU,M,71,Damo,WHU 3<br/>@WAT 1 F,12.5,12.5,100%,2.4%
+Oliver McBurnie,SHU,F,72,FA,LEI 2<br/>@SHU 1 F,12.35,12.35,17%,5.9%
+Wilfried Zaha,CRY,F,73,ColmOF, CRY 2<br/>@MUN 1 F,12.25,12.25,100%,0.9%
+Andrew Robertson,LIV,D,74,mcavinur,ARS 1<br/>@LIV 3 F,12.1,12.1,100%,0.1%
+Sadio Mane,LIV,"M,F",75,Seanmacd,ARS 1<br/>@LIV 3 F,12,12,100%,0%
+Michail Antonio,WHU,M,76,FA,WHU 3<br/>@WAT 1 F,12,12,25%,-34.9%
+Daniel James,MUN,M,77,Seanmacd, CRY 2<br/>@MUN 1 F,11.75,11.75,100%,4.5%
+Andriy Yarmolenko,WHU,F,78,FA,WHU 3<br/>@WAT 1 F,11.75,11.75,67%,11.6%
+Hamza Choudhury,LEI,M,79,FA,LEI 2<br/>@SHU 1 F,11.65,11.65,0%,-4.6%
+Solly March,BHA,"M,F",80,FA,SOU 2<br/>@BHA 0 F,11.6,11.6,50%,-8.2%
+Oleksandr Zinchenko,MCI,"D,M",81,ColmOF,MCI 3<br/>@BOU 1 F,11.25,11.25,100%,4.5%
+Gerard Deulofeu,WAT,F,82,FA,WHU 3<br/>@WAT 1 F,11.25,11.25,92%,11.5%
+Jorginho,CHE,M,83,FA,CHE 3<br/>@NOR 2 F,11.25,11.25,67%,14.1%
+Ilkay Gundogan,MCI,M,84,FA,MCI 3<br/>@BOU 1 F,11.1,11.1,92%,9.9%
+Harvey Barnes,LEI,M,85,FA,LEI 2<br/>@SHU 1 F,11.1,11.1,25%,-6.6%
+Ashley Westwood,BUR,M,86,FA,BUR 1<br/>@WOL 1 F,10.85,10.85,33%,6%
+Sofiane Boufal,SOU,M,87,FA,SOU 2<br/>@BHA 0 F,10.75,10.75,25%,19.6%
+Moussa Sissoko,TOT,M,88,FA,NEW 1<br/>@TOT 0 F,10.45,10.45,58%,17.2%
+James Tarkowski,BUR,D,89,Eoghanoc,BUR 1<br/>@WOL 1 F,10.35,10.35,75%,-14.5%
+Matthew Lowton,BUR,D,90,FA,BUR 1<br/>@WOL 1 F,10.35,10.35,25%,11.4%
+Cheikhou Kouyate,CRY,M,91,FA, CRY 2<br/>@MUN 1 F,10.35,10.35,0%,-2.5%
+Rui Patricio,WOL,G,92,FA,BUR 1<br/>@WOL 1 F,10.25,10.25,67%,-1.7%
+Ashley Young,MUN,D,93,FA, CRY 2<br/>@MUN 1 F,10.2,10.2,50%,10.5%
+Morgan Schneiderlin,EVE,M,94,FA,EVE 0<br/>@AVL 2 F,10.2,10.2,17%,14.9%
+Jack Grealish,AVL,M,95,mcavinur,EVE 0<br/>@AVL 2 F,10,10,100%,2%
+James McArthur,CRY,M,96,FA, CRY 2<br/>@MUN 1 F,10,10,67%,14.3%
+Luke Freeman,SHU,M,97,FA,LEI 2<br/>@SHU 1 F,10,10,8%,5.3%
+Philip Billing,BOU,M,98,ColmOF,MCI 3<br/>@BOU 1 F,9.95,9.95,33%,-6.1%
+Davy Propper,BHA,M,99,FA,SOU 2<br/>@BHA 0 F,9.85,9.85,33%,-8.2%
+Shane Duffy,BHA,D,100,Seanmacd,SOU 2<br/>@BHA 0 F,9.8,9.8,100%,7.5%
+Anthony Martial,MUN,F,101,Seanmacd, CRY 2<br/>@MUN 1 F,9.75,9.75,100%,0.2%
+Son Heung-Min,TOT,"M,F",102,Eoghanoc,NEW 1<br/>@TOT 0 F,9.75,9.75,100%,0.1%
+Etienne Capoue,WAT,M,103,FA,WHU 3<br/>@WAT 1 F,9.75,9.75,42%,17.2%
+Richarlison,EVE,"M,F",104,ColmL,EVE 0<br/>@AVL 2 F,9.6,9.6,100%,0.2%
+Declan Rice,WHU,M,105,MKFC,WHU 3<br/>@WAT 1 F,9.6,9.6,50%,10%
+Joshua King,BOU,F,106,mcavinur,MCI 3<br/>@BOU 1 F,9.25,9.25,100%,2%
+Paul Pogba,MUN,M,107,ColmL, CRY 2<br/>@MUN 1 F,9.25,9.25,100%,0%
+Matt Ritchie,NEW,"D,M",108,ColmL,NEW 1<br/>@TOT 0 F,9.2,9.2,75%,4.2%
+Lucas Digne,EVE,D,109,ZKL,EVE 0<br/>@AVL 2 F,9.1,9.1,100%,0%
+Enda Stevens,SHU,D,110,ZKL,LEI 2<br/>@SHU 1 F,9.1,9.1,58%,15.2%
+Harry Maguire,MUN,D,111,ColmOF, CRY 2<br/>@MUN 1 F,9.05,9.05,100%,0.1%
+Nick Pope,BUR,G,112,ZKL,BUR 1<br/>@WOL 1 F,9,9,75%,-4.9%
+Moritz Leitner,NOR,M,113,FA,CHE 3<br/>@NOR 2 F,8.95,8.95,0%,-2.2%
+Youri Tielemans,LEI,M,114,ColmOF,LEI 2<br/>@SHU 1 F,8.85,8.85,100%,0.3%
+Davinson Sanchez,TOT,D,115,FA,NEW 1<br/>@TOT 0 F,8.85,8.85,75%,15.7%
+Tom Cleverley,WAT,M,116,FA,WHU 3<br/>@WAT 1 F,8.85,8.85,0%,-2.1%
+Kepa Arrizabalaga,CHE,G,117,mcavinur,CHE 3<br/>@NOR 2 F,8.75,8.75,92%,14.8%
+Aymeric Laporte,MCI,D,118,Damo,MCI 3<br/>@BOU 1 F,8.7,8.7,75%,-7.9%
+Erik Pieters,BUR,D,119,Seanmacd,BUR 1<br/>@WOL 1 F,8.65,8.65,75%,7.3%
+Granit Xhaka,ARS,M,120,FA,ARS 1<br/>@LIV 3 F,8.65,8.65,67%,17.4%
+Jordan Henderson,LIV,M,121,FA,ARS 1<br/>@LIV 3 F,8.55,8.55,50%,9.6%
+John Egan,SHU,D,122,FA,LEI 2<br/>@SHU 1 F,8.55,8.55,8%,3.5%
+Ruben Neves,WOL,M,123,FA,BUR 1<br/>@WOL 1 F,8.5,8.5,100%,7%
+Ben Godfrey,NOR,"D,M",124,FA,CHE 3<br/>@NOR 2 F,8.5,8.5,8%,4.1%
+Dale Stephens,BHA,M,125,FA,SOU 2<br/>@BHA 0 F,8.5,8.5,8%,4.4%
+James Ward-Prowse,SOU,M,126,Damo,SOU 2<br/>@BHA 0 F,8.45,8.45,83%,7.4%
+Ben Mee,BUR,D,127,FA,BUR 1<br/>@WOL 1 F,8.45,8.45,75%,8.8%
+Isaac Hayden,NEW,M,128,FA,NEW 1<br/>@TOT 0 F,8.45,8.45,8%,-16.6%
+Luka Milivojevic,CRY,M,129,Seanmacd, CRY 2<br/>@MUN 1 F,8.4,8.4,100%,3.9%
+Ryan Bennett (prior),WOL,D,130,FA,BUR 1<br/>@WOL 1 F,8.4,8.4,42%,8%
+Danny Rose (prior),TOT,"D,M",131,FA,NEW 1<br/>@TOT 0 F,8.3,8.3,75%,-11%
+Roberto Firmino,LIV,"M,F",132,Eoghanoc,ARS 1<br/>@LIV 3 F,8.25,8.25,100%,0%
+Bernardo Silva,MCI,"M,F",133,mcavinur,MCI 3<br/>@BOU 1 F,8.25,8.25,100%,0.1%
+Jamal Lewis,NOR,D,134,FA,CHE 3<br/>@NOR 2 F,8.15,8.15,8%,2.9%
+Joel Ward,CRY,D,135,MKFC, CRY 2<br/>@MUN 1 F,8.1,8.1,33%,1.5%
+Georginio Wijnaldum,LIV,M,136,MKFC,ARS 1<br/>@LIV 3 F,8,8,83%,21%
+Harry Winks,TOT,M,137,FA,NEW 1<br/>@TOT 0 F,8,8,33%,19%
+Morgan Gibbs-White,WOL,M,138,FA,BUR 1<br/>@WOL 1 F,8,8,0%,-1.9%
+Andreas Christensen,CHE,D,139,Seanmacd,CHE 3<br/>@NOR 2 F,7.85,7.85,42%,22.9%
+Chris Wood,BUR,F,140,FA,BUR 1<br/>@WOL 1 F,7.8,7.8,67%,32%
+Joao Moutinho,WOL,M,141,ZKL,BUR 1<br/>@WOL 1 F,7.75,7.75,100%,1.7%
+Matt Doherty,WOL,"D,M",142,FA,BUR 1<br/>@WOL 1 F,7.75,7.75,92%,-1%
+Sokratis,ARS,D,143,FA,ARS 1<br/>@LIV 3 F,7.75,7.75,75%,29.1%
+Matteo Guendouzi,ARS,M,144,MKFC,ARS 1<br/>@LIV 3 F,7.65,7.65,67%,15.8%
+Chris Mepham,BOU,D,145,FA,MCI 3<br/>@BOU 1 F,7.6,7.6,8%,2.9%
+Jack Cork,BUR,M,146,FA,BUR 1<br/>@WOL 1 F,7.6,7.6,0%,-6.5%
+Scott McTominay,MUN,M,147,FA, CRY 2<br/>@MUN 1 F,7.5,7.5,67%,36%
+Dan Burn,BHA,D,148,FA,SOU 2<br/>@BHA 0 F,7.5,7.5,42%,3.3%
+David McGoldrick,SHU,F,149,FA,LEI 2<br/>@SHU 1 F,7.5,7.5,17%,10.5%
+Jefferson Lerma,BOU,M,150,FA,MCI 3<br/>@BOU 1 F,7.5,7.5,8%,-1.1%
+Kurt Zouma,CHE,D,151,FA,CHE 3<br/>@NOR 2 F,7.45,7.45,75%,34.1%
+Douglas Luiz,AVL,M,152,FA,EVE 0<br/>@AVL 2 F,7.45,7.45,42%,27.9%
+Lewis Dunk,BHA,D,153,Seanmacd,SOU 2<br/>@BHA 0 F,7.4,7.4,83%,12.4%
+Johann Gudmundsson,BUR,M,154,MKFC,BUR 1<br/>@WOL 1 F,7.35,7.35,100%,13%
+Bernd Leno,ARS,G,155,Damo,ARS 1<br/>@LIV 3 F,7.25,7.25,92%,10.6%
+Lukasz Fabianski,WHU,G,156,FA,WHU 3<br/>@WAT 1 F,7.25,7.25,75%,-5%
+Adrian,LIV,G,157,FA,ARS 1<br/>@LIV 3 F,7.25,7.25,75%,20.9%
+Jack OConnell,SHU,D,158,FA,LEI 2<br/>@SHU 1 F,7.25,7.25,17%,-9.6%
+Seamus Coleman,EVE,D,159,ColmL,EVE 0<br/>@AVL 2 F,7.15,7.15,100%,2.2%
+Martin Montoya,BHA,D,160,FA,SOU 2<br/>@BHA 0 F,7.15,7.15,17%,-0.1%
+Conor Coady,WOL,D,161,FA,BUR 1<br/>@WOL 1 F,7.1,7.1,17%,-4.8%
+Hugo Lloris,TOT,G,162,Eoghanoc,NEW 1<br/>@TOT 0 F,7,7,100%,1%
+Kasper Schmeichel,LEI,G,163,MKFC,LEI 2<br/>@SHU 1 F,7,7,92%,14.2%
+Diogo Jota,WOL,"M,F",164,Damo,BUR 1<br/>@WOL 1 F,7,7,75%,-18.3%
+Jose Holebas,WAT,D,165,FA,WHU 3<br/>@WAT 1 F,6.95,6.95,67%,7.6%
+Steve Cook,BOU,D,166,FA,MCI 3<br/>@BOU 1 F,6.95,6.95,42%,14.4%
+Ayoze Perez,LEI,"M,F",167,MKFC,LEI 2<br/>@SHU 1 F,6.85,6.85,92%,4.2%
+Grant Hanley,NOR,D,168,FA,CHE 3<br/>@NOR 2 F,6.8,6.8,0%,-0.9%
+Yerry Mina,EVE,D,169,Damo,EVE 0<br/>@AVL 2 F,6.8,6.8,92%,6.1%
+Alex Iwobi,EVE,"M,F",170,FA,EVE 0<br/>@AVL 2 F,6.75,6.75,83%,2.2%
+Issa Diop,WHU,D,171,FA,WHU 3<br/>@WAT 1 F,6.7,6.7,42%,14.7%
+Miguel Almiron,NEW,M,172,FA,NEW 1<br/>@TOT 0 F,6.6,6.6,83%,20.2%
+Ainsley Maitland-Niles,ARS,M,173,ZKL,ARS 1<br/>@LIV 3 F,6.5,6.5,83%,10.1%
+Mat Ryan,BHA,G,174,FA,SOU 2<br/>@BHA 0 F,6.5,6.5,8%,-14%
+Oriol Romeu,SOU,M,175,FA,SOU 2<br/>@BHA 0 F,6.5,6.5,0%,-3.4%
+Sean Longstaff,NEW,M,176,FA,NEW 1<br/>@TOT 0 F,6.45,6.45,17%,7%
+Kyle Walker-Peters (prior),TOT,D,177,FA,NEW 1<br/>@TOT 0 F,6.3,6.3,50%,-12.6%
+Pierre-Emile Hojbjerg,SOU,M,178,FA,SOU 2<br/>@BHA 0 F,6.25,6.25,58%,20.5%
+Neal Maupay,BHA,F,179,FA,SOU 2<br/>@BHA 0 F,6.25,6.25,25%,-2.2%
+Joseph Willock,ARS,M,180,FA,ARS 1<br/>@LIV 3 F,6.25,6.25,17%,11.6%
+Michael Keane,EVE,D,181,Eoghanoc,EVE 0<br/>@AVL 2 F,6.2,6.2,100%,0.8%
+Kiko Femenia,WAT,D,182,FA,WHU 3<br/>@WAT 1 F,6.1,6.1,17%,12%
+Dennis Praet,LEI,M,183,FA,LEI 2<br/>@SHU 1 F,6.1,6.1,8%,2.1%
+Ryan Fraser,BOU,M,184,Seanmacd,MCI 3<br/>@BOU 1 F,6.05,6.05,100%,2.2%
+Jonny,WOL,"D,M",185,ColmOF,BUR 1<br/>@WOL 1 F,6.05,6.05,75%,-2.6%
+Marcus Rashford,MUN,F,186,ColmL, CRY 2<br/>@MUN 1 F,6,6,100%,0%
+Lucas Moura,TOT,"M,F",187,ZKL,NEW 1<br/>@TOT 0 F,6,6,100%,0.8%
+Aaron Ramsdale,BOU,G,188,FA,MCI 3<br/>@BOU 1 F,6,6,8%,4.3%
+Martin Kelly,CRY,D,189,FA, CRY 2<br/>@MUN 1 F,6,6,0%,-5.5%
+Toby Alderweireld,TOT,D,190,Damo,NEW 1<br/>@TOT 0 F,5.95,5.95,83%,1.8%
+Angelo Ogbonna,WHU,D,191,FA,WHU 3<br/>@WAT 1 F,5.95,5.95,0%,-3.1%
+Ricardo Pereira,LEI,D,192,mcavinur,LEI 2<br/>@SHU 1 F,5.8,5.8,100%,0.1%
+Tom Trybull,NOR,M,193,FA,CHE 3<br/>@NOR 2 F,5.55,5.55,8%,5.3%
+Gylfi Sigurdsson,EVE,M,194,ColmOF,EVE 0<br/>@AVL 2 F,5.5,5.5,100%,0.3%
+David de Gea,MUN,G,195,Seanmacd, CRY 2<br/>@MUN 1 F,5.5,5.5,100%,1.8%
+John Lundstram,SHU,"D,M",196,FA,LEI 2<br/>@SHU 1 F,5.5,5.5,42%,-3.8%
+Dominic Solanke,BOU,F,197,FA,MCI 3<br/>@BOU 1 F,5.5,5.5,0%,-1.5%
+Trezeguet,AVL,M,198,FA,EVE 0<br/>@AVL 2 F,5.45,5.45,8%,-3.9%
+Craig Dawson,WAT,D,199,FA,WHU 3<br/>@WAT 1 F,5.35,5.35,8%,2.8%
+Ryan Fredericks,WHU,D,200,FA,WHU 3<br/>@WAT 1 F,5.35,5.35,0%,-4.2%
+Max Aarons,NOR,D,201,FA,CHE 3<br/>@NOR 2 F,5.3,5.3,33%,7.5%
+Victor Lindelof,MUN,D,202,FA, CRY 2<br/>@MUN 1 F,5.2,5.2,83%,15.3%
+Chris Basham,SHU,D,203,FA,LEI 2<br/>@SHU 1 F,5.2,5.2,0%,-2%
+Craig Cathcart,WAT,D,204,FA,WHU 3<br/>@WAT 1 F,5.2,5.2,42%,33.9%
+Jonny Evans,LEI,D,205,mcavinur,LEI 2<br/>@SHU 1 F,5.05,5.05,67%,14.1%
+Vicente Guaita,CRY,G,206,FA, CRY 2<br/>@MUN 1 F,5,5,58%,26.2%
+Dominic Calvert-Lewin,EVE,F,207,FA,EVE 0<br/>@AVL 2 F,4.85,4.85,25%,-4%
+Nacho Monreal,ARS,D,208,ColmL,ARS 1<br/>@LIV 3 F,4.7,4.7,22%,-9.1%
+Riyad Mahrez,MCI,"M,F",209,ColmOF,MCI 3<br/>@BOU 1 F,4.5,4.5,100%,0.3%
+Jordan Pickford,EVE,G,210,FA,EVE 0<br/>@AVL 2 F,4.5,4.5,100%,2.3%
+Christian Fuchs,LEI,D,211,FA,LEI 2<br/>@SHU 1 F,4.4,4.4,0%,-2.1%
+Dani Ceballos,ARS,M,212,Damo,ARS 1<br/>@LIV 3 F,4.25,4.25,100%,5.1%
+Moise Kean,EVE,F,213,Damo,EVE 0<br/>@AVL 2 F,4.25,4.25,100%,13.4%
+Bernard,EVE,"M,F",214,MKFC,EVE 0<br/>@AVL 2 F,4.25,4.25,50%,-17.1%
+Billy Sharp,SHU,F,215,FA,LEI 2<br/>@SHU 1 F,4.25,4.25,8%,-2.5%
+Virgil van Dijk,LIV,D,216,Seanmacd,ARS 1<br/>@LIV 3 F,4.2,4.2,100%,0%
+Che Adams,SOU,F,217,FA,SOU 2<br/>@BHA 0 F,4.2,4.2,42%,12.5%
+Nicolas Otamendi,MCI,D,218,FA,MCI 3<br/>@BOU 1 F,4.05,4.05,67%,-4.5%
+David Luiz,ARS,D,219,ColmL,ARS 1<br/>@LIV 3 F,4,4,75%,-2.4%
+Andre Gomes,EVE,M,220,FA,EVE 0<br/>@AVL 2 F,4,4,33%,9.5%
+Erik Lamela,TOT,M,221,Eoghanoc,NEW 1<br/>@TOT 0 F,3.75,3.75,83%,-0.2%
+James Milner,LIV,M,222,mcavinur,ARS 1<br/>@LIV 3 F,3.75,3.75,75%,11.8%
+Jesse Lingard,MUN,"M,F",223,FA, CRY 2<br/>@MUN 1 F,3.75,3.75,42%,-6.5%
+Christian Eriksen,TOT,M,224,Eoghanoc,NEW 1<br/>@TOT 0 F,3.5,3.5,100%,0.2%
+Pascal Gross,BHA,M,225,ColmL,SOU 2<br/>@BHA 0 F,3.5,3.5,75%,-6.5%
+Callum Robinson,SHU,F,226,FA,LEI 2<br/>@SHU 1 F,3.5,3.5,25%,15.1%
+Andros Townsend,CRY,"M,F",227,Seanmacd, CRY 2<br/>@MUN 1 F,3.35,3.35,92%,3.7%
+Pablo Fornals,WHU,M,228,FA,WHU 3<br/>@WAT 1 F,3.35,3.35,50%,5.7%
+Kenny McLean,NOR,M,229,FA,CHE 3<br/>@NOR 2 F,3.35,3.35,0%,-0.6%
+Harry Kane,TOT,F,230,MKFC,NEW 1<br/>@TOT 0 F,3.25,3.25,100%,0.1%
+Giovani Lo Celso,TOT,M,231,FA,NEW 1<br/>@TOT 0 F,3.25,3.25,83%,12.6%
+Marco Stiepermann,NOR,M,232,FA,CHE 3<br/>@NOR 2 F,3.2,3.2,8%,3.7%
+Adama Traore,WOL,F,233,FA,BUR 1<br/>@WOL 1 F,3.1,3.1,25%,5.5%
+Yan Valery,SOU,"D,M",234,FA,SOU 2<br/>@BHA 0 F,3.1,3.1,8%,-0.6%
+Luke Shaw,MUN,D,235,ColmL, CRY 2<br/>@MUN 1 F,3,3,92%,1.9%
+Adam Smith,BOU,D,236,FA,MCI 3<br/>@BOU 1 F,3,3,0%,-3.8%
+Christian Benteke,CRY,F,237,FA, CRY 2<br/>@MUN 1 F,2.5,2.5,42%,10.4%
+Dean Henderson,SHU,G,238,FA,LEI 2<br/>@SHU 1 F,2.5,2.5,17%,1.6%
+Jay Rodriguez,BUR,F,239,FA,BUR 1<br/>@WOL 1 F,2.5,2.5,8%,4.2%
+James McCarthy,CRY,M,240,FA, CRY 2<br/>@MUN 1 F,2.5,2.5,0%,-0.5%
+Gary Cahill,CRY,D,241,FA, CRY 2<br/>@MUN 1 F,2.45,2.45,0%,-4.5%
+Glenn Murray,BHA,F,242,FA,SOU 2<br/>@BHA 0 F,2.25,2.25,50%,12%
+Leander Dendoncker,WOL,M,243,FA,BUR 1<br/>@WOL 1 F,2.25,2.25,8%,-11.6%
+Jordon Ibe,BOU,M,244,FA,MCI 3<br/>@BOU 1 F,2.25,2.25,0%,-0.6%
+Aaron Wan-Bissaka,MUN,D,245,MKFC, CRY 2<br/>@MUN 1 F,2.15,2.15,100%,0.2%
+Stuart Armstrong,SOU,"M,F",246,FA,SOU 2<br/>@BHA 0 F,2,2,0%,-3.5%
+Pedro Neto,WOL,F,247,FA,BUR 1<br/>@WOL 1 F,2,2,0%,-0.7%
+Wes Morgan,LEI,D,248,FA,LEI 2<br/>@SHU 1 F,2,2,0%,-4.1%
+Dennis Srbeny,NOR,F,249,FA,CHE 3<br/>@NOR 2 F,2,2,0%,-0.3%
+Federico Fernandez,NEW,D,250,FA,NEW 1<br/>@TOT 0 F,1.9,1.9,0%,-0.6%
+Willian,CHE,F,251,FA,CHE 3<br/>@NOR 2 F,1.75,1.75,83%,2.8%
+Rodrigo,MCI,M,252,Seanmacd,MCI 3<br/>@BOU 1 F,1.75,1.75,83%,-6.2%
+Mason Greenwood,MUN,F,253,FA, CRY 2<br/>@MUN 1 F,1.75,1.75,25%,-0.7%
+Domingos Quina,WAT,M,254,FA,WHU 3<br/>@WAT 1 F,1.75,1.75,0%,-0.3%
+Danny Welbeck,WAT,F,255,FA,WHU 3<br/>@WAT 1 F,1.75,1.75,0%,-5.2%
+Nampalys Mendy,LEI,M,256,FA,LEI 2<br/>@SHU 1 F,1.6,1.6,0%,-0.9%
+Kyle Walker,MCI,D,257,MKFC,MCI 3<br/>@BOU 1 F,1.5,1.5,100%,0.4%
+Olivier Giroud,CHE,F,258,MKFC,CHE 3<br/>@NOR 2 F,1.5,1.5,50%,2.6%
+Juan Mata,MUN,M,259,FA, CRY 2<br/>@MUN 1 F,1.25,1.25,17%,-6.5%
+Allan Saint-Maximin,NEW,F,260,FA,NEW 1<br/>@TOT 0 F,1.25,1.25,17%,2.8%
+Jeff Hendrick,BUR,M,261,FA,BUR 1<br/>@WOL 1 F,1.25,1.25,0%,-1%
+Yoshinori Muto,NEW,F,262,FA,NEW 1<br/>@TOT 0 F,1.25,1.25,0%,-0.5%
+Carlos Sanchez,WHU,M,263,FA,WHU 3<br/>@WAT 1 F,1.25,1.25,0%,-0.5%
+Alex Oxlade-Chamberlain,LIV,M,264,FA,ARS 1<br/>@LIV 3 F,1.1,1.1,50%,-13.2%
+Ben Davies,TOT,D,265,FA,NEW 1<br/>@TOT 0 F,1.1,1.1,42%,10.8%
+Ahmed El Mohamady,AVL,D,266,FA,EVE 0<br/>@AVL 2 F,1,1,17%,9.9%
+Mario Vrancic,NOR,M,267,FA,CHE 3<br/>@NOR 2 F,1,1,8%,5.9%
+Adam Lallana,LIV,M,268,FA,ARS 1<br/>@LIV 3 F,1,1,0%,-1.2%
+Theo Walcott,EVE,"M,F",269,FA,EVE 0<br/>@AVL 2 F,1,1,0%,-13.2%
+Charlie Daniels,BOU,D,270,FA,MCI 3<br/>@BOU 1 F,0.8,0.8,0%,-1.1%
+Ismaila Sarr,WAT,F,271,FA,WHU 3<br/>@WAT 1 F,0.75,0.75,42%,13.4%
+Alexandre Lacazette,ARS,F,272,ColmL,ARS 1<br/>@LIV 3 F,0.5,0.5,100%,0.3%
+Joao Cancelo,MCI,D,273,FA,MCI 3<br/>@BOU 1 F,0.5,0.5,67%,-7.9%
+Ravel Morrison,SHU,M,274,FA,LEI 2<br/>@SHU 1 F,0.5,0.5,8%,5.4%
+Marcos Alonso,CHE,D,275,FA,CHE 3<br/>@NOR 2 F,0.25,0.25,67%,14.1%
+Aaron Lennon,BUR,M,276,FA,BUR 1<br/>@WOL 1 F,0.1,0.1,0%,-0.9%
+Dele Alli,TOT,M,277,ColmL,NEW 1<br/>@TOT 0 F,0,0,100%,0.9%
+Ben Chilwell,LEI,D,278,Eoghanoc,LEI 2<br/>@SHU 1 F,0,0,100%,1.1%
+Tanguy Ndombele,TOT,M,279,Damo,NEW 1<br/>@TOT 0 F,0,0,100%,1.8%
+Alisson,LIV,G,280,Damo,ARS 1<br/>@LIV 3 F,0,0,100%,3.1%
+Gabriel Jesus,MCI,F,281,mcavinur,MCI 3<br/>@BOU 1 F,0,0,100%,2.5%
+NGolo Kante,CHE,M,282,FA,CHE 3<br/>@NOR 2 F,0,0,92%,9.2%
+Benjamin Mendy,MCI,D,283,MKFC,MCI 3<br/>@BOU 1 F,0,0,92%,11.1%
+Wilfred Ndidi,LEI,M,284,ZKL,LEI 2<br/>@SHU 1 F,0,0,92%,-4.6%
+Pedro,CHE,F,285,ZKL,CHE 3<br/>@NOR 2 F,0,0,92%,-1.5%
+Troy Deeney,WAT,F,286,Eoghanoc,WHU 3<br/>@WAT 1 F,0,0,83%,10.2%
+Callum Hudson-Odoi,CHE,F,287,mcavinur,CHE 3<br/>@NOR 2 F,0,0,75%,10.9%
+John Stones,MCI,D,288,FA,MCI 3<br/>@BOU 1 F,0,0,75%,-12.1%
+Mesut Ozil,ARS,M,289,Eoghanoc,ARS 1<br/>@LIV 3 F,0,0,75%,-8.9%
+Joseph Gomez,LIV,D,290,FA,ARS 1<br/>@LIV 3 F,0,0,67%,1%
+Sead Kolasinac,ARS,"D,M",291,FA,ARS 1<br/>@LIV 3 F,0,0,67%,9.3%
+Antonio Rudiger,CHE,D,292,FA,CHE 3<br/>@NOR 2 F,0,0,67%,9.8%
+David Brooks,BOU,M,293,FA,MCI 3<br/>@BOU 1 F,0,0,58%,14.4%
+Divock Origi,LIV,F,294,FA,ARS 1<br/>@LIV 3 F,0,0,58%,6.7%
+Kieran Tierney,ARS,D,295,FA,ARS 1<br/>@LIV 3 F,0,0,58%,-1.7%
+Jan Vertonghen,TOT,D,296,FA,NEW 1<br/>@TOT 0 F,0,0,58%,-1.8%
+Fabian Delph,EVE,"D,M",297,FA,EVE 0<br/>@AVL 2 F,0,0,50%,27.6%
+Fernandinho,MCI,M,298,FA,MCI 3<br/>@BOU 1 F,0,0,50%,9.1%
+Robert Snodgrass,WHU,M,299,FA,WHU 3<br/>@WAT 1 F,0,0,50%,32.8%
+Roberto Pereyra,WAT,M,300,FA,WHU 3<br/>@WAT 1 F,0,0,42%,-9%
+Serge Aurier,TOT,D,301,FA,NEW 1<br/>@TOT 0 F,0,0,33%,10.4%
+Calum Chambers,ARS,"D,M",302,FA,ARS 1<br/>@LIV 3 F,0,0,33%,15.7%
+Phil Foden,MCI,"M,F",303,FA,MCI 3<br/>@BOU 1 F,0,0,33%,16.1%
+Naby Keita,LIV,M,304,FA,ARS 1<br/>@LIV 3 F,0,0,33%,-4.6%
+Leroy Sane,MCI,F,305,FA,MCI 3<br/>@BOU 1 F,0,0,33%,-9.5%
+Jonjo Shelvey,NEW,M,306,FA,NEW 1<br/>@TOT 0 F,0,0,33%,21.4%
+Patrick Cutrone,WOL,F,307,FA,BUR 1<br/>@WOL 1 F,0,0,25%,2.1%
+Andreas Pereira,MUN,M,308,FA, CRY 2<br/>@MUN 1 F,0,0,25%,5.6%
+Cedric Soares (prior),SOU,D,309,FA,SOU 2<br/>@BHA 0 F,0,0,17%,14.4%
+Hector Bellerin,ARS,D,310,FA,ARS 1<br/>@LIV 3 F,0,0,17%,-20.3%
+Ryan Bertrand,SOU,"D,M",311,FA,SOU 2<br/>@BHA 0 F,0,0,17%,0%
+Juan Foyth,TOT,D,312,FA,NEW 1<br/>@TOT 0 F,0,0,17%,12%
+Ruben Loftus-Cheek,CHE,M,313,FA,CHE 3<br/>@NOR 2 F,0,0,17%,-6%
+Ryan Sessegnon,TOT,"M,F",314,mcavinur,NEW 1<br/>@TOT 0 F,0,0,17%,-13.9%
+Xherdan Shaqiri,LIV,"M,F",315,FA,ARS 1<br/>@LIV 3 F,0,0,17%,2.1%
+Matt Targett,AVL,"D,M",316,FA,EVE 0<br/>@AVL 2 F,0,0,17%,-4.3%
+Charlie Taylor,BUR,D,317,FA,BUR 1<br/>@WOL 1 F,0,0,17%,10.6%
+James Tomkins,CRY,D,318,FA, CRY 2<br/>@MUN 1 F,0,0,17%,8%
+Marc Albrighton,LEI,M,319,FA,LEI 2<br/>@SHU 1 F,0,0,8%,-0.5%
+Victor Camarasa,CRY,M,320,FA, CRY 2<br/>@MUN 1 F,0,0,8%,-0.6%
+Diogo Dalot,MUN,D,321,FA, CRY 2<br/>@MUN 1 F,0,0,8%,5.7%
+Daniel Drinkwater (prior),BUR,M,322,FA,BUR 1<br/>@WOL 1 F,0,0,8%,5.9%
+Josip Drmic,NOR,F,323,FA,CHE 3<br/>@NOR 2 F,0,0,8%,7.1%
+Angelino,MCI,D,324,FA,MCI 3<br/>@BOU 1 F,0,0,8%,5.3%
+Demarai Gray,LEI,M,325,FA,LEI 2<br/>@SHU 1 F,0,0,8%,-0.2%
+Rob Holding,ARS,D,326,FA,ARS 1<br/>@LIV 3 F,0,0,8%,3.6%
+Conor Hourihane,AVL,M,327,FA,EVE 0<br/>@AVL 2 F,0,0,8%,3.3%
+Lloyd Kelly,BOU,D,328,FA,MCI 3<br/>@BOU 1 F,0,0,8%,6.9%
+Nemanja Matic,MUN,M,329,FA, CRY 2<br/>@MUN 1 F,0,0,8%,4.5%
+Michael Obafemi,SOU,F,330,FA,SOU 2<br/>@BHA 0 F,0,0,8%,7.9%
+Patrick Roberts,NOR,M,331,FA,CHE 3<br/>@NOR 2 F,0,0,8%,6.9%
+Mamadou Sakho,CRY,D,332,FA, CRY 2<br/>@MUN 1 F,0,0,8%,3.6%
+Djibril Sidibe,EVE,D,333,FA,EVE 0<br/>@AVL 2 F,0,0,8%,1.9%
+Junior Stanislas,BOU,M,334,FA,MCI 3<br/>@BOU 1 F,0,0,8%,6.7%
+Jetro Willems,NEW,D,335,FA,NEW 1<br/>@TOT 0 F,0,0,8%,6.3%
+Maya Yoshida,SOU,D,336,FA,SOU 2<br/>@BHA 0 F,0,0,8%,7%
+Christoph Zimmermann,NOR,D,337,FA,CHE 3<br/>@NOR 2 F,0,0,8%,7.6%
+Albian Ajeti,WHU,F,338,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.8%
+Steven Alzate,BHA,F,339,FA,SOU 2<br/>@BHA 0 F,0,0,0%,0%
+Ibrahim Amadou,NOR,M,340,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-0.5%
+Daniel Amartey,LEI,"D,M",341,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.6%
+Cameron Archer,AVL,F,342,FA,EVE 0<br/>@AVL 2 F,0,0,0%,0%
+Daniel Bachmann,WAT,G,343,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.2%
+Eric Bailly,MUN,D,344,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-1%
+Leighton Baines,EVE,D,345,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.9%
+Fabian Balbuena,WHU,D,346,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-6.5%
+Leon Balogun,BHA,D,347,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.6%
+Tudor Baluta,BHA,D,348,FA,SOU 2<br/>@BHA 0 F,0,0,0%,0%
+Phil Bardsley,BUR,D,349,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-0.7%
+Michy Batshuayi,CHE,F,350,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-15.3%
+Filip Benkovic,LEI,D,351,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.2%
+Muhamed Besic,SHU,M,352,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.3%
+Yves Bissouma,BHA,"M,F",353,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-1.3%
+Gaetan Bong,BHA,D,354,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.7%
+Artur Boruc,BOU,G,355,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-1.1%
+Robbie Brady,BUR,M,356,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-1.1%
+Claudio Bravo,MCI,G,357,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-2.2%
+Rhian Brewster,LIV,F,358,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-1.6%
+Kean Bryan,SHU,D,359,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.1%
+Matt Butcher,BOU,M,360,FA,MCI 3<br/>@BOU 1 F,0,0,0%,0%
+David Button,BHA,G,361,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.6%
+Sam Byram,NOR,D,362,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-0.5%
+Willy Caballero,CHE,G,363,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-1.6%
+Andy Carroll,NEW,F,364,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-1.6%
+Scott Carson,MCI,G,365,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-0.4%
+Bruno Jordao,WOL,M,366,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-0.3%
+Nathaniel Chalobah,WAT,M,367,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.6%
+James Chester,AVL,D,368,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.8%
+Pedro Chirivella,LIV,M,369,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.1%
+Tahith Chong,MUN,M,370,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-0.7%
+Ciaran Clark,NEW,D,371,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-1%
+Nathaniel Clyne,LIV,D,372,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.6%
+Alex Cochrane,BHA,D,373,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.1%
+Aaron Connolly,BHA,F,374,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.3%
+Lewis Cook,BOU,M,375,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-0.8%
+Conor Coventry,WHU,M,376,FA,WHU 3<br/>@WAT 1 F,0,0,0%,0%
+Aaron Cresswell,WHU,D,377,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-2.5%
+Andrew Crofts,BHA,M,378,FA,SOU 2<br/>@BHA 0 F,0,0,0%,0%
+Jamie Cumming,CHE,G,379,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-0.2%
+Pontus Dahlberg,WAT,G,380,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.2%
+Arnaut Danjuma Groeneveld,BOU,F,381,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-1%
+Scott Dann,CRY,D,382,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-4.4%
+Karl Darlow,NEW,G,383,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-0.5%
+Jordan Davies,BHA,M,384,FA,SOU 2<br/>@BHA 0 F,0,0,0%,0%
+Tom Davies,EVE,M,385,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.7%
+Keinan Davis,AVL,"M,F",386,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.3%
+Tom Dele-Bashiru,WAT,M,387,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.1%
+Fousseni Diabate,LEI,F,388,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.3%
+Eric Dier,TOT,M,389,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-1.9%
+Mihai-Alexandru Dobre,BOU,M,390,FA,MCI 3<br/>@BOU 1 F,0,0,0%,0%
+Robert Elliot,NEW,G,391,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-0.3%
+Harvey Elliott,LIV,M,392,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.6%
+Bernardo,BHA,D,393,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-1.2%
+John Fleck,SHU,M,394,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-1.1%
+Timothy Fosu-Mensah,MUN,D,395,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-0.5%
+Dimitri Foulquier,WAT,D,396,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.2%
+Simon Francis,BOU,D,397,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-0.7%
+Kieron Freeman,SHU,D,398,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.3%
+Ralf Fahrmann,NOR,G,399,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-1.1%
+James Garner,MUN,M,400,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-0.2%
+Dwight Gayle,NEW,F,401,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-0.6%
+Paulo Gazzaniga,TOT,G,402,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-1.5%
+Jean-Philippe Gbamin,EVE,M,403,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-2.7%
+Ben Gibson,BUR,D,404,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-0.6%
+Billy Gilmour,CHE,M,405,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-0.3%
+Angel Gomes,MUN,M,406,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-1.1%
+Dan Gosling,BOU,M,407,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-0.9%
+Lee Grant,MUN,G,408,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-0.4%
+Daniel Grimshaw,MCI,G,409,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-0.4%
+Joe Hart,BUR,G,410,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-3%
+Kortney Hause,AVL,D,411,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.2%
+Philip Heise,NOR,D,412,FA,CHE 3<br/>@NOR 2 F,0,0,0%,0%
+Stephen Henderson,CRY,G,413,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-0.2%
+Wayne Hennessey,CRY,G,414,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-1.8%
+Onel Hernandez,NOR,M,415,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-1.3%
+Ki-Jana Hoever,LIV,D,416,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.3%
+Mason Holgate,EVE,D,417,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.5%
+Adam Idah,NOR,F,418,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-0.1%
+Kelechi Iheanacho,LEI,F,419,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-1.9%
+Jose Izquierdo,BHA,"M,F",420,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.8%
+Phil Jagielka,SHU,D,421,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.7%
+Alireza Jahanbakhsh,BHA,F,422,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-1.2%
+Eldin Jakupovic,LEI,G,423,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.4%
+Matty James,LEI,M,424,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.3%
+Reece James,CHE,D,425,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-7.1%
+Daryl Janmaat,WAT,D,426,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-2.1%
+Roberto Jimenez,WHU,G,427,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.8%
+Ben Johnson,WHU,M,428,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.2%
+Curtis Jones,LIV,M,429,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.2%
+Phil Jones,MUN,D,430,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-1.1%
+James Justin,LEI,D,431,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.3%
+Christian Kabasele,WAT,D,432,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.8%
+Lovre Kalinic,AVL,G,433,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.4%
+Caoimhin Kelleher,LIV,G,434,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.4%
+Ki Sung-yueng,NEW,M,435,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-0.9%
+Gavin Kilkenny,BOU,M,436,FA,MCI 3<br/>@BOU 1 F,0,0,0%,0%
+Max Kilman,WOL,D,437,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-0.2%
+Nya Kirby,CRY,M,438,FA, CRY 2<br/>@MUN 1 F,0,0,0%,0%
+Timm Klose,NOR,D,439,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-0.4%
+Jonathan Kodjia,AVL,F,440,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-1.2%
+Ezri Konsa Ngoyo,AVL,D,441,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.5%
+Henri Lansbury,AVL,M,442,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.1%
+Adam Legzdins,BUR,G,443,FA,BUR 1<br/>@WOL 1 F,0,0,0%,0%
+Florian Lejeune,NEW,D,444,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-0.8%
+Harry Lewis,SOU,G,445,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.1%
+Andy Lonergan,LIV,G,446,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.1%
+Kevin Long,BUR,D,447,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-0.6%
+Shane Long,SOU,F,448,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-2.7%
+Matthew Longstaff,NEW,M,449,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-0.2%
+Dejan Lovren,LIV,D,450,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-4.1%
+Jonas Lossl,EVE,G,451,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-3.1%
+Matt Macey,ARS,G,452,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.8%
+Javier Manquillo,NEW,D,453,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-0.9%
+Adrian Mariappa,WAT,D,454,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-1.1%
+David Martin,WHU,G,455,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.2%
+Cuco Martina,EVE,D,456,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.2%
+Gabriel Martinelli,ARS,M,457,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.9%
+Emiliano Martinez,ARS,G,458,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.8%
+Adam Masina,WAT,D,459,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.4%
+Konstantinos Mavropanos,ARS,D,460,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.3%
+Alex McCarthy,SOU,G,461,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-1.9%
+Michael McGovern,NOR,G,462,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-0.5%
+Sam McQueen,SOU,D,463,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.2%
+Max Meyer,CRY,M,464,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-3.5%
+Simon Moore,SHU,G,465,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.4%
+Aaron Mooy,BHA,M,466,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-7.5%
+Lys Mousset,SHU,F,467,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.9%
+Shkodran Mustafi,ARS,D,468,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-19.5%
+Daniel N'Lundulu,SOU,F,469,FA,SOU 2<br/>@BHA 0 F,0,0,0%,0%
+Marvelous Nakamba,AVL,M,470,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.5%
+Reiss Nelson,ARS,F,471,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-4.4%
+Oumar Niasse,EVE,F,472,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.8%
+Orjan Nyland,AVL,G,473,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.2%
+Ben Osborn,SHU,M,474,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.3%
+Bailey Peacock-Farrell,BUR,G,475,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-0.2%
+Taylor Perry,WOL,M,476,FA,BUR 1<br/>@WOL 1 F,0,0,0%,0%
+Sebastian Prodl,WAT,D,477,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.3%
+Kayne Ramsay,SOU,D,478,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.1%
+Jacob Ramsey,AVL,M,479,FA,EVE 0<br/>@AVL 2 F,0,0,0%,0%
+Winston Reid,WHU,D,480,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.5%
+Lewis Richardson,BUR,M,481,FA,BUR 1<br/>@WOL 1 F,0,0,0%,0%
+Diego Rico,BOU,D,482,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-1.4%
+Jairo Riedewald,CRY,M,483,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-0.4%
+Haydon Roberts,BHA,D,484,FA,SOU 2<br/>@BHA 0 F,0,0,0%,0%
+Fred,MUN,M,485,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-2.7%
+Marcos Rojo,MUN,D,486,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-0.7%
+Sergio Romero,MUN,G,487,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-1.8%
+John Ruddy,WOL,G,488,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-1.1%
+Dion Sanderson,WOL,D,489,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-0.1%
+Romain Saiss,WOL,M,490,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-2.4%
+Ezequiel Schelotto,BHA,D,491,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.2%
+Ruben Vinagre,WOL,D,492,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-3%
+Jack Simpson,BOU,D,493,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-0.3%
+Oliver Skipp,TOT,M,494,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-0.5%
+Callum Slattery,SOU,M,495,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.3%
+William Smallbone,SOU,"M,F",496,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.3%
+Emile Smith Rowe,ARS,M,497,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.6%
+Goncalo Cardoso,WHU,D,498,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.4%
+Jack Stacey,BOU,D,499,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-0.3%
+Richard Stearman,SHU,D,500,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.1%
+Jason Steele,BHA,G,501,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.4%
+Jed Steer,AVL,G,502,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.7%
+Maarten Stekelenburg,EVE,G,503,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.7%
+Jack Stephens,SOU,D,504,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.8%
+Isaac Success,WAT,F,505,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.7%
+Andrew Surman,BOU,M,506,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-0.7%
+Andreas Sondergaard,WOL,G,507,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-0.2%
+Nikola Tavares,CRY,D,508,FA, CRY 2<br/>@MUN 1 F,0,0,0%,0%
+Alexander Tettey,NOR,M,509,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-0.2%
+Fikayo Tomori,CHE,D,510,FA,CHE 3<br/>@NOR 2 F,0,0,0%,-7.8%
+Cenk Tosun (prior),EVE,F,511,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-1.1%
+Mark Travers,BOU,G,512,FA,MCI 3<br/>@BOU 1 F,0,0,0%,-0.8%
+Aaron Tshibola,AVL,M,513,FA,EVE 0<br/>@AVL 2 F,0,0,0%,-0.1%
+Axel Tuanzebe,MUN,D,514,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-1.2%
+Jesus Vallejo,WOL,D,515,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-2.5%
+Michael Verrips,SHU,G,516,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-0.2%
+Jake Vokins,SOU,D,517,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-0.1%
+Matej Vydra,BUR,F,518,FA,BUR 1<br/>@WOL 1 F,0,0,0%,-0.5%
+Victor Wanyama,TOT,M,519,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-1%
+Danny Ward,LEI,G,520,FA,LEI 2<br/>@SHU 1 F,0,0,0%,-1.1%
+Adam Webster,BHA,D,521,FA,SOU 2<br/>@BHA 0 F,0,0,0%,-1.9%
+Connor Wickham,CRY,F,522,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-0.4%
+Jack Wilshere,WHU,M,523,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-3%
+Sam Woods,CRY,D,524,FA, CRY 2<br/>@MUN 1 F,0,0,0%,-0.1%
+DeAndre Yedlin,NEW,D,525,FA,NEW 1<br/>@TOT 0 F,0,0,0%,-2%
+Pablo Zabaleta,WHU,D,526,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-1.2%
+Heurelho Gomes,WAT,G,527,FA,WHU 3<br/>@WAT 1 F,0,0,0%,-0.4%
+Sepp van den Berg,LIV,D,528,FA,ARS 1<br/>@LIV 3 F,0,0,0%,-0.5%

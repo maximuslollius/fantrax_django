@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block breadcrumbs %}
+<li class="breadcrumb-item"><a href="{% url 'core:switcher' %}">Home</a></li>
+<li class="breadcrumb-item active" aria-current="page"><a href="{% url 'core:theeightyeight' %}">Eighty Eight</a></li>
+{% endblock %}
+
+{% block content %}
+
+    <h3>The Eighty Eight</h3>
+    <div style="height: 50px;"></div>
+
+    <h5>Opposition Ranker</h5>
+    <a href="{% url 'core:single88' %}">View Single Week</a>
+    <br>
+    <a href="{% url 'core:agg88' %}">View Aggregate Score</a>
+
+    <h5>The Eighty Eight</h5>
+    <p>Browse by Ownership</p>
+    <p>Browse by Club</p>
+
+{% endblock %}
+
+
