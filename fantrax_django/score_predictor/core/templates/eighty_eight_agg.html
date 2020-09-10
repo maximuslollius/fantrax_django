@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block breadcrumbs %}
+<li class="breadcrumb-item"><a href="{% url 'core:switcher' %}">Home</a></li>
+<li class="breadcrumb-item"><a href="{% url 'core:theeightyeight' %}">Eighty Eight</a></li>
+<li class="breadcrumb-item active" aria-current="page"><a href="{% url 'core:agg88' %}">Agg 88</a></li>
+{% endblock %}
+
+{% block content %}
+    <h3>Aggregate 88</h3>
+
+    <div class="scroll_div">
+        <table id="opponent_ranker_fixtures_table" class="table table-bordered table-striped table-sm" width="100%">
+            <thead class="head">
+                <tr>
+                    <th>Name</th>
+                    <th>Team</th>
+                    <th>Position</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+
+            <tbody class="tbody">
+            {% for i, r in aggs.iterrows %}
+                <tr>
+                    <td>{{ r.name }}</td>
+                    <td>{{ r.team }}</td>
+                    <td>{{ r.position }}</td>
+                    <td>{{ r.Total }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock %}

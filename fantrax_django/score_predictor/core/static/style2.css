@@ -1,0 +1,106 @@
+.switcher-panel {
+    width: 700px;
+    max-width: 700px;
+    display: flex;
+    margin-top 120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.switcher-button {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+    background-color: #000;
+    border-radius: 25px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.switcher-button:hover {
+    background-color: #444;
+    color: #8c4;
+}
+
+.switcher-icon {
+    font-size: 130px;
+    color: #8c4;
+}
+
+.switcher-left {
+    float: left;
+}
+
+.switcher-center {
+    float: center;
+    margin-left: 100px;
+}
+
+.switcher-right {
+    margin-left: 100px;
+}
+
+.header{
+    background-color: #000;
+    color: #fff;
+    font-size: 20px;
+    margin: 0px 10px;
+    text-align: center;
+}
+
+.logo {
+
+    top: 10px;
+    left: 10px;
+    display: inline-block;
+    margin: 10px 10px 0px 10px;
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    border-radius: 30px;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 25px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 25px;
+    background-color: #000;
+    color: #fff;
+}
+
+
+thead, tbody, tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+
+tbody {
+    max-height: 400px;
+    display: block;
+    overflow-y: auto;
+}
+
+tr {
+    width: 100%;
+}
+
+td, th {
+    margin: 0;
+    vertical-align: middle;
+    padding-left: 4px;
+    padding-right: 4px;
+    text-align: center;
+}

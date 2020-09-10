@@ -1,0 +1,95 @@
+{% extends "base.html" %}
+
+{% block breadcrumbs %}
+<li class="breadcrumb-item"><a href="{% url 'core:switcher' %}">Home</a></li>
+<li class="breadcrumb-item"><a href="{% url 'core:score_predictor' %}">Score Predictor</a></li>
+<li class="breadcrumb-item active" aria-current="page">
+    <a href="{% url 'core:rankings' %}">Rankings</a>
+</li>
+{% endblock %}
+
+{% block content %}
+
+    <h3>Historical Predicted Table</h3>
+
+        <div class="scroll_div">
+            <table id="leaguetable" class="table table-bordered table-striped table-sm" width="120%">
+                <thead class="head">
+                    <tr>
+                        <th>#</th>
+                        <th>1</th>
+                        <th>2</th>
+                        <th>3</th>
+                        <th>4</th>
+                        <th>5</th>
+                        <th>6</th>
+                        <th>7</th>
+                        <th>8</th>
+                        <th>9</th>
+                        <th>10</th>
+                        <th>11</th>
+                        <th>12</th>
+                        <th>13</th>
+                        <th>14</th>
+                        <th>15</th>
+                        <th>16</th>
+                        <th>17</th>
+                        <th>18</th>
+                        <th>19</th>
+                        <th>20</th>
+                        <th>21</th>
+                        <th>22</th>
+                        <th>23</th>
+                        <th>24</th>
+                        <th>25</th>
+                        <th>26</th>
+                        <th>27</th>
+                        <th>28</th>
+                        <th>29</th>
+                        <th>30</th>
+                    </tr>
+                </thead>
+
+                <tbody class="tbody">
+                {% for obj in object_list %}
+                    <tr>
+                        <td>{{obj.position}}</td>
+                        <td>{{obj.gw_01}}</td>
+                        <td>{{obj.gw_02}}</td>
+                        <td>{{obj.gw_03}}</td>
+                        <td>{{obj.gw_04}}</td>
+                        <td>{{obj.gw_05}}</td>
+                        <td>{{obj.gw_06}}</td>
+                        <td>{{obj.gw_07}}</td>
+                        <td>{{obj.gw_08}}</td>
+                        <td>{{obj.gw_08}}</td>
+                        <td>{{obj.gw_09}}</td>
+                        <td>{{obj.gw_10}}</td>
+                        <td>{{obj.gw_11}}</td>
+                        <td>{{obj.gw_12}}</td>
+                        <td>{{obj.gw_13}}</td>
+                        <td>{{obj.gw_14}}</td>
+                        <td>{{obj.gw_15}}</td>
+                        <td>{{obj.gw_16}}</td>
+                        <td>{{obj.gw_17}}</td>
+                        <td>{{obj.gw_18}}</td>
+                        <td>{{obj.gw_19}}</td>
+                        <td>{{obj.gw_20}}</td>
+                        <td>{{obj.gw_21}}</td>
+                        <td>{{obj.gw_22}}</td>
+                        <td>{{obj.gw_23}}</td>
+                        <td>{{obj.gw_24}}</td>
+                        <td>{{obj.gw_25}}</td>
+                        <td>{{obj.gw_26}}</td>
+                        <td>{{obj.gw_27}}</td>
+                        <td>{{obj.gw_28}}</td>
+                        <td>{{obj.gw_29}}</td>
+                        <td>{{obj.gw_30}}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+
+            </table>
+        </div>
+
+{% endblock %}

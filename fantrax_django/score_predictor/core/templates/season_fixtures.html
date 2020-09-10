@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block breadcrumbs %}
+<li class="breadcrumb-item"><a href="{% url 'core:switcher' %}">Home</a></li>
+<li class="breadcrumb-item"><a href="{% url 'core:score_predictor' %}">Score Predictor</a></li>
+<li class="breadcrumb-item active" aria-current="page">
+    <a href="{% url 'core:season_fixtures' %}">Fixtures</a>
+</li>
+{% endblock %}
+
+{% block content %}
+    <h3>Fixtures</h3>
+
+    <div class="scroll_div">
+        <table id="opponent_ranker_fixtures_table" class="table table-bordered table-striped table-sm" width="100%">
+            <thead class="head">
+                <tr>
+                    <th>GW</th>
+                    <th>HOME</th>
+                    <th>AWAY</th>
+                    <th>MATCH TYPE</th>
+                </tr>
+            </thead>
+
+            <tbody class="tbody">
+            {% for i, r in dataframe.iterrows %}
+                <tr>
+                    <td>{{ r.gameweek}}</td>
+                    <td>{{ r.home_team }}</td>
+                    <td>{{ r.away_team }}</td>
+                    <td>{{ r.match_type }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock %}

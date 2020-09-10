@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block breadcrumbs %}
+<li class="breadcrumb-item">
+    <a href="{% url 'core:switcher' %}">Home</a>
+</li>
+<li class="breadcrumb-item active" aria-current="page">
+    <a href="{% url 'core:score_predictor' %}">Score Predictor</a>
+</li>
+{% endblock %}
+
+{% block content %}
+
+    <h3>Players</h3>
+
+        <div class="scroll_div">
+            <table id="project-list-table" class="table table-bordered table-striped table-sm" width="100%">
+                <thead class="head">
+                    <tr>
+                        <th>Name</th>
+                        <th>Club</th>
+                        <th>Position</th>
+                        <th>Pred 01</th>
+                        <th>GW 01</th>
+                        <th>GW 02</th>
+                        <th>GW 03</th>
+                        <th>GW 04</th>
+                        <th>GW 05</th>
+                        <th>GW 06</th>
+                        <th>GW 07</th>
+                        <th>GW 08</th>
+                        <th>GW 09</th>
+                        <th>GW 10</th>
+                    </tr>
+                </thead>
+
+                <tbody class="tbody">
+                {% for i, r in scores.iterrows %}
+                    <tr>
+                        <td>{{r.name}}</td>
+                        <td>{{r.team}}</td>
+                        <td>{{r.position}}</td>
+                        <td>{{r.pred_01}}</td>
+                        <td>{{r.gw_01}}</td>
+                        <td>{{r.gw_02}}</td>
+                        <td>{{r.gw_03}}</td>
+                        <td>{{r.gw_04}}</td>
+                        <td>{{r.gw_05}}</td>
+                        <td>{{r.gw_06}}</td>
+                        <td>{{r.gw_07}}</td>
+                        <td>{{r.gw_08}}</td>
+                        <td>{{r.gw_09}}</td>
+                        <td>{{r.gw_10}}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+
+            </table>
+        </div>
+
+{% endblock %}
