@@ -1,0 +1,445 @@
+,player,position,position_id,date,team,opp,start
+0,Ederson,G,1,Aug 15,MCI,@TOT,1
+1,Ederson,G,1,Aug 21,MCI,NOR,1
+2,Ederson,G,1,Aug 28,MCI,ARS,1
+3,Ederson,G,1,Sep 11,MCI,@LEI,1
+4,Ederson,G,1,Sep 18,MCI,SOU,1
+5,Ederson,G,1,Sep 25,MCI,@CHE,1
+6,Ederson,G,1,Oct 3,MCI,@LIV,1
+7,Ederson,G,1,Oct 23,MCI,@BHA,1
+8,Ederson,G,1,Oct 30,MCI,CRY,1
+9,Ederson,G,1,Nov 6,MCI,@MUN,1
+10,Ederson,G,1,Nov 21,MCI,EVE,1
+11,Ederson,G,1,Nov 28,MCI,WHU,1
+12,Ederson,G,1,Dec 1,MCI,@AVL,1
+13,Ederson,G,1,Dec 4,MCI,@WAT,1
+14,Ederson,G,1,Dec 11,MCI,WOL,1
+15,Ederson,G,1,Dec 14,MCI,LEE,1
+16,Ederson,G,1,Dec 19,MCI,@NEW,1
+17,Ederson,G,1,Dec 26,MCI,LEI,1
+18,Ederson,G,1,Dec 29,MCI,@BRF,1
+19,Ederson,G,1,Jan 1,MCI,@ARS,1
+20,Ederson,G,1,Jan 15,MCI,CHE,1
+21,Ederson,G,1,Jan 22,MCI,@SOU,1
+22,Ederson,G,1,Feb 9,MCI,BRF,1
+23,Ederson,G,1,Feb 12,MCI,@NOR,1
+24,Ederson,G,1,Feb 19,MCI,TOT,1
+25,Ederson,G,1,Feb 26,MCI,@EVE,1
+26,Ederson,G,1,Mar 6,MCI,MUN,1
+27,Ederson,G,1,Mar 14,MCI,@CRY,1
+28,Ederson,G,1,Apr 2,MCI,@BUR,1
+29,Ederson,G,1,Apr 10,MCI,LIV,1
+30,Ederson,G,1,Apr 20,MCI,BHA,1
+31,Ederson,G,1,Apr 23,MCI,WAT,1
+32,Ederson,G,1,Apr 30,MCI,@LEE,1
+0,Zack Steffen,G,1,Oct 16,MCI,BUR,1
+0,Kyle Walker,D,2,Aug 21,MCI,NOR,1
+1,Kyle Walker,D,2,Aug 28,MCI,ARS,1
+2,Kyle Walker,D,2,Sep 11,MCI,@LEI,1
+3,Kyle Walker,D,2,Sep 18,MCI,SOU,1
+4,Kyle Walker,D,2,Sep 25,MCI,@CHE,1
+5,Kyle Walker,D,2,Oct 3,MCI,@LIV,1
+6,Kyle Walker,D,2,Oct 23,MCI,@BHA,1
+7,Kyle Walker,D,2,Oct 30,MCI,CRY,1
+8,Kyle Walker,D,2,Nov 6,MCI,@MUN,1
+9,Kyle Walker,D,2,Nov 21,MCI,EVE,1
+10,Kyle Walker,D,2,Nov 28,MCI,WHU,1
+11,Kyle Walker,D,2,Dec 4,MCI,@WAT,1
+12,Kyle Walker,D,2,Jan 15,MCI,CHE,1
+13,Kyle Walker,D,2,Jan 22,MCI,@SOU,1
+14,Kyle Walker,D,2,Feb 12,MCI,@NOR,1
+15,Kyle Walker,D,2,Feb 19,MCI,TOT,1
+16,Kyle Walker,D,2,Mar 6,MCI,MUN,1
+17,Kyle Walker,D,2,Mar 14,MCI,@CRY,1
+18,Kyle Walker,D,2,Apr 2,MCI,@BUR,1
+19,Kyle Walker,D,2,Apr 10,MCI,LIV,1
+0,Joao Cancelo,D,2,Aug 15,MCI,@TOT,1
+1,Joao Cancelo,D,2,Aug 21,MCI,NOR,1
+2,Joao Cancelo,D,2,Aug 28,MCI,ARS,1
+3,Joao Cancelo,D,2,Sep 11,MCI,@LEI,1
+4,Joao Cancelo,D,2,Sep 18,MCI,SOU,1
+5,Joao Cancelo,D,2,Sep 25,MCI,@CHE,1
+6,Joao Cancelo,D,2,Oct 3,MCI,@LIV,1
+7,Joao Cancelo,D,2,Oct 16,MCI,BUR,1
+8,Joao Cancelo,D,2,Oct 23,MCI,@BHA,1
+9,Joao Cancelo,D,2,Oct 30,MCI,CRY,1
+10,Joao Cancelo,D,2,Nov 6,MCI,@MUN,1
+11,Joao Cancelo,D,2,Nov 21,MCI,EVE,1
+12,Joao Cancelo,D,2,Nov 28,MCI,WHU,1
+13,Joao Cancelo,D,2,Dec 1,MCI,@AVL,1
+14,Joao Cancelo,D,2,Dec 4,MCI,@WAT,1
+15,Joao Cancelo,D,2,Dec 11,MCI,WOL,1
+16,Joao Cancelo,D,2,Dec 19,MCI,@NEW,1
+17,Joao Cancelo,D,2,Dec 26,MCI,LEI,1
+18,Joao Cancelo,D,2,Dec 29,MCI,@BRF,1
+19,Joao Cancelo,D,2,Jan 1,MCI,@ARS,1
+20,Joao Cancelo,D,2,Jan 15,MCI,CHE,1
+21,Joao Cancelo,D,2,Jan 22,MCI,@SOU,1
+22,Joao Cancelo,D,2,Feb 9,MCI,BRF,1
+23,Joao Cancelo,D,2,Feb 19,MCI,TOT,1
+24,Joao Cancelo,D,2,Feb 26,MCI,@EVE,1
+25,Joao Cancelo,D,2,Mar 6,MCI,MUN,1
+26,Joao Cancelo,D,2,Mar 14,MCI,@CRY,1
+27,Joao Cancelo,D,2,Apr 2,MCI,@BUR,1
+28,Joao Cancelo,D,2,Apr 10,MCI,LIV,1
+29,Joao Cancelo,D,2,Apr 20,MCI,BHA,1
+30,Joao Cancelo,D,2,Apr 23,MCI,WAT,1
+31,Joao Cancelo,D,2,Apr 30,MCI,@LEE,1
+0,Ruben Dias,D,2,Aug 15,MCI,@TOT,1
+1,Ruben Dias,D,2,Aug 21,MCI,NOR,1
+2,Ruben Dias,D,2,Aug 28,MCI,ARS,1
+3,Ruben Dias,D,2,Sep 11,MCI,@LEI,1
+4,Ruben Dias,D,2,Sep 18,MCI,SOU,1
+5,Ruben Dias,D,2,Sep 25,MCI,@CHE,1
+6,Ruben Dias,D,2,Oct 3,MCI,@LIV,1
+7,Ruben Dias,D,2,Oct 16,MCI,BUR,0
+8,Ruben Dias,D,2,Oct 23,MCI,@BHA,1
+9,Ruben Dias,D,2,Oct 30,MCI,CRY,1
+10,Ruben Dias,D,2,Nov 6,MCI,@MUN,1
+11,Ruben Dias,D,2,Nov 28,MCI,WHU,1
+12,Ruben Dias,D,2,Dec 1,MCI,@AVL,1
+13,Ruben Dias,D,2,Dec 4,MCI,@WAT,1
+14,Ruben Dias,D,2,Dec 11,MCI,WOL,1
+15,Ruben Dias,D,2,Dec 14,MCI,LEE,1
+16,Ruben Dias,D,2,Dec 19,MCI,@NEW,1
+17,Ruben Dias,D,2,Dec 26,MCI,LEI,1
+18,Ruben Dias,D,2,Dec 29,MCI,@BRF,1
+19,Ruben Dias,D,2,Jan 1,MCI,@ARS,1
+20,Ruben Dias,D,2,Jan 22,MCI,@SOU,1
+21,Ruben Dias,D,2,Feb 9,MCI,BRF,1
+22,Ruben Dias,D,2,Feb 12,MCI,@NOR,1
+23,Ruben Dias,D,2,Feb 19,MCI,TOT,1
+24,Ruben Dias,D,2,Feb 26,MCI,@EVE,1
+25,Ruben Dias,D,2,Apr 20,MCI,BHA,0
+26,Ruben Dias,D,2,Apr 23,MCI,WAT,1
+27,Ruben Dias,D,2,Apr 30,MCI,@LEE,1
+0,John Stones,D,2,Oct 16,MCI,BUR,1
+1,John Stones,D,2,Oct 30,MCI,CRY,0
+2,John Stones,D,2,Nov 6,MCI,@MUN,1
+3,John Stones,D,2,Nov 21,MCI,EVE,1
+4,John Stones,D,2,Dec 14,MCI,LEE,1
+5,John Stones,D,2,Dec 19,MCI,@NEW,0
+6,John Stones,D,2,Jan 15,MCI,CHE,1
+7,John Stones,D,2,Feb 9,MCI,BRF,1
+8,John Stones,D,2,Feb 26,MCI,@EVE,1
+9,John Stones,D,2,Mar 6,MCI,MUN,1
+10,John Stones,D,2,Mar 14,MCI,@CRY,1
+11,John Stones,D,2,Apr 10,MCI,LIV,1
+12,John Stones,D,2,Apr 20,MCI,BHA,1
+0,Aymeric Laporte,D,2,Aug 21,MCI,NOR,1
+1,Aymeric Laporte,D,2,Aug 28,MCI,ARS,1
+2,Aymeric Laporte,D,2,Sep 11,MCI,@LEI,1
+3,Aymeric Laporte,D,2,Sep 25,MCI,@CHE,1
+4,Aymeric Laporte,D,2,Oct 3,MCI,@LIV,1
+5,Aymeric Laporte,D,2,Oct 16,MCI,BUR,1
+6,Aymeric Laporte,D,2,Oct 23,MCI,@BHA,1
+7,Aymeric Laporte,D,2,Oct 30,MCI,CRY,1
+8,Aymeric Laporte,D,2,Nov 21,MCI,EVE,1
+9,Aymeric Laporte,D,2,Nov 28,MCI,WHU,1
+10,Aymeric Laporte,D,2,Dec 4,MCI,@WAT,1
+11,Aymeric Laporte,D,2,Dec 11,MCI,WOL,1
+12,Aymeric Laporte,D,2,Dec 14,MCI,LEE,1
+13,Aymeric Laporte,D,2,Dec 19,MCI,@NEW,1
+14,Aymeric Laporte,D,2,Dec 26,MCI,LEI,1
+15,Aymeric Laporte,D,2,Dec 29,MCI,@BRF,1
+16,Aymeric Laporte,D,2,Jan 1,MCI,@ARS,1
+17,Aymeric Laporte,D,2,Jan 15,MCI,CHE,1
+18,Aymeric Laporte,D,2,Jan 22,MCI,@SOU,1
+19,Aymeric Laporte,D,2,Feb 9,MCI,BRF,1
+20,Aymeric Laporte,D,2,Feb 19,MCI,TOT,1
+21,Aymeric Laporte,D,2,Feb 26,MCI,@EVE,1
+22,Aymeric Laporte,D,2,Mar 6,MCI,MUN,1
+23,Aymeric Laporte,D,2,Mar 14,MCI,@CRY,1
+24,Aymeric Laporte,D,2,Apr 2,MCI,@BUR,1
+25,Aymeric Laporte,D,2,Apr 10,MCI,LIV,1
+26,Aymeric Laporte,D,2,Apr 20,MCI,BHA,1
+27,Aymeric Laporte,D,2,Apr 23,MCI,WAT,1
+28,Aymeric Laporte,D,2,Apr 30,MCI,@LEE,1
+0,Nathan Ake,D,2,Aug 15,MCI,@TOT,1
+1,Nathan Ake,D,2,Sep 18,MCI,SOU,1
+2,Nathan Ake,D,2,Oct 16,MCI,BUR,1
+3,Nathan Ake,D,2,Nov 21,MCI,EVE,0
+4,Nathan Ake,D,2,Dec 1,MCI,@AVL,1
+5,Nathan Ake,D,2,Dec 14,MCI,LEE,0
+6,Nathan Ake,D,2,Dec 29,MCI,@BRF,1
+7,Nathan Ake,D,2,Jan 1,MCI,@ARS,1
+8,Nathan Ake,D,2,Feb 12,MCI,@NOR,1
+9,Nathan Ake,D,2,Apr 2,MCI,@BUR,1
+10,Nathan Ake,D,2,Apr 20,MCI,BHA,1
+11,Nathan Ake,D,2,Apr 23,MCI,WAT,0
+12,Nathan Ake,D,2,Apr 30,MCI,@LEE,1
+0,Benjamin Mendy,D,2,Aug 15,MCI,@TOT,1
+0,Oleksandr Zinchenko,D,2,Aug 15,MCI,@TOT,0
+1,Oleksandr Zinchenko,D,2,Aug 28,MCI,ARS,0
+2,Oleksandr Zinchenko,D,2,Dec 1,MCI,@AVL,1
+3,Oleksandr Zinchenko,D,2,Dec 11,MCI,WOL,1
+4,Oleksandr Zinchenko,D,2,Dec 14,MCI,LEE,1
+5,Oleksandr Zinchenko,D,2,Dec 19,MCI,@NEW,1
+6,Oleksandr Zinchenko,D,2,Dec 26,MCI,LEI,1
+7,Oleksandr Zinchenko,D,2,Feb 12,MCI,@NOR,1
+8,Oleksandr Zinchenko,D,2,Apr 20,MCI,BHA,0
+9,Oleksandr Zinchenko,D,2,Apr 23,MCI,WAT,1
+10,Oleksandr Zinchenko,D,2,Apr 30,MCI,@LEE,0
+0,Fernandinho,M,4,Aug 15,MCI,@TOT,1
+1,Fernandinho,M,4,Sep 11,MCI,@LEI,0
+2,Fernandinho,M,4,Sep 18,MCI,SOU,1
+3,Fernandinho,M,4,Sep 25,MCI,@CHE,0
+4,Fernandinho,M,4,Oct 16,MCI,BUR,0
+5,Fernandinho,M,4,Oct 23,MCI,@BHA,0
+6,Fernandinho,M,4,Nov 28,MCI,WHU,0
+7,Fernandinho,M,4,Dec 1,MCI,@AVL,1
+8,Fernandinho,M,4,Dec 14,MCI,LEE,0
+9,Fernandinho,M,4,Dec 19,MCI,@NEW,0
+10,Fernandinho,M,4,Dec 26,MCI,LEI,1
+11,Fernandinho,M,4,Dec 29,MCI,@BRF,1
+12,Fernandinho,M,4,Feb 12,MCI,@NOR,1
+13,Fernandinho,M,4,Apr 23,MCI,WAT,1
+14,Fernandinho,M,4,Apr 30,MCI,@LEE,0
+0,Rodri,M,4,Aug 21,MCI,NOR,1
+1,Rodri,M,4,Aug 28,MCI,ARS,1
+2,Rodri,M,4,Sep 11,MCI,@LEI,1
+3,Rodri,M,4,Sep 25,MCI,@CHE,1
+4,Rodri,M,4,Oct 3,MCI,@LIV,1
+5,Rodri,M,4,Oct 16,MCI,BUR,1
+6,Rodri,M,4,Oct 23,MCI,@BHA,1
+7,Rodri,M,4,Oct 30,MCI,CRY,1
+8,Rodri,M,4,Nov 6,MCI,@MUN,1
+9,Rodri,M,4,Nov 21,MCI,EVE,1
+10,Rodri,M,4,Nov 28,MCI,WHU,1
+11,Rodri,M,4,Dec 1,MCI,@AVL,1
+12,Rodri,M,4,Dec 4,MCI,@WAT,1
+13,Rodri,M,4,Dec 11,MCI,WOL,1
+14,Rodri,M,4,Dec 14,MCI,LEE,1
+15,Rodri,M,4,Dec 19,MCI,@NEW,1
+16,Rodri,M,4,Jan 1,MCI,@ARS,1
+17,Rodri,M,4,Jan 15,MCI,CHE,1
+18,Rodri,M,4,Jan 22,MCI,@SOU,1
+19,Rodri,M,4,Feb 9,MCI,BRF,1
+20,Rodri,M,4,Feb 19,MCI,TOT,1
+21,Rodri,M,4,Feb 26,MCI,@EVE,1
+22,Rodri,M,4,Mar 6,MCI,MUN,1
+23,Rodri,M,4,Mar 14,MCI,@CRY,1
+24,Rodri,M,4,Apr 2,MCI,@BUR,1
+25,Rodri,M,4,Apr 10,MCI,LIV,1
+26,Rodri,M,4,Apr 20,MCI,BHA,1
+27,Rodri,M,4,Apr 23,MCI,WAT,1
+28,Rodri,M,4,Apr 30,MCI,@LEE,1
+0,Bernardo Silva,M,4,Aug 21,MCI,NOR,1
+1,Bernardo Silva,M,4,Aug 28,MCI,ARS,1
+2,Bernardo Silva,M,4,Sep 11,MCI,@LEI,1
+3,Bernardo Silva,M,4,Sep 18,MCI,SOU,1
+4,Bernardo Silva,M,4,Sep 25,MCI,@CHE,1
+5,Bernardo Silva,M,4,Oct 3,MCI,@LIV,1
+6,Bernardo Silva,M,4,Oct 16,MCI,BUR,1
+7,Bernardo Silva,M,4,Oct 23,MCI,@BHA,1
+8,Bernardo Silva,M,4,Oct 30,MCI,CRY,1
+9,Bernardo Silva,M,4,Nov 6,MCI,@MUN,1
+10,Bernardo Silva,M,4,Nov 21,MCI,EVE,1
+11,Bernardo Silva,M,4,Nov 28,MCI,WHU,1
+12,Bernardo Silva,M,4,Dec 1,MCI,@AVL,1
+13,Bernardo Silva,M,4,Dec 4,MCI,@WAT,1
+14,Bernardo Silva,M,4,Dec 11,MCI,WOL,1
+15,Bernardo Silva,M,4,Dec 14,MCI,LEE,1
+16,Bernardo Silva,M,4,Dec 19,MCI,@NEW,1
+17,Bernardo Silva,M,4,Dec 26,MCI,LEI,1
+18,Bernardo Silva,M,4,Dec 29,MCI,@BRF,1
+19,Bernardo Silva,M,4,Jan 1,MCI,@ARS,1
+20,Bernardo Silva,M,4,Jan 15,MCI,CHE,1
+21,Bernardo Silva,M,4,Jan 22,MCI,@SOU,1
+22,Bernardo Silva,M,4,Feb 9,MCI,BRF,1
+23,Bernardo Silva,M,4,Feb 12,MCI,@NOR,1
+24,Bernardo Silva,M,4,Feb 19,MCI,TOT,1
+25,Bernardo Silva,M,4,Feb 26,MCI,@EVE,1
+26,Bernardo Silva,M,4,Mar 6,MCI,MUN,1
+27,Bernardo Silva,M,4,Mar 14,MCI,@CRY,1
+28,Bernardo Silva,M,4,Apr 2,MCI,@BUR,0
+29,Bernardo Silva,M,4,Apr 10,MCI,LIV,1
+30,Bernardo Silva,M,4,Apr 20,MCI,BHA,1
+31,Bernardo Silva,M,4,Apr 30,MCI,@LEE,0
+0,Ilkay Gundogan,M,4,Aug 15,MCI,@TOT,1
+1,Ilkay Gundogan,M,4,Aug 21,MCI,NOR,1
+2,Ilkay Gundogan,M,4,Aug 28,MCI,ARS,1
+3,Ilkay Gundogan,M,4,Sep 11,MCI,@LEI,1
+4,Ilkay Gundogan,M,4,Sep 18,MCI,SOU,1
+5,Ilkay Gundogan,M,4,Oct 23,MCI,@BHA,1
+6,Ilkay Gundogan,M,4,Nov 6,MCI,@MUN,1
+7,Ilkay Gundogan,M,4,Nov 21,MCI,EVE,1
+8,Ilkay Gundogan,M,4,Nov 28,MCI,WHU,1
+9,Ilkay Gundogan,M,4,Dec 4,MCI,@WAT,1
+10,Ilkay Gundogan,M,4,Dec 11,MCI,WOL,1
+11,Ilkay Gundogan,M,4,Dec 14,MCI,LEE,0
+12,Ilkay Gundogan,M,4,Dec 26,MCI,LEI,1
+13,Ilkay Gundogan,M,4,Jan 1,MCI,@ARS,0
+14,Ilkay Gundogan,M,4,Jan 15,MCI,CHE,0
+15,Ilkay Gundogan,M,4,Feb 9,MCI,BRF,0
+16,Ilkay Gundogan,M,4,Feb 12,MCI,@NOR,1
+17,Ilkay Gundogan,M,4,Feb 19,MCI,TOT,1
+18,Ilkay Gundogan,M,4,Feb 26,MCI,@EVE,1
+19,Ilkay Gundogan,M,4,Mar 6,MCI,MUN,0
+20,Ilkay Gundogan,M,4,Apr 2,MCI,@BUR,1
+21,Ilkay Gundogan,M,4,Apr 20,MCI,BHA,1
+22,Ilkay Gundogan,M,4,Apr 23,MCI,WAT,0
+23,Ilkay Gundogan,M,4,Apr 30,MCI,@LEE,1
+0,Cole Palmer,M,4,Aug 21,MCI,NOR,0
+1,Cole Palmer,M,4,Oct 16,MCI,BUR,0
+2,Cole Palmer,M,4,Nov 21,MCI,EVE,1
+3,Cole Palmer,M,4,Dec 19,MCI,@NEW,0
+0,James Mcatee,M,4,Nov 21,MCI,EVE,0
+1,James Mcatee,M,4,Feb 12,MCI,@NOR,0
+0,Kevin De Bruyne,M,4,Aug 15,MCI,@TOT,0
+1,Kevin De Bruyne,M,4,Sep 18,MCI,SOU,0
+2,Kevin De Bruyne,M,4,Sep 25,MCI,@CHE,1
+3,Kevin De Bruyne,M,4,Oct 3,MCI,@LIV,1
+4,Kevin De Bruyne,M,4,Oct 16,MCI,BUR,1
+5,Kevin De Bruyne,M,4,Oct 23,MCI,@BHA,0
+6,Kevin De Bruyne,M,4,Oct 30,MCI,CRY,1
+7,Kevin De Bruyne,M,4,Nov 6,MCI,@MUN,1
+8,Kevin De Bruyne,M,4,Dec 4,MCI,@WAT,0
+9,Kevin De Bruyne,M,4,Dec 11,MCI,WOL,0
+10,Kevin De Bruyne,M,4,Dec 14,MCI,LEE,1
+11,Kevin De Bruyne,M,4,Dec 19,MCI,@NEW,1
+12,Kevin De Bruyne,M,4,Dec 26,MCI,LEI,1
+13,Kevin De Bruyne,M,4,Dec 29,MCI,@BRF,1
+14,Kevin De Bruyne,M,4,Jan 1,MCI,@ARS,1
+15,Kevin De Bruyne,M,4,Jan 15,MCI,CHE,1
+16,Kevin De Bruyne,M,4,Jan 22,MCI,@SOU,1
+17,Kevin De Bruyne,M,4,Feb 9,MCI,BRF,1
+18,Kevin De Bruyne,M,4,Feb 19,MCI,TOT,1
+19,Kevin De Bruyne,M,4,Feb 26,MCI,@EVE,1
+20,Kevin De Bruyne,M,4,Mar 6,MCI,MUN,1
+21,Kevin De Bruyne,M,4,Mar 14,MCI,@CRY,1
+22,Kevin De Bruyne,M,4,Apr 2,MCI,@BUR,1
+23,Kevin De Bruyne,M,4,Apr 10,MCI,LIV,1
+24,Kevin De Bruyne,M,4,Apr 20,MCI,BHA,1
+25,Kevin De Bruyne,M,4,Apr 23,MCI,WAT,1
+0,Phil Foden,M,4,Sep 18,MCI,SOU,0
+1,Phil Foden,M,4,Sep 25,MCI,@CHE,1
+2,Phil Foden,M,4,Oct 3,MCI,@LIV,1
+3,Phil Foden,M,4,Oct 16,MCI,BUR,1
+4,Phil Foden,M,4,Oct 23,MCI,@BHA,1
+5,Phil Foden,M,4,Oct 30,MCI,CRY,1
+6,Phil Foden,M,4,Nov 6,MCI,@MUN,1
+7,Phil Foden,M,4,Nov 21,MCI,EVE,1
+8,Phil Foden,M,4,Dec 4,MCI,@WAT,1
+9,Phil Foden,M,4,Dec 11,MCI,WOL,0
+10,Phil Foden,M,4,Dec 14,MCI,LEE,1
+11,Phil Foden,"M,F",5,Dec 26,MCI,LEI,0
+12,Phil Foden,"M,F",5,Dec 29,MCI,@BRF,1
+13,Phil Foden,"M,F",5,Jan 15,MCI,CHE,1
+14,Phil Foden,"M,F",5,Jan 22,MCI,@SOU,1
+15,Phil Foden,"M,F",5,Feb 9,MCI,BRF,1
+16,Phil Foden,"M,F",5,Feb 12,MCI,@NOR,1
+17,Phil Foden,"M,F",5,Feb 19,MCI,TOT,1
+18,Phil Foden,"M,F",5,Feb 26,MCI,@EVE,1
+19,Phil Foden,"M,F",5,Mar 6,MCI,MUN,1
+20,Phil Foden,"M,F",5,Mar 14,MCI,@CRY,1
+21,Phil Foden,"M,F",5,Apr 2,MCI,@BUR,1
+22,Phil Foden,"M,F",5,Apr 10,MCI,LIV,1
+23,Phil Foden,"M,F",5,Apr 20,MCI,BHA,1
+24,Phil Foden,"M,F",5,Apr 30,MCI,@LEE,1
+0,Jack Grealish,M,4,Aug 15,MCI,@TOT,1
+1,Jack Grealish,M,4,Aug 21,MCI,NOR,1
+2,Jack Grealish,M,4,Aug 28,MCI,ARS,1
+3,Jack Grealish,M,4,Sep 11,MCI,@LEI,1
+4,Jack Grealish,M,4,Sep 18,MCI,SOU,1
+5,Jack Grealish,M,4,Sep 25,MCI,@CHE,1
+6,Jack Grealish,M,4,Oct 3,MCI,@LIV,1
+7,Jack Grealish,M,4,Oct 23,MCI,@BHA,1
+8,Jack Grealish,M,4,Oct 30,MCI,CRY,1
+9,Jack Grealish,"M,F",5,Dec 1,MCI,@AVL,0
+10,Jack Grealish,"M,F",5,Dec 4,MCI,@WAT,1
+11,Jack Grealish,"M,F",5,Dec 11,MCI,WOL,1
+12,Jack Grealish,"M,F",5,Dec 14,MCI,LEE,1
+13,Jack Grealish,"M,F",5,Dec 29,MCI,@BRF,1
+14,Jack Grealish,"M,F",5,Jan 15,MCI,CHE,1
+15,Jack Grealish,"M,F",5,Jan 22,MCI,@SOU,1
+16,Jack Grealish,"M,F",5,Feb 9,MCI,BRF,0
+17,Jack Grealish,"M,F",5,Mar 6,MCI,MUN,1
+18,Jack Grealish,"M,F",5,Mar 14,MCI,@CRY,1
+19,Jack Grealish,"M,F",5,Apr 2,MCI,@BUR,1
+20,Jack Grealish,"M,F",5,Apr 10,MCI,LIV,0
+21,Jack Grealish,"M,F",5,Apr 23,MCI,WAT,1
+22,Jack Grealish,"M,F",5,Apr 30,MCI,@LEE,1
+0,Riyad Mahrez,F,6,Aug 15,MCI,@TOT,1
+1,Riyad Mahrez,F,6,Aug 21,MCI,NOR,0
+2,Riyad Mahrez,F,6,Aug 28,MCI,ARS,0
+3,Riyad Mahrez,F,6,Sep 18,MCI,SOU,0
+4,Riyad Mahrez,F,6,Sep 25,MCI,@CHE,0
+5,Riyad Mahrez,F,6,Oct 16,MCI,BUR,1
+6,Riyad Mahrez,F,6,Oct 23,MCI,@BHA,0
+7,Riyad Mahrez,F,6,Oct 30,MCI,CRY,0
+8,Riyad Mahrez,F,6,Nov 21,MCI,EVE,0
+9,Riyad Mahrez,F,6,Nov 28,MCI,WHU,1
+10,Riyad Mahrez,F,6,Dec 1,MCI,@AVL,1
+11,Riyad Mahrez,F,6,Dec 4,MCI,@WAT,0
+12,Riyad Mahrez,F,6,Dec 14,MCI,LEE,1
+13,Riyad Mahrez,F,6,Dec 19,MCI,@NEW,1
+14,Riyad Mahrez,F,6,Dec 26,MCI,LEI,1
+15,Riyad Mahrez,F,6,Jan 1,MCI,@ARS,1
+16,Riyad Mahrez,F,6,Feb 9,MCI,BRF,1
+17,Riyad Mahrez,F,6,Feb 12,MCI,@NOR,1
+18,Riyad Mahrez,F,6,Feb 19,MCI,TOT,0
+19,Riyad Mahrez,F,6,Feb 26,MCI,@EVE,0
+20,Riyad Mahrez,F,6,Mar 6,MCI,MUN,1
+21,Riyad Mahrez,F,6,Mar 14,MCI,@CRY,1
+22,Riyad Mahrez,F,6,Apr 10,MCI,LIV,0
+23,Riyad Mahrez,F,6,Apr 20,MCI,BHA,1
+24,Riyad Mahrez,F,6,Apr 23,MCI,WAT,0
+0,Ferran Torres,F,6,Aug 15,MCI,@TOT,1
+1,Ferran Torres,F,6,Aug 21,MCI,NOR,1
+2,Ferran Torres,F,6,Aug 28,MCI,ARS,1
+3,Ferran Torres,F,6,Sep 11,MCI,@LEI,1
+0,Gabriel Jesus,F,6,Aug 15,MCI,@TOT,0
+1,Gabriel Jesus,F,6,Aug 21,MCI,NOR,1
+2,Gabriel Jesus,F,6,Aug 28,MCI,ARS,1
+3,Gabriel Jesus,F,6,Sep 11,MCI,@LEI,1
+4,Gabriel Jesus,F,6,Sep 18,MCI,SOU,1
+5,Gabriel Jesus,F,6,Sep 25,MCI,@CHE,1
+6,Gabriel Jesus,F,6,Oct 3,MCI,@LIV,1
+7,Gabriel Jesus,F,6,Oct 23,MCI,@BHA,1
+8,Gabriel Jesus,F,6,Oct 30,MCI,CRY,1
+9,Gabriel Jesus,F,6,Nov 6,MCI,@MUN,1
+10,Gabriel Jesus,F,6,Nov 28,MCI,WHU,1
+11,Gabriel Jesus,F,6,Dec 1,MCI,@AVL,1
+12,Gabriel Jesus,F,6,Dec 4,MCI,@WAT,0
+13,Gabriel Jesus,F,6,Dec 11,MCI,WOL,1
+14,Gabriel Jesus,F,6,Dec 19,MCI,@NEW,1
+15,Gabriel Jesus,F,6,Dec 29,MCI,@BRF,1
+16,Gabriel Jesus,F,6,Jan 1,MCI,@ARS,1
+17,Gabriel Jesus,F,6,Jan 15,MCI,CHE,0
+18,Gabriel Jesus,F,6,Jan 22,MCI,@SOU,0
+19,Gabriel Jesus,F,6,Feb 26,MCI,@EVE,0
+20,Gabriel Jesus,F,6,Apr 2,MCI,@BUR,0
+21,Gabriel Jesus,F,6,Apr 10,MCI,LIV,1
+22,Gabriel Jesus,F,6,Apr 20,MCI,BHA,0
+23,Gabriel Jesus,F,6,Apr 23,MCI,WAT,1
+24,Gabriel Jesus,F,6,Apr 30,MCI,@LEE,1
+0,Raheem Sterling,F,6,Aug 15,MCI,@TOT,1
+1,Raheem Sterling,F,6,Aug 21,MCI,NOR,0
+2,Raheem Sterling,F,6,Aug 28,MCI,ARS,0
+3,Raheem Sterling,F,6,Sep 11,MCI,@LEI,0
+4,Raheem Sterling,F,6,Sep 18,MCI,SOU,1
+5,Raheem Sterling,F,6,Sep 25,MCI,@CHE,0
+6,Raheem Sterling,F,6,Oct 3,MCI,@LIV,0
+7,Raheem Sterling,F,6,Oct 16,MCI,BUR,1
+8,Raheem Sterling,F,6,Oct 30,MCI,CRY,0
+9,Raheem Sterling,F,6,Nov 21,MCI,EVE,1
+10,Raheem Sterling,F,6,Nov 28,MCI,WHU,1
+11,Raheem Sterling,F,6,Dec 1,MCI,@AVL,1
+12,Raheem Sterling,F,6,Dec 4,MCI,@WAT,1
+13,Raheem Sterling,F,6,Dec 11,MCI,WOL,1
+14,Raheem Sterling,F,6,Dec 19,MCI,@NEW,1
+15,Raheem Sterling,F,6,Dec 26,MCI,LEI,1
+16,Raheem Sterling,F,6,Jan 1,MCI,@ARS,1
+17,Raheem Sterling,F,6,Jan 15,MCI,CHE,1
+18,Raheem Sterling,F,6,Jan 22,MCI,@SOU,1
+19,Raheem Sterling,F,6,Feb 9,MCI,BRF,1
+20,Raheem Sterling,F,6,Feb 12,MCI,@NOR,1
+21,Raheem Sterling,F,6,Feb 19,MCI,TOT,1
+22,Raheem Sterling,F,6,Feb 26,MCI,@EVE,1
+23,Raheem Sterling,F,6,Apr 2,MCI,@BUR,1
+24,Raheem Sterling,F,6,Apr 10,MCI,LIV,1
+25,Raheem Sterling,F,6,Apr 23,MCI,WAT,1
+26,Raheem Sterling,F,6,Apr 30,MCI,@LEE,1
+0,Liam Delap,F,6,Feb 12,MCI,@NOR,0
+0,Kayky,F,6,Feb 12,MCI,@NOR,0

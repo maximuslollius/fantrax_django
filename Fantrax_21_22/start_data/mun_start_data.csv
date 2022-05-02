@@ -1,0 +1,481 @@
+,player,position,position_id,date,team,opp,start
+0,David de Gea,G,1,Aug 14,MUN,LEE,1
+1,David de Gea,G,1,Aug 22,MUN,@SOU,1
+2,David de Gea,G,1,Aug 29,MUN,@WOL,1
+3,David de Gea,G,1,Sep 11,MUN,NEW,1
+4,David de Gea,G,1,Sep 19,MUN,@WHU,1
+5,David de Gea,G,1,Sep 25,MUN,AVL,1
+6,David de Gea,G,1,Oct 2,MUN,EVE,1
+7,David de Gea,G,1,Oct 16,MUN,@LEI,1
+8,David de Gea,G,1,Oct 24,MUN,LIV,1
+9,David de Gea,G,1,Oct 30,MUN,@TOT,1
+10,David de Gea,G,1,Nov 6,MUN,MCI,1
+11,David de Gea,G,1,Nov 20,MUN,@WAT,1
+12,David de Gea,G,1,Nov 28,MUN,@CHE,1
+13,David de Gea,G,1,Dec 2,MUN,ARS,1
+14,David de Gea,G,1,Dec 5,MUN,CRY,1
+15,David de Gea,G,1,Dec 11,MUN,@NOR,1
+16,David de Gea,G,1,Dec 27,MUN,@NEW,1
+17,David de Gea,G,1,Dec 30,MUN,BUR,1
+18,David de Gea,G,1,Jan 3,MUN,WOL,1
+19,David de Gea,G,1,Jan 15,MUN,@AVL,1
+20,David de Gea,G,1,Jan 19,MUN,@BRF,1
+21,David de Gea,G,1,Jan 22,MUN,WHU,1
+22,David de Gea,G,1,Feb 8,MUN,@BUR,1
+23,David de Gea,G,1,Feb 12,MUN,SOU,1
+24,David de Gea,G,1,Feb 15,MUN,BHA,1
+25,David de Gea,G,1,Feb 20,MUN,@LEE,1
+26,David de Gea,G,1,Feb 26,MUN,WAT,1
+27,David de Gea,G,1,Mar 6,MUN,@MCI,1
+28,David de Gea,G,1,Mar 12,MUN,TOT,1
+29,David de Gea,G,1,Apr 2,MUN,LEI,1
+30,David de Gea,G,1,Apr 9,MUN,@EVE,1
+31,David de Gea,G,1,Apr 16,MUN,NOR,1
+32,David de Gea,G,1,Apr 19,MUN,@LIV,1
+33,David de Gea,G,1,Apr 23,MUN,@ARS,1
+34,David de Gea,G,1,Apr 28,MUN,CHE,1
+0,Aaron Wan-Bissaka,D,2,Aug 14,MUN,LEE,1
+1,Aaron Wan-Bissaka,D,2,Aug 22,MUN,@SOU,1
+2,Aaron Wan-Bissaka,D,2,Aug 29,MUN,@WOL,1
+3,Aaron Wan-Bissaka,D,2,Sep 11,MUN,NEW,1
+4,Aaron Wan-Bissaka,D,2,Sep 19,MUN,@WHU,1
+5,Aaron Wan-Bissaka,D,2,Sep 25,MUN,AVL,1
+6,Aaron Wan-Bissaka,D,2,Oct 2,MUN,EVE,1
+7,Aaron Wan-Bissaka,D,2,Oct 16,MUN,@LEI,1
+8,Aaron Wan-Bissaka,D,2,Oct 24,MUN,LIV,1
+9,Aaron Wan-Bissaka,D,2,Oct 30,MUN,@TOT,1
+10,Aaron Wan-Bissaka,D,2,Nov 6,MUN,MCI,1
+11,Aaron Wan-Bissaka,D,2,Nov 20,MUN,@WAT,1
+12,Aaron Wan-Bissaka,D,2,Nov 28,MUN,@CHE,1
+13,Aaron Wan-Bissaka,D,2,Dec 30,MUN,BUR,1
+14,Aaron Wan-Bissaka,D,2,Jan 3,MUN,WOL,1
+15,Aaron Wan-Bissaka,D,2,Feb 20,MUN,@LEE,1
+16,Aaron Wan-Bissaka,D,2,Feb 26,MUN,WAT,1
+17,Aaron Wan-Bissaka,D,2,Mar 6,MUN,@MCI,1
+18,Aaron Wan-Bissaka,D,2,Apr 9,MUN,@EVE,1
+19,Aaron Wan-Bissaka,D,2,Apr 19,MUN,@LIV,1
+0,Diogo Dalot,D,2,Aug 29,MUN,@WOL,0
+1,Diogo Dalot,D,2,Sep 25,MUN,AVL,0
+2,Diogo Dalot,D,2,Oct 24,MUN,LIV,0
+3,Diogo Dalot,D,2,Nov 20,MUN,@WAT,0
+4,Diogo Dalot,D,2,Dec 2,MUN,ARS,1
+5,Diogo Dalot,D,2,Dec 5,MUN,CRY,1
+6,Diogo Dalot,D,2,Dec 11,MUN,@NOR,1
+7,Diogo Dalot,D,2,Dec 27,MUN,@NEW,1
+8,Diogo Dalot,D,2,Dec 30,MUN,BUR,0
+9,Diogo Dalot,D,2,Jan 15,MUN,@AVL,1
+10,Diogo Dalot,D,2,Jan 19,MUN,@BRF,1
+11,Diogo Dalot,D,2,Jan 22,MUN,WHU,1
+12,Diogo Dalot,D,2,Feb 8,MUN,@BUR,1
+13,Diogo Dalot,D,2,Feb 12,MUN,SOU,1
+14,Diogo Dalot,D,2,Feb 15,MUN,BHA,1
+15,Diogo Dalot,D,2,Mar 12,MUN,TOT,1
+16,Diogo Dalot,D,2,Apr 2,MUN,LEI,1
+17,Diogo Dalot,D,2,Apr 16,MUN,NOR,1
+18,Diogo Dalot,D,2,Apr 19,MUN,@LIV,1
+19,Diogo Dalot,D,2,Apr 23,MUN,@ARS,1
+20,Diogo Dalot,D,2,Apr 28,MUN,CHE,1
+0,Raphael Varane,D,2,Aug 29,MUN,@WOL,1
+1,Raphael Varane,D,2,Sep 11,MUN,NEW,1
+2,Raphael Varane,D,2,Sep 19,MUN,@WHU,1
+3,Raphael Varane,D,2,Sep 25,MUN,AVL,1
+4,Raphael Varane,D,2,Oct 2,MUN,EVE,1
+5,Raphael Varane,D,2,Oct 30,MUN,@TOT,1
+6,Raphael Varane,D,2,Dec 27,MUN,@NEW,1
+7,Raphael Varane,D,2,Dec 30,MUN,BUR,0
+8,Raphael Varane,D,2,Jan 3,MUN,WOL,1
+9,Raphael Varane,D,2,Jan 15,MUN,@AVL,1
+10,Raphael Varane,D,2,Jan 19,MUN,@BRF,1
+11,Raphael Varane,D,2,Jan 22,MUN,WHU,1
+12,Raphael Varane,D,2,Feb 8,MUN,@BUR,1
+13,Raphael Varane,D,2,Feb 12,MUN,SOU,1
+14,Raphael Varane,D,2,Feb 20,MUN,@LEE,0
+15,Raphael Varane,D,2,Feb 26,MUN,WAT,1
+16,Raphael Varane,D,2,Mar 12,MUN,TOT,1
+17,Raphael Varane,D,2,Apr 2,MUN,LEI,1
+18,Raphael Varane,D,2,Apr 23,MUN,@ARS,1
+19,Raphael Varane,D,2,Apr 28,MUN,CHE,1
+0,Victor Lindelof,D,2,Aug 14,MUN,LEE,1
+1,Victor Lindelof,D,2,Aug 22,MUN,@SOU,1
+2,Victor Lindelof,D,2,Sep 25,MUN,AVL,0
+3,Victor Lindelof,D,2,Oct 2,MUN,EVE,1
+4,Victor Lindelof,D,2,Oct 16,MUN,@LEI,1
+5,Victor Lindelof,D,2,Oct 24,MUN,LIV,1
+6,Victor Lindelof,D,2,Oct 30,MUN,@TOT,1
+7,Victor Lindelof,D,2,Nov 6,MUN,MCI,1
+8,Victor Lindelof,D,2,Nov 20,MUN,@WAT,1
+9,Victor Lindelof,D,2,Nov 28,MUN,@CHE,1
+10,Victor Lindelof,D,2,Dec 2,MUN,ARS,1
+11,Victor Lindelof,D,2,Dec 5,MUN,CRY,1
+12,Victor Lindelof,D,2,Dec 11,MUN,@NOR,1
+13,Victor Lindelof,D,2,Jan 15,MUN,@AVL,1
+14,Victor Lindelof,D,2,Jan 19,MUN,@BRF,1
+15,Victor Lindelof,D,2,Feb 15,MUN,BHA,1
+16,Victor Lindelof,D,2,Feb 20,MUN,@LEE,1
+17,Victor Lindelof,D,2,Feb 26,MUN,WAT,1
+18,Victor Lindelof,D,2,Mar 6,MUN,@MCI,1
+19,Victor Lindelof,D,2,Mar 12,MUN,TOT,0
+20,Victor Lindelof,D,2,Apr 9,MUN,@EVE,1
+21,Victor Lindelof,D,2,Apr 16,MUN,NOR,1
+22,Victor Lindelof,D,2,Apr 19,MUN,@LIV,1
+23,Victor Lindelof,D,2,Apr 23,MUN,@ARS,1
+24,Victor Lindelof,D,2,Apr 28,MUN,CHE,1
+0,Eric Bailly,D,2,Nov 6,MUN,MCI,1
+1,Eric Bailly,D,2,Nov 28,MUN,@CHE,1
+2,Eric Bailly,D,2,Dec 11,MUN,@NOR,0
+3,Eric Bailly,D,2,Dec 30,MUN,BUR,1
+0,Harry Maguire,D,2,Aug 14,MUN,LEE,1
+1,Harry Maguire,D,2,Aug 22,MUN,@SOU,1
+2,Harry Maguire,D,2,Aug 29,MUN,@WOL,1
+3,Harry Maguire,D,2,Sep 11,MUN,NEW,1
+4,Harry Maguire,D,2,Sep 19,MUN,@WHU,1
+5,Harry Maguire,D,2,Sep 25,MUN,AVL,1
+6,Harry Maguire,D,2,Oct 16,MUN,@LEI,1
+7,Harry Maguire,D,2,Oct 24,MUN,LIV,1
+8,Harry Maguire,D,2,Oct 30,MUN,@TOT,1
+9,Harry Maguire,D,2,Nov 6,MUN,MCI,1
+10,Harry Maguire,D,2,Nov 20,MUN,@WAT,1
+11,Harry Maguire,D,2,Dec 2,MUN,ARS,1
+12,Harry Maguire,D,2,Dec 5,MUN,CRY,1
+13,Harry Maguire,D,2,Dec 11,MUN,@NOR,1
+14,Harry Maguire,D,2,Dec 27,MUN,@NEW,1
+15,Harry Maguire,D,2,Dec 30,MUN,BUR,1
+16,Harry Maguire,D,2,Jan 19,MUN,@BRF,0
+17,Harry Maguire,D,2,Jan 22,MUN,WHU,1
+18,Harry Maguire,D,2,Feb 8,MUN,@BUR,1
+19,Harry Maguire,D,2,Feb 12,MUN,SOU,1
+20,Harry Maguire,D,2,Feb 15,MUN,BHA,1
+21,Harry Maguire,D,2,Feb 20,MUN,@LEE,1
+22,Harry Maguire,D,2,Mar 6,MUN,@MCI,1
+23,Harry Maguire,D,2,Mar 12,MUN,TOT,1
+24,Harry Maguire,D,2,Apr 2,MUN,LEI,1
+25,Harry Maguire,D,2,Apr 9,MUN,@EVE,1
+26,Harry Maguire,D,2,Apr 16,MUN,NOR,1
+27,Harry Maguire,D,2,Apr 19,MUN,@LIV,1
+0,Phil Jones,D,2,Jan 3,MUN,WOL,1
+1,Phil Jones,D,2,Apr 19,MUN,@LIV,1
+2,Phil Jones,D,2,Apr 28,MUN,CHE,0
+0,Luke Shaw,D,2,Aug 14,MUN,LEE,1
+1,Luke Shaw,D,2,Aug 22,MUN,@SOU,1
+2,Luke Shaw,D,2,Aug 29,MUN,@WOL,1
+3,Luke Shaw,D,2,Sep 11,MUN,NEW,1
+4,Luke Shaw,D,2,Sep 19,MUN,@WHU,1
+5,Luke Shaw,D,2,Sep 25,MUN,AVL,1
+6,Luke Shaw,D,2,Oct 2,MUN,EVE,1
+7,Luke Shaw,D,2,Oct 16,MUN,@LEI,1
+8,Luke Shaw,D,2,Oct 24,MUN,LIV,1
+9,Luke Shaw,D,2,Oct 30,MUN,@TOT,1
+10,Luke Shaw,D,2,Nov 6,MUN,MCI,1
+11,Luke Shaw,D,2,Nov 20,MUN,@WAT,1
+12,Luke Shaw,D,2,Dec 30,MUN,BUR,1
+13,Luke Shaw,D,2,Jan 3,MUN,WOL,1
+14,Luke Shaw,D,2,Feb 8,MUN,@BUR,1
+15,Luke Shaw,D,2,Feb 12,MUN,SOU,1
+16,Luke Shaw,D,2,Feb 15,MUN,BHA,1
+17,Luke Shaw,D,2,Feb 20,MUN,@LEE,1
+18,Luke Shaw,D,2,Feb 26,MUN,WAT,0
+19,Luke Shaw,D,2,Apr 2,MUN,LEI,1
+0,Alex Telles,D,2,Nov 6,MUN,MCI,0
+1,Alex Telles,D,2,Nov 28,MUN,@CHE,1
+2,Alex Telles,D,2,Dec 2,MUN,ARS,1
+3,Alex Telles,D,2,Dec 5,MUN,CRY,1
+4,Alex Telles,D,2,Dec 11,MUN,@NOR,1
+5,Alex Telles,D,2,Dec 27,MUN,@NEW,1
+6,Alex Telles,D,2,Jan 15,MUN,@AVL,1
+7,Alex Telles,D,2,Jan 19,MUN,@BRF,1
+8,Alex Telles,D,2,Jan 22,MUN,WHU,1
+9,Alex Telles,D,2,Feb 15,MUN,BHA,0
+10,Alex Telles,D,2,Feb 26,MUN,WAT,1
+11,Alex Telles,D,2,Mar 6,MUN,@MCI,1
+12,Alex Telles,D,2,Mar 12,MUN,TOT,1
+13,Alex Telles,D,2,Apr 2,MUN,LEI,0
+14,Alex Telles,D,2,Apr 9,MUN,@EVE,1
+15,Alex Telles,D,2,Apr 16,MUN,NOR,1
+16,Alex Telles,D,2,Apr 23,MUN,@ARS,1
+17,Alex Telles,D,2,Apr 28,MUN,CHE,1
+0,Nemanja Matic,M,4,Aug 14,MUN,LEE,0
+1,Nemanja Matic,M,4,Aug 22,MUN,@SOU,1
+2,Nemanja Matic,M,4,Sep 11,MUN,NEW,1
+3,Nemanja Matic,M,4,Sep 19,MUN,@WHU,0
+4,Nemanja Matic,M,4,Oct 16,MUN,@LEI,1
+5,Nemanja Matic,M,4,Oct 30,MUN,@TOT,0
+6,Nemanja Matic,M,4,Nov 20,MUN,@WAT,1
+7,Nemanja Matic,M,4,Nov 28,MUN,@CHE,1
+8,Nemanja Matic,M,4,Dec 27,MUN,@NEW,0
+9,Nemanja Matic,M,4,Dec 30,MUN,BUR,1
+10,Nemanja Matic,M,4,Jan 3,MUN,WOL,1
+11,Nemanja Matic,M,4,Jan 15,MUN,@AVL,1
+12,Nemanja Matic,M,4,Jan 19,MUN,@BRF,0
+13,Nemanja Matic,M,4,Feb 26,MUN,WAT,1
+14,Nemanja Matic,M,4,Mar 12,MUN,TOT,1
+15,Nemanja Matic,M,4,Apr 2,MUN,LEI,0
+16,Nemanja Matic,M,4,Apr 9,MUN,@EVE,1
+17,Nemanja Matic,M,4,Apr 16,MUN,NOR,0
+18,Nemanja Matic,M,4,Apr 19,MUN,@LIV,1
+19,Nemanja Matic,M,4,Apr 23,MUN,@ARS,1
+20,Nemanja Matic,M,4,Apr 28,MUN,CHE,1
+0,Scott McTominay,M,4,Aug 14,MUN,LEE,1
+1,Scott McTominay,M,4,Aug 22,MUN,@SOU,0
+2,Scott McTominay,M,4,Sep 19,MUN,@WHU,1
+3,Scott McTominay,M,4,Sep 25,MUN,AVL,1
+4,Scott McTominay,M,4,Oct 2,MUN,EVE,1
+5,Scott McTominay,M,4,Oct 16,MUN,@LEI,0
+6,Scott McTominay,M,4,Oct 24,MUN,LIV,1
+7,Scott McTominay,M,4,Oct 30,MUN,@TOT,1
+8,Scott McTominay,M,4,Nov 6,MUN,MCI,1
+9,Scott McTominay,M,4,Nov 20,MUN,@WAT,1
+10,Scott McTominay,M,4,Nov 28,MUN,@CHE,1
+11,Scott McTominay,M,4,Dec 2,MUN,ARS,1
+12,Scott McTominay,M,4,Dec 5,MUN,CRY,1
+13,Scott McTominay,M,4,Dec 11,MUN,@NOR,1
+14,Scott McTominay,M,4,Dec 27,MUN,@NEW,1
+15,Scott McTominay,M,4,Dec 30,MUN,BUR,1
+16,Scott McTominay,M,4,Jan 3,MUN,WOL,1
+17,Scott McTominay,M,4,Jan 19,MUN,@BRF,1
+18,Scott McTominay,M,4,Jan 22,MUN,WHU,1
+19,Scott McTominay,M,4,Feb 8,MUN,@BUR,1
+20,Scott McTominay,M,4,Feb 12,MUN,SOU,1
+21,Scott McTominay,M,4,Feb 15,MUN,BHA,1
+22,Scott McTominay,M,4,Feb 20,MUN,@LEE,1
+23,Scott McTominay,M,4,Mar 6,MUN,@MCI,1
+24,Scott McTominay,M,4,Apr 2,MUN,LEI,1
+25,Scott McTominay,M,4,Apr 23,MUN,@ARS,1
+26,Scott McTominay,M,4,Apr 28,MUN,CHE,1
+0,Fred,M,4,Aug 14,MUN,LEE,1
+1,Fred,M,4,Aug 22,MUN,@SOU,1
+2,Fred,M,4,Aug 29,MUN,@WOL,1
+3,Fred,M,4,Sep 19,MUN,@WHU,1
+4,Fred,M,4,Sep 25,MUN,AVL,1
+5,Fred,M,4,Oct 2,MUN,EVE,1
+6,Fred,M,4,Oct 24,MUN,LIV,1
+7,Fred,M,4,Oct 30,MUN,@TOT,1
+8,Fred,M,4,Nov 6,MUN,MCI,1
+9,Fred,M,4,Nov 28,MUN,@CHE,1
+10,Fred,M,4,Dec 2,MUN,ARS,1
+11,Fred,M,4,Dec 5,MUN,CRY,1
+12,Fred,M,4,Dec 11,MUN,@NOR,1
+13,Fred,M,4,Dec 27,MUN,@NEW,1
+14,Fred,M,4,Dec 30,MUN,BUR,0
+15,Fred,M,4,Jan 15,MUN,@AVL,1
+16,Fred,M,4,Jan 19,MUN,@BRF,1
+17,Fred,M,4,Jan 22,MUN,WHU,1
+18,Fred,M,4,Feb 15,MUN,BHA,1
+19,Fred,M,4,Feb 20,MUN,@LEE,0
+20,Fred,M,4,Feb 26,MUN,WAT,1
+21,Fred,M,4,Mar 6,MUN,@MCI,1
+22,Fred,M,4,Mar 12,MUN,TOT,1
+23,Fred,M,4,Apr 2,MUN,LEI,1
+24,Fred,M,4,Apr 9,MUN,@EVE,1
+0,Bruno Fernandes,M,4,Aug 14,MUN,LEE,1
+1,Bruno Fernandes,M,4,Aug 22,MUN,@SOU,1
+2,Bruno Fernandes,M,4,Aug 29,MUN,@WOL,1
+3,Bruno Fernandes,M,4,Sep 11,MUN,NEW,1
+4,Bruno Fernandes,M,4,Sep 19,MUN,@WHU,1
+5,Bruno Fernandes,M,4,Sep 25,MUN,AVL,1
+6,Bruno Fernandes,M,4,Oct 2,MUN,EVE,1
+7,Bruno Fernandes,M,4,Oct 16,MUN,@LEI,1
+8,Bruno Fernandes,M,4,Oct 24,MUN,LIV,1
+9,Bruno Fernandes,M,4,Oct 30,MUN,@TOT,1
+10,Bruno Fernandes,M,4,Nov 6,MUN,MCI,1
+11,Bruno Fernandes,M,4,Nov 20,MUN,@WAT,1
+12,Bruno Fernandes,M,4,Nov 28,MUN,@CHE,1
+13,Bruno Fernandes,M,4,Dec 2,MUN,ARS,1
+14,Bruno Fernandes,M,4,Dec 5,MUN,CRY,1
+15,Bruno Fernandes,M,4,Dec 11,MUN,@NOR,1
+16,Bruno Fernandes,M,4,Dec 27,MUN,@NEW,1
+17,Bruno Fernandes,M,4,Jan 3,MUN,WOL,0
+18,Bruno Fernandes,M,4,Jan 15,MUN,@AVL,1
+19,Bruno Fernandes,M,4,Jan 19,MUN,@BRF,1
+20,Bruno Fernandes,M,4,Jan 22,MUN,WHU,1
+21,Bruno Fernandes,M,4,Feb 8,MUN,@BUR,1
+22,Bruno Fernandes,M,4,Feb 12,MUN,SOU,1
+23,Bruno Fernandes,M,4,Feb 15,MUN,BHA,1
+24,Bruno Fernandes,M,4,Feb 20,MUN,@LEE,1
+25,Bruno Fernandes,M,4,Feb 26,MUN,WAT,1
+26,Bruno Fernandes,M,4,Mar 6,MUN,@MCI,1
+27,Bruno Fernandes,M,4,Apr 2,MUN,LEI,1
+28,Bruno Fernandes,M,4,Apr 9,MUN,@EVE,1
+29,Bruno Fernandes,M,4,Apr 16,MUN,NOR,1
+30,Bruno Fernandes,M,4,Apr 19,MUN,@LIV,1
+31,Bruno Fernandes,M,4,Apr 23,MUN,@ARS,1
+32,Bruno Fernandes,M,4,Apr 28,MUN,CHE,1
+0,Paul Pogba,M,4,Aug 14,MUN,LEE,1
+1,Paul Pogba,M,4,Aug 22,MUN,@SOU,1
+2,Paul Pogba,M,4,Aug 29,MUN,@WOL,1
+3,Paul Pogba,M,4,Sep 11,MUN,NEW,1
+4,Paul Pogba,M,4,Sep 19,MUN,@WHU,1
+5,Paul Pogba,M,4,Sep 25,MUN,AVL,1
+6,Paul Pogba,M,4,Oct 2,MUN,EVE,0
+7,Paul Pogba,M,4,Oct 16,MUN,@LEI,1
+8,Paul Pogba,M,4,Oct 24,MUN,LIV,0
+9,Paul Pogba,M,4,Feb 8,MUN,@BUR,1
+10,Paul Pogba,M,4,Feb 12,MUN,SOU,1
+11,Paul Pogba,M,4,Feb 15,MUN,BHA,0
+12,Paul Pogba,M,4,Feb 20,MUN,@LEE,1
+13,Paul Pogba,M,4,Feb 26,MUN,WAT,1
+14,Paul Pogba,M,4,Mar 6,MUN,@MCI,1
+15,Paul Pogba,M,4,Mar 12,MUN,TOT,1
+16,Paul Pogba,M,4,Apr 2,MUN,LEI,1
+17,Paul Pogba,M,4,Apr 9,MUN,@EVE,0
+18,Paul Pogba,M,4,Apr 16,MUN,NOR,1
+19,Paul Pogba,M,4,Apr 19,MUN,@LIV,1
+0,Hannibal Mejbri,Apr 19,MUN,@LIV,0
+0,Juan Mata,M,4,Apr 9,MUN,@EVE,0
+1,Juan Mata,M,4,Apr 16,MUN,NOR,0
+2,Juan Mata,M,4,Apr 23,MUN,@ARS,0
+3,Juan Mata,M,4,Apr 28,MUN,CHE,0
+0,Jesse Lingard,M,4,Aug 22,MUN,@SOU,0
+1,Jesse Lingard,M,4,Sep 11,MUN,NEW,0
+2,Jesse Lingard,M,4,Sep 19,MUN,@WHU,0
+3,Jesse Lingard,M,4,Oct 16,MUN,@LEI,0
+4,Jesse Lingard,M,4,Oct 30,MUN,@TOT,0
+5,Jesse Lingard,M,4,Nov 20,MUN,@WAT,0
+6,Jesse Lingard,M,4,Nov 28,MUN,@CHE,0
+7,Jesse Lingard,M,4,Dec 2,MUN,ARS,0
+8,Jesse Lingard,M,4,Jan 15,MUN,@AVL,0
+9,Jesse Lingard,M,4,Feb 8,MUN,@BUR,0
+10,Jesse Lingard,M,4,Feb 12,MUN,SOU,0
+11,Jesse Lingard,M,4,Feb 20,MUN,@LEE,1
+12,Jesse Lingard,M,4,Mar 6,MUN,@MCI,0
+13,Jesse Lingard,M,4,Apr 16,MUN,NOR,1
+14,Jesse Lingard,M,4,Apr 19,MUN,@LIV,0
+15,Jesse Lingard,M,4,Apr 23,MUN,@ARS,0
+0,Alejandro Garnacho,M,4,Apr 28,MUN,CHE,0
+0,Jadon Sancho,"M,F",5,Aug 14,MUN,LEE,0
+1,Jadon Sancho,"M,F",5,Aug 22,MUN,@SOU,0
+2,Jadon Sancho,"M,F",5,Aug 29,MUN,@WOL,1
+3,Jadon Sancho,"M,F",5,Sep 11,MUN,NEW,1
+4,Jadon Sancho,"M,F",5,Sep 19,MUN,@WHU,0
+5,Jadon Sancho,"M,F",5,Oct 2,MUN,EVE,0
+6,Jadon Sancho,"M,F",5,Oct 16,MUN,@LEI,1
+7,Jadon Sancho,"M,F",5,Nov 6,MUN,MCI,0
+8,Jadon Sancho,"M,F",5,Nov 20,MUN,@WAT,1
+9,Jadon Sancho,"M,F",5,Nov 28,MUN,@CHE,1
+10,Jadon Sancho,"M,F",5,Dec 2,MUN,ARS,1
+11,Jadon Sancho,"M,F",5,Dec 5,MUN,CRY,1
+12,Jadon Sancho,"M,F",5,Dec 11,MUN,@NOR,1
+13,Jadon Sancho,"M,F",5,Dec 27,MUN,@NEW,0
+14,Jadon Sancho,"M,F",5,Dec 30,MUN,BUR,1
+15,Jadon Sancho,"M,F",5,Jan 3,MUN,WOL,1
+16,Jadon Sancho,"M,F",5,Jan 15,MUN,@AVL,0
+17,Jadon Sancho,"M,F",5,Feb 8,MUN,@BUR,1
+18,Jadon Sancho,"M,F",5,Feb 12,MUN,SOU,1
+19,Jadon Sancho,"M,F",5,Feb 15,MUN,BHA,1
+20,Jadon Sancho,"M,F",5,Feb 20,MUN,@LEE,1
+21,Jadon Sancho,"M,F",5,Feb 26,MUN,WAT,0
+22,Jadon Sancho,"M,F",5,Mar 6,MUN,@MCI,1
+23,Jadon Sancho,"M,F",5,Mar 12,MUN,TOT,1
+24,Jadon Sancho,"M,F",5,Apr 2,MUN,LEI,1
+25,Jadon Sancho,"M,F",5,Apr 9,MUN,@EVE,1
+26,Jadon Sancho,"M,F",5,Apr 16,MUN,NOR,1
+27,Jadon Sancho,"M,F",5,Apr 19,MUN,@LIV,0
+28,Jadon Sancho,"M,F",5,Apr 23,MUN,@ARS,1
+0,Mason Greenwood,"M,F",5,Aug 14,MUN,LEE,1
+1,Mason Greenwood,"M,F",5,Aug 22,MUN,@SOU,1
+2,Mason Greenwood,"M,F",5,Aug 29,MUN,@WOL,1
+3,Mason Greenwood,"M,F",5,Sep 11,MUN,NEW,1
+4,Mason Greenwood,"M,F",5,Sep 19,MUN,@WHU,1
+5,Mason Greenwood,"M,F",5,Sep 25,MUN,AVL,1
+6,Mason Greenwood,"M,F",5,Oct 2,MUN,EVE,1
+7,Mason Greenwood,"M,F",5,Oct 16,MUN,@LEI,1
+8,Mason Greenwood,"M,F",5,Oct 24,MUN,LIV,1
+9,Mason Greenwood,"M,F",5,Nov 6,MUN,MCI,1
+10,Mason Greenwood,"M,F",5,Dec 5,MUN,CRY,0
+11,Mason Greenwood,"M,F",5,Dec 11,MUN,@NOR,0
+12,Mason Greenwood,"M,F",5,Dec 27,MUN,@NEW,1
+13,Mason Greenwood,"M,F",5,Dec 30,MUN,BUR,1
+14,Mason Greenwood,"M,F",5,Jan 3,MUN,WOL,1
+15,Mason Greenwood,"M,F",5,Jan 15,MUN,@AVL,1
+16,Mason Greenwood,"M,F",5,Jan 19,MUN,@BRF,1
+17,Mason Greenwood,"M,F",5,Jan 22,MUN,WHU,1
+0,Marcus Rashford,"M,F",5,Oct 16,MUN,@LEI,0
+1,Marcus Rashford,"M,F",5,Oct 24,MUN,LIV,1
+2,Marcus Rashford,"M,F",5,Oct 30,MUN,@TOT,0
+3,Marcus Rashford,"M,F",5,Nov 6,MUN,MCI,0
+4,Marcus Rashford,"M,F",5,Nov 20,MUN,@WAT,1
+5,Marcus Rashford,"M,F",5,Nov 28,MUN,@CHE,1
+6,Marcus Rashford,"M,F",5,Dec 2,MUN,ARS,1
+7,Marcus Rashford,"M,F",5,Dec 5,MUN,CRY,1
+8,Marcus Rashford,"M,F",5,Dec 11,MUN,@NOR,1
+9,Marcus Rashford,"M,F",5,Dec 27,MUN,@NEW,1
+10,Marcus Rashford,"M,F",5,Jan 3,MUN,WOL,0
+11,Marcus Rashford,"M,F",5,Jan 19,MUN,@BRF,0
+12,Marcus Rashford,"M,F",5,Jan 22,MUN,WHU,0
+13,Marcus Rashford,"M,F",5,Feb 8,MUN,@BUR,1
+14,Marcus Rashford,"M,F",5,Feb 12,MUN,SOU,1
+15,Marcus Rashford,"M,F",5,Feb 15,MUN,BHA,0
+16,Marcus Rashford,"M,F",5,Feb 26,MUN,WAT,0
+17,Marcus Rashford,"M,F",5,Mar 6,MUN,@MCI,0
+18,Marcus Rashford,"M,F",5,Mar 12,MUN,TOT,1
+19,Marcus Rashford,"M,F",5,Apr 2,MUN,LEI,0
+20,Marcus Rashford,"M,F",5,Apr 9,MUN,@EVE,1
+21,Marcus Rashford,"M,F",5,Apr 16,MUN,NOR,0
+22,Marcus Rashford,"M,F",5,Apr 19,MUN,@LIV,1
+23,Marcus Rashford,"M,F",5,Apr 23,MUN,@ARS,0
+24,Marcus Rashford,"M,F",5,Apr 28,MUN,CHE,1
+0,Anthony Elanga,F,6,Dec 5,MUN,CRY,0
+1,Anthony Elanga,F,6,Jan 3,MUN,WOL,0
+2,Anthony Elanga,F,6,Jan 15,MUN,@AVL,1
+3,Anthony Elanga,F,6,Jan 19,MUN,@BRF,1
+4,Anthony Elanga,F,6,Jan 22,MUN,WHU,1
+5,Anthony Elanga,F,6,Feb 8,MUN,@BUR,0
+6,Anthony Elanga,F,6,Feb 12,MUN,SOU,0
+7,Anthony Elanga,F,6,Feb 15,MUN,BHA,1
+8,Anthony Elanga,F,6,Feb 20,MUN,@LEE,0
+9,Anthony Elanga,F,6,Feb 26,MUN,WAT,1
+10,Anthony Elanga,F,6,Mar 6,MUN,@MCI,1
+11,Anthony Elanga,F,6,Mar 12,MUN,TOT,0
+12,Anthony Elanga,F,6,Apr 2,MUN,LEI,1
+13,Anthony Elanga,F,6,Apr 9,MUN,@EVE,0
+14,Anthony Elanga,F,6,Apr 16,MUN,NOR,1
+15,Anthony Elanga,F,6,Apr 19,MUN,@LIV,1
+16,Anthony Elanga,F,6,Apr 23,MUN,@ARS,1
+17,Anthony Elanga,F,6,Apr 28,MUN,CHE,1
+0,Cristiano Ronaldo,F,6,Sep 11,MUN,NEW,1
+1,Cristiano Ronaldo,F,6,Sep 19,MUN,@WHU,1
+2,Cristiano Ronaldo,F,6,Sep 25,MUN,AVL,1
+3,Cristiano Ronaldo,F,6,Oct 2,MUN,EVE,0
+4,Cristiano Ronaldo,F,6,Oct 16,MUN,@LEI,1
+5,Cristiano Ronaldo,F,6,Oct 24,MUN,LIV,1
+6,Cristiano Ronaldo,F,6,Oct 30,MUN,@TOT,1
+7,Cristiano Ronaldo,F,6,Nov 6,MUN,MCI,1
+8,Cristiano Ronaldo,F,6,Nov 20,MUN,@WAT,1
+9,Cristiano Ronaldo,F,6,Nov 28,MUN,@CHE,0
+10,Cristiano Ronaldo,F,6,Dec 2,MUN,ARS,1
+11,Cristiano Ronaldo,F,6,Dec 5,MUN,CRY,1
+12,Cristiano Ronaldo,F,6,Dec 11,MUN,@NOR,1
+13,Cristiano Ronaldo,F,6,Dec 27,MUN,@NEW,1
+14,Cristiano Ronaldo,F,6,Dec 30,MUN,BUR,1
+15,Cristiano Ronaldo,F,6,Jan 3,MUN,WOL,1
+16,Cristiano Ronaldo,F,6,Jan 19,MUN,@BRF,1
+17,Cristiano Ronaldo,F,6,Jan 22,MUN,WHU,1
+18,Cristiano Ronaldo,F,6,Feb 8,MUN,@BUR,0
+19,Cristiano Ronaldo,F,6,Feb 12,MUN,SOU,1
+20,Cristiano Ronaldo,F,6,Feb 15,MUN,BHA,1
+21,Cristiano Ronaldo,F,6,Feb 20,MUN,@LEE,1
+22,Cristiano Ronaldo,F,6,Feb 26,MUN,WAT,1
+23,Cristiano Ronaldo,F,6,Mar 12,MUN,TOT,1
+24,Cristiano Ronaldo,F,6,Apr 9,MUN,@EVE,1
+25,Cristiano Ronaldo,F,6,Apr 16,MUN,NOR,1
+26,Cristiano Ronaldo,F,6,Apr 23,MUN,@ARS,1
+27,Cristiano Ronaldo,F,6,Apr 28,MUN,CHE,1
+0,Anthony Martial,F,6,Aug 14,MUN,LEE,0
+1,Anthony Martial,F,6,Aug 22,MUN,@SOU,1
+2,Anthony Martial,F,6,Aug 29,MUN,@WOL,0
+3,Anthony Martial,F,6,Sep 11,MUN,NEW,0
+4,Anthony Martial,F,6,Oct 2,MUN,EVE,1
+5,Anthony Martial,F,6,Nov 20,MUN,@WAT,0
+6,Anthony Martial,F,6,Dec 2,MUN,ARS,0
+7,Anthony Martial,F,6,Jan 22,MUN,WHU,0
+0,Edinson Cavani,F,6,Aug 29,MUN,@WOL,0
+1,Edinson Cavani,F,6,Sep 25,MUN,AVL,0
+2,Edinson Cavani,F,6,Oct 2,MUN,EVE,1
+3,Edinson Cavani,F,6,Oct 24,MUN,LIV,0
+4,Edinson Cavani,F,6,Oct 30,MUN,@TOT,1
+5,Edinson Cavani,F,6,Dec 27,MUN,@NEW,0
+6,Edinson Cavani,F,6,Dec 30,MUN,BUR,1
+7,Edinson Cavani,F,6,Jan 3,MUN,WOL,1
+8,Edinson Cavani,F,6,Jan 15,MUN,@AVL,1
+9,Edinson Cavani,F,6,Jan 22,MUN,WHU,0
+10,Edinson Cavani,F,6,Feb 8,MUN,@BUR,1
+11,Edinson Cavani,F,6,Mar 12,MUN,TOT,0

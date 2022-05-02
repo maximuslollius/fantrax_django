@@ -1,0 +1,281 @@
+,Unnamed: 0,player,position,position_id,date,team,opp,score,fpts,min,goals,start
+0,0,Bernd Leno,G,1,Aug 13,ARS,@BRF,L 0-2,4.0,90.0,0.0,
+1,0,Calum Chambers,D,2,Aug 13,ARS,@BRF,L 0-2,7.2,80.0,0.0,
+2,0,Ben White,D,2,Aug 13,ARS,@BRF,L 0-2,5.1,90.0,0.0,
+3,0,Pablo Mari,D,2,Aug 13,ARS,@BRF,L 0-2,6.7,90.0,0.0,
+4,0,Kieran Tierney,D,2,Aug 13,ARS,@BRF,L 0-2,13.6,90.0,0.0,
+5,0,Nuno Tavares,D,2,Aug 13,ARS,@BRF,L 0-2,1.1,8.0,0.0,
+6,0,Albert Sambi Lokonga,M,4,Aug 13,ARS,@BRF,L 0-2,12.1,90.0,0.0,
+7,0,Granit Xhaka,M,4,Aug 13,ARS,@BRF,L 0-2,10.75,90.0,0.0,
+8,0,Emile Smith Rowe,M,4,Aug 13,ARS,@BRF,L 0-2,9.25,90.0,0.0,
+9,0,Bukayo Saka,M,4,Aug 13,ARS,@BRF,L 0-2,5.25,30.0,0.0,
+10,0,Gabriel Martinelli,M,4,Aug 13,ARS,@BRF,L 0-2,6.25,70.0,0.0,
+11,0,Nicolas Pepe,"M,F",5,Aug 13,ARS,@BRF,L 0-2,12.1,90.0,0.0,
+12,0,Reiss Nelson,F,6,Aug 13,ARS,@BRF,L 0-2,2.5,18.0,0.0,
+13,0,Folarin Balogun,F,6,Aug 13,ARS,@BRF,L 0-2,2.75,58.0,0.0,
+14,0,Emiliano Martinez,G,1,Aug 14,AVL,@WAT,L 2-3,8.0,90.0,0.0,1.0
+15,0,Matthew Cash,D,2,Aug 14,AVL,@WAT,L 2-3,13.5,90.0,0.0,1.0
+16,0,Tyrone Mings,D,2,Aug 14,AVL,@WAT,L 2-3,6.35,90.0,0.0,1.0
+17,0,Ezri Konsa Ngoyo,D,2,Aug 14,AVL,@WAT,L 2-3,7.7,90.0,0.0,1.0
+18,0,Matt Targett,D,2,Aug 14,AVL,@WAT,L 2-3,2.5,44.0,0.0,1.0
+19,0,Ashley Young,D,2,Aug 14,AVL,@WAT,L 2-3,9.1,90.0,0.0,1.0
+20,0,Marvelous Nakamba,M,4,Aug 14,AVL,@WAT,L 2-3,9.5,90.0,0.0,1.0
+21,0,John McGinn,M,4,Aug 14,AVL,@WAT,L 2-3,17.35,90.0,1.0,1.0
+22,0,Jacob Ramsey,M,4,Aug 14,AVL,@WAT,L 2-3,3.75,44.0,0.0,0.0
+23,0,Emiliano Buendia,M,4,Aug 14,AVL,@WAT,L 2-3,5.25,71.0,0.0,1.0
+24,0,Anwar El Ghazi,M,4,Aug 14,AVL,@WAT,L 2-3,2.35,59.0,0.0,1.0
+25,0,Bertrand Traore,"M,F",5,Aug 14,AVL,@WAT,L 2-3,8.0,17.0,0.0,0.0
+26,0,Leon Bailey,F,6,Aug 14,AVL,@WAT,L 2-3,10.25,29.0,0.0,0.0
+27,0,Danny Ings,F,6,Aug 14,AVL,@WAT,L 2-3,15.25,90.0,1.0,1.0
+28,0,David Raya Martin,G,1,Aug 13,BRF,ARS,,,,,1.0
+29,0,Kristoffer Ajer,D,2,Aug 13,BRF,ARS,,,,,1.0
+30,0,Mads Bech Sorensen,D,2,Aug 13,BRF,ARS,,,,,0.0
+31,0,Pontus Jansson,D,2,Aug 13,BRF,ARS,,,,,1.0
+32,0,Ethan Pinnock,D,2,Aug 13,BRF,ARS,,,,,1.0
+33,0,Rico Henry,D,2,Aug 13,BRF,ARS,,,,,1.0
+34,0,Frank Onyeka,M,4,Aug 13,BRF,ARS,,,,,1.0
+35,0,Mads Bidstrup,M,4,Aug 13,BRF,ARS,,,,,0.0
+36,0,Christian Norgaard,M,4,Aug 13,BRF,ARS,,,,,1.0
+37,0,Vitaly Janelt,M,4,Aug 13,BRF,ARS,,,,,1.0
+38,0,Sergi Canos,F,6,Aug 13,BRF,ARS,,,,,1.0
+39,0,Bryan Mbeumo,F,6,Aug 13,BRF,ARS,,,,,1.0
+40,0,Marcus Forss,F,6,Aug 13,BRF,ARS,,,,,0.0
+41,0,Ivan Toney,F,6,Aug 13,BRF,ARS,,,,,1.0
+42,0,Robert Sanchez,G,1,Aug 14,BHA,@BUR,W 2-1,11.0,90.0,0.0,1.0
+43,0,Adam Webster,D,2,Aug 14,BHA,@BUR,W 2-1,9.55,90.0,0.0,1.0
+44,0,Shane Duffy,D,2,Aug 14,BHA,@BUR,W 2-1,13.75,90.0,0.0,1.0
+45,0,Lewis Dunk,D,2,Aug 14,BHA,@BUR,W 2-1,7.65,90.0,0.0,1.0
+46,0,Solly March,M,4,Aug 14,BHA,@BUR,W 2-1,9.25,90.0,0.0,1.0
+47,0,Pascal Gross,M,4,Aug 14,BHA,@BUR,W 2-1,14.9,90.0,0.0,1.0
+48,0,Yves Bissouma,M,4,Aug 14,BHA,@BUR,W 2-1,5.35,90.0,0.0,1.0
+49,0,Enock Mwepu,M,4,Aug 14,BHA,@BUR,W 2-1,3.25,44.0,0.0,1.0
+50,0,Steven Alzate,M,4,Aug 14,BHA,@BUR,W 2-1,6.75,71.0,0.0,1.0
+51,0,Jakub Moder,M,4,Aug 14,BHA,@BUR,W 2-1,10.0,17.0,0.0,0.0
+52,0,Adam Lallana,M,4,Aug 14,BHA,@BUR,W 2-1,2.5,44.0,0.0,0.0
+53,0,Alexis Mac Allister,M,4,Aug 14,BHA,@BUR,W 2-1,12.85,13.0,1.0,0.0
+54,0,Leandro Trossard,"M,F",5,Aug 14,BHA,@BUR,W 2-1,6.25,75.0,0.0,1.0
+55,0,Neal Maupay,F,6,Aug 14,BHA,@BUR,W 2-1,11.0,90.0,1.0,1.0
+56,0,Nick Pope,G,1,Aug 14,BUR,BHA,L 1-2,8.5,90.0,0.0,1.0
+57,0,Matthew Lowton,D,2,Aug 14,BUR,BHA,L 1-2,9.1,90.0,0.0,1.0
+58,0,James Tarkowski,D,2,Aug 14,BUR,BHA,L 1-2,17.7,90.0,1.0,1.0
+59,0,Ben Mee,D,2,Aug 14,BUR,BHA,L 1-2,8.05,90.0,0.0,1.0
+60,0,Charlie Taylor,D,2,Aug 14,BUR,BHA,L 1-2,10.5,90.0,0.0,1.0
+61,0,Johann Gudmundsson,M,4,Aug 14,BUR,BHA,L 1-2,8.2,90.0,0.0,1.0
+62,0,Ashley Westwood,M,4,Aug 14,BUR,BHA,L 1-2,16.1,90.0,0.0,1.0
+63,0,Jack Cork,M,4,Aug 14,BUR,BHA,L 1-2,4.7,84.0,0.0,1.0
+64,0,Josh Brownhill,M,4,Aug 14,BUR,BHA,L 1-2,5.75,10.0,0.0,0.0
+65,0,Dwight McNeil,M,4,Aug 14,BUR,BHA,L 1-2,10.6,78.0,0.0,1.0
+66,0,Chris Wood,F,6,Aug 14,BUR,BHA,L 1-2,7.5,90.0,0.0,1.0
+67,0,Ashley Barnes,F,6,Aug 14,BUR,BHA,L 1-2,3.25,19.0,0.0,0.0
+68,0,Matej Vydra,F,6,Aug 14,BUR,BHA,L 1-2,1.25,4.0,0.0,0.0
+69,0,Jay Rodriguez,F,6,Aug 14,BUR,BHA,L 1-2,9.0,69.0,0.0,1.0
+70,0,Edouard Mendy,G,1,Aug 14,CHE,CRY,W 3-0,13.5,90.0,1.0,
+71,0,Reece James,D,2,Aug 14,CHE,CRY,W 3-0,3.0,22.0,0.0,
+72,0,Cesar Azpilicueta,D,2,Aug 14,CHE,CRY,W 3-0,15.1,66.0,0.0,
+73,0,Andreas Christensen,D,2,Aug 14,CHE,CRY,W 3-0,16.55,90.0,0.0,
+74,0,Antonio Rudiger,D,2,Aug 14,CHE,CRY,W 3-0,13.1,90.0,0.0,
+75,0,Marcos Alonso,D,2,Aug 14,CHE,CRY,W 3-0,30.1,85.0,1.0,
+76,0,Emerson,D,2,Aug 14,CHE,CRY,W 3-0,1.0,3.0,0.0,
+77,0,Trevoh Chalobah,M,4,Aug 14,CHE,CRY,W 3-0,17.95,90.0,1.0,
+78,0,Jorginho,M,4,Aug 14,CHE,CRY,W 3-0,9.75,90.0,0.0,
+79,0,Mateo Kovacic,M,4,Aug 14,CHE,CRY,W 3-0,18.75,90.0,0.0,
+80,0,Kai Havertz,M,4,Aug 14,CHE,CRY,W 3-0,1.0,7.0,0.0,
+81,0,Mason Mount,"M,F",5,Aug 14,CHE,CRY,W 3-0,15.0,90.0,0.0,
+82,0,Christian Pulisic,"M,F",5,Aug 14,CHE,CRY,W 3-0,17.5,81.0,1.0,
+83,0,Timo Werner,F,6,Aug 14,CHE,CRY,W 3-0,5.5,90.0,0.0,
+84,0,Vicente Guaita,G,1,Aug 14,CRY,@CHE,L 0-3,7.5,90.0,0.0,
+85,0,Joel Ward,D,2,Aug 14,CRY,@CHE,L 0-3,8.2,90.0,0.0,
+86,0,Addji Keaninkin Marc-Israel Guehi,D,2,Aug 14,CRY,@CHE,L 0-3,5.55,90.0,0.0,
+87,0,Joachim Andersen,D,2,Aug 14,CRY,@CHE,L 0-3,3.85,32.0,0.0,
+88,0,Tyrick Mitchell,D,2,Aug 14,CRY,@CHE,L 0-3,3.35,90.0,0.0,
+89,0,Cheikhou Kouyate,"D,M",3,Aug 14,CRY,@CHE,L 0-3,6.45,90.0,0.0,
+90,0,Jairo Riedewald,M,4,Aug 14,CRY,@CHE,L 0-3,4.35,75.0,0.0,
+91,0,James McArthur,M,4,Aug 14,CRY,@CHE,L 0-3,13.9,90.0,0.0,
+92,0,Jesurun Rak-Sakyi,M,4,Aug 14,CRY,@CHE,L 0-3,2.0,13.0,0.0,
+93,0,Jeffrey Schlupp,M,4,Aug 14,CRY,@CHE,L 0-3,7.35,56.0,0.0,
+94,0,Jordan Ayew,F,6,Aug 14,CRY,@CHE,L 0-3,9.35,90.0,0.0,
+95,0,Wilfried Zaha,F,6,Aug 14,CRY,@CHE,L 0-3,3.6,90.0,0.0,
+96,0,Christian Benteke,F,6,Aug 14,CRY,@CHE,L 0-3,1.5,32.0,0.0,
+97,0,Jean-Philippe Mateta,F,6,Aug 14,CRY,@CHE,L 0-3,5.75,56.0,0.0,
+98,0,Jordan Pickford,G,1,Aug 14,EVE,SOU,W 3-1,7.0,90.0,0.0,
+99,0,Seamus Coleman,D,2,Aug 14,EVE,SOU,W 3-1,10.2,90.0,0.0,
+100,0,Mason Holgate,D,2,Aug 14,EVE,SOU,W 3-1,8.1,90.0,0.0,
+101,0,Yerry Mina,D,2,Aug 14,EVE,SOU,W 3-1,1.1,6.0,0.0,
+102,0,Michael Keane,D,2,Aug 14,EVE,SOU,W 3-1,7.5,90.0,0.0,
+103,0,Lucas Digne,D,2,Aug 14,EVE,SOU,W 3-1,9.45,90.0,0.0,
+104,0,Allan,M,4,Aug 14,EVE,SOU,W 3-1,4.8,90.0,0.0,
+105,0,Abdoulaye Doucoure,M,4,Aug 14,EVE,SOU,W 3-1,15.7,90.0,1.0,
+106,0,Andros Townsend,M,4,Aug 14,EVE,SOU,W 3-1,15.5,69.0,0.0,
+107,0,Alex Iwobi,"M,F",5,Aug 14,EVE,SOU,W 3-1,10.85,19.0,0.0,
+108,0,Demarai Gray,F,6,Aug 14,EVE,SOU,W 3-1,8.0,82.0,0.0,
+109,0,Anthony Gordon,F,6,Aug 14,EVE,SOU,W 3-1,0.75,1.0,0.0,
+110,0,Richarlison,F,6,Aug 14,EVE,SOU,W 3-1,24.2,88.0,1.0,
+111,0,Dominic Calvert-Lewin,F,6,Aug 14,EVE,SOU,W 3-1,18.0,90.0,1.0,
+112,0,Illan Meslier,G,1,Aug 14,LEE,@MUN,L 1-5,8.5,90.0,0.0,
+113,0,Luke Ayling,D,2,Aug 14,LEE,@MUN,L 1-5,17.3,90.0,1.0,
+114,0,Robin Koch,D,2,Aug 14,LEE,@MUN,L 1-5,13.3,90.0,0.0,
+115,0,Liam Cooper,D,2,Aug 14,LEE,@MUN,L 1-5,6.75,90.0,0.0,
+116,0,Pascal Struijk,D,2,Aug 14,LEE,@MUN,L 1-5,7.3,90.0,0.0,
+117,0,Junior Firpo,D,2,Aug 14,LEE,@MUN,L 1-5,2.0,44.0,0.0,
+118,0,Stuart Dallas,"D,M",3,Aug 14,LEE,@MUN,L 1-5,13.35,90.0,0.0,
+119,0,Mateusz Klich,M,4,Aug 14,LEE,@MUN,L 1-5,7.25,90.0,0.0,
+120,0,Raphinha,M,4,Aug 14,LEE,@MUN,L 1-5,10.5,90.0,0.0,
+121,0,Jack Harrison,M,4,Aug 14,LEE,@MUN,L 1-5,8.5,69.0,0.0,
+122,0,Helder Costa,M,4,Aug 14,LEE,@MUN,L 1-5,1.25,19.0,0.0,
+123,0,Tyler Roberts,"M,F",5,Aug 14,LEE,@MUN,L 1-5,3.0,12.0,0.0,
+124,0,Rodrigo,F,6,Aug 14,LEE,@MUN,L 1-5,4.5,44.0,0.0,
+125,0,Patrick Bamford,F,6,Aug 14,LEE,@MUN,L 1-5,4.25,76.0,0.0,
+126,0,Kasper Schmeichel,G,1,Aug 14,LEI,WOL,W 1-0,17.0,90.0,1.0,
+127,0,Ricardo Pereira,D,2,Aug 14,LEI,WOL,W 1-0,23.6,90.0,0.0,
+128,0,Daniel Amartey,D,2,Aug 14,LEI,WOL,W 1-0,16.7,90.0,0.0,
+129,0,Caglar Soyuncu,D,2,Aug 14,LEI,WOL,W 1-0,13.95,90.0,0.0,
+130,0,Jannik Vestergaard,D,2,Aug 14,LEI,WOL,W 1-0,1.35,27.0,0.0,
+131,0,Luke Thomas,D,2,Aug 14,LEI,WOL,W 1-0,20.2,90.0,0.0,
+132,0,Wilfred Ndidi,M,4,Aug 14,LEI,WOL,W 1-0,12.7,90.0,0.0,
+133,0,Boubakary Soumare,M,4,Aug 14,LEI,WOL,W 1-0,3.35,27.0,0.0,
+134,0,Youri Tielemans,M,4,Aug 14,LEI,WOL,W 1-0,13.45,90.0,0.0,
+135,0,James Maddison,M,4,Aug 14,LEI,WOL,W 1-0,6.5,61.0,0.0,
+136,0,Harvey Barnes,M,4,Aug 14,LEI,WOL,W 1-0,5.5,71.0,0.0,
+137,0,Ayoze Perez,"M,F",5,Aug 14,LEI,WOL,W 1-0,8.5,61.0,0.0,
+138,0,Kelechi Iheanacho,F,6,Aug 14,LEI,WOL,W 1-0,1.1,17.0,0.0,
+139,0,Jamie Vardy,F,6,Aug 14,LEI,WOL,W 1-0,17.75,90.0,1.0,
+140,0,Alisson,G,1,Aug 14,LIV,@NOR,W 3-0,18.0,90.0,1.0,
+141,0,Trent Alexander-Arnold,D,2,Aug 14,LIV,@NOR,W 3-0,21.0,90.0,0.0,
+142,0,Joel Matip,D,2,Aug 14,LIV,@NOR,W 3-0,13.7,90.0,0.0,
+143,0,Virgil van Dijk,D,2,Aug 14,LIV,@NOR,W 3-0,14.15,90.0,0.0,
+144,0,Konstantinos Tsimikas,D,2,Aug 14,LIV,@NOR,W 3-0,17.35,90.0,0.0,
+145,0,Fabinho,"D,M",3,Aug 14,LIV,@NOR,W 3-0,2.5,28.0,0.0,
+146,0,James Milner,M,4,Aug 14,LIV,@NOR,W 3-0,9.1,90.0,0.0,
+147,0,Naby Keita,M,4,Aug 14,LIV,@NOR,W 3-0,8.25,82.0,0.0,
+148,0,Alex Oxlade-Chamberlain,M,4,Aug 14,LIV,@NOR,W 3-0,5.0,60.0,0.0,
+149,0,Harvey Elliott,M,4,Aug 14,LIV,@NOR,W 3-0,1.0,6.0,0.0,
+150,0,Mohamed Salah,F,6,Aug 14,LIV,@NOR,W 3-0,33.75,90.0,1.0,
+151,0,Diogo Jota,F,6,Aug 14,LIV,@NOR,W 3-0,15.75,60.0,1.0,
+152,0,Roberto Firmino,F,6,Aug 14,LIV,@NOR,W 3-0,14.75,28.0,1.0,
+153,0,Sadio Mane,F,6,Aug 14,LIV,@NOR,W 3-0,11.95,90.0,0.0,
+154,0,Ederson,G,1,Aug 15,MCI,@TOT,L 0-1,4.5,90.0,0.0,
+155,0,Joao Cancelo,D,2,Aug 15,MCI,@TOT,L 0-1,13.05,90.0,0.0,
+156,0,Ruben Dias,D,2,Aug 15,MCI,@TOT,L 0-1,6.95,90.0,0.0,
+157,0,Nathan Ake,D,2,Aug 15,MCI,@TOT,L 0-1,8.05,90.0,0.0,
+158,0,Benjamin Mendy,D,2,Aug 15,MCI,@TOT,L 0-1,10.25,78.0,0.0,
+159,0,Oleksandr Zinchenko,D,2,Aug 15,MCI,@TOT,L 0-1,2.25,10.0,0.0,
+160,0,Fernandinho,M,4,Aug 15,MCI,@TOT,L 0-1,12.75,90.0,0.0,
+161,0,Ilkay Gundogan,M,4,Aug 15,MCI,@TOT,L 0-1,8.1,90.0,0.0,
+162,0,Jack Grealish,M,4,Aug 15,MCI,@TOT,L 0-1,13.1,90.0,0.0,
+163,0,Kevin De Bruyne,M,4,Aug 15,MCI,@TOT,L 0-1,5.5,10.0,0.0,
+164,0,Riyad Mahrez,F,6,Aug 15,MCI,@TOT,L 0-1,7.25,78.0,0.0,
+165,0,Ferran Torres,F,6,Aug 15,MCI,@TOT,L 0-1,8.0,90.0,0.0,
+166,0,Gabriel Jesus,F,6,Aug 15,MCI,@TOT,L 0-1,3.25,19.0,0.0,
+167,0,Raheem Sterling,F,6,Aug 15,MCI,@TOT,L 0-1,5.75,69.0,0.0,
+168,0,David de Gea,G,1,Aug 14,MUN,LEE,W 5-1,6.0,90.0,0.0,
+169,0,Aaron Wan-Bissaka,D,2,Aug 14,MUN,LEE,W 5-1,7.25,90.0,0.0,
+170,0,Victor Lindelof,D,2,Aug 14,MUN,LEE,W 5-1,12.25,90.0,0.0,
+171,0,Harry Maguire,D,2,Aug 14,MUN,LEE,W 5-1,7.3,90.0,0.0,
+172,0,Luke Shaw,D,2,Aug 14,MUN,LEE,W 5-1,4.75,90.0,0.0,
+173,0,Nemanja Matic,M,4,Aug 14,MUN,LEE,W 5-1,3.2,19.0,0.0,
+174,0,Scott McTominay,M,4,Aug 14,MUN,LEE,W 5-1,8.55,69.0,0.0,
+175,0,Fred,M,4,Aug 14,MUN,LEE,W 5-1,16.35,90.0,1.0,
+176,0,Daniel James,M,4,Aug 14,MUN,LEE,W 5-1,6.35,74.0,0.0,
+177,0,Bruno Fernandes,M,4,Aug 14,MUN,LEE,W 5-1,34.75,90.0,3.0,
+178,0,Paul Pogba,M,4,Aug 14,MUN,LEE,W 5-1,38.5,74.0,0.0,
+179,0,Jadon Sancho,"M,F",5,Aug 14,MUN,LEE,W 5-1,2.0,14.0,0.0,
+180,0,Mason Greenwood,"M,F",5,Aug 14,MUN,LEE,W 5-1,21.25,90.0,1.0,
+181,0,Anthony Martial,F,6,Aug 14,MUN,LEE,W 5-1,3.25,14.0,0.0,
+182,0,Freddie Woodman,G,1,Aug 15,NEW,WHU,L 2-4,12.5,90.0,0.0,
+183,0,Emil Krafth,D,2,Aug 15,NEW,WHU,L 2-4,3.65,83.0,0.0,
+184,0,Federico Fernandez,D,2,Aug 15,NEW,WHU,L 2-4,8.0,90.0,0.0,
+185,0,Ciaran Clark,D,2,Aug 15,NEW,WHU,L 2-4,6.6,90.0,0.0,
+186,0,Jacob Murphy,"D,M",3,Aug 15,NEW,WHU,L 2-4,23.5,90.0,1.0,
+187,0,Matt Ritchie,"D,M",3,Aug 15,NEW,WHU,L 2-4,14.85,90.0,0.0,
+188,0,Isaac Hayden,M,4,Aug 15,NEW,WHU,L 2-4,9.0,90.0,0.0,
+189,0,Sean Longstaff,M,4,Aug 15,NEW,WHU,L 2-4,2.0,5.0,0.0,
+190,0,Jonjo Shelvey,M,4,Aug 15,NEW,WHU,L 2-4,2.5,69.0,0.0,
+191,0,Miguel Almiron,M,4,Aug 15,NEW,WHU,L 2-4,6.5,90.0,0.0,
+192,0,Ryan Fraser,M,4,Aug 15,NEW,WHU,L 2-4,1.25,19.0,0.0,
+193,0,Allan Saint-Maximin,"M,F",5,Aug 15,NEW,WHU,L 2-4,25.25,90.0,0.0,
+194,0,Callum Wilson,F,6,Aug 15,NEW,WHU,L 2-4,14.25,84.0,1.0,
+195,0,Joelinton,F,6,Aug 15,NEW,WHU,L 2-4,1.25,4.0,0.0,
+196,0,Tim Krul,G,1,Aug 14,NOR,LIV,L 0-3,7.0,90.0,0.0,
+197,0,Max Aarons,D,2,Aug 14,NOR,LIV,L 0-3,13.05,90.0,0.0,
+198,0,Grant Hanley,D,2,Aug 14,NOR,LIV,L 0-3,7.3,90.0,0.0,
+199,0,Ben Gibson,D,2,Aug 14,NOR,LIV,L 0-3,8.2,90.0,0.0,
+200,0,Dimitris Giannoulis,D,2,Aug 14,NOR,LIV,L 0-3,10.15,90.0,0.0,
+201,0,Pierre Lees-Melou,M,4,Aug 14,NOR,LIV,L 0-3,11.2,90.0,0.0,
+202,0,Billy Gilmour,M,4,Aug 14,NOR,LIV,L 0-3,8.2,90.0,0.0,
+203,0,Lukas Rupp,M,4,Aug 14,NOR,LIV,L 0-3,7.2,90.0,0.0,
+204,0,Todd Cantwell,M,4,Aug 14,NOR,LIV,L 0-3,10.35,85.0,0.0,
+205,0,Kieran Dowell,M,4,Aug 14,NOR,LIV,L 0-3,3.0,3.0,0.0,
+206,0,Milot Rashica,M,4,Aug 14,NOR,LIV,L 0-3,6.75,76.0,0.0,
+207,0,Joshua Sargent,F,6,Aug 14,NOR,LIV,L 0-3,3.85,12.0,0.0,
+208,0,Teemu Pukki,F,6,Aug 14,NOR,LIV,L 0-3,4.25,76.0,0.0,
+209,0,Adam Idah,F,6,Aug 14,NOR,LIV,L 0-3,3.0,12.0,0.0,
+210,0,Alex McCarthy,G,1,Aug 14,SOU,@EVE,L 1-3,7.5,90.0,0.0,
+211,0,Valentino Livramento,D,2,Aug 14,SOU,@EVE,L 1-3,8.4,90.0,0.0,
+212,0,Jack Stephens,D,2,Aug 14,SOU,@EVE,L 1-3,5.1,90.0,0.0,
+213,0,Mohammed Salisu,D,2,Aug 14,SOU,@EVE,L 1-3,7.1,90.0,0.0,
+214,0,Romain Perraud,D,2,Aug 14,SOU,@EVE,L 1-3,6.2,82.0,0.0,
+215,0,Theo Walcott,M,4,Aug 14,SOU,@EVE,L 1-3,4.0,79.0,0.0,
+216,0,Nathan Tella,M,4,Aug 14,SOU,@EVE,L 1-3,1.25,9.0,0.0,
+217,0,Oriol Romeu,M,4,Aug 14,SOU,@EVE,L 1-3,7.1,78.0,0.0,
+218,0,Ibrahima Diallo,M,4,Aug 14,SOU,@EVE,L 1-3,1.25,10.0,0.0,
+219,0,James Ward-Prowse,M,4,Aug 14,SOU,@EVE,L 1-3,14.6,90.0,0.0,
+220,0,Moussa Djenepo,M,4,Aug 14,SOU,@EVE,L 1-3,9.45,90.0,0.0,
+221,0,Nathan Redmond,M,4,Aug 14,SOU,@EVE,L 1-3,3.5,6.0,0.0,
+222,0,Che Adams,F,6,Aug 14,SOU,@EVE,L 1-3,13.8,90.0,0.0,
+223,0,Adam Armstrong,F,6,Aug 14,SOU,@EVE,L 1-3,14.25,90.0,1.0,
+224,0,Hugo Lloris,G,1,Aug 15,TOT,MCI,W 1-0,18.5,90.0,1.0,
+225,0,Japhet Tanganga,D,2,Aug 15,TOT,MCI,W 1-0,15.2,82.0,0.0,
+226,0,Matt Doherty,D,2,Aug 15,TOT,MCI,W 1-0,2.35,6.0,0.0,
+227,0,Cristian Romero,D,2,Aug 15,TOT,MCI,W 1-0,1.0,1.0,0.0,
+228,0,Davinson Sanchez,D,2,Aug 15,TOT,MCI,W 1-0,14.6,90.0,0.0,
+229,0,Eric Dier,D,2,Aug 15,TOT,MCI,W 1-0,14.75,90.0,0.0,
+230,0,Sergio Reguilon,D,2,Aug 15,TOT,MCI,W 1-0,18.25,90.0,0.0,
+231,0,Pierre-Emile Hojbjerg,M,4,Aug 15,TOT,MCI,W 1-0,12.5,88.0,0.0,
+232,0,Oliver Skipp,M,4,Aug 15,TOT,MCI,W 1-0,8.85,90.0,0.0,
+233,0,Giovani Lo Celso,M,4,Aug 15,TOT,MCI,W 1-0,3.5,12.0,0.0,
+234,0,Dele Alli,M,4,Aug 15,TOT,MCI,W 1-0,8.3,90.0,0.0,
+235,0,Lucas Moura,"M,F",5,Aug 15,TOT,MCI,W 1-0,16.55,90.0,0.0,
+236,0,Son Heung-Min,"M,F",5,Aug 15,TOT,MCI,W 1-0,17.0,90.0,1.0,
+237,0,Steven Bergwijn,F,6,Aug 15,TOT,MCI,W 1-0,13.7,76.0,0.0,
+238,0,Daniel Bachmann,G,1,Aug 14,WAT,AVL,W 3-2,2.5,90.0,0.0,
+239,0,Craig Cathcart,D,2,Aug 14,WAT,AVL,W 3-2,5.7,90.0,0.0,
+240,0,William Troost-Ekong,D,2,Aug 14,WAT,AVL,W 3-2,3.65,90.0,0.0,
+241,0,Christian Kabasele,D,2,Aug 14,WAT,AVL,W 3-2,7.05,90.0,0.0,
+242,0,Adam Masina,D,2,Aug 14,WAT,AVL,W 3-2,8.75,90.0,0.0,
+243,0,Peter Etebo,M,4,Aug 14,WAT,AVL,W 3-2,13.35,90.0,0.0,
+244,0,Tom Cleverley,M,4,Aug 14,WAT,AVL,W 3-2,13.75,78.0,0.0,
+245,0,Juraj Kucka,M,4,Aug 14,WAT,AVL,W 3-2,9.7,68.0,0.0,
+246,0,Dan Gosling,M,4,Aug 14,WAT,AVL,W 3-2,1.85,20.0,0.0,
+247,0,Ken Sema,M,4,Aug 14,WAT,AVL,W 3-2,5.6,90.0,0.0,
+248,0,Ismaila Sarr,F,6,Aug 14,WAT,AVL,W 3-2,26.25,90.0,1.0,
+249,0,Chucho Hernandez,F,6,Aug 14,WAT,AVL,W 3-2,12.5,23.0,1.0,
+250,0,Emmanuel Dennis,F,6,Aug 14,WAT,AVL,W 3-2,30.25,65.0,1.0,
+251,0,Troy Deeney,F,6,Aug 14,WAT,AVL,W 3-2,1.6,10.0,0.0,
+252,0,Lukasz Fabianski,G,1,Aug 15,WHU,@NEW,W 4-2,5.0,90.0,0.0,
+253,0,Vladimir Coufal,D,2,Aug 15,WHU,@NEW,W 4-2,10.15,90.0,0.0,
+254,0,Ben Johnson,D,2,Aug 15,WHU,@NEW,W 4-2,1.5,1.0,0.0,
+255,0,Ryan Fredericks,D,2,Aug 15,WHU,@NEW,W 4-2,0.5,1.0,0.0,
+256,0,Craig Dawson,D,2,Aug 15,WHU,@NEW,W 4-2,7.0,90.0,0.0,
+257,0,Angelo Ogbonna,D,2,Aug 15,WHU,@NEW,W 4-2,7.45,90.0,0.0,
+258,0,Aaron Cresswell,D,2,Aug 15,WHU,@NEW,W 4-2,20.6,90.0,1.0,
+259,0,Declan Rice,M,4,Aug 15,WHU,@NEW,W 4-2,14.85,90.0,0.0,
+260,0,Tomas Soucek,M,4,Aug 15,WHU,@NEW,W 4-2,19.9,90.0,1.0,
+261,0,Pablo Fornals,M,4,Aug 15,WHU,@NEW,W 4-2,18.5,90.0,0.0,
+262,0,Jarrod Bowen,"M,F",5,Aug 15,WHU,@NEW,W 4-2,10.75,88.0,0.0,
+263,0,Said Benrahma,"M,F",6,Aug 15,WHU,@NEW,W 4-2,21.35,87.0,1.0,
+264,0,Andriy Yarmolenko,F,6,Aug 15,WHU,@NEW,W 4-2,0.5,1.0,0.0,
+265,0,Michail Antonio,F,6,Aug 15,WHU,@NEW,W 4-2,27.85,88.0,1.0,
+266,0,Jose Sa,G,1,Aug 14,WOL,@LEI,L 0-1,9.0,90.0,0.0,
+267,0,Ki-Jana Hoever,D,2,Aug 14,WOL,@LEI,L 0-1,10.1,90.0,0.0,
+268,0,Maximilian Kilman,D,2,Aug 14,WOL,@LEI,L 0-1,10.0,88.0,0.0,
+269,0,Conor Coady,D,2,Aug 14,WOL,@LEI,L 0-1,7.6,90.0,0.0,
+270,0,Romain Saiss,D,2,Aug 14,WOL,@LEI,L 0-1,7.9,90.0,0.0,
+271,0,Marcal,D,2,Aug 14,WOL,@LEI,L 0-1,6.35,90.0,0.0,
+272,0,Leander Dendoncker,M,4,Aug 14,WOL,@LEI,L 0-1,3.25,23.0,0.0,
+273,0,Joao Moutinho,M,4,Aug 14,WOL,@LEI,L 0-1,8.85,65.0,0.0,
+274,0,Ruben Neves,M,4,Aug 14,WOL,@LEI,L 0-1,8.95,90.0,0.0,
+275,0,Morgan Gibbs-White,M,4,Aug 14,WOL,@LEI,L 0-1,1.25,3.0,0.0,
+276,0,Trincao,F,6,Aug 14,WOL,@LEI,L 0-1,14.75,85.0,0.0,
+277,0,Raul Jimenez,F,6,Aug 14,WOL,@LEI,L 0-1,7.6,90.0,0.0,
+278,0,Fabio Silva,F,6,Aug 14,WOL,@LEI,L 0-1,0.5,1.0,0.0,
+279,0,Adama Traore,F,6,Aug 14,WOL,@LEI,L 0-1,21.0,90.0,0.0,
