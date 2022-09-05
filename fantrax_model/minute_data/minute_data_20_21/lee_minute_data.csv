@@ -1,0 +1,526 @@
+,player,position,position_id,date,team,opp,score,fpts,min,starts
+0,Illan Meslier,G,1,May 15,LEE,@BUR,W 4-0,22.5,90,1
+1,Illan Meslier,G,1,May 8,LEE,TOT,W 3-1,6.0,90,1
+2,Illan Meslier,G,1,May 1,LEE,@BHA,L 0-2,7.0,90,1
+3,Illan Meslier,G,1,Apr 25,LEE,MUN,T 0-0,18.0,90,1
+4,Illan Meslier,G,1,Apr 19,LEE,LIV,T 1-1,13.0,90,1
+5,Illan Meslier,G,1,Apr 10,LEE,@MCI,W 2-1,13.0,90,1
+6,Illan Meslier,G,1,Apr 3,LEE,SHU,W 2-1,3.0,90,1
+7,Illan Meslier,G,1,Mar 19,LEE,@FUL,W 2-1,13.0,90,1
+8,Illan Meslier,G,1,Mar 13,LEE,CHE,T 0-0,25.5,90,1
+9,Illan Meslier,G,1,Mar 8,LEE,@WHU,L 0-2,12.5,90,1
+10,Illan Meslier,G,1,Feb 27,LEE,AVL,L 0-1,7.5,90,1
+11,Illan Meslier,G,1,Feb 23,LEE,SOU,W 3-0,21.5,90,1
+12,Illan Meslier,G,1,Feb 19,LEE,@WOL,L 0-1,12.5,90,1
+13,Illan Meslier,G,1,Feb 14,LEE,@ARS,L 2-4,3.0,90,1
+14,Illan Meslier,G,1,Feb 8,LEE,CRY,W 2-0,16.5,90,1
+15,Illan Meslier,G,1,Feb 3,LEE,EVE,L 1-2,8.5,90,1
+16,Illan Meslier,G,1,Jan 31,LEE,@LEI,W 3-1,14.0,90,1
+17,Illan Meslier,G,1,Jan 26,LEE,@NEW,W 2-1,11.5,90,1
+18,Illan Meslier,G,1,Jan 2,LEE,@TOT,L 0-3,8.0,90,1
+19,Illan Meslier,G,1,Dec 29,LEE,@WBA,W 5-0,16.5,90,1
+20,Illan Meslier,G,1,Dec 27,LEE,BUR,W 1-0,30.0,90,1
+21,Illan Meslier,G,1,Dec 20,LEE,@MUN,L 2-6,14.0,90,1
+22,Illan Meslier,G,1,Dec 16,LEE,NEW,W 5-2,6.0,90,1
+23,Illan Meslier,G,1,Dec 11,LEE,WHU,L 1-2,12.0,90,1
+24,Illan Meslier,G,1,Dec 5,LEE,@CHE,L 1-3,13.0,90,1
+25,Illan Meslier,G,1,Nov 28,LEE,@EVE,W 1-0,24.0,90,1
+26,Illan Meslier,G,1,Nov 22,LEE,ARS,T 0-0,16.0,90,1
+27,Illan Meslier,G,1,Nov 7,LEE,@CRY,L 1-4,6.0,90,1
+28,Illan Meslier,G,1,Nov 2,LEE,LEI,L 1-4,8.0,90,1
+29,Illan Meslier,G,1,Oct 23,LEE,@AVL,W 3-0,18.5,90,1
+30,Illan Meslier,G,1,Oct 19,LEE,WOL,L 0-1,7.0,90,1
+31,Illan Meslier,G,1,Oct 3,LEE,MCI,T 1-1,5.0,90,1
+32,Illan Meslier,G,1,Sep 27,LEE,@SHU,W 1-0,18.0,90,1
+33,Illan Meslier,G,1,Sep 19,LEE,FUL,W 4-3,12.0,90,1
+34,Illan Meslier,G,1,Sep 12,LEE,@LIV,L 3-4,8.0,90,1
+0,Kiko Casilla,G,1,May 23,LEE,WBA,W 3-1,9.5,90,1
+1,Kiko Casilla,G,1,May 18,LEE,@SOU,W 2-0,18.5,90,1
+2,Kiko Casilla,G,1,Jan 16,LEE,BHA,L 0-1,6.0,90,1
+0,Luke Ayling,D,2,May 23,LEE,WBA,W 3-1,6.85,90,1
+1,Luke Ayling,D,2,May 18,LEE,@SOU,W 2-0,20.05,90,1
+2,Luke Ayling,D,2,May 15,LEE,@BUR,W 4-0,19.85,90,1
+3,Luke Ayling,D,2,May 8,LEE,TOT,W 3-1,9.1,90,1
+4,Luke Ayling,D,2,May 1,LEE,@BHA,L 0-2,6.5,90,1
+5,Luke Ayling,D,2,Apr 25,LEE,MUN,T 0-0,19.45,90,1
+6,Luke Ayling,D,2,Apr 19,LEE,LIV,T 1-1,10.2,90,1
+7,Luke Ayling,D,2,Apr 10,LEE,@MCI,W 2-1,5.3,90,1
+8,Luke Ayling,D,2,Apr 3,LEE,SHU,W 2-1,13.1,90,1
+9,Luke Ayling,D,2,Mar 19,LEE,@FUL,W 2-1,8.7,90,1
+10,Luke Ayling,D,2,Mar 13,LEE,CHE,T 0-0,17.95,90,1
+11,Luke Ayling,D,2,Mar 8,LEE,@WHU,L 0-2,6.5,90,1
+12,Luke Ayling,D,2,Feb 27,LEE,AVL,L 0-1,14.0,90,1
+13,Luke Ayling,D,2,Feb 23,LEE,SOU,W 3-0,17.95,90,1
+14,Luke Ayling,D,2,Feb 19,LEE,@WOL,L 0-1,12.1,90,1
+15,Luke Ayling,D,2,Feb 14,LEE,@ARS,L 2-4,6.95,90,1
+16,Luke Ayling,D,2,Feb 8,LEE,CRY,W 2-0,19.45,90,1
+17,Luke Ayling,D,2,Feb 3,LEE,EVE,L 1-2,11.3,90,1
+18,Luke Ayling,D,2,Jan 31,LEE,@LEI,W 3-1,9.55,90,1
+19,Luke Ayling,D,2,Jan 26,LEE,@NEW,W 2-1,10.7,90,1
+20,Luke Ayling,D,2,Jan 16,LEE,BHA,L 0-1,8.2,90,1
+21,Luke Ayling,D,2,Jan 2,LEE,@TOT,L 0-3,11.5,90,1
+22,Luke Ayling,D,2,Dec 29,LEE,@WBA,W 5-0,18.3,90,1
+23,Luke Ayling,D,2,Dec 27,LEE,BUR,W 1-0,18.75,90,1
+24,Luke Ayling,D,2,Dec 20,LEE,@MUN,L 2-6,10.85,90,1
+25,Luke Ayling,D,2,Dec 16,LEE,NEW,W 5-2,11.8,90,1
+26,Luke Ayling,D,2,Dec 11,LEE,WHU,L 1-2,16.45,90,1
+27,Luke Ayling,D,2,Dec 5,LEE,@CHE,L 1-3,6.85,90,1
+28,Luke Ayling,D,2,Nov 28,LEE,@EVE,W 1-0,15.7,90,1
+29,Luke Ayling,D,2,Nov 22,LEE,ARS,T 0-0,13.0,70,1
+30,Luke Ayling,D,2,Nov 7,LEE,@CRY,L 1-4,8.35,90,1
+31,Luke Ayling,D,2,Nov 2,LEE,LEI,L 1-4,8.95,90,1
+32,Luke Ayling,D,2,Oct 23,LEE,@AVL,W 3-0,16.85,90,1
+33,Luke Ayling,D,2,Oct 19,LEE,WOL,L 0-1,8.25,90,1
+34,Luke Ayling,D,2,Oct 3,LEE,MCI,T 1-1,11.5,90,1
+35,Luke Ayling,D,2,Sep 27,LEE,@SHU,W 1-0,19.95,90,1
+36,Luke Ayling,D,2,Sep 19,LEE,FUL,W 4-3,9.1,90,1
+37,Luke Ayling,D,2,Sep 12,LEE,@LIV,L 3-4,10.05,90,1
+0,Gaetano Berardi,D,2,May 23,LEE,WBA,W 3-1,14.45,68,1
+1,Gaetano Berardi,D,2,May 18,LEE,@SOU,W 2-0,3.75,44,0
+0,Robin Koch,D,2,May 8,LEE,TOT,W 3-1,9.45,90,1
+1,Robin Koch,D,2,May 1,LEE,@BHA,L 0-2,12.05,90,1
+2,Robin Koch,D,2,Apr 25,LEE,MUN,T 0-0,2.0,12,0
+3,Robin Koch,D,2,Apr 10,LEE,@MCI,W 2-1,1.8,26,0
+4,Robin Koch,D,2,Apr 3,LEE,SHU,W 2-1,1.5,1,0
+5,Robin Koch,D,2,Mar 19,LEE,@FUL,W 2-1,0.5,1,0
+6,Robin Koch,D,2,Dec 5,LEE,@CHE,L 1-3,1.35,9,1
+7,Robin Koch,D,2,Nov 28,LEE,@EVE,W 1-0,15.45,90,1
+8,Robin Koch,D,2,Nov 22,LEE,ARS,T 0-0,17.75,90,1
+9,Robin Koch,D,2,Nov 7,LEE,@CRY,L 1-4,12.8,90,1
+10,Robin Koch,D,2,Nov 2,LEE,LEI,L 1-4,7.55,90,1
+11,Robin Koch,D,2,Oct 23,LEE,@AVL,W 3-0,20.8,90,1
+12,Robin Koch,D,2,Oct 19,LEE,WOL,L 0-1,13.2,90,1
+13,Robin Koch,D,2,Oct 3,LEE,MCI,T 1-1,5.85,90,1
+14,Robin Koch,D,2,Sep 27,LEE,@SHU,W 1-0,16.05,90,1
+15,Robin Koch,D,2,Sep 19,LEE,FUL,W 4-3,8.6,90,1
+16,Robin Koch,D,2,Sep 12,LEE,@LIV,L 3-4,10.4,90,1
+0,Diego Llorente,D,2,May 18,LEE,@SOU,W 2-0,7.35,44,1
+1,Diego Llorente,D,2,May 15,LEE,@BUR,W 4-0,15.95,90,1
+2,Diego Llorente,D,2,May 8,LEE,TOT,W 3-1,9.65,90,1
+3,Diego Llorente,D,2,May 1,LEE,@BHA,L 0-2,7.65,78,1
+4,Diego Llorente,D,2,Apr 25,LEE,MUN,T 0-0,17.1,90,1
+5,Diego Llorente,D,2,Apr 19,LEE,LIV,T 1-1,23.45,90,1
+6,Diego Llorente,D,2,Apr 10,LEE,@MCI,W 2-1,12.1,90,1
+7,Diego Llorente,D,2,Apr 3,LEE,SHU,W 2-1,8.1,90,1
+8,Diego Llorente,D,2,Mar 19,LEE,@FUL,W 2-1,8.3,90,1
+9,Diego Llorente,D,2,Mar 13,LEE,CHE,T 0-0,15.8,90,1
+10,Diego Llorente,D,2,Mar 8,LEE,@WHU,L 0-2,10.7,90,1
+11,Diego Llorente,D,2,Feb 27,LEE,AVL,L 0-1,14.0,90,1
+12,Diego Llorente,D,2,Feb 23,LEE,SOU,W 3-0,17.25,90,1
+13,Diego Llorente,D,2,Jan 26,LEE,@NEW,W 2-1,1.25,9,1
+14,Diego Llorente,D,2,Dec 5,LEE,@CHE,L 1-3,6.9,81,0
+0,Liam Cooper,D,2,May 23,LEE,WBA,W 3-1,6.45,90,1
+1,Liam Cooper,D,2,May 18,LEE,@SOU,W 2-0,23.45,90,1
+2,Liam Cooper,D,2,Apr 10,LEE,@MCI,W 2-1,-2.3,44,1
+3,Liam Cooper,D,2,Apr 3,LEE,SHU,W 2-1,10.0,90,1
+4,Liam Cooper,D,2,Mar 8,LEE,@WHU,L 0-2,11.95,90,1
+5,Liam Cooper,D,2,Feb 27,LEE,AVL,L 0-1,10.7,90,1
+6,Liam Cooper,D,2,Feb 23,LEE,SOU,W 3-0,19.0,90,1
+7,Liam Cooper,D,2,Feb 19,LEE,@WOL,L 0-1,12.45,90,1
+8,Liam Cooper,D,2,Feb 14,LEE,@ARS,L 2-4,11.35,90,1
+9,Liam Cooper,D,2,Feb 8,LEE,CRY,W 2-0,17.75,90,1
+10,Liam Cooper,D,2,Feb 3,LEE,EVE,L 1-2,9.15,90,1
+11,Liam Cooper,D,2,Jan 31,LEE,@LEI,W 3-1,18.85,90,1
+12,Liam Cooper,D,2,Jan 26,LEE,@NEW,W 2-1,10.35,90,1
+13,Liam Cooper,D,2,Jan 16,LEE,BHA,L 0-1,16.25,90,1
+14,Liam Cooper,D,2,Dec 20,LEE,@MUN,L 2-6,18.2,72,1
+15,Liam Cooper,D,2,Dec 16,LEE,NEW,W 5-2,12.85,90,1
+16,Liam Cooper,D,2,Dec 11,LEE,WHU,L 1-2,14.2,90,1
+17,Liam Cooper,D,2,Dec 5,LEE,@CHE,L 1-3,10.5,90,1
+18,Liam Cooper,D,2,Nov 28,LEE,@EVE,W 1-0,12.55,90,1
+19,Liam Cooper,D,2,Nov 22,LEE,ARS,T 0-0,15.65,90,1
+20,Liam Cooper,D,2,Nov 7,LEE,@CRY,L 1-4,11.3,90,1
+21,Liam Cooper,D,2,Nov 2,LEE,LEI,L 1-4,7.45,90,1
+22,Liam Cooper,D,2,Oct 3,LEE,MCI,T 1-1,12.8,90,1
+23,Liam Cooper,D,2,Sep 27,LEE,@SHU,W 1-0,17.2,90,1
+24,Liam Cooper,D,2,Sep 19,LEE,FUL,W 4-3,8.6,90,1
+0,Pascal Struijk,D,2,May 23,LEE,WBA,W 3-1,5.25,20,0
+1,Pascal Struijk,D,2,May 18,LEE,@SOU,W 2-0,3.25,44,0
+2,Pascal Struijk,D,2,May 15,LEE,@BUR,W 4-0,15.4,90,1
+3,Pascal Struijk,D,2,May 8,LEE,TOT,W 3-1,9.0,90,1
+4,Pascal Struijk,D,2,May 1,LEE,@BHA,L 0-2,12.1,90,1
+5,Pascal Struijk,D,2,Apr 25,LEE,MUN,T 0-0,19.15,90,1
+6,Pascal Struijk,D,2,Apr 19,LEE,LIV,T 1-1,7.5,90,1
+7,Pascal Struijk,D,2,Apr 10,LEE,@MCI,W 2-1,3.25,44,0
+8,Pascal Struijk,D,2,Mar 19,LEE,@FUL,W 2-1,6.3,90,1
+9,Pascal Struijk,D,2,Mar 13,LEE,CHE,T 0-0,17.35,90,1
+10,Pascal Struijk,D,2,Feb 27,LEE,AVL,L 0-1,4.25,52,1
+11,Pascal Struijk,D,2,Feb 23,LEE,SOU,W 3-0,15.05,90,1
+12,Pascal Struijk,D,2,Feb 19,LEE,@WOL,L 0-1,13.95,90,1
+13,Pascal Struijk,D,2,Feb 14,LEE,@ARS,L 2-4,19.85,90,1
+14,Pascal Struijk,D,2,Feb 8,LEE,CRY,W 2-0,13.3,90,1
+15,Pascal Struijk,D,2,Feb 3,LEE,EVE,L 1-2,11.35,90,1
+16,Pascal Struijk,D,2,Jan 31,LEE,@LEI,W 3-1,10.5,90,1
+17,Pascal Struijk,D,2,Jan 26,LEE,@NEW,W 2-1,9.95,79,0
+18,Pascal Struijk,D,2,Jan 16,LEE,BHA,L 0-1,10.75,90,1
+19,Pascal Struijk,D,2,Jan 2,LEE,@TOT,L 0-3,10.85,90,1
+20,Pascal Struijk,D,2,Dec 29,LEE,@WBA,W 5-0,15.15,90,1
+21,Pascal Struijk,D,2,Dec 27,LEE,BUR,W 1-0,18.65,90,1
+22,Pascal Struijk,D,2,Dec 20,LEE,@MUN,L 2-6,4.25,45,0
+23,Pascal Struijk,D,2,Nov 7,LEE,@CRY,L 1-4,5.35,71,1
+24,Pascal Struijk,D,2,Oct 23,LEE,@AVL,W 3-0,1.5,21,1
+25,Pascal Struijk,D,2,Oct 19,LEE,WOL,L 0-1,4.8,75,1
+26,Pascal Struijk,D,2,Sep 12,LEE,@LIV,L 3-4,9.35,90,1
+0,Leif Davis,D,2,Dec 20,LEE,@MUN,L 2-6,2.75,18,0
+1,Leif Davis,D,2,Oct 3,LEE,MCI,T 1-1,0.5,13,0
+0,Ezgjan Alioski,"D,M",3,May 23,LEE,WBA,W 3-1,11.95,90,1
+1,Ezgjan Alioski,"D,M",3,May 18,LEE,@SOU,W 2-0,11.25,90,1
+2,Ezgjan Alioski,"D,M",3,May 15,LEE,@BUR,W 4-0,14.5,90,1
+3,Ezgjan Alioski,"D,M",3,May 8,LEE,TOT,W 3-1,14.9,90,1
+4,Ezgjan Alioski,"D,M",3,May 1,LEE,@BHA,L 0-2,1.75,44,1
+5,Ezgjan Alioski,"D,M",3,Apr 25,LEE,MUN,T 0-0,6.1,90,1
+6,Ezgjan Alioski,"D,M",3,Apr 19,LEE,LIV,T 1-1,6.45,78,1
+7,Ezgjan Alioski,"D,M",3,Apr 10,LEE,@MCI,W 2-1,11.25,90,1
+8,Ezgjan Alioski,"D,M",3,Apr 3,LEE,SHU,W 2-1,6.25,90,1
+9,Ezgjan Alioski,"D,M",3,Mar 19,LEE,@FUL,W 2-1,9.3,90,1
+10,Ezgjan Alioski,"D,M",3,Mar 13,LEE,CHE,T 0-0,4.35,90,1
+11,Ezgjan Alioski,"D,M",3,Mar 8,LEE,@WHU,L 0-2,8.1,44,0
+12,Ezgjan Alioski,"D,M",3,Feb 27,LEE,AVL,L 0-1,2.5,36,0
+13,Ezgjan Alioski,"D,M",3,Feb 23,LEE,SOU,W 3-0,2.75,30,0
+14,Ezgjan Alioski,"D,M",3,Feb 19,LEE,@WOL,L 0-1,2.0,8,0
+15,Ezgjan Alioski,"D,M",3,Feb 14,LEE,@ARS,L 2-4,4.25,52,1
+16,Ezgjan Alioski,"D,M",3,Feb 8,LEE,CRY,W 2-0,12.2,90,1
+17,Ezgjan Alioski,"D,M",3,Feb 3,LEE,EVE,L 1-2,5.75,77,1
+18,Ezgjan Alioski,"D,M",3,Jan 31,LEE,@LEI,W 3-1,8.8,90,1
+19,Ezgjan Alioski,"D,M",3,Jan 26,LEE,@NEW,W 2-1,5.5,55,1
+20,Ezgjan Alioski,"D,M",3,Jan 16,LEE,BHA,L 0-1,6.2,66,1
+21,Ezgjan Alioski,"D,M",3,Jan 2,LEE,@TOT,L 0-3,6.85,64,1
+22,Ezgjan Alioski,"D,M",3,Dec 29,LEE,@WBA,W 5-0,17.0,90,1
+23,Ezgjan Alioski,"D,M",3,Dec 27,LEE,BUR,W 1-0,7.9,90,1
+24,Ezgjan Alioski,"D,M",3,Dec 20,LEE,@MUN,L 2-6,2.95,90,1
+25,Ezgjan Alioski,"D,M",3,Dec 16,LEE,NEW,W 5-2,22.35,90,1
+26,Ezgjan Alioski,"D,M",3,Dec 11,LEE,WHU,L 1-2,4.35,45,1
+27,Ezgjan Alioski,"D,M",3,Dec 5,LEE,@CHE,L 1-3,7.0,69,1
+28,Ezgjan Alioski,"D,M",3,Nov 28,LEE,@EVE,W 1-0,8.35,90,1
+29,Ezgjan Alioski,"D,M",3,Nov 22,LEE,ARS,T 0-0,14.2,90,1
+30,Ezgjan Alioski,"D,M",3,Nov 7,LEE,@CRY,L 1-4,7.25,90,1
+31,Ezgjan Alioski,"D,M",3,Nov 2,LEE,LEI,L 1-4,3.75,9,0
+32,Ezgjan Alioski,"D,M",3,Oct 23,LEE,@AVL,W 3-0,10.2,90,1
+33,Ezgjan Alioski,"D,M",3,Oct 3,LEE,MCI,T 1-1,6.25,45,1
+34,Ezgjan Alioski,"D,M",3,Sep 27,LEE,@SHU,W 1-0,0.5,1,0
+35,Ezgjan Alioski,"D,M",3,Sep 19,LEE,FUL,W 4-3,4.5,20,0
+0,Stuart Dallas,"D,M",3,May 23,LEE,WBA,W 3-1,6.75,90,1
+1,Stuart Dallas,"D,M",3,May 18,LEE,@SOU,W 2-0,6.2,90,1
+2,Stuart Dallas,"D,M",3,May 15,LEE,@BUR,W 4-0,8.7,90,1
+3,Stuart Dallas,"D,M",3,May 8,LEE,TOT,W 3-1,23.25,90,1
+4,Stuart Dallas,"D,M",3,May 1,LEE,@BHA,L 0-2,8.0,90,1
+5,Stuart Dallas,"D,M",3,Apr 25,LEE,MUN,T 0-0,5.85,90,1
+6,Stuart Dallas,"D,M",3,Apr 19,LEE,LIV,T 1-1,4.3,90,1
+7,Stuart Dallas,"D,M",3,Apr 10,LEE,@MCI,W 2-1,24.95,90,1
+8,Stuart Dallas,"D,M",3,Apr 3,LEE,SHU,W 2-1,8.25,88,1
+9,Stuart Dallas,"D,M",3,Mar 19,LEE,@FUL,W 2-1,11.1,90,1
+10,Stuart Dallas,"D,M",3,Mar 13,LEE,CHE,T 0-0,13.0,90,1
+11,Stuart Dallas,"D,M",3,Mar 8,LEE,@WHU,L 0-2,8.7,90,1
+12,Stuart Dallas,"D,M",3,Feb 27,LEE,AVL,L 0-1,9.0,90,1
+13,Stuart Dallas,"D,M",3,Feb 23,LEE,SOU,W 3-0,20.35,90,1
+14,Stuart Dallas,"D,M",3,Feb 19,LEE,@WOL,L 0-1,7.6,90,1
+15,Stuart Dallas,"D,M",3,Feb 14,LEE,@ARS,L 2-4,7.45,90,1
+16,Stuart Dallas,"D,M",3,Feb 8,LEE,CRY,W 2-0,17.5,90,1
+17,Stuart Dallas,"D,M",3,Feb 3,LEE,EVE,L 1-2,8.85,90,1
+18,Stuart Dallas,"D,M",3,Jan 31,LEE,@LEI,W 3-1,15.7,90,1
+19,Stuart Dallas,"D,M",3,Jan 26,LEE,@NEW,W 2-1,6.1,90,1
+20,Stuart Dallas,"D,M",3,Jan 16,LEE,BHA,L 0-1,7.35,90,1
+21,Stuart Dallas,"D,M",3,Jan 2,LEE,@TOT,L 0-3,7.8,90,1
+22,Stuart Dallas,"D,M",3,Dec 29,LEE,@WBA,W 5-0,17.2,90,1
+23,Stuart Dallas,"D,M",3,Dec 27,LEE,BUR,W 1-0,12.05,90,1
+24,Stuart Dallas,"D,M",3,Dec 20,LEE,@MUN,L 2-6,14.7,90,1
+25,Stuart Dallas,"D,M",3,Dec 16,LEE,NEW,W 5-2,19.5,90,1
+26,Stuart Dallas,"D,M",3,Dec 11,LEE,WHU,L 1-2,10.1,90,1
+27,Stuart Dallas,"D,M",3,Dec 5,LEE,@CHE,L 1-3,6.85,90,1
+28,Stuart Dallas,"D,M",3,Nov 28,LEE,@EVE,W 1-0,10.45,90,1
+29,Stuart Dallas,"D,M",3,Nov 22,LEE,ARS,T 0-0,8.1,90,1
+30,Stuart Dallas,"D,M",3,Nov 7,LEE,@CRY,L 1-4,8.5,90,1
+31,Stuart Dallas,"D,M",3,Nov 2,LEE,LEI,L 1-4,14.0,81,1
+32,Stuart Dallas,"D,M",3,Oct 23,LEE,@AVL,W 3-0,14.1,90,1
+33,Stuart Dallas,"D,M",3,Oct 19,LEE,WOL,L 0-1,12.75,90,1
+34,Stuart Dallas,"D,M",3,Oct 3,LEE,MCI,T 1-1,9.35,90,1
+35,Stuart Dallas,"D,M",3,Sep 27,LEE,@SHU,W 1-0,12.5,90,1
+36,Stuart Dallas,"D,M",3,Sep 19,LEE,FUL,W 4-3,13.45,90,1
+37,Stuart Dallas,"D,M",3,Sep 12,LEE,@LIV,L 3-4,16.5,90,1
+0,Kalvin Phillips,M,4,May 23,LEE,WBA,W 3-1,19.35,90,1
+1,Kalvin Phillips,M,4,May 18,LEE,@SOU,W 2-0,2.85,44,1
+2,Kalvin Phillips,M,4,May 15,LEE,@BUR,W 4-0,6.6,90,1
+3,Kalvin Phillips,M,4,May 8,LEE,TOT,W 3-1,0.25,1,0
+4,Kalvin Phillips,M,4,Apr 25,LEE,MUN,T 0-0,18.55,90,1
+5,Kalvin Phillips,M,4,Apr 19,LEE,LIV,T 1-1,11.25,90,1
+6,Kalvin Phillips,M,4,Apr 10,LEE,@MCI,W 2-1,11.05,90,1
+7,Kalvin Phillips,M,4,Apr 3,LEE,SHU,W 2-1,12.85,90,1
+8,Kalvin Phillips,M,4,Mar 19,LEE,@FUL,W 2-1,9.15,90,1
+9,Kalvin Phillips,M,4,Mar 13,LEE,CHE,T 0-0,10.7,90,1
+10,Kalvin Phillips,M,4,Mar 8,LEE,@WHU,L 0-2,9.75,90,1
+11,Kalvin Phillips,M,4,Feb 8,LEE,CRY,W 2-0,12.45,87,1
+12,Kalvin Phillips,M,4,Feb 3,LEE,EVE,L 1-2,8.45,90,1
+13,Kalvin Phillips,M,4,Jan 31,LEE,@LEI,W 3-1,9.2,90,1
+14,Kalvin Phillips,M,4,Jan 26,LEE,@NEW,W 2-1,10.0,90,1
+15,Kalvin Phillips,M,4,Jan 2,LEE,@TOT,L 0-3,11.85,90,1
+16,Kalvin Phillips,M,4,Dec 29,LEE,@WBA,W 5-0,14.15,90,1
+17,Kalvin Phillips,M,4,Dec 27,LEE,BUR,W 1-0,9.95,90,1
+18,Kalvin Phillips,M,4,Dec 20,LEE,@MUN,L 2-6,4.75,45,1
+19,Kalvin Phillips,M,4,Dec 16,LEE,NEW,W 5-2,11.9,90,1
+20,Kalvin Phillips,M,4,Dec 11,LEE,WHU,L 1-2,8.45,90,1
+21,Kalvin Phillips,M,4,Dec 5,LEE,@CHE,L 1-3,17.3,90,1
+22,Kalvin Phillips,M,4,Nov 28,LEE,@EVE,W 1-0,14.0,90,1
+23,Kalvin Phillips,M,4,Nov 22,LEE,ARS,T 0-0,7.5,90,1
+24,Kalvin Phillips,M,4,Oct 19,LEE,WOL,L 0-1,4.25,90,1
+25,Kalvin Phillips,M,4,Oct 3,LEE,MCI,T 1-1,15.5,90,1
+26,Kalvin Phillips,M,4,Sep 27,LEE,@SHU,W 1-0,16.5,90,1
+27,Kalvin Phillips,M,4,Sep 19,LEE,FUL,W 4-3,14.65,90,1
+28,Kalvin Phillips,M,4,Sep 12,LEE,@LIV,L 3-4,19.95,90,1
+0,Mateusz Klich,M,4,May 15,LEE,@BUR,W 4-0,16.0,75,1
+1,Mateusz Klich,M,4,May 8,LEE,TOT,W 3-1,11.75,88,1
+2,Mateusz Klich,M,4,May 1,LEE,@BHA,L 0-2,7.95,90,1
+3,Mateusz Klich,M,4,Apr 25,LEE,MUN,T 0-0,2.0,17,0
+4,Mateusz Klich,M,4,Apr 19,LEE,LIV,T 1-1,2.25,10,0
+5,Mateusz Klich,M,4,Apr 3,LEE,SHU,W 2-1,2.5,8,0
+6,Mateusz Klich,M,4,Mar 19,LEE,@FUL,W 2-1,1.25,12,0
+7,Mateusz Klich,M,4,Mar 13,LEE,CHE,T 0-0,1.25,10,0
+8,Mateusz Klich,M,4,Mar 8,LEE,@WHU,L 0-2,2.25,44,1
+9,Mateusz Klich,M,4,Feb 27,LEE,AVL,L 0-1,3.0,90,1
+10,Mateusz Klich,M,4,Feb 23,LEE,SOU,W 3-0,4.0,58,1
+11,Mateusz Klich,M,4,Feb 19,LEE,@WOL,L 0-1,4.1,80,1
+12,Mateusz Klich,M,4,Feb 14,LEE,@ARS,L 2-4,2.0,44,1
+13,Mateusz Klich,M,4,Feb 8,LEE,CRY,W 2-0,9.85,90,1
+14,Mateusz Klich,M,4,Feb 3,LEE,EVE,L 1-2,5.0,68,1
+15,Mateusz Klich,M,4,Jan 31,LEE,@LEI,W 3-1,5.25,68,0
+16,Mateusz Klich,M,4,Jan 26,LEE,@NEW,W 2-1,3.35,33,0
+17,Mateusz Klich,M,4,Jan 16,LEE,BHA,L 0-1,7.75,90,1
+18,Mateusz Klich,M,4,Jan 2,LEE,@TOT,L 0-3,8.1,90,1
+19,Mateusz Klich,M,4,Dec 29,LEE,@WBA,W 5-0,16.0,58,1
+20,Mateusz Klich,M,4,Dec 27,LEE,BUR,W 1-0,6.35,66,1
+21,Mateusz Klich,M,4,Dec 20,LEE,@MUN,L 2-6,4.5,45,1
+22,Mateusz Klich,M,4,Dec 16,LEE,NEW,W 5-2,13.5,89,1
+23,Mateusz Klich,M,4,Dec 11,LEE,WHU,L 1-2,14.5,90,1
+24,Mateusz Klich,M,4,Dec 5,LEE,@CHE,L 1-3,8.95,90,1
+25,Mateusz Klich,M,4,Nov 28,LEE,@EVE,W 1-0,10.5,90,1
+26,Mateusz Klich,M,4,Nov 22,LEE,ARS,T 0-0,6.35,90,1
+27,Mateusz Klich,M,4,Nov 7,LEE,@CRY,L 1-4,18.25,90,1
+28,Mateusz Klich,M,4,Nov 2,LEE,LEI,L 1-4,9.6,90,1
+29,Mateusz Klich,M,4,Oct 23,LEE,@AVL,W 3-0,15.85,90,1
+30,Mateusz Klich,M,4,Oct 19,LEE,WOL,L 0-1,7.25,90,1
+31,Mateusz Klich,M,4,Oct 3,LEE,MCI,T 1-1,6.25,77,1
+32,Mateusz Klich,M,4,Sep 27,LEE,@SHU,W 1-0,11.35,90,1
+33,Mateusz Klich,M,4,Sep 19,LEE,FUL,W 4-3,27.25,90,1
+34,Mateusz Klich,M,4,Sep 12,LEE,@LIV,L 3-4,19.7,81,1
+0,Jamie Shackleton,M,4,Apr 10,LEE,@MCI,W 2-1,0.5,1,0
+1,Jamie Shackleton,M,4,Feb 19,LEE,@WOL,L 0-1,3.5,65,1
+2,Jamie Shackleton,M,4,Feb 14,LEE,@ARS,L 2-4,5.75,90,1
+3,Jamie Shackleton,M,4,Feb 8,LEE,CRY,W 2-0,0.5,1,0
+4,Jamie Shackleton,M,4,Jan 2,LEE,@TOT,L 0-3,3.5,26,0
+5,Jamie Shackleton,M,4,Dec 29,LEE,@WBA,W 5-0,4.75,32,0
+6,Jamie Shackleton,M,4,Dec 27,LEE,BUR,W 1-0,3.5,24,0
+7,Jamie Shackleton,M,4,Dec 20,LEE,@MUN,L 2-6,3.25,45,0
+8,Jamie Shackleton,M,4,Dec 16,LEE,NEW,W 5-2,0.5,1,0
+9,Jamie Shackleton,M,4,Dec 11,LEE,WHU,L 1-2,5.6,45,0
+10,Jamie Shackleton,M,4,Nov 2,LEE,LEI,L 1-4,3.6,45,1
+11,Jamie Shackleton,M,4,Oct 23,LEE,@AVL,W 3-0,9.25,69,0
+12,Jamie Shackleton,M,4,Sep 12,LEE,@LIV,L 3-4,3.25,9,0
+0,Jack Harrison,M,4,May 23,LEE,WBA,W 3-1,13.75,90,1
+1,Jack Harrison,M,4,May 18,LEE,@SOU,W 2-0,8.5,90,1
+2,Jack Harrison,M,4,May 15,LEE,@BUR,W 4-0,32.25,90,1
+3,Jack Harrison,M,4,May 8,LEE,TOT,W 3-1,14.7,90,1
+4,Jack Harrison,M,4,May 1,LEE,@BHA,L 0-2,11.25,90,1
+5,Jack Harrison,M,4,Apr 25,LEE,MUN,T 0-0,8.25,67,1
+6,Jack Harrison,M,4,Apr 19,LEE,LIV,T 1-1,19.75,90,1
+7,Jack Harrison,M,4,Apr 3,LEE,SHU,W 2-1,22.35,90,1
+8,Jack Harrison,M,4,Mar 19,LEE,@FUL,W 2-1,19.75,90,1
+9,Jack Harrison,M,4,Mar 13,LEE,CHE,T 0-0,5.6,63,1
+10,Jack Harrison,M,4,Mar 8,LEE,@WHU,L 0-2,3.25,44,0
+11,Jack Harrison,M,4,Feb 27,LEE,AVL,L 0-1,1.75,25,0
+12,Jack Harrison,M,4,Feb 23,LEE,SOU,W 3-0,3.6,44,1
+13,Jack Harrison,M,4,Feb 19,LEE,@WOL,L 0-1,7.25,80,1
+14,Jack Harrison,M,4,Feb 14,LEE,@ARS,L 2-4,6.1,44,1
+15,Jack Harrison,M,4,Feb 8,LEE,CRY,W 2-0,19.6,90,1
+16,Jack Harrison,M,4,Feb 3,LEE,EVE,L 1-2,7.0,86,1
+17,Jack Harrison,M,4,Jan 31,LEE,@LEI,W 3-1,21.0,90,1
+18,Jack Harrison,M,4,Jan 26,LEE,@NEW,W 2-1,13.25,90,1
+19,Jack Harrison,M,4,Jan 16,LEE,BHA,L 0-1,9.7,90,1
+20,Jack Harrison,M,4,Jan 2,LEE,@TOT,L 0-3,7.25,61,1
+21,Jack Harrison,M,4,Dec 29,LEE,@WBA,W 5-0,20.85,90,1
+22,Jack Harrison,M,4,Dec 27,LEE,BUR,W 1-0,8.7,90,1
+23,Jack Harrison,M,4,Dec 20,LEE,@MUN,L 2-6,11.75,90,1
+24,Jack Harrison,M,4,Dec 16,LEE,NEW,W 5-2,26.5,90,1
+25,Jack Harrison,M,4,Dec 11,LEE,WHU,L 1-2,5.45,45,1
+26,Jack Harrison,M,4,Dec 5,LEE,@CHE,L 1-3,5.75,57,1
+27,Jack Harrison,M,4,Nov 28,LEE,@EVE,W 1-0,16.0,89,1
+28,Jack Harrison,M,4,Nov 22,LEE,ARS,T 0-0,12.5,80,1
+29,Jack Harrison,M,4,Nov 7,LEE,@CRY,L 1-4,8.95,90,1
+30,Jack Harrison,M,4,Nov 2,LEE,LEI,L 1-4,16.75,90,1
+31,Jack Harrison,M,4,Oct 23,LEE,@AVL,W 3-0,11.85,90,1
+32,Jack Harrison,M,4,Oct 19,LEE,WOL,L 0-1,12.75,82,1
+33,Jack Harrison,M,4,Sep 27,LEE,@SHU,W 1-0,23.35,90,1
+34,Jack Harrison,M,4,Sep 19,LEE,FUL,W 4-3,4.75,90,1
+35,Jack Harrison,M,4,Sep 12,LEE,@LIV,L 3-4,19.75,90,1
+0,Pablo Hernandez,M,4,May 23,LEE,WBA,W 3-1,16.0,69,1
+1,Pablo Hernandez,M,4,May 1,LEE,@BHA,L 0-2,3.25,10,0
+2,Pablo Hernandez,M,4,Apr 19,LEE,LIV,T 1-1,1.0,3,0
+3,Pablo Hernandez,M,4,Feb 27,LEE,AVL,L 0-1,-0.25,18,0
+4,Pablo Hernandez,M,4,Feb 23,LEE,SOU,W 3-0,1.75,14,0
+5,Pablo Hernandez,M,4,Feb 19,LEE,@WOL,L 0-1,1.75,23,0
+6,Pablo Hernandez,M,4,Feb 3,LEE,EVE,L 1-2,1.25,11,0
+7,Pablo Hernandez,M,4,Jan 16,LEE,BHA,L 0-1,2.5,22,0
+8,Pablo Hernandez,M,4,Jan 2,LEE,@TOT,L 0-3,6.0,25,0
+9,Pablo Hernandez,M,4,Dec 29,LEE,@WBA,W 5-0,3.0,20,0
+10,Pablo Hernandez,M,4,Dec 27,LEE,BUR,W 1-0,3.25,31,0
+11,Pablo Hernandez,M,4,Dec 16,LEE,NEW,W 5-2,16.75,8,0
+12,Pablo Hernandez,M,4,Nov 2,LEE,LEI,L 1-4,4.5,67,1
+13,Pablo Hernandez,M,4,Oct 23,LEE,@AVL,W 3-0,2.25,11,0
+14,Pablo Hernandez,M,4,Oct 19,LEE,WOL,L 0-1,1.25,15,0
+15,Pablo Hernandez,M,4,Sep 12,LEE,@LIV,L 3-4,5.25,62,1
+0,Helder Costa,"M,F",5,Apr 25,LEE,MUN,T 0-0,4.45,71,1
+1,Helder Costa,"M,F",5,Apr 19,LEE,LIV,T 1-1,7.75,66,1
+2,Helder Costa,"M,F",5,Apr 10,LEE,@MCI,W 2-1,8.0,90,1
+3,Helder Costa,"M,F",5,Mar 13,LEE,CHE,T 0-0,2.5,25,0
+4,Helder Costa,"M,F",5,Mar 8,LEE,@WHU,L 0-2,1.0,44,1
+5,Helder Costa,"M,F",5,Feb 27,LEE,AVL,L 0-1,4.25,63,1
+6,Helder Costa,"M,F",5,Feb 23,LEE,SOU,W 3-0,14.85,44,0
+7,Helder Costa,"M,F",5,Feb 19,LEE,@WOL,L 0-1,4.25,8,0
+8,Helder Costa,"M,F",5,Feb 14,LEE,@ARS,L 2-4,13.25,44,0
+9,Helder Costa,"M,F",5,Feb 3,LEE,EVE,L 1-2,1.25,2,0
+10,Helder Costa,"M,F",5,Jan 31,LEE,@LEI,W 3-1,1.0,9,0
+11,Helder Costa,"M,F",5,Dec 29,LEE,@WBA,W 5-0,0.0,9,0
+12,Helder Costa,"M,F",5,Dec 11,LEE,WHU,L 1-2,3.75,45,0
+13,Helder Costa,"M,F",5,Nov 28,LEE,@EVE,W 1-0,2.5,1,0
+14,Helder Costa,"M,F",5,Nov 7,LEE,@CRY,L 1-4,0.75,45,1
+15,Helder Costa,"M,F",5,Nov 2,LEE,LEI,L 1-4,6.5,90,1
+16,Helder Costa,"M,F",5,Oct 23,LEE,@AVL,W 3-0,15.25,83,1
+17,Helder Costa,"M,F",5,Oct 19,LEE,WOL,L 0-1,6.0,71,1
+18,Helder Costa,"M,F",5,Oct 3,LEE,MCI,T 1-1,8.35,90,1
+19,Helder Costa,"M,F",5,Sep 27,LEE,@SHU,W 1-0,3.5,66,1
+20,Helder Costa,"M,F",5,Sep 19,LEE,FUL,W 4-3,26.5,90,1
+21,Helder Costa,"M,F",5,Sep 12,LEE,@LIV,L 3-4,13.85,90,1
+0,Raphinha,"M,F",5,May 23,LEE,WBA,W 3-1,23.0,90,1
+1,Raphinha,"M,F",5,May 18,LEE,@SOU,W 2-0,10.25,90,1
+2,Raphinha,"M,F",5,May 15,LEE,@BUR,W 4-0,14.35,80,1
+3,Raphinha,"M,F",5,May 8,LEE,TOT,W 3-1,11.6,31,0
+4,Raphinha,"M,F",5,Apr 10,LEE,@MCI,W 2-1,9.95,88,1
+5,Raphinha,"M,F",5,Apr 3,LEE,SHU,W 2-1,21.55,90,1
+6,Raphinha,"M,F",5,Mar 19,LEE,@FUL,W 2-1,20.45,90,1
+7,Raphinha,"M,F",5,Mar 13,LEE,CHE,T 0-0,12.75,90,1
+8,Raphinha,"M,F",5,Mar 8,LEE,@WHU,L 0-2,13.35,90,1
+9,Raphinha,"M,F",5,Feb 27,LEE,AVL,L 0-1,11.7,90,1
+10,Raphinha,"M,F",5,Feb 23,LEE,SOU,W 3-0,20.0,90,1
+11,Raphinha,"M,F",5,Feb 19,LEE,@WOL,L 0-1,24.9,90,1
+12,Raphinha,"M,F",5,Feb 14,LEE,@ARS,L 2-4,16.35,90,1
+13,Raphinha,"M,F",5,Feb 8,LEE,CRY,W 2-0,17.25,90,1
+14,Raphinha,"M,F",5,Feb 3,LEE,EVE,L 1-2,23.0,90,1
+15,Raphinha,"M,F",5,Jan 31,LEE,@LEI,W 3-1,16.75,79,1
+16,Raphinha,"M,F",5,Jan 26,LEE,@NEW,W 2-1,23.85,90,1
+17,Raphinha,"M,F",5,Jan 16,LEE,BHA,L 0-1,8.75,74,1
+18,Raphinha,"M,F",5,Jan 2,LEE,@TOT,L 0-3,16.75,90,1
+19,Raphinha,"M,F",5,Dec 29,LEE,@WBA,W 5-0,14.25,81,1
+20,Raphinha,"M,F",5,Dec 27,LEE,BUR,W 1-0,9.1,70,1
+21,Raphinha,"M,F",5,Dec 20,LEE,@MUN,L 2-6,22.7,90,1
+22,Raphinha,"M,F",5,Dec 16,LEE,NEW,W 5-2,10.75,90,1
+23,Raphinha,"M,F",5,Dec 11,LEE,WHU,L 1-2,16.3,90,1
+24,Raphinha,"M,F",5,Dec 5,LEE,@CHE,L 1-3,8.75,90,1
+25,Raphinha,"M,F",5,Nov 28,LEE,@EVE,W 1-0,17.0,85,1
+26,Raphinha,"M,F",5,Nov 22,LEE,ARS,T 0-0,10.1,90,1
+27,Raphinha,"M,F",5,Nov 7,LEE,@CRY,L 1-4,4.6,45,0
+28,Raphinha,"M,F",5,Oct 23,LEE,@AVL,W 3-0,1.25,7,0
+29,Raphinha,"M,F",5,Oct 19,LEE,WOL,L 0-1,1.25,8,0
+0,Tyler Roberts,"M,F",5,May 23,LEE,WBA,W 3-1,7.5,19,0
+1,Tyler Roberts,"M,F",5,May 18,LEE,@SOU,W 2-0,11.5,11,0
+2,Tyler Roberts,"M,F",5,May 15,LEE,@BUR,W 4-0,3.5,13,0
+3,Tyler Roberts,"M,F",5,May 8,LEE,TOT,W 3-1,6.85,57,1
+4,Tyler Roberts,"M,F",5,May 1,LEE,@BHA,L 0-2,7.1,90,1
+5,Tyler Roberts,"M,F",5,Apr 25,LEE,MUN,T 0-0,3.85,76,1
+6,Tyler Roberts,"M,F",5,Apr 19,LEE,LIV,T 1-1,11.0,85,1
+7,Tyler Roberts,"M,F",5,Apr 10,LEE,@MCI,W 2-1,5.85,62,1
+8,Tyler Roberts,"M,F",5,Apr 3,LEE,SHU,W 2-1,7.1,80,1
+9,Tyler Roberts,"M,F",5,Mar 19,LEE,@FUL,W 2-1,7.3,88,1
+10,Tyler Roberts,"M,F",5,Mar 13,LEE,CHE,T 0-0,9.85,90,1
+11,Tyler Roberts,"M,F",5,Mar 8,LEE,@WHU,L 0-2,8.6,59,1
+12,Tyler Roberts,"M,F",5,Feb 27,LEE,AVL,L 0-1,5.5,70,1
+13,Tyler Roberts,"M,F",5,Feb 23,LEE,SOU,W 3-0,14.25,74,1
+14,Tyler Roberts,"M,F",5,Feb 19,LEE,@WOL,L 0-1,4.5,90,1
+15,Tyler Roberts,"M,F",5,Feb 14,LEE,@ARS,L 2-4,11.5,44,0
+16,Tyler Roberts,"M,F",5,Feb 3,LEE,EVE,L 1-2,2.5,20,0
+17,Tyler Roberts,"M,F",5,Jan 26,LEE,@NEW,W 2-1,5.25,29,0
+18,Tyler Roberts,"M,F",5,Jan 16,LEE,BHA,L 0-1,5.25,27,0
+19,Tyler Roberts,"M,F",5,Dec 16,LEE,NEW,W 5-2,1.1,6,0
+20,Tyler Roberts,"M,F",5,Dec 11,LEE,WHU,L 1-2,0.5,16,0
+21,Tyler Roberts,"M,F",5,Nov 7,LEE,@CRY,L 1-4,2.0,19,0
+22,Tyler Roberts,"M,F",5,Nov 2,LEE,LEI,L 1-4,0.75,23,0
+23,Tyler Roberts,"M,F",5,Oct 3,LEE,MCI,T 1-1,3.0,56,1
+24,Tyler Roberts,"M,F",5,Sep 27,LEE,@SHU,W 1-0,1.5,45,1
+25,Tyler Roberts,"M,F",5,Sep 19,LEE,FUL,W 4-3,7.5,45,0
+26,Tyler Roberts,"M,F",5,Sep 12,LEE,@LIV,L 3-4,2.75,28,0
+0,Rodrigo,"M,F",5,May 23,LEE,WBA,W 3-1,12.85,44,1
+1,Rodrigo,"M,F",5,May 18,LEE,@SOU,W 2-0,14.1,77,1
+2,Rodrigo,"M,F",5,May 15,LEE,@BUR,W 4-0,23.75,31,0
+3,Rodrigo,"M,F",5,May 8,LEE,TOT,W 3-1,12.5,10,0
+4,Rodrigo,"M,F",5,May 1,LEE,@BHA,L 0-2,1.35,30,0
+5,Rodrigo,"M,F",5,Apr 3,LEE,SHU,W 2-1,4.05,24,0
+6,Rodrigo,"M,F",5,Mar 13,LEE,CHE,T 0-0,5.2,43,0
+7,Rodrigo,"M,F",5,Mar 8,LEE,@WHU,L 0-2,1.25,29,0
+8,Rodrigo,"M,F",5,Jan 31,LEE,@LEI,W 3-1,1.25,20,1
+9,Rodrigo,"M,F",5,Jan 26,LEE,@NEW,W 2-1,11.95,90,1
+10,Rodrigo,"M,F",5,Jan 16,LEE,BHA,L 0-1,3.25,61,1
+11,Rodrigo,"M,F",5,Jan 2,LEE,@TOT,L 0-3,8.25,65,1
+12,Rodrigo,"M,F",5,Dec 29,LEE,@WBA,W 5-0,18.25,70,1
+13,Rodrigo,"M,F",5,Dec 27,LEE,BUR,W 1-0,5.75,59,1
+14,Rodrigo,"M,F",5,Dec 20,LEE,@MUN,L 2-6,11.35,90,1
+15,Rodrigo,"M,F",5,Dec 16,LEE,NEW,W 5-2,26.75,82,1
+16,Rodrigo,"M,F",5,Dec 11,LEE,WHU,L 1-2,9.75,90,1
+17,Rodrigo,"M,F",5,Dec 5,LEE,@CHE,L 1-3,2.25,21,0
+18,Rodrigo,"M,F",5,Nov 28,LEE,@EVE,W 1-0,1.5,1,0
+19,Rodrigo,"M,F",5,Nov 22,LEE,ARS,T 0-0,3.5,20,0
+20,Rodrigo,"M,F",5,Oct 23,LEE,@AVL,W 3-0,14.35,79,1
+21,Rodrigo,"M,F",5,Oct 19,LEE,WOL,L 0-1,11.25,90,1
+22,Rodrigo,"M,F",5,Oct 3,LEE,MCI,T 1-1,16.5,34,0
+23,Rodrigo,"M,F",5,Sep 27,LEE,@SHU,W 1-0,2.6,44,0
+24,Rodrigo,"M,F",5,Sep 19,LEE,FUL,W 4-3,3.75,45,1
+25,Rodrigo,"M,F",5,Sep 12,LEE,@LIV,L 3-4,1.95,28,0
+0,Ian Poveda-Ocampo,F,6,May 15,LEE,@BUR,W 4-0,1.0,8,0
+1,Ian Poveda-Ocampo,F,6,May 1,LEE,@BHA,L 0-2,5.5,44,0
+2,Ian Poveda-Ocampo,F,6,Apr 25,LEE,MUN,T 0-0,1.35,21,0
+3,Ian Poveda-Ocampo,F,6,Apr 19,LEE,LIV,T 1-1,3.5,22,0
+4,Ian Poveda-Ocampo,F,6,Jan 16,LEE,BHA,L 0-1,1.5,14,0
+5,Ian Poveda-Ocampo,F,6,Jan 2,LEE,@TOT,L 0-3,2.25,29,0
+6,Ian Poveda-Ocampo,F,6,Dec 27,LEE,BUR,W 1-0,2.6,20,0
+7,Ian Poveda-Ocampo,F,6,Dec 5,LEE,@CHE,L 1-3,2.25,33,0
+8,Ian Poveda-Ocampo,F,6,Nov 28,LEE,@EVE,W 1-0,3.0,5,0
+9,Ian Poveda-Ocampo,F,6,Nov 22,LEE,ARS,T 0-0,5.0,10,0
+10,Ian Poveda-Ocampo,F,6,Nov 2,LEE,LEI,L 1-4,3.75,45,0
+11,Ian Poveda-Ocampo,F,6,Oct 19,LEE,WOL,L 0-1,1.0,19,0
+12,Ian Poveda-Ocampo,F,6,Oct 3,LEE,MCI,T 1-1,7.0,45,0
+13,Ian Poveda-Ocampo,F,6,Sep 27,LEE,@SHU,W 1-0,2.75,24,0
+0,Patrick Bamford,F,6,May 23,LEE,WBA,W 3-1,14.6,44,0
+1,Patrick Bamford,F,6,May 18,LEE,@SOU,W 2-0,27.95,90,1
+2,Patrick Bamford,F,6,May 15,LEE,@BUR,W 4-0,4.6,57,1
+3,Patrick Bamford,F,6,May 8,LEE,TOT,W 3-1,17.85,78,1
+4,Patrick Bamford,F,6,May 1,LEE,@BHA,L 0-2,3.6,58,1
+5,Patrick Bamford,F,6,Apr 25,LEE,MUN,T 0-0,3.35,90,1
+6,Patrick Bamford,F,6,Apr 19,LEE,LIV,T 1-1,8.35,90,1
+7,Patrick Bamford,F,6,Apr 10,LEE,@MCI,W 2-1,8.85,44,1
+8,Patrick Bamford,F,6,Apr 3,LEE,SHU,W 2-1,7.35,64,1
+9,Patrick Bamford,F,6,Mar 19,LEE,@FUL,W 2-1,20.5,76,1
+10,Patrick Bamford,F,6,Mar 13,LEE,CHE,T 0-0,3.0,34,1
+11,Patrick Bamford,F,6,Mar 8,LEE,@WHU,L 0-2,5.85,90,1
+12,Patrick Bamford,F,6,Feb 27,LEE,AVL,L 0-1,3.7,90,1
+13,Patrick Bamford,F,6,Feb 23,LEE,SOU,W 3-0,19.5,90,1
+14,Patrick Bamford,F,6,Feb 19,LEE,@WOL,L 0-1,5.1,90,1
+15,Patrick Bamford,F,6,Feb 14,LEE,@ARS,L 2-4,8.25,90,1
+16,Patrick Bamford,F,6,Feb 8,LEE,CRY,W 2-0,19.25,90,1
+17,Patrick Bamford,F,6,Feb 3,LEE,EVE,L 1-2,17.75,90,1
+18,Patrick Bamford,F,6,Jan 31,LEE,@LEI,W 3-1,31.95,90,1
+19,Patrick Bamford,F,6,Jan 26,LEE,@NEW,W 2-1,3.5,59,1
+20,Patrick Bamford,F,6,Jan 16,LEE,BHA,L 0-1,4.5,90,1
+21,Patrick Bamford,F,6,Jan 2,LEE,@TOT,L 0-3,11.6,90,1
+22,Patrick Bamford,F,6,Dec 29,LEE,@WBA,W 5-0,18.45,90,1
+23,Patrick Bamford,F,6,Dec 27,LEE,BUR,W 1-0,14.25,90,1
+24,Patrick Bamford,F,6,Dec 20,LEE,@MUN,L 2-6,6.85,90,1
+25,Patrick Bamford,F,6,Dec 16,LEE,NEW,W 5-2,19.35,84,1
+26,Patrick Bamford,F,6,Dec 11,LEE,WHU,L 1-2,8.75,74,1
+27,Patrick Bamford,F,6,Dec 5,LEE,@CHE,L 1-3,17.1,90,1
+28,Patrick Bamford,F,6,Nov 28,LEE,@EVE,W 1-0,7.35,89,1
+29,Patrick Bamford,F,6,Nov 22,LEE,ARS,T 0-0,9.05,90,1
+30,Patrick Bamford,F,6,Nov 7,LEE,@CRY,L 1-4,13.75,90,1
+31,Patrick Bamford,F,6,Nov 2,LEE,LEI,L 1-4,9.85,90,1
+32,Patrick Bamford,F,6,Oct 23,LEE,@AVL,W 3-0,39.0,90,1
+33,Patrick Bamford,F,6,Oct 19,LEE,WOL,L 0-1,6.0,90,1
+34,Patrick Bamford,F,6,Oct 3,LEE,MCI,T 1-1,5.2,90,1
+35,Patrick Bamford,F,6,Sep 27,LEE,@SHU,W 1-0,16.75,90,1
+36,Patrick Bamford,F,6,Sep 19,LEE,FUL,W 4-3,23.35,70,1
+37,Patrick Bamford,F,6,Sep 12,LEE,@LIV,L 3-4,13.2,62,1
+0,Niall Huggins,F,6,Feb 14,LEE,@ARS,L 2-4,1.85,36,0

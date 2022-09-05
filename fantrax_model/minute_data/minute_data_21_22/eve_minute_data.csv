@@ -1,0 +1,530 @@
+,player,position,position_id,date,team,opp,score,fpts,min,starts
+0,Jordan Pickford,G,1,May 19,EVE,CRY,W 3-2,8.5,90,1
+1,Jordan Pickford,G,1,May 15,EVE,BRF,L 2-3,9.0,90,1
+2,Jordan Pickford,G,1,May 11,EVE,@WAT,T 0-0,13.0,90,1
+3,Jordan Pickford,G,1,May 8,EVE,@LEI,W 2-1,13.5,90,1
+4,Jordan Pickford,G,1,May 1,EVE,CHE,W 1-0,21.5,90,1
+5,Jordan Pickford,G,1,Apr 24,EVE,@LIV,L 0-2,6.5,90,1
+6,Jordan Pickford,G,1,Apr 20,EVE,LEI,T 1-1,6.5,90,1
+7,Jordan Pickford,G,1,Apr 9,EVE,MUN,W 1-0,20.0,90,1
+8,Jordan Pickford,G,1,Apr 6,EVE,@BUR,L 2-3,4.5,90,1
+9,Jordan Pickford,G,1,Apr 3,EVE,@WHU,L 1-2,9.5,90,1
+10,Jordan Pickford,G,1,Mar 13,EVE,WOL,L 0-1,6.0,90,1
+11,Jordan Pickford,G,1,Mar 7,EVE,@TOT,L 0-5,5.5,90,1
+12,Jordan Pickford,G,1,Feb 26,EVE,MCI,L 0-1,14.5,90,1
+13,Jordan Pickford,G,1,Feb 19,EVE,@SOU,L 0-2,19.5,90,1
+14,Jordan Pickford,G,1,Feb 12,EVE,LEE,W 3-0,12.0,90,1
+15,Jordan Pickford,G,1,Feb 8,EVE,@NEW,L 1-3,12.5,90,1
+16,Jordan Pickford,G,1,Jan 22,EVE,AVL,L 0-1,8.0,90,1
+17,Jordan Pickford,G,1,Jan 15,EVE,@NOR,L 1-2,6.0,90,1
+18,Jordan Pickford,G,1,Jan 2,EVE,BHA,L 2-3,5.0,90,1
+19,Jordan Pickford,G,1,Dec 16,EVE,@CHE,T 1-1,17.0,90,1
+20,Jordan Pickford,G,1,Dec 12,EVE,@CRY,L 1-3,7.5,90,1
+21,Jordan Pickford,G,1,Dec 6,EVE,ARS,W 2-1,6.0,90,1
+22,Jordan Pickford,G,1,Dec 1,EVE,LIV,L 1-4,8.0,90,1
+23,Jordan Pickford,G,1,Nov 28,EVE,@BRF,L 0-1,11.0,90,1
+24,Jordan Pickford,G,1,Nov 21,EVE,@MCI,L 0-3,8.5,90,1
+25,Jordan Pickford,G,1,Nov 7,EVE,TOT,T 0-0,12.0,90,1
+26,Jordan Pickford,G,1,Nov 1,EVE,@WOL,L 1-2,7.5,90,1
+27,Jordan Pickford,G,1,Oct 23,EVE,WAT,L 2-5,5.5,90,1
+28,Jordan Pickford,G,1,Oct 17,EVE,WHU,L 0-1,11.0,90,1
+29,Jordan Pickford,G,1,Oct 2,EVE,@MUN,T 1-1,10.5,90,1
+30,Jordan Pickford,G,1,Sep 25,EVE,NOR,W 2-0,15.0,90,1
+31,Jordan Pickford,G,1,Sep 13,EVE,BUR,W 3-1,12.0,90,1
+32,Jordan Pickford,G,1,Aug 28,EVE,@BHA,W 2-0,16.5,90,1
+33,Jordan Pickford,G,1,Aug 21,EVE,@LEE,T 2-2,6.0,90,1
+34,Jordan Pickford,G,1,Aug 14,EVE,SOU,W 3-1,7.0,90,1
+0,Asmir Begovic,G,1,May 22,EVE,@ARS,L 1-5,11.0,90,1
+1,Asmir Begovic,G,1,Mar 17,EVE,NEW,W 1-0,25.0,90,1
+2,Asmir Begovic,G,1,Sep 18,EVE,@AVL,L 0-3,3.5,90,1
+0,Seamus Coleman,D,2,May 19,EVE,CRY,W 3-2,9.65,90,1
+1,Seamus Coleman,D,2,May 15,EVE,BRF,L 2-3,-0.15,83,1
+2,Seamus Coleman,D,2,May 11,EVE,@WAT,T 0-0,13.6,90,1
+3,Seamus Coleman,D,2,May 8,EVE,@LEI,W 2-1,7.3,90,1
+4,Seamus Coleman,D,2,May 1,EVE,CHE,W 1-0,12.75,90,1
+5,Seamus Coleman,D,2,Apr 24,EVE,@LIV,L 0-2,6.7,90,1
+6,Seamus Coleman,D,2,Apr 20,EVE,LEI,T 1-1,13.85,90,1
+7,Seamus Coleman,D,2,Apr 9,EVE,MUN,W 1-0,19.85,90,1
+8,Seamus Coleman,D,2,Mar 17,EVE,NEW,W 1-0,18.3,90,1
+9,Seamus Coleman,D,2,Mar 13,EVE,WOL,L 0-1,4.5,90,1
+10,Seamus Coleman,D,2,Mar 7,EVE,@TOT,L 0-5,3.95,90,1
+11,Seamus Coleman,D,2,Feb 26,EVE,MCI,L 0-1,7.45,90,1
+12,Seamus Coleman,D,2,Feb 19,EVE,@SOU,L 0-2,13.35,90,1
+13,Seamus Coleman,D,2,Feb 12,EVE,LEE,W 3-0,24.95,90,1
+14,Seamus Coleman,D,2,Feb 8,EVE,@NEW,L 1-3,16.2,90,1
+15,Seamus Coleman,D,2,Jan 15,EVE,@NOR,L 1-2,6.35,53,1
+16,Seamus Coleman,D,2,Jan 2,EVE,BHA,L 2-3,9.1,90,1
+17,Seamus Coleman,D,2,Dec 12,EVE,@CRY,L 1-3,5.95,90,1
+18,Seamus Coleman,D,2,Dec 6,EVE,ARS,W 2-1,10.25,90,1
+19,Seamus Coleman,D,2,Dec 1,EVE,LIV,L 1-4,4.1,90,1
+20,Seamus Coleman,D,2,Nov 28,EVE,@BRF,L 0-1,17.85,90,1
+21,Seamus Coleman,D,2,Nov 21,EVE,@MCI,L 0-3,5.7,90,1
+22,Seamus Coleman,D,2,Nov 7,EVE,TOT,T 0-0,18.05,90,1
+23,Seamus Coleman,D,2,Nov 1,EVE,@WOL,L 1-2,6.95,90,1
+24,Seamus Coleman,D,2,Oct 23,EVE,WAT,L 2-5,6.9,90,1
+25,Seamus Coleman,D,2,Oct 17,EVE,WHU,L 0-1,5.45,90,1
+26,Seamus Coleman,D,2,Sep 13,EVE,BUR,W 3-1,6.85,90,1
+27,Seamus Coleman,D,2,Aug 28,EVE,@BHA,W 2-0,19.25,90,1
+28,Seamus Coleman,D,2,Aug 21,EVE,@LEE,T 2-2,8.7,90,1
+29,Seamus Coleman,D,2,Aug 14,EVE,SOU,W 3-1,10.2,90,1
+0,Jonjoe Kenny,D,2,May 22,EVE,@ARS,L 1-5,4.05,90,1
+1,Jonjoe Kenny,D,2,May 19,EVE,CRY,W 3-2,0.5,1,0
+2,Jonjoe Kenny,D,2,May 15,EVE,BRF,L 2-3,3.75,17,0
+3,Jonjoe Kenny,D,2,May 8,EVE,@LEI,W 2-1,1.6,23,0
+4,Jonjoe Kenny,D,2,Apr 6,EVE,@BUR,L 2-3,9.15,90,1
+5,Jonjoe Kenny,D,2,Apr 3,EVE,@WHU,L 1-2,10.1,90,1
+6,Jonjoe Kenny,D,2,Mar 13,EVE,WOL,L 0-1,7.45,77,1
+7,Jonjoe Kenny,D,2,Mar 7,EVE,@TOT,L 0-5,3.35,90,1
+8,Jonjoe Kenny,D,2,Feb 26,EVE,MCI,L 0-1,3.65,90,1
+9,Jonjoe Kenny,D,2,Feb 19,EVE,@SOU,L 0-2,6.95,90,1
+10,Jonjoe Kenny,D,2,Feb 12,EVE,LEE,W 3-0,22.7,90,1
+11,Jonjoe Kenny,D,2,Jan 22,EVE,AVL,L 0-1,6.85,90,1
+12,Jonjoe Kenny,D,2,Jan 2,EVE,BHA,L 2-3,15.05,75,1
+13,Jonjoe Kenny,D,2,Dec 16,EVE,@CHE,T 1-1,5.95,90,1
+14,Jonjoe Kenny,D,2,Sep 18,EVE,@AVL,L 0-3,2.0,9,0
+0,Mason Holgate,D,2,May 22,EVE,@ARS,L 1-5,4.95,90,1
+1,Mason Holgate,D,2,May 19,EVE,CRY,W 3-2,14.6,90,1
+2,Mason Holgate,D,2,May 15,EVE,BRF,L 2-3,3.8,90,1
+3,Mason Holgate,D,2,May 11,EVE,@WAT,T 0-0,11.8,90,1
+4,Mason Holgate,D,2,May 8,EVE,@LEI,W 2-1,15.3,90,1
+5,Mason Holgate,D,2,May 1,EVE,CHE,W 1-0,11.8,90,1
+6,Mason Holgate,D,2,Apr 24,EVE,@LIV,L 0-2,4.15,90,1
+7,Mason Holgate,D,2,Apr 6,EVE,@BUR,L 2-3,3.6,86,1
+8,Mason Holgate,D,2,Apr 3,EVE,@WHU,L 1-2,17.1,90,1
+9,Mason Holgate,D,2,Mar 17,EVE,NEW,W 1-0,14.1,90,1
+10,Mason Holgate,D,2,Mar 13,EVE,WOL,L 0-1,8.3,90,1
+11,Mason Holgate,D,2,Mar 7,EVE,@TOT,L 0-5,4.1,90,1
+12,Mason Holgate,D,2,Feb 26,EVE,MCI,L 0-1,6.35,90,1
+13,Mason Holgate,D,2,Feb 19,EVE,@SOU,L 0-2,9.6,90,1
+14,Mason Holgate,D,2,Feb 12,EVE,LEE,W 3-0,14.7,90,1
+15,Mason Holgate,D,2,Feb 8,EVE,@NEW,L 1-3,2.6,90,1
+16,Mason Holgate,D,2,Jan 22,EVE,AVL,L 0-1,8.75,90,1
+17,Mason Holgate,D,2,Jan 2,EVE,BHA,L 2-3,9.6,90,1
+18,Mason Holgate,D,2,Dec 16,EVE,@CHE,T 1-1,4.4,90,1
+19,Mason Holgate,D,2,Dec 12,EVE,@CRY,L 1-3,8.25,90,1
+20,Mason Holgate,D,2,Dec 6,EVE,ARS,W 2-1,7.9,58,0
+21,Mason Holgate,D,2,Nov 7,EVE,TOT,T 0-0,-4.0,6,0
+22,Mason Holgate,D,2,Nov 1,EVE,@WOL,L 1-2,8.3,90,1
+23,Mason Holgate,D,2,Aug 28,EVE,@BHA,W 2-0,20.4,90,1
+24,Mason Holgate,D,2,Aug 14,EVE,SOU,W 3-1,8.1,90,1
+0,Ben Godfrey,D,2,Apr 20,EVE,LEI,T 1-1,6.0,90,1
+1,Ben Godfrey,D,2,Apr 9,EVE,MUN,W 1-0,16.8,90,1
+2,Ben Godfrey,D,2,Apr 6,EVE,@BUR,L 2-3,7.25,90,1
+3,Ben Godfrey,D,2,Apr 3,EVE,@WHU,L 1-2,4.9,90,1
+4,Ben Godfrey,D,2,Mar 17,EVE,NEW,W 1-0,14.05,90,1
+5,Ben Godfrey,D,2,Mar 13,EVE,WOL,L 0-1,6.2,90,1
+6,Ben Godfrey,D,2,Jan 22,EVE,AVL,L 0-1,5.7,90,1
+7,Ben Godfrey,D,2,Jan 15,EVE,@NOR,L 1-2,12.6,90,1
+8,Ben Godfrey,D,2,Jan 2,EVE,BHA,L 2-3,9.85,90,1
+9,Ben Godfrey,D,2,Dec 16,EVE,@CHE,T 1-1,7.1,90,1
+10,Ben Godfrey,D,2,Dec 12,EVE,@CRY,L 1-3,15.05,90,1
+11,Ben Godfrey,D,2,Dec 6,EVE,ARS,W 2-1,4.0,90,1
+12,Ben Godfrey,D,2,Dec 1,EVE,LIV,L 1-4,5.5,90,1
+13,Ben Godfrey,D,2,Nov 28,EVE,@BRF,L 0-1,7.45,90,1
+14,Ben Godfrey,D,2,Nov 21,EVE,@MCI,L 0-3,7.2,90,1
+15,Ben Godfrey,D,2,Nov 7,EVE,TOT,T 0-0,16.3,90,1
+16,Ben Godfrey,D,2,Nov 1,EVE,@WOL,L 1-2,8.75,90,1
+17,Ben Godfrey,D,2,Oct 23,EVE,WAT,L 2-5,9.4,90,1
+18,Ben Godfrey,D,2,Oct 17,EVE,WHU,L 0-1,11.6,90,1
+19,Ben Godfrey,D,2,Oct 2,EVE,@MUN,T 1-1,9.35,90,1
+20,Ben Godfrey,D,2,Sep 25,EVE,NOR,W 2-0,14.85,90,1
+21,Ben Godfrey,D,2,Sep 18,EVE,@AVL,L 0-3,4.25,79,1
+22,Ben Godfrey,D,2,Sep 13,EVE,BUR,W 3-1,4.95,60,1
+0,Yerry Mina,D,2,May 8,EVE,@LEI,W 2-1,2.05,17,1
+1,Yerry Mina,D,2,May 1,EVE,CHE,W 1-0,16.4,90,1
+2,Yerry Mina,D,2,Apr 20,EVE,LEI,T 1-1,7.8,90,1
+3,Yerry Mina,D,2,Feb 8,EVE,@NEW,L 1-3,2.25,34,1
+4,Yerry Mina,D,2,Jan 22,EVE,AVL,L 0-1,7.7,90,1
+5,Yerry Mina,D,2,Jan 15,EVE,@NOR,L 1-2,2.85,35,0
+6,Yerry Mina,D,2,Dec 6,EVE,ARS,W 2-1,2.0,30,1
+7,Yerry Mina,D,2,Oct 2,EVE,@MUN,T 1-1,8.5,90,1
+8,Yerry Mina,D,2,Sep 25,EVE,NOR,W 2-0,16.1,90,1
+9,Yerry Mina,D,2,Sep 18,EVE,@AVL,L 0-3,5.85,90,1
+10,Yerry Mina,D,2,Sep 13,EVE,BUR,W 3-1,9.95,90,1
+11,Yerry Mina,D,2,Aug 21,EVE,@LEE,T 2-2,8.15,90,1
+12,Yerry Mina,D,2,Aug 14,EVE,SOU,W 3-1,1.1,6,0
+0,Michael Keane,D,2,May 22,EVE,@ARS,L 1-5,5.7,90,1
+1,Michael Keane,D,2,May 19,EVE,CRY,W 3-2,14.65,90,1
+2,Michael Keane,D,2,May 11,EVE,@WAT,T 0-0,19.95,90,1
+3,Michael Keane,D,2,May 8,EVE,@LEI,W 2-1,14.45,71,0
+4,Michael Keane,D,2,Apr 24,EVE,@LIV,L 0-2,8.05,90,1
+5,Michael Keane,D,2,Apr 9,EVE,MUN,W 1-0,16.0,90,1
+6,Michael Keane,D,2,Apr 3,EVE,@WHU,L 1-2,5.55,64,1
+7,Michael Keane,D,2,Mar 17,EVE,NEW,W 1-0,16.2,90,1
+8,Michael Keane,D,2,Mar 7,EVE,@TOT,L 0-5,-2.0,45,1
+9,Michael Keane,D,2,Feb 26,EVE,MCI,L 0-1,6.25,90,1
+10,Michael Keane,D,2,Feb 19,EVE,@SOU,L 0-2,8.4,90,1
+11,Michael Keane,D,2,Feb 12,EVE,LEE,W 3-0,26.45,90,1
+12,Michael Keane,D,2,Feb 8,EVE,@NEW,L 1-3,5.8,90,1
+13,Michael Keane,D,2,Jan 15,EVE,@NOR,L 1-2,3.85,90,1
+14,Michael Keane,D,2,Jan 2,EVE,BHA,L 2-3,5.2,90,1
+15,Michael Keane,D,2,Dec 16,EVE,@CHE,T 1-1,12.25,90,1
+16,Michael Keane,D,2,Dec 12,EVE,@CRY,L 1-3,4.15,90,1
+17,Michael Keane,D,2,Dec 6,EVE,ARS,W 2-1,7.45,90,1
+18,Michael Keane,D,2,Dec 1,EVE,LIV,L 1-4,14.4,90,1
+19,Michael Keane,D,2,Nov 28,EVE,@BRF,L 0-1,8.85,90,1
+20,Michael Keane,D,2,Nov 21,EVE,@MCI,L 0-3,6.1,90,1
+21,Michael Keane,D,2,Nov 7,EVE,TOT,T 0-0,21.25,90,1
+22,Michael Keane,D,2,Nov 1,EVE,@WOL,L 1-2,21.65,90,1
+23,Michael Keane,D,2,Oct 23,EVE,WAT,L 2-5,16.2,90,1
+24,Michael Keane,D,2,Oct 17,EVE,WHU,L 0-1,13.35,90,1
+25,Michael Keane,D,2,Oct 2,EVE,@MUN,T 1-1,6.85,90,1
+26,Michael Keane,D,2,Sep 25,EVE,NOR,W 2-0,15.55,90,1
+27,Michael Keane,D,2,Sep 18,EVE,@AVL,L 0-3,8.15,90,1
+28,Michael Keane,D,2,Sep 13,EVE,BUR,W 3-1,21.25,90,1
+29,Michael Keane,D,2,Aug 28,EVE,@BHA,W 2-0,19.55,90,1
+30,Michael Keane,D,2,Aug 21,EVE,@LEE,T 2-2,9.8,90,1
+31,Michael Keane,D,2,Aug 14,EVE,SOU,W 3-1,7.5,90,1
+0,Vitalii Mykolenko,D,2,May 19,EVE,CRY,W 3-2,10.6,90,1
+1,Vitalii Mykolenko,D,2,May 15,EVE,BRF,L 2-3,7.8,90,1
+2,Vitalii Mykolenko,D,2,May 11,EVE,@WAT,T 0-0,13.1,90,1
+3,Vitalii Mykolenko,D,2,May 8,EVE,@LEI,W 2-1,16.7,65,1
+4,Vitalii Mykolenko,D,2,May 1,EVE,CHE,W 1-0,13.2,90,1
+5,Vitalii Mykolenko,D,2,Apr 24,EVE,@LIV,L 0-2,11.7,90,1
+6,Vitalii Mykolenko,D,2,Apr 20,EVE,LEI,T 1-1,9.2,90,1
+7,Vitalii Mykolenko,D,2,Apr 9,EVE,MUN,W 1-0,20.4,90,1
+8,Vitalii Mykolenko,D,2,Apr 6,EVE,@BUR,L 2-3,11.7,90,1
+9,Vitalii Mykolenko,D,2,Apr 3,EVE,@WHU,L 1-2,5.55,90,1
+10,Vitalii Mykolenko,D,2,Mar 13,EVE,WOL,L 0-1,5.45,58,1
+11,Vitalii Mykolenko,D,2,Mar 7,EVE,@TOT,L 0-5,2.75,30,0
+12,Vitalii Mykolenko,D,2,Jan 15,EVE,@NOR,L 1-2,10.05,90,1
+0,Jarrad Branthwaite,D,2,May 22,EVE,@ARS,L 1-5,4.35,90,1
+1,Jarrad Branthwaite,D,2,May 15,EVE,BRF,L 2-3,-3.65,17,1
+2,Jarrad Branthwaite,D,2,Apr 6,EVE,@BUR,L 2-3,4.55,90,1
+3,Jarrad Branthwaite,D,2,Mar 7,EVE,@TOT,L 0-5,1.35,45,0
+4,Jarrad Branthwaite,D,2,Feb 8,EVE,@NEW,L 1-3,5.6,54,0
+5,Jarrad Branthwaite,D,2,Dec 16,EVE,@CHE,T 1-1,18.05,90,1
+0,Fabian Delph,M,4,May 11,EVE,@WAT,T 0-0,12.25,80,1
+1,Fabian Delph,M,4,May 8,EVE,@LEI,W 2-1,12.0,90,1
+2,Fabian Delph,M,4,May 1,EVE,CHE,W 1-0,4.75,70,1
+3,Fabian Delph,M,4,Apr 20,EVE,LEI,T 1-1,10.0,90,1
+4,Fabian Delph,M,4,Apr 9,EVE,MUN,W 1-0,10.35,83,1
+5,Fabian Delph,M,4,Dec 12,EVE,@CRY,L 1-3,8.85,57,1
+6,Fabian Delph,M,4,Dec 1,EVE,LIV,L 1-4,3.25,16,0
+7,Fabian Delph,M,4,Nov 21,EVE,@MCI,L 0-3,3.6,62,1
+8,Fabian Delph,M,4,Nov 7,EVE,TOT,T 0-0,8.6,59,1
+9,Fabian Delph,M,4,Nov 1,EVE,@WOL,L 1-2,7.1,45,0
+10,Fabian Delph,M,4,Aug 21,EVE,@LEE,T 2-2,4.25,6,0
+0,Allan,M,4,May 11,EVE,@WAT,T 0-0,1.0,8,0
+1,Allan,M,4,May 1,EVE,CHE,W 1-0,2.55,18,0
+2,Allan,M,4,Apr 24,EVE,@LIV,L 0-2,8.85,72,1
+3,Allan,M,4,Apr 20,EVE,LEI,T 1-1,5.25,57,1
+4,Allan,M,4,Apr 9,EVE,MUN,W 1-0,9.0,90,1
+5,Allan,M,4,Mar 17,EVE,NEW,W 1-0,7.7,82,1
+6,Allan,M,4,Mar 7,EVE,@TOT,L 0-5,8.75,90,1
+7,Allan,M,4,Feb 26,EVE,MCI,L 0-1,10.5,90,1
+8,Allan,M,4,Feb 19,EVE,@SOU,L 0-2,2.0,45,1
+9,Allan,M,4,Feb 12,EVE,LEE,W 3-0,12.1,90,1
+10,Allan,M,4,Feb 8,EVE,@NEW,L 1-3,6.6,90,1
+11,Allan,M,4,Jan 22,EVE,AVL,L 0-1,4.0,38,0
+12,Allan,M,4,Jan 2,EVE,BHA,L 2-3,15.75,86,1
+13,Allan,M,4,Dec 6,EVE,ARS,W 2-1,8.6,90,1
+14,Allan,M,4,Dec 1,EVE,LIV,L 1-4,12.35,90,1
+15,Allan,M,4,Nov 28,EVE,@BRF,L 0-1,9.2,90,1
+16,Allan,M,4,Nov 21,EVE,@MCI,L 0-3,6.25,88,1
+17,Allan,M,4,Nov 7,EVE,TOT,T 0-0,14.0,81,1
+18,Allan,M,4,Nov 1,EVE,@WOL,L 1-2,9.0,90,1
+19,Allan,M,4,Oct 23,EVE,WAT,L 2-5,6.85,90,1
+20,Allan,M,4,Oct 17,EVE,WHU,L 0-1,10.55,90,1
+21,Allan,M,4,Oct 2,EVE,@MUN,T 1-1,7.55,90,1
+22,Allan,M,4,Sep 25,EVE,NOR,W 2-0,11.0,90,1
+23,Allan,M,4,Sep 18,EVE,@AVL,L 0-3,4.55,71,1
+24,Allan,M,4,Sep 13,EVE,BUR,W 3-1,8.6,90,1
+25,Allan,M,4,Aug 28,EVE,@BHA,W 2-0,21.2,90,1
+26,Allan,M,4,Aug 21,EVE,@LEE,T 2-2,15.3,90,1
+27,Allan,M,4,Aug 14,EVE,SOU,W 3-1,4.8,90,1
+0,Jean-Philippe Gbamin,M,4,Dec 16,EVE,@CHE,T 1-1,3.25,19,0
+1,Jean-Philippe Gbamin,M,4,Nov 7,EVE,TOT,T 0-0,0.85,1,0
+2,Jean-Philippe Gbamin,M,4,Nov 1,EVE,@WOL,L 1-2,4.0,45,1
+0,Abdoulaye Doucoure,M,4,May 22,EVE,@ARS,L 1-5,1.85,36,1
+1,Abdoulaye Doucoure,M,4,May 19,EVE,CRY,W 3-2,11.5,90,1
+2,Abdoulaye Doucoure,M,4,May 15,EVE,BRF,L 2-3,8.75,90,1
+3,Abdoulaye Doucoure,M,4,May 11,EVE,@WAT,T 0-0,12.35,90,1
+4,Abdoulaye Doucoure,M,4,May 8,EVE,@LEI,W 2-1,9.95,90,1
+5,Abdoulaye Doucoure,M,4,May 1,EVE,CHE,W 1-0,14.75,90,1
+6,Abdoulaye Doucoure,M,4,Apr 24,EVE,@LIV,L 0-2,7.6,90,1
+7,Abdoulaye Doucoure,M,4,Apr 9,EVE,MUN,W 1-0,1.25,5,0
+8,Abdoulaye Doucoure,M,4,Apr 6,EVE,@BUR,L 2-3,8.45,90,1
+9,Abdoulaye Doucoure,M,4,Apr 3,EVE,@WHU,L 1-2,7.85,90,1
+10,Abdoulaye Doucoure,M,4,Mar 17,EVE,NEW,W 1-0,9.35,90,1
+11,Abdoulaye Doucoure,M,4,Mar 13,EVE,WOL,L 0-1,8.75,90,1
+12,Abdoulaye Doucoure,M,4,Mar 7,EVE,@TOT,L 0-5,7.75,90,1
+13,Abdoulaye Doucoure,M,4,Feb 26,EVE,MCI,L 0-1,8.45,90,1
+14,Abdoulaye Doucoure,M,4,Jan 22,EVE,AVL,L 0-1,14.0,64,1
+15,Abdoulaye Doucoure,M,4,Jan 15,EVE,@NOR,L 1-2,8.25,90,1
+16,Abdoulaye Doucoure,M,4,Jan 2,EVE,BHA,L 2-3,13.1,90,1
+17,Abdoulaye Doucoure,M,4,Dec 16,EVE,@CHE,T 1-1,10.1,90,1
+18,Abdoulaye Doucoure,M,4,Dec 12,EVE,@CRY,L 1-3,10.45,90,1
+19,Abdoulaye Doucoure,M,4,Dec 6,EVE,ARS,W 2-1,8.0,90,1
+20,Abdoulaye Doucoure,M,4,Dec 1,EVE,LIV,L 1-4,7.35,90,1
+21,Abdoulaye Doucoure,M,4,Nov 28,EVE,@BRF,L 0-1,6.3,90,1
+22,Abdoulaye Doucoure,M,4,Oct 17,EVE,WHU,L 0-1,13.45,90,1
+23,Abdoulaye Doucoure,M,4,Oct 2,EVE,@MUN,T 1-1,16.6,90,1
+24,Abdoulaye Doucoure,M,4,Sep 25,EVE,NOR,W 2-0,19.7,90,1
+25,Abdoulaye Doucoure,M,4,Sep 18,EVE,@AVL,L 0-3,10.85,90,1
+26,Abdoulaye Doucoure,M,4,Sep 13,EVE,BUR,W 3-1,26.0,90,1
+27,Abdoulaye Doucoure,M,4,Aug 28,EVE,@BHA,W 2-0,8.35,90,1
+28,Abdoulaye Doucoure,M,4,Aug 21,EVE,@LEE,T 2-2,14.7,90,1
+29,Abdoulaye Doucoure,M,4,Aug 14,EVE,SOU,W 3-1,15.7,90,1
+0,Tom Davies,M,4,May 22,EVE,@ARS,L 1-5,3.75,77,1
+1,Tom Davies,M,4,Nov 7,EVE,TOT,T 0-0,2.1,29,0
+2,Tom Davies,M,4,Oct 23,EVE,WAT,L 2-5,16.95,90,1
+3,Tom Davies,M,4,Oct 2,EVE,@MUN,T 1-1,1.25,17,0
+4,Tom Davies,M,4,Sep 25,EVE,NOR,W 2-0,2.25,6,0
+5,Tom Davies,M,4,Sep 18,EVE,@AVL,L 0-3,1.25,8,0
+0,Andre Gomes,M,4,May 19,EVE,CRY,W 3-2,3.85,45,1
+1,Andre Gomes,M,4,May 15,EVE,BRF,L 2-3,6.2,71,1
+2,Andre Gomes,M,4,Mar 17,EVE,NEW,W 1-0,1.6,2,0
+3,Andre Gomes,M,4,Feb 19,EVE,@SOU,L 0-2,2.25,45,0
+4,Andre Gomes,M,4,Feb 8,EVE,@NEW,L 1-3,4.1,59,1
+5,Andre Gomes,M,4,Jan 22,EVE,AVL,L 0-1,4.5,50,1
+6,Andre Gomes,M,4,Jan 15,EVE,@NOR,L 1-2,8.35,90,1
+7,Andre Gomes,M,4,Jan 2,EVE,BHA,L 2-3,3.25,2,0
+8,Andre Gomes,M,4,Dec 16,EVE,@CHE,T 1-1,3.35,69,1
+9,Andre Gomes,M,4,Dec 12,EVE,@CRY,L 1-3,10.25,90,1
+10,Andre Gomes,M,4,Dec 6,EVE,ARS,W 2-1,10.5,23,0
+11,Andre Gomes,M,4,Sep 18,EVE,@AVL,L 0-3,2.25,26,0
+12,Andre Gomes,M,4,Sep 13,EVE,BUR,W 3-1,4.25,28,0
+13,Andre Gomes,M,4,Aug 28,EVE,@BHA,W 2-0,3.0,8,0
+0,Donny van de Beek,M,4,May 22,EVE,@ARS,L 1-5,16.25,52,0
+1,Donny van de Beek,M,4,Mar 13,EVE,WOL,L 0-1,9.5,90,1
+2,Donny van de Beek,M,4,Mar 7,EVE,@TOT,L 0-5,6.25,58,1
+3,Donny van de Beek,M,4,Feb 26,EVE,MCI,L 0-1,5.3,70,1
+4,Donny van de Beek,M,4,Feb 19,EVE,@SOU,L 0-2,6.85,90,1
+5,Donny van de Beek,M,4,Feb 12,EVE,LEE,W 3-0,11.0,90,1
+6,Donny van de Beek,M,4,Feb 8,EVE,@NEW,L 1-3,1.75,29,0
+7,Donny van de Beek,M,4,Jan 15,MUN,@AVL,T 2-2,1.5,1,0
+8,Donny van de Beek,M,4,Dec 11,MUN,@NOR,W 1-0,3.0,1,0
+9,Donny van de Beek,M,4,Dec 5,MUN,CRY,W 1-0,2.1,3,0
+10,Donny van de Beek,M,4,Dec 2,MUN,ARS,W 3-2,0.5,1,0
+11,Donny van de Beek,M,4,Nov 28,MUN,@CHE,T 1-1,1.75,1,0
+12,Donny van de Beek,M,4,Nov 20,MUN,@WAT,L 1-4,17.5,45,0
+13,Donny van de Beek,M,4,Nov 6,MUN,MCI,L 0-2,1.0,9,0
+14,Donny van de Beek,M,4,Sep 11,MUN,NEW,W 4-1,1.0,4,0
+0,Dele Alli,M,4,May 22,EVE,@ARS,L 1-5,5.45,66,1
+1,Dele Alli,M,4,May 19,EVE,CRY,W 3-2,3.1,45,0
+2,Dele Alli,M,4,May 1,EVE,CHE,W 1-0,2.25,1,0
+3,Dele Alli,M,4,Apr 24,EVE,@LIV,L 0-2,1.85,16,0
+4,Dele Alli,M,4,Apr 20,EVE,LEI,T 1-1,3.25,31,0
+5,Dele Alli,M,4,Mar 13,EVE,WOL,L 0-1,2.0,30,0
+6,Dele Alli,M,4,Mar 7,EVE,@TOT,L 0-5,2.5,20,0
+7,Dele Alli,M,4,Feb 26,EVE,MCI,L 0-1,1.7,18,0
+8,Dele Alli,M,4,Feb 19,EVE,@SOU,L 0-2,2.1,14,0
+9,Dele Alli,M,4,Feb 12,EVE,LEE,W 3-0,4.0,17,0
+10,Dele Alli,M,4,Feb 8,EVE,@NEW,L 1-3,10.95,64,0
+11,Dele Alli,M,4,Dec 28,TOT,@SOU,T 1-1,7.35,61,1
+12,Dele Alli,M,4,Dec 19,TOT,LIV,T 2-2,12.65,80,1
+13,Dele Alli,M,4,Nov 21,TOT,LEE,W 2-1,0.5,1,0
+14,Dele Alli,M,4,Oct 30,TOT,MUN,L 0-3,1.25,16,0
+15,Dele Alli,M,4,Sep 26,TOT,@ARS,L 1-3,2.0,44,1
+16,Dele Alli,M,4,Sep 19,TOT,CHE,L 0-3,8.3,90,1
+17,Dele Alli,M,4,Sep 11,TOT,@CRY,L 0-3,12.1,90,1
+18,Dele Alli,M,4,Aug 29,TOT,WAT,W 1-0,5.35,90,1
+19,Dele Alli,M,4,Aug 22,TOT,@WOL,W 1-0,18.6,90,1
+20,Dele Alli,M,4,Aug 15,TOT,MCI,W 1-0,8.3,90,1
+0,Tyler Onyango,M,4,Jan 22,EVE,AVL,L 0-1,1.35,24,0
+1,Tyler Onyango,M,4,Dec 16,EVE,@CHE,T 1-1,0.5,1,0
+2,Tyler Onyango,M,4,Nov 21,EVE,@MCI,L 0-3,0.5,1,0
+0,Isaac Price,M,4,May 22,EVE,@ARS,L 1-5,0.75,11,0
+0,Anwar El Ghazi,M,4,Feb 26,EVE,MCI,L 0-1,0.75,1,0
+1,Anwar El Ghazi,M,4,Feb 12,EVE,LEE,W 3-0,2.25,8,0
+2,Anwar El Ghazi,M,4,Dec 26,AVL,CHE,L 1-3,2.6,13,0
+3,Anwar El Ghazi,M,4,Nov 27,AVL,@CRY,W 2-1,12.5,12,0
+4,Anwar El Ghazi,M,4,Nov 20,AVL,BHA,W 2-0,2.75,5,0
+5,Anwar El Ghazi,M,4,Nov 5,AVL,@SOU,L 0-1,3.75,78,1
+6,Anwar El Ghazi,M,4,Oct 31,AVL,WHU,L 1-4,2.25,17,0
+7,Anwar El Ghazi,M,4,Oct 22,AVL,@ARS,L 1-3,1.5,12,0
+8,Anwar El Ghazi,M,4,Aug 28,AVL,BRF,T 1-1,10.5,90,1
+9,Anwar El Ghazi,M,4,Aug 21,AVL,NEW,W 2-0,16.0,90,1
+10,Anwar El Ghazi,M,4,Aug 14,AVL,@WAT,L 2-3,2.35,59,1
+0,Andros Townsend,M,4,Mar 17,EVE,NEW,W 1-0,0.5,1,0
+1,Andros Townsend,M,4,Mar 13,EVE,WOL,L 0-1,1.5,15,0
+2,Andros Townsend,M,4,Feb 19,EVE,@SOU,L 0-2,2.5,24,0
+3,Andros Townsend,M,4,Feb 8,EVE,@NEW,L 1-3,6.75,90,1
+4,Andros Townsend,M,4,Jan 22,EVE,AVL,L 0-1,9.25,55,1
+5,Andros Townsend,M,4,Dec 12,EVE,@CRY,L 1-3,11.6,90,1
+6,Andros Townsend,M,4,Dec 6,EVE,ARS,W 2-1,5.0,65,1
+7,Andros Townsend,M,4,Dec 1,EVE,LIV,L 1-4,6.25,72,1
+8,Andros Townsend,M,4,Nov 28,EVE,@BRF,L 0-1,8.5,69,1
+9,Andros Townsend,M,4,Nov 21,EVE,@MCI,L 0-3,13.25,90,1
+10,Andros Townsend,M,4,Nov 7,EVE,TOT,T 0-0,8.35,90,1
+11,Andros Townsend,M,4,Nov 1,EVE,@WOL,L 1-2,17.5,90,1
+12,Andros Townsend,M,4,Oct 23,EVE,WAT,L 2-5,10.35,90,1
+13,Andros Townsend,M,4,Oct 17,EVE,WHU,L 0-1,12.5,90,1
+14,Andros Townsend,M,4,Oct 2,EVE,@MUN,T 1-1,23.85,90,1
+15,Andros Townsend,M,4,Sep 25,EVE,NOR,W 2-0,18.25,75,1
+16,Andros Townsend,M,4,Sep 18,EVE,@AVL,L 0-3,14.25,90,1
+17,Andros Townsend,M,4,Sep 13,EVE,BUR,W 3-1,25.5,90,1
+18,Andros Townsend,M,4,Aug 28,EVE,@BHA,W 2-0,13.5,90,1
+19,Andros Townsend,M,4,Aug 21,EVE,@LEE,T 2-2,2.25,14,0
+20,Andros Townsend,M,4,Aug 14,EVE,SOU,W 3-1,15.5,69,1
+0,Alex Iwobi,"M,F",5,May 22,EVE,@ARS,L 1-5,6.65,90,1
+1,Alex Iwobi,"M,F",5,May 19,EVE,CRY,W 3-2,11.6,90,1
+2,Alex Iwobi,"M,F",5,May 15,EVE,BRF,L 2-3,9.45,90,1
+3,Alex Iwobi,"M,F",5,May 11,EVE,@WAT,T 0-0,23.6,90,1
+4,Alex Iwobi,"M,F",5,May 8,EVE,@LEI,W 2-1,19.2,90,1
+5,Alex Iwobi,"M,F",5,May 1,EVE,CHE,W 1-0,10.55,90,1
+6,Alex Iwobi,"M,F",5,Apr 24,EVE,@LIV,L 0-2,8.85,90,1
+7,Alex Iwobi,"M,F",5,Apr 20,EVE,LEI,T 1-1,7.75,90,1
+8,Alex Iwobi,"M,F",5,Apr 9,EVE,MUN,W 1-0,9.85,90,1
+9,Alex Iwobi,"M,F",5,Apr 6,EVE,@BUR,L 2-3,11.6,90,1
+10,Alex Iwobi,"M,F",5,Apr 3,EVE,@WHU,L 1-2,8.75,90,1
+11,Alex Iwobi,"M,F",5,Mar 17,EVE,NEW,W 1-0,17.1,90,1
+12,Alex Iwobi,"M,F",5,Feb 26,EVE,MCI,L 0-1,7.35,87,1
+13,Alex Iwobi,"M,F",5,Feb 19,EVE,@SOU,L 0-2,6.75,64,1
+14,Alex Iwobi,"M,F",5,Feb 12,EVE,LEE,W 3-0,13.75,90,1
+15,Alex Iwobi,"M,F",5,Dec 16,EVE,@CHE,T 1-1,4.5,90,1
+16,Alex Iwobi,"M,F",5,Dec 6,EVE,ARS,W 2-1,2.25,2,0
+17,Alex Iwobi,"M,F",5,Nov 28,EVE,@BRF,L 0-1,9.25,90,1
+18,Alex Iwobi,"M,F",5,Nov 21,EVE,@MCI,L 0-3,10.1,72,0
+19,Alex Iwobi,"M,F",5,Nov 1,EVE,@WOL,L 1-2,18.35,77,1
+20,Alex Iwobi,"M,F",5,Oct 23,EVE,WAT,L 2-5,2.25,12,0
+21,Alex Iwobi,"M,F",5,Oct 17,EVE,WHU,L 0-1,3.0,78,1
+22,Alex Iwobi,"M,F",5,Sep 25,EVE,NOR,W 2-0,10.1,88,1
+23,Alex Iwobi,"M,F",5,Sep 18,EVE,@AVL,L 0-3,4.2,80,1
+24,Alex Iwobi,"M,F",5,Sep 13,EVE,BUR,W 3-1,0.5,1,0
+25,Alex Iwobi,"M,F",5,Aug 28,EVE,@BHA,W 2-0,4.5,20,0
+26,Alex Iwobi,"M,F",5,Aug 21,EVE,@LEE,T 2-2,8.85,74,1
+27,Alex Iwobi,"M,F",5,Aug 14,EVE,SOU,W 3-1,10.85,19,0
+0,Demarai Gray,"M,F",5,May 22,EVE,@ARS,L 1-5,5.0,90,1
+1,Demarai Gray,"M,F",5,May 19,EVE,CRY,W 3-2,11.0,28,0
+2,Demarai Gray,"M,F",5,May 15,EVE,BRF,L 2-3,4.0,17,0
+3,Demarai Gray,"M,F",5,May 11,EVE,@WAT,T 0-0,8.75,76,1
+4,Demarai Gray,"M,F",5,May 8,EVE,@LEI,W 2-1,7.5,73,1
+5,Demarai Gray,"M,F",5,May 1,EVE,CHE,W 1-0,19.6,88,1
+6,Demarai Gray,"M,F",5,Apr 24,EVE,@LIV,L 0-2,6.1,76,1
+7,Demarai Gray,"M,F",5,Apr 20,EVE,LEI,T 1-1,8.85,65,1
+8,Demarai Gray,"M,F",5,Apr 9,EVE,MUN,W 1-0,2.25,18,0
+9,Demarai Gray,"M,F",5,Apr 6,EVE,@BUR,L 2-3,1.5,16,0
+10,Demarai Gray,"M,F",5,Apr 3,EVE,@WHU,L 1-2,11.25,90,1
+11,Demarai Gray,"M,F",5,Mar 17,EVE,NEW,W 1-0,5.75,75,1
+12,Demarai Gray,"M,F",5,Mar 13,EVE,WOL,L 0-1,9.0,73,1
+13,Demarai Gray,"M,F",5,Feb 26,EVE,MCI,L 0-1,1.25,12,0
+14,Demarai Gray,"M,F",5,Feb 8,EVE,@NEW,L 1-3,5.25,24,1
+15,Demarai Gray,"M,F",5,Jan 22,EVE,AVL,L 0-1,10.25,90,1
+16,Demarai Gray,"M,F",5,Jan 15,EVE,@NOR,L 1-2,10.35,90,1
+17,Demarai Gray,"M,F",5,Jan 2,EVE,BHA,L 2-3,17.0,90,1
+18,Demarai Gray,"M,F",5,Dec 12,EVE,@CRY,L 1-3,14.75,90,1
+19,Demarai Gray,"M,F",5,Dec 6,EVE,ARS,W 2-1,21.25,90,1
+20,Demarai Gray,"M,F",5,Dec 1,EVE,LIV,L 1-4,13.75,83,1
+21,Demarai Gray,"M,F",5,Nov 28,EVE,@BRF,L 0-1,4.5,19,0
+22,Demarai Gray,"M,F",5,Nov 21,EVE,@MCI,L 0-3,1.0,16,1
+23,Demarai Gray,"M,F",5,Nov 7,EVE,TOT,T 0-0,13.85,88,1
+24,Demarai Gray,"M,F",5,Nov 1,EVE,@WOL,L 1-2,6.0,88,1
+25,Demarai Gray,"M,F",5,Oct 23,EVE,WAT,L 2-5,13.25,76,1
+26,Demarai Gray,"M,F",5,Oct 17,EVE,WHU,L 0-1,11.85,90,1
+27,Demarai Gray,"M,F",5,Oct 2,EVE,@MUN,T 1-1,11.8,88,1
+28,Demarai Gray,"M,F",5,Sep 25,EVE,NOR,W 2-0,13.5,82,1
+29,Demarai Gray,"M,F",5,Sep 18,EVE,@AVL,L 0-3,7.75,90,1
+30,Demarai Gray,"M,F",5,Sep 13,EVE,BUR,W 3-1,16.75,87,1
+31,Demarai Gray,"M,F",5,Aug 28,EVE,@BHA,W 2-0,15.85,80,1
+32,Demarai Gray,"M,F",5,Aug 21,EVE,@LEE,T 2-2,18.3,82,1
+33,Demarai Gray,"M,F",5,Aug 14,EVE,SOU,W 3-1,8.0,82,1
+0,Anthony Gordon,"M,F",5,May 22,EVE,@ARS,L 1-5,3.0,22,0
+1,Anthony Gordon,"M,F",5,May 19,EVE,CRY,W 3-2,5.5,60,1
+2,Anthony Gordon,"M,F",5,May 15,EVE,BRF,L 2-3,9.35,71,1
+3,Anthony Gordon,"M,F",5,May 11,EVE,@WAT,T 0-0,12.5,90,1
+4,Anthony Gordon,"M,F",5,May 8,EVE,@LEI,W 2-1,6.75,90,1
+5,Anthony Gordon,"M,F",5,May 1,EVE,CHE,W 1-0,8.25,90,1
+6,Anthony Gordon,"M,F",5,Apr 24,EVE,@LIV,L 0-2,5.1,90,1
+7,Anthony Gordon,"M,F",5,Apr 20,EVE,LEI,T 1-1,13.5,90,1
+8,Anthony Gordon,"M,F",5,Apr 9,EVE,MUN,W 1-0,19.0,90,1
+9,Anthony Gordon,"M,F",5,Apr 6,EVE,@BUR,L 2-3,11.25,72,1
+10,Anthony Gordon,"M,F",5,Apr 3,EVE,@WHU,L 1-2,1.0,11,0
+11,Anthony Gordon,"M,F",5,Mar 17,EVE,NEW,W 1-0,8.0,88,1
+12,Anthony Gordon,"M,F",5,Mar 13,EVE,WOL,L 0-1,11.85,90,1
+13,Anthony Gordon,"M,F",5,Mar 7,EVE,@TOT,L 0-5,14.5,90,1
+14,Anthony Gordon,"M,F",5,Feb 26,EVE,MCI,L 0-1,4.25,76,1
+15,Anthony Gordon,"M,F",5,Feb 19,EVE,@SOU,L 0-2,6.25,74,1
+16,Anthony Gordon,"M,F",5,Feb 12,EVE,LEE,W 3-0,34.75,80,1
+17,Anthony Gordon,"M,F",5,Feb 8,EVE,@NEW,L 1-3,9.25,90,1
+18,Anthony Gordon,"M,F",5,Jan 22,EVE,AVL,L 0-1,8.25,33,0
+19,Anthony Gordon,"M,F",5,Jan 15,EVE,@NOR,L 1-2,7.5,90,1
+20,Anthony Gordon,"M,F",5,Jan 2,EVE,BHA,L 2-3,29.85,90,1
+21,Anthony Gordon,"M,F",5,Dec 16,EVE,@CHE,T 1-1,19.05,88,1
+22,Anthony Gordon,"M,F",5,Dec 12,EVE,@CRY,L 1-3,4.25,31,0
+23,Anthony Gordon,"M,F",5,Dec 6,EVE,ARS,W 2-1,7.0,86,1
+24,Anthony Gordon,"M,F",5,Dec 1,EVE,LIV,L 1-4,1.5,30,0
+25,Anthony Gordon,"M,F",5,Nov 28,EVE,@BRF,L 0-1,7.5,90,1
+26,Anthony Gordon,"M,F",5,Nov 21,EVE,@MCI,L 0-3,6.85,90,1
+27,Anthony Gordon,"M,F",5,Nov 7,EVE,TOT,T 0-0,6.75,90,1
+28,Anthony Gordon,"M,F",5,Nov 1,EVE,@WOL,L 1-2,5.75,11,0
+29,Anthony Gordon,"M,F",5,Oct 23,EVE,WAT,L 2-5,10.5,59,1
+30,Anthony Gordon,"M,F",5,Oct 17,EVE,WHU,L 0-1,1.25,10,0
+31,Anthony Gordon,"M,F",5,Oct 2,EVE,@MUN,T 1-1,10.0,71,1
+32,Anthony Gordon,"M,F",5,Sep 25,EVE,NOR,W 2-0,-0.75,13,0
+33,Anthony Gordon,"M,F",5,Sep 18,EVE,@AVL,L 0-3,1.0,17,0
+34,Anthony Gordon,"M,F",5,Aug 14,EVE,SOU,W 3-1,0.75,1,0
+0,Richarlison,F,6,May 19,EVE,CRY,W 3-2,16.25,88,1
+1,Richarlison,F,6,May 15,EVE,BRF,L 2-3,26.05,90,1
+2,Richarlison,F,6,May 11,EVE,@WAT,T 0-0,13.85,90,1
+3,Richarlison,F,6,May 8,EVE,@LEI,W 2-1,14.0,90,1
+4,Richarlison,F,6,May 1,EVE,CHE,W 1-0,16.1,79,1
+5,Richarlison,F,6,Apr 24,EVE,@LIV,L 0-2,10.05,90,1
+6,Richarlison,F,6,Apr 20,EVE,LEI,T 1-1,17.5,90,1
+7,Richarlison,F,6,Apr 9,EVE,MUN,W 1-0,12.8,90,1
+8,Richarlison,F,6,Apr 6,EVE,@BUR,L 2-3,43.9,90,1
+9,Richarlison,F,6,Apr 3,EVE,@WHU,L 1-2,12.35,90,1
+10,Richarlison,F,6,Mar 17,EVE,NEW,W 1-0,4.85,86,1
+11,Richarlison,F,6,Mar 13,EVE,WOL,L 0-1,7.6,90,1
+12,Richarlison,F,6,Mar 7,EVE,@TOT,L 0-5,4.95,90,1
+13,Richarlison,F,6,Feb 26,EVE,MCI,L 0-1,10.45,90,1
+14,Richarlison,F,6,Feb 19,EVE,@SOU,L 0-2,7.25,90,1
+15,Richarlison,F,6,Feb 12,EVE,LEE,W 3-0,12.85,85,1
+16,Richarlison,F,6,Feb 8,EVE,@NEW,L 1-3,6.55,90,1
+17,Richarlison,F,6,Jan 22,EVE,AVL,L 0-1,6.25,90,1
+18,Richarlison,F,6,Jan 15,EVE,@NOR,L 1-2,13.75,35,0
+19,Richarlison,F,6,Dec 12,EVE,@CRY,L 1-3,2.25,57,1
+20,Richarlison,F,6,Dec 6,EVE,ARS,W 2-1,21.75,90,1
+21,Richarlison,F,6,Dec 1,EVE,LIV,L 1-4,12.0,90,1
+22,Richarlison,F,6,Nov 21,EVE,@MCI,L 0-3,2.0,90,1
+23,Richarlison,F,6,Nov 7,EVE,TOT,T 0-0,4.25,90,1
+24,Richarlison,F,6,Nov 1,EVE,@WOL,L 1-2,9.25,90,1
+25,Richarlison,F,6,Oct 23,EVE,WAT,L 2-5,11.6,29,0
+26,Richarlison,F,6,Sep 13,EVE,BUR,W 3-1,5.5,80,1
+27,Richarlison,F,6,Aug 28,EVE,@BHA,W 2-0,2.2,90,1
+28,Richarlison,F,6,Aug 21,EVE,@LEE,T 2-2,6.45,90,1
+29,Richarlison,F,6,Aug 14,EVE,SOU,W 3-1,24.2,88,1
+0,Moise Kean,F,6,Aug 21,EVE,@LEE,T 2-2,0.25,1,0
+0,Lewis Dobbin,F,6,Dec 16,EVE,@CHE,T 1-1,0.75,27,0
+1,Lewis Dobbin,F,6,Oct 2,EVE,@MUN,T 1-1,0.5,1,0
+2,Lewis Dobbin,F,6,Sep 25,EVE,NOR,W 2-0,0.25,1,0
+0,Salomon Rondon,F,6,May 15,EVE,BRF,L 2-3,-4.0,3,0
+1,Salomon Rondon,F,6,May 8,EVE,@LEI,W 2-1,-0.5,15,0
+2,Salomon Rondon,F,6,May 1,EVE,CHE,W 1-0,2.0,9,0
+3,Salomon Rondon,F,6,Apr 24,EVE,@LIV,L 0-2,0.5,12,0
+4,Salomon Rondon,F,6,Apr 20,EVE,LEI,T 1-1,7.5,23,0
+5,Salomon Rondon,F,6,Apr 6,EVE,@BUR,L 2-3,1.0,2,0
+6,Salomon Rondon,F,6,Feb 12,EVE,LEE,W 3-0,3.0,3,0
+7,Salomon Rondon,F,6,Jan 15,EVE,@NOR,L 1-2,5.35,53,1
+8,Salomon Rondon,F,6,Jan 2,EVE,BHA,L 2-3,2.0,13,0
+9,Salomon Rondon,F,6,Dec 12,EVE,@CRY,L 1-3,13.5,31,0
+10,Salomon Rondon,F,6,Dec 1,EVE,LIV,L 1-4,6.3,58,1
+11,Salomon Rondon,F,6,Nov 28,EVE,@BRF,L 0-1,8.45,90,1
+12,Salomon Rondon,F,6,Nov 21,EVE,@MCI,L 0-3,1.0,26,0
+13,Salomon Rondon,F,6,Nov 1,EVE,@WOL,L 1-2,0.5,1,0
+14,Salomon Rondon,F,6,Oct 23,EVE,WAT,L 2-5,4.45,90,1
+15,Salomon Rondon,F,6,Oct 17,EVE,WHU,L 0-1,6.7,90,1
+16,Salomon Rondon,F,6,Oct 2,EVE,@MUN,T 1-1,5.75,90,1
+17,Salomon Rondon,F,6,Sep 25,EVE,NOR,W 2-0,6.0,90,1
+18,Salomon Rondon,F,6,Sep 18,EVE,@AVL,L 0-3,2.75,62,1
+19,Salomon Rondon,F,6,Sep 13,EVE,BUR,W 3-1,1.25,8,0
+0,Dominic Calvert-Lewin,F,6,May 22,EVE,@ARS,L 1-5,15.85,90,1
+1,Dominic Calvert-Lewin,F,6,May 19,EVE,CRY,W 3-2,18.35,90,1
+2,Dominic Calvert-Lewin,F,6,May 15,EVE,BRF,L 2-3,16.5,90,1
+3,Dominic Calvert-Lewin,F,6,May 11,EVE,@WAT,T 0-0,1.0,12,0
+4,Dominic Calvert-Lewin,F,6,Apr 9,EVE,MUN,W 1-0,3.5,70,1
+5,Dominic Calvert-Lewin,F,6,Apr 6,EVE,@BUR,L 2-3,6.35,90,1
+6,Dominic Calvert-Lewin,F,6,Apr 3,EVE,@WHU,L 1-2,5.25,77,1
+7,Dominic Calvert-Lewin,F,6,Mar 17,EVE,NEW,W 1-0,9.1,13,0
+8,Dominic Calvert-Lewin,F,6,Mar 7,EVE,@TOT,L 0-5,2.75,68,1
+9,Dominic Calvert-Lewin,F,6,Feb 19,EVE,@SOU,L 0-2,4.75,90,1
+10,Dominic Calvert-Lewin,F,6,Feb 12,EVE,LEE,W 3-0,7.25,71,1
+11,Dominic Calvert-Lewin,F,6,Jan 22,EVE,AVL,L 0-1,5.6,90,1
+12,Dominic Calvert-Lewin,F,6,Jan 15,EVE,@NOR,L 1-2,7.15,90,1
+13,Dominic Calvert-Lewin,F,6,Jan 2,EVE,BHA,L 2-3,3.1,90,1
+14,Dominic Calvert-Lewin,F,6,Aug 28,EVE,@BHA,W 2-0,16.6,68,1
+15,Dominic Calvert-Lewin,F,6,Aug 21,EVE,@LEE,T 2-2,23.35,88,1
+16,Dominic Calvert-Lewin,F,6,Aug 14,EVE,SOU,W 3-1,18.0,90,1
+0,Cenk Tosun,F,6,Dec 1,EVE,LIV,L 1-4,1.25,5,0
+0,Ellis Simms,F,6,Dec 16,EVE,@CHE,T 1-1,3.35,61,1
