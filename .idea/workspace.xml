@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5958f1e4-39a5-4df8-99a0-85556de04114" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_19_20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_2019_20" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2019_20" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/The88/functions88.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/The88/functions88.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/Squad_Links.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/Squad_Links.xlsx" afterDir="false" />
@@ -34,7 +33,6 @@
       <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/score_predictor/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/score_predictor/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/scraper/fantrax_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/scraper/fantrax_scraper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/scraper/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/scraper/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_20_21" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,17 +44,7 @@
     <favorites_list name="fantrax_django" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="159" column="6" lean-forward="true" selection-start-line="159" selection-start-column="6" selection-end-line="159" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -308,7 +296,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49679488" visible="true" weight="0.28751975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
