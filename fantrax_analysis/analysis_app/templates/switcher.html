@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block content %}
+<link rel="stylesheet" href="/static/styles/switcher.css">
+
+    <div class="switcher-panel">
+
+        <div class="switcher-button switcher-left"
+             onclick="location.href='{% url 'core:player_list' %}';">
+            <span class="fa fa-line-chart"></span>
+            <br>
+            Player Dashboard
+        </div>
+
+        <div class="switcher-button switcher-right"
+             onclick="location.href='{% url 'core:theeightyeight' %}';">
+            <i class="fa fa-tasks"></i>
+            <br>
+            The88
+        </div>
+    </div>
+
+    <br>
+
+    <div class="switcher-panel">
+
+        <div class="switcher-button switcher-left"
+             onclick="location.href='{% url 'core:score_predictor' %}';">
+            <i class="fa fa-calculator"></i>
+            <br>
+            Score Predictor
+        </div>
+
+        <div class="switcher-button switcher-right"
+             onclick="location.href='{% url 'core:norm_score' %}';">
+            <i class="fa fa-line-chart"></i>
+            <br>
+            Normalised XIs
+        </div>
+
+    </div>
+
+{% endblock %}

@@ -1,0 +1,496 @@
+,player,position,position_id,date,team,opp,score,fpts,min,starts
+0,Ederson,G,1,May 23,MCI,EVE,W 5-0,22.0,90,1
+1,Ederson,G,1,May 18,MCI,@BHA,L 2-3,6.5,90,1
+2,Ederson,G,1,May 8,MCI,CHE,L 1-2,7.0,90,1
+3,Ederson,G,1,May 1,MCI,@CRY,W 2-0,19.0,90,1
+4,Ederson,G,1,Apr 21,MCI,@AVL,W 2-1,6.0,90,1
+5,Ederson,G,1,Apr 10,MCI,LEE,L 1-2,2.5,90,1
+6,Ederson,G,1,Apr 3,MCI,@LEI,W 2-0,13.0,90,1
+7,Ederson,G,1,Mar 13,MCI,@FUL,W 3-0,13.5,90,1
+8,Ederson,G,1,Mar 10,MCI,SOU,W 5-2,8.5,90,1
+9,Ederson,G,1,Mar 7,MCI,MUN,L 0-2,8.5,90,1
+10,Ederson,G,1,Mar 2,MCI,WOL,W 4-1,3.5,90,1
+11,Ederson,G,1,Feb 27,MCI,WHU,W 2-1,7.0,90,1
+12,Ederson,G,1,Feb 21,MCI,@ARS,W 1-0,13.5,90,1
+13,Ederson,G,1,Feb 17,MCI,@EVE,W 3-1,4.5,90,1
+14,Ederson,G,1,Feb 13,MCI,TOT,W 3-0,21.5,90,1
+15,Ederson,G,1,Feb 7,MCI,@LIV,W 4-1,6.5,90,1
+16,Ederson,G,1,Feb 3,MCI,@BUR,W 2-0,10.0,90,1
+17,Ederson,G,1,Jan 30,MCI,SHU,W 1-0,13.5,90,1
+18,Ederson,G,1,Jan 26,MCI,@WBA,W 5-0,15.5,90,1
+19,Ederson,G,1,Jan 20,MCI,AVL,W 2-0,18.5,90,1
+20,Ederson,G,1,Jan 17,MCI,CRY,W 4-0,12.0,90,1
+21,Ederson,G,1,Jan 13,MCI,BHA,W 1-0,14.5,90,1
+22,Ederson,G,1,Dec 26,MCI,NEW,W 2-0,15.0,90,1
+23,Ederson,G,1,Dec 19,MCI,@SOU,W 1-0,15.0,90,1
+24,Ederson,G,1,Dec 15,MCI,WBA,T 1-1,4.5,90,1
+25,Ederson,G,1,Dec 12,MCI,@MUN,T 0-0,15.0,90,1
+26,Ederson,G,1,Dec 5,MCI,FUL,W 2-0,14.0,90,1
+27,Ederson,G,1,Nov 28,MCI,BUR,W 5-0,15.0,90,1
+28,Ederson,G,1,Nov 21,MCI,@TOT,L 0-2,2.5,90,1
+29,Ederson,G,1,Nov 8,MCI,LIV,T 1-1,7.0,90,1
+30,Ederson,G,1,Oct 31,MCI,@SHU,W 1-0,13.5,90,1
+31,Ederson,G,1,Oct 24,MCI,@WHU,T 1-1,4.5,90,1
+32,Ederson,G,1,Oct 17,MCI,ARS,W 1-0,18.0,90,1
+33,Ederson,G,1,Oct 3,MCI,@LEE,T 1-1,12.5,90,1
+34,Ederson,G,1,Sep 27,MCI,LEI,L 2-5,5.5,90,1
+35,Ederson,G,1,Sep 21,MCI,@WOL,W 3-1,3.0,90,1
+0,Zack Steffen,G,1,Jan 3,MCI,@CHE,W 3-1,4.5,90,1
+0,Scott Carson,G,1,May 14,MCI,@NEW,W 4-3,10.0,90,1
+0,Kyle Walker,D,2,May 23,MCI,EVE,W 5-0,14.6,90,1
+1,Kyle Walker,D,2,May 14,MCI,@NEW,W 4-3,4.8,90,1
+2,Kyle Walker,D,2,Apr 21,MCI,@AVL,W 2-1,5.75,90,1
+3,Kyle Walker,D,2,Apr 3,MCI,@LEI,W 2-0,15.35,90,1
+4,Kyle Walker,D,2,Mar 10,MCI,SOU,W 5-2,6.95,90,1
+5,Kyle Walker,D,2,Mar 7,MCI,MUN,L 0-2,4.25,24,0
+6,Kyle Walker,D,2,Mar 2,MCI,WOL,W 4-1,9.75,90,1
+7,Kyle Walker,D,2,Feb 27,MCI,WHU,W 2-1,5.5,90,1
+8,Kyle Walker,D,2,Feb 17,MCI,@EVE,W 3-1,6.0,90,1
+9,Kyle Walker,D,2,Jan 30,MCI,SHU,W 1-0,14.0,90,1
+10,Kyle Walker,D,2,Jan 20,MCI,AVL,W 2-0,1.5,27,1
+11,Kyle Walker,D,2,Jan 17,MCI,CRY,W 4-0,11.5,90,1
+12,Kyle Walker,D,2,Dec 19,MCI,@SOU,W 1-0,17.8,90,1
+13,Kyle Walker,D,2,Dec 15,MCI,WBA,T 1-1,1.0,15,0
+14,Kyle Walker,D,2,Dec 12,MCI,@MUN,T 0-0,18.0,90,1
+15,Kyle Walker,D,2,Nov 28,MCI,BUR,W 5-0,21.35,90,1
+16,Kyle Walker,D,2,Nov 21,MCI,@TOT,L 0-2,11.75,90,1
+17,Kyle Walker,D,2,Nov 8,MCI,LIV,T 1-1,4.45,90,1
+18,Kyle Walker,D,2,Oct 31,MCI,@SHU,W 1-0,27.05,90,1
+19,Kyle Walker,D,2,Oct 24,MCI,@WHU,T 1-1,7.95,78,1
+20,Kyle Walker,D,2,Oct 17,MCI,ARS,W 1-0,15.35,90,1
+21,Kyle Walker,D,2,Oct 3,MCI,@LEE,T 1-1,10.6,90,1
+22,Kyle Walker,D,2,Sep 27,MCI,LEI,L 2-5,6.85,90,1
+23,Kyle Walker,D,2,Sep 21,MCI,@WOL,W 3-1,7.6,90,1
+0,Joao Cancelo,D,2,May 18,MCI,@BHA,L 2-3,-3.75,9,1
+1,Joao Cancelo,D,2,May 14,MCI,@NEW,W 4-3,23.0,73,1
+2,Joao Cancelo,D,2,May 8,MCI,CHE,L 1-2,9.9,90,1
+3,Joao Cancelo,D,2,May 1,MCI,@CRY,W 2-0,22.85,90,1
+4,Joao Cancelo,D,2,Apr 10,MCI,LEE,L 1-2,15.25,90,1
+5,Joao Cancelo,D,2,Mar 13,MCI,@FUL,W 3-0,28.85,90,1
+6,Joao Cancelo,D,2,Mar 7,MCI,MUN,L 0-2,6.25,64,1
+7,Joao Cancelo,D,2,Mar 2,MCI,WOL,W 4-1,14.0,90,1
+8,Joao Cancelo,D,2,Feb 21,MCI,@ARS,W 1-0,13.45,90,1
+9,Joao Cancelo,D,2,Feb 17,MCI,@EVE,W 3-1,11.75,90,1
+10,Joao Cancelo,D,2,Feb 13,MCI,TOT,W 3-0,20.75,90,1
+11,Joao Cancelo,D,2,Feb 7,MCI,@LIV,W 4-1,10.35,90,1
+12,Joao Cancelo,D,2,Feb 3,MCI,@BUR,W 2-0,13.35,63,1
+13,Joao Cancelo,D,2,Jan 26,MCI,@WBA,W 5-0,38.35,90,1
+14,Joao Cancelo,D,2,Jan 20,MCI,AVL,W 2-0,22.1,90,1
+15,Joao Cancelo,D,2,Jan 17,MCI,CRY,W 4-0,0.75,18,0
+16,Joao Cancelo,D,2,Jan 13,MCI,BHA,W 1-0,19.6,90,1
+17,Joao Cancelo,D,2,Jan 3,MCI,@CHE,W 3-1,11.3,90,1
+18,Joao Cancelo,D,2,Dec 26,MCI,NEW,W 2-0,18.6,90,1
+19,Joao Cancelo,D,2,Dec 19,MCI,@SOU,W 1-0,20.1,90,1
+20,Joao Cancelo,D,2,Dec 15,MCI,WBA,T 1-1,8.45,90,1
+21,Joao Cancelo,D,2,Dec 12,MCI,@MUN,T 0-0,17.25,90,1
+22,Joao Cancelo,D,2,Dec 5,MCI,FUL,W 2-0,19.6,90,1
+23,Joao Cancelo,D,2,Nov 21,MCI,@TOT,L 0-2,10.2,90,1
+24,Joao Cancelo,D,2,Nov 8,MCI,LIV,T 1-1,11.95,90,1
+25,Joao Cancelo,D,2,Oct 31,MCI,@SHU,W 1-0,21.3,90,1
+26,Joao Cancelo,D,2,Oct 24,MCI,@WHU,T 1-1,19.25,90,1
+27,Joao Cancelo,D,2,Oct 17,MCI,ARS,W 1-0,21.5,90,1
+0,John Stones,D,2,May 23,MCI,EVE,W 5-0,16.15,90,1
+1,John Stones,D,2,May 18,MCI,@BHA,L 2-3,9.0,90,1
+2,John Stones,D,2,Apr 21,MCI,@AVL,W 2-1,-3.15,43,1
+3,John Stones,D,2,Apr 10,MCI,LEE,L 1-2,10.1,90,1
+4,John Stones,D,2,Mar 13,MCI,@FUL,W 3-0,24.6,90,1
+5,John Stones,D,2,Mar 7,MCI,MUN,L 0-2,8.9,90,1
+6,John Stones,D,2,Feb 27,MCI,WHU,W 2-1,17.7,90,1
+7,John Stones,D,2,Feb 21,MCI,@ARS,W 1-0,14.4,90,1
+8,John Stones,D,2,Feb 13,MCI,TOT,W 3-0,16.6,90,1
+9,John Stones,D,2,Feb 7,MCI,@LIV,W 4-1,7.35,90,1
+10,John Stones,D,2,Feb 3,MCI,@BUR,W 2-0,11.6,90,1
+11,John Stones,D,2,Jan 26,MCI,@WBA,W 5-0,15.95,90,1
+12,John Stones,D,2,Jan 20,MCI,AVL,W 2-0,14.1,90,1
+13,John Stones,D,2,Jan 17,MCI,CRY,W 4-0,32.75,90,1
+14,John Stones,D,2,Jan 13,MCI,BHA,W 1-0,15.3,90,1
+15,John Stones,D,2,Jan 3,MCI,@CHE,W 3-1,6.6,90,1
+16,John Stones,D,2,Dec 26,MCI,NEW,W 2-0,13.1,90,1
+17,John Stones,D,2,Dec 19,MCI,@SOU,W 1-0,15.9,90,1
+18,John Stones,D,2,Dec 12,MCI,@MUN,T 0-0,17.5,90,1
+19,John Stones,D,2,Dec 5,MCI,FUL,W 2-0,14.45,90,1
+20,John Stones,D,2,Nov 28,MCI,BUR,W 5-0,17.3,90,1
+21,John Stones,D,2,Sep 21,MCI,@WOL,W 3-1,5.45,90,1
+0,Eric Garcia,D,2,May 18,MCI,@BHA,L 2-3,5.05,74,0
+1,Eric Garcia,D,2,May 14,MCI,@NEW,W 4-3,5.35,90,1
+2,Eric Garcia,D,2,Mar 13,MCI,@FUL,W 3-0,1.1,14,0
+3,Eric Garcia,D,2,Nov 28,MCI,BUR,W 5-0,1.75,20,0
+4,Eric Garcia,D,2,Oct 24,MCI,@WHU,T 1-1,6.9,90,1
+5,Eric Garcia,D,2,Sep 27,MCI,LEI,L 2-5,8.6,90,1
+0,Ruben Dias,D,2,May 23,MCI,EVE,W 5-0,13.45,90,1
+1,Ruben Dias,D,2,May 18,MCI,@BHA,L 2-3,7.05,90,1
+2,Ruben Dias,D,2,May 8,MCI,CHE,L 1-2,6.0,90,1
+3,Ruben Dias,D,2,Apr 21,MCI,@AVL,W 2-1,6.15,90,1
+4,Ruben Dias,D,2,Apr 3,MCI,@LEI,W 2-0,12.85,90,1
+5,Ruben Dias,D,2,Mar 13,MCI,@FUL,W 3-0,12.05,74,1
+6,Ruben Dias,D,2,Mar 10,MCI,SOU,W 5-2,6.3,90,1
+7,Ruben Dias,D,2,Mar 7,MCI,MUN,L 0-2,10.35,90,1
+8,Ruben Dias,D,2,Mar 2,MCI,WOL,W 4-1,6.5,90,1
+9,Ruben Dias,D,2,Feb 27,MCI,WHU,W 2-1,16.85,90,1
+10,Ruben Dias,D,2,Feb 21,MCI,@ARS,W 1-0,16.95,90,1
+11,Ruben Dias,D,2,Feb 17,MCI,@EVE,W 3-1,6.45,90,1
+12,Ruben Dias,D,2,Feb 7,MCI,@LIV,W 4-1,6.15,90,1
+13,Ruben Dias,D,2,Feb 3,MCI,@BUR,W 2-0,14.35,90,1
+14,Ruben Dias,D,2,Jan 30,MCI,SHU,W 1-0,15.2,90,1
+15,Ruben Dias,D,2,Jan 26,MCI,@WBA,W 5-0,13.85,90,1
+16,Ruben Dias,D,2,Jan 20,MCI,AVL,W 2-0,19.8,90,1
+17,Ruben Dias,D,2,Jan 17,MCI,CRY,W 4-0,25.3,90,1
+18,Ruben Dias,D,2,Jan 13,MCI,BHA,W 1-0,16.3,90,1
+19,Ruben Dias,D,2,Jan 3,MCI,@CHE,W 3-1,11.85,90,1
+20,Ruben Dias,D,2,Dec 26,MCI,NEW,W 2-0,12.8,90,1
+21,Ruben Dias,D,2,Dec 19,MCI,@SOU,W 1-0,15.35,90,1
+22,Ruben Dias,D,2,Dec 15,MCI,WBA,T 1-1,0.95,90,1
+23,Ruben Dias,D,2,Dec 12,MCI,@MUN,T 0-0,13.0,90,1
+24,Ruben Dias,D,2,Dec 5,MCI,FUL,W 2-0,12.6,90,1
+25,Ruben Dias,D,2,Nov 28,MCI,BUR,W 5-0,13.4,70,1
+26,Ruben Dias,D,2,Nov 21,MCI,@TOT,L 0-2,6.75,90,1
+27,Ruben Dias,D,2,Nov 8,MCI,LIV,T 1-1,6.65,90,1
+28,Ruben Dias,D,2,Oct 31,MCI,@SHU,W 1-0,12.4,90,1
+29,Ruben Dias,D,2,Oct 24,MCI,@WHU,T 1-1,10.05,90,1
+30,Ruben Dias,D,2,Oct 17,MCI,ARS,W 1-0,13.15,90,1
+31,Ruben Dias,D,2,Oct 3,MCI,@LEE,T 1-1,7.15,90,1
+0,Aymeric Laporte,D,2,May 8,MCI,CHE,L 1-2,8.45,90,1
+1,Aymeric Laporte,D,2,May 1,MCI,@CRY,W 2-0,15.85,90,1
+2,Aymeric Laporte,D,2,Apr 21,MCI,@AVL,W 2-1,2.75,44,0
+3,Aymeric Laporte,D,2,Apr 3,MCI,@LEI,W 2-0,13.85,90,1
+4,Aymeric Laporte,D,2,Mar 13,MCI,@FUL,W 3-0,15.05,90,1
+5,Aymeric Laporte,D,2,Mar 10,MCI,SOU,W 5-2,4.5,90,1
+6,Aymeric Laporte,D,2,Mar 2,MCI,WOL,W 4-1,6.6,90,1
+7,Aymeric Laporte,D,2,Feb 17,MCI,@EVE,W 3-1,7.4,90,1
+8,Aymeric Laporte,D,2,Feb 13,MCI,TOT,W 3-0,12.6,90,1
+9,Aymeric Laporte,D,2,Feb 3,MCI,@BUR,W 2-0,15.8,90,1
+10,Aymeric Laporte,D,2,Jan 30,MCI,SHU,W 1-0,15.0,90,1
+11,Aymeric Laporte,D,2,Jan 26,MCI,@WBA,W 5-0,3.45,37,0
+12,Aymeric Laporte,D,2,Nov 21,MCI,@TOT,L 0-2,9.95,90,1
+13,Aymeric Laporte,D,2,Nov 8,MCI,LIV,T 1-1,3.15,90,1
+14,Aymeric Laporte,D,2,Oct 31,MCI,@SHU,W 1-0,15.85,90,1
+15,Aymeric Laporte,D,2,Oct 3,MCI,@LEE,T 1-1,4.8,90,1
+0,Nathan Ake,D,2,May 14,MCI,@NEW,W 4-3,4.8,90,1
+1,Nathan Ake,D,2,May 8,MCI,CHE,L 1-2,9.55,90,1
+2,Nathan Ake,D,2,May 1,MCI,@CRY,W 2-0,12.25,90,1
+3,Nathan Ake,D,2,Apr 10,MCI,LEE,L 1-2,2.1,57,1
+4,Nathan Ake,D,2,Dec 26,MCI,NEW,W 2-0,18.35,90,1
+5,Nathan Ake,D,2,Dec 15,MCI,WBA,T 1-1,4.85,90,1
+6,Nathan Ake,D,2,Oct 17,MCI,ARS,W 1-0,9.85,90,1
+7,Nathan Ake,D,2,Oct 3,MCI,@LEE,T 1-1,2.6,19,0
+8,Nathan Ake,D,2,Sep 27,MCI,LEI,L 2-5,11.6,90,1
+9,Nathan Ake,D,2,Sep 21,MCI,@WOL,W 3-1,5.0,90,1
+0,Benjamin Mendy,D,2,May 14,MCI,@NEW,W 4-3,3.0,15,0
+1,Benjamin Mendy,D,2,May 8,MCI,CHE,L 1-2,8.75,79,1
+2,Benjamin Mendy,D,2,May 1,MCI,@CRY,W 2-0,23.25,90,1
+3,Benjamin Mendy,D,2,Apr 10,MCI,LEE,L 1-2,6.25,73,1
+4,Benjamin Mendy,D,2,Apr 3,MCI,@LEI,W 2-0,24.25,90,1
+5,Benjamin Mendy,D,2,Mar 13,MCI,@FUL,W 3-0,13.1,90,1
+6,Benjamin Mendy,D,2,Mar 10,MCI,SOU,W 5-2,1.1,8,0
+7,Benjamin Mendy,D,2,Dec 15,MCI,WBA,T 1-1,6.6,75,1
+8,Benjamin Mendy,D,2,Dec 5,MCI,FUL,W 2-0,13.0,90,1
+9,Benjamin Mendy,D,2,Nov 28,MCI,BUR,W 5-0,26.3,90,1
+10,Benjamin Mendy,D,2,Oct 3,MCI,@LEE,T 1-1,4.1,71,1
+11,Benjamin Mendy,D,2,Sep 27,MCI,LEI,L 2-5,4.0,90,1
+12,Benjamin Mendy,D,2,Sep 21,MCI,@WOL,W 3-1,5.95,90,1
+0,Oleksandr Zinchenko,D,2,May 23,MCI,EVE,W 5-0,14.5,90,1
+1,Oleksandr Zinchenko,D,2,May 18,MCI,@BHA,L 2-3,4.3,90,1
+2,Oleksandr Zinchenko,D,2,May 8,MCI,CHE,L 1-2,1.0,9,0
+3,Oleksandr Zinchenko,D,2,May 1,MCI,@CRY,W 2-0,4.35,22,0
+4,Oleksandr Zinchenko,D,2,Apr 21,MCI,@AVL,W 2-1,6.85,90,1
+5,Oleksandr Zinchenko,D,2,Apr 10,MCI,LEE,L 1-2,14.1,90,1
+6,Oleksandr Zinchenko,D,2,Mar 10,MCI,SOU,W 5-2,11.75,80,1
+7,Oleksandr Zinchenko,D,2,Mar 7,MCI,MUN,L 0-2,10.25,90,1
+8,Oleksandr Zinchenko,D,2,Feb 27,MCI,WHU,W 2-1,11.85,90,1
+9,Oleksandr Zinchenko,D,2,Feb 21,MCI,@ARS,W 1-0,17.8,90,1
+10,Oleksandr Zinchenko,D,2,Feb 13,MCI,TOT,W 3-0,17.8,90,1
+11,Oleksandr Zinchenko,D,2,Feb 7,MCI,@LIV,W 4-1,9.0,90,1
+12,Oleksandr Zinchenko,D,2,Feb 3,MCI,@BUR,W 2-0,1.35,25,0
+13,Oleksandr Zinchenko,D,2,Jan 30,MCI,SHU,W 1-0,14.25,90,1
+14,Oleksandr Zinchenko,D,2,Jan 26,MCI,@WBA,W 5-0,16.8,90,1
+15,Oleksandr Zinchenko,D,2,Jan 20,MCI,AVL,W 2-0,14.0,61,0
+16,Oleksandr Zinchenko,D,2,Jan 17,MCI,CRY,W 4-0,14.5,90,1
+17,Oleksandr Zinchenko,D,2,Jan 13,MCI,BHA,W 1-0,19.5,90,1
+18,Oleksandr Zinchenko,D,2,Jan 3,MCI,@CHE,W 3-1,6.55,90,1
+19,Oleksandr Zinchenko,D,2,Oct 24,MCI,@WHU,T 1-1,1.25,12,0
+0,Fernandinho,"D,M",3,May 23,MCI,EVE,W 5-0,34.75,90,1
+1,Fernandinho,"D,M",3,May 18,MCI,@BHA,L 2-3,3.0,33,0
+2,Fernandinho,"D,M",3,May 1,MCI,@CRY,W 2-0,20.5,66,1
+3,Fernandinho,"D,M",3,Apr 21,MCI,@AVL,W 2-1,0.25,1,0
+4,Fernandinho,"D,M",3,Apr 10,MCI,LEE,L 1-2,12.6,90,1
+5,Fernandinho,"D,M",3,Apr 3,MCI,@LEI,W 2-0,13.85,90,1
+6,Fernandinho,"D,M",3,Mar 13,MCI,@FUL,W 3-0,1.85,22,0
+7,Fernandinho,"D,M",3,Mar 10,MCI,SOU,W 5-2,2.8,90,1
+8,Fernandinho,"D,M",3,Feb 27,MCI,WHU,W 2-1,11.5,90,1
+9,Fernandinho,"D,M",3,Feb 21,MCI,@ARS,W 1-0,21.9,90,1
+10,Fernandinho,"D,M",3,Feb 17,MCI,@EVE,W 3-1,0.5,1,0
+11,Fernandinho,"D,M",3,Jan 30,MCI,SHU,W 1-0,17.35,90,1
+12,Fernandinho,"D,M",3,Jan 17,MCI,CRY,W 4-0,17.25,90,1
+13,Fernandinho,"D,M",3,Jan 3,MCI,@CHE,W 3-1,1.1,15,0
+14,Fernandinho,"D,M",3,Dec 26,MCI,NEW,W 2-0,2.6,32,0
+15,Fernandinho,"D,M",3,Dec 12,MCI,@MUN,T 0-0,15.25,90,1
+16,Fernandinho,"D,M",3,Nov 28,MCI,BUR,W 5-0,3.25,45,0
+17,Fernandinho,"D,M",3,Oct 17,MCI,ARS,W 1-0,0.5,1,0
+18,Fernandinho,"D,M",3,Oct 3,MCI,@LEE,T 1-1,4.75,13,0
+19,Fernandinho,"D,M",3,Sep 27,MCI,LEI,L 2-5,4.85,51,1
+20,Fernandinho,"D,M",3,Sep 21,MCI,@WOL,W 3-1,7.55,90,1
+0,Rodri,M,4,May 23,MCI,EVE,W 5-0,5.0,33,0
+1,Rodri,M,4,May 18,MCI,@BHA,L 2-3,8.8,90,1
+2,Rodri,M,4,May 14,MCI,@NEW,W 4-3,16.65,90,1
+3,Rodri,M,4,May 8,MCI,CHE,L 1-2,10.45,90,1
+4,Rodri,M,4,May 1,MCI,@CRY,W 2-0,15.0,90,1
+5,Rodri,M,4,Apr 21,MCI,@AVL,W 2-1,17.85,90,1
+6,Rodri,M,4,Apr 3,MCI,@LEI,W 2-0,12.45,90,1
+7,Rodri,M,4,Mar 13,MCI,@FUL,W 3-0,12.1,90,1
+8,Rodri,M,4,Mar 7,MCI,MUN,L 0-2,14.85,90,1
+9,Rodri,M,4,Mar 2,MCI,WOL,W 4-1,13.75,90,1
+10,Rodri,M,4,Feb 27,MCI,WHU,W 2-1,0.5,1,0
+11,Rodri,M,4,Feb 17,MCI,@EVE,W 3-1,10.75,88,1
+12,Rodri,M,4,Feb 13,MCI,TOT,W 3-0,20.85,90,1
+13,Rodri,M,4,Feb 7,MCI,@LIV,W 4-1,10.85,90,1
+14,Rodri,M,4,Feb 3,MCI,@BUR,W 2-0,11.9,90,1
+15,Rodri,M,4,Jan 30,MCI,SHU,W 1-0,0.75,1,0
+16,Rodri,M,4,Jan 26,MCI,@WBA,W 5-0,7.0,90,1
+17,Rodri,M,4,Jan 20,MCI,AVL,W 2-0,26.65,90,1
+18,Rodri,M,4,Jan 13,MCI,BHA,W 1-0,8.15,90,1
+19,Rodri,M,4,Jan 3,MCI,@CHE,W 3-1,15.05,90,1
+20,Rodri,M,4,Dec 26,MCI,NEW,W 2-0,4.5,56,1
+21,Rodri,M,4,Dec 19,MCI,@SOU,W 1-0,11.85,90,1
+22,Rodri,M,4,Dec 15,MCI,WBA,T 1-1,11.8,90,1
+23,Rodri,M,4,Dec 12,MCI,@MUN,T 0-0,8.6,90,1
+24,Rodri,M,4,Dec 5,MCI,FUL,W 2-0,16.45,90,1
+25,Rodri,M,4,Nov 28,MCI,BUR,W 5-0,3.75,45,1
+26,Rodri,M,4,Nov 21,MCI,@TOT,L 0-2,17.35,90,1
+27,Rodri,M,4,Nov 8,MCI,LIV,T 1-1,4.95,90,1
+28,Rodri,M,4,Oct 31,MCI,@SHU,W 1-0,10.2,90,1
+29,Rodri,M,4,Oct 24,MCI,@WHU,T 1-1,10.55,90,1
+30,Rodri,M,4,Oct 17,MCI,ARS,W 1-0,9.5,90,1
+31,Rodri,M,4,Oct 3,MCI,@LEE,T 1-1,7.55,90,1
+32,Rodri,M,4,Sep 27,MCI,LEI,L 2-5,10.5,90,1
+33,Rodri,M,4,Sep 21,MCI,@WOL,W 3-1,8.25,90,1
+0,Ilkay Gundogan,M,4,May 18,MCI,@BHA,L 2-3,15.85,55,1
+1,Ilkay Gundogan,M,4,May 14,MCI,@NEW,W 4-3,19.0,90,1
+2,Ilkay Gundogan,M,4,May 8,MCI,CHE,L 1-2,4.75,18,0
+3,Ilkay Gundogan,M,4,Apr 21,MCI,@AVL,W 2-1,5.75,90,1
+4,Ilkay Gundogan,M,4,Apr 10,MCI,LEE,L 1-2,3.5,31,0
+5,Ilkay Gundogan,M,4,Mar 10,MCI,SOU,W 5-2,25.6,90,1
+6,Ilkay Gundogan,M,4,Mar 7,MCI,MUN,L 0-2,14.75,90,1
+7,Ilkay Gundogan,M,4,Mar 2,MCI,WOL,W 4-1,9.0,7,0
+8,Ilkay Gundogan,M,4,Feb 27,MCI,WHU,W 2-1,3.5,88,1
+9,Ilkay Gundogan,M,4,Feb 21,MCI,@ARS,W 1-0,7.0,90,1
+10,Ilkay Gundogan,M,4,Feb 13,MCI,TOT,W 3-0,27.25,68,1
+11,Ilkay Gundogan,M,4,Feb 7,MCI,@LIV,W 4-1,24.75,90,1
+12,Ilkay Gundogan,M,4,Feb 3,MCI,@BUR,W 2-0,20.75,90,1
+13,Ilkay Gundogan,M,4,Jan 30,MCI,SHU,W 1-0,8.35,90,1
+14,Ilkay Gundogan,M,4,Jan 26,MCI,@WBA,W 5-0,30.0,51,1
+15,Ilkay Gundogan,M,4,Jan 20,MCI,AVL,W 2-0,19.5,90,1
+16,Ilkay Gundogan,M,4,Jan 17,MCI,CRY,W 4-0,17.75,70,1
+17,Ilkay Gundogan,M,4,Jan 13,MCI,BHA,W 1-0,11.35,90,1
+18,Ilkay Gundogan,M,4,Jan 3,MCI,@CHE,W 3-1,19.25,75,1
+19,Ilkay Gundogan,M,4,Dec 26,MCI,NEW,W 2-0,17.2,88,1
+20,Ilkay Gundogan,M,4,Dec 19,MCI,@SOU,W 1-0,10.0,90,1
+21,Ilkay Gundogan,M,4,Dec 15,MCI,WBA,T 1-1,24.75,90,1
+22,Ilkay Gundogan,M,4,Dec 5,MCI,FUL,W 2-0,13.5,90,1
+23,Ilkay Gundogan,M,4,Nov 28,MCI,BUR,W 5-0,9.1,90,1
+24,Ilkay Gundogan,M,4,Nov 8,MCI,LIV,T 1-1,7.35,90,1
+25,Ilkay Gundogan,M,4,Oct 31,MCI,@SHU,W 1-0,1.0,5,0
+26,Ilkay Gundogan,M,4,Oct 24,MCI,@WHU,T 1-1,7.6,90,1
+27,Ilkay Gundogan,M,4,Oct 17,MCI,ARS,W 1-0,2.5,25,0
+0,Kevin De Bruyne,M,4,May 23,MCI,EVE,W 5-0,35.75,90,1
+1,Kevin De Bruyne,M,4,Apr 3,MCI,@LEI,W 2-0,17.5,87,1
+2,Kevin De Bruyne,M,4,Mar 10,MCI,SOU,W 5-2,24.75,71,1
+3,Kevin De Bruyne,M,4,Mar 7,MCI,MUN,L 0-2,17.6,90,1
+4,Kevin De Bruyne,M,4,Mar 2,MCI,WOL,W 4-1,9.75,90,1
+5,Kevin De Bruyne,M,4,Feb 27,MCI,WHU,W 2-1,20.35,90,1
+6,Kevin De Bruyne,M,4,Feb 21,MCI,@ARS,W 1-0,7.75,62,1
+7,Kevin De Bruyne,M,4,Feb 17,MCI,@EVE,W 3-1,2.25,9,0
+8,Kevin De Bruyne,M,4,Jan 20,MCI,AVL,W 2-0,7.5,58,1
+9,Kevin De Bruyne,M,4,Jan 17,MCI,CRY,W 4-0,21.75,70,1
+10,Kevin De Bruyne,M,4,Jan 13,MCI,BHA,W 1-0,25.35,90,1
+11,Kevin De Bruyne,M,4,Jan 3,MCI,@CHE,W 3-1,26.25,86,1
+12,Kevin De Bruyne,M,4,Dec 26,MCI,NEW,W 2-0,9.5,90,1
+13,Kevin De Bruyne,M,4,Dec 19,MCI,@SOU,W 1-0,20.75,90,1
+14,Kevin De Bruyne,M,4,Dec 15,MCI,WBA,T 1-1,13.0,90,1
+15,Kevin De Bruyne,M,4,Dec 12,MCI,@MUN,T 0-0,14.0,90,1
+16,Kevin De Bruyne,M,4,Dec 5,MCI,FUL,W 2-0,31.0,90,1
+17,Kevin De Bruyne,M,4,Nov 28,MCI,BUR,W 5-0,25.2,90,1
+18,Kevin De Bruyne,M,4,Nov 21,MCI,@TOT,L 0-2,10.5,90,1
+19,Kevin De Bruyne,M,4,Nov 8,MCI,LIV,T 1-1,9.2,90,1
+20,Kevin De Bruyne,M,4,Oct 31,MCI,@SHU,W 1-0,18.5,90,1
+21,Kevin De Bruyne,M,4,Oct 24,MCI,@WHU,T 1-1,4.5,22,0
+22,Kevin De Bruyne,M,4,Oct 3,MCI,@LEE,T 1-1,13.25,90,1
+23,Kevin De Bruyne,M,4,Sep 27,MCI,LEI,L 2-5,11.0,90,1
+24,Kevin De Bruyne,M,4,Sep 21,MCI,@WOL,W 3-1,34.35,90,1
+0,Bernardo Silva,M,4,May 18,MCI,@BHA,L 2-3,4.75,76,1
+1,Bernardo Silva,M,4,May 14,MCI,@NEW,W 4-3,8.25,90,1
+2,Bernardo Silva,M,4,Apr 21,MCI,@AVL,W 2-1,25.25,90,1
+3,Bernardo Silva,M,4,Apr 10,MCI,LEE,L 1-2,15.0,90,1
+4,Bernardo Silva,M,4,Mar 13,MCI,@FUL,W 3-0,8.75,66,1
+5,Bernardo Silva,M,4,Mar 10,MCI,SOU,W 5-2,7.0,90,1
+6,Bernardo Silva,M,4,Mar 2,MCI,WOL,W 4-1,6.75,81,1
+7,Bernardo Silva,M,4,Feb 21,MCI,@ARS,W 1-0,5.5,90,1
+8,Bernardo Silva,M,4,Feb 17,MCI,@EVE,W 3-1,26.75,90,1
+9,Bernardo Silva,M,4,Feb 13,MCI,TOT,W 3-0,9.5,90,1
+10,Bernardo Silva,M,4,Feb 7,MCI,@LIV,W 4-1,16.5,90,1
+11,Bernardo Silva,M,4,Feb 3,MCI,@BUR,W 2-0,14.85,90,1
+12,Bernardo Silva,M,4,Jan 30,MCI,SHU,W 1-0,11.6,90,1
+13,Bernardo Silva,M,4,Jan 26,MCI,@WBA,W 5-0,12.75,60,1
+14,Bernardo Silva,M,4,Jan 20,MCI,AVL,W 2-0,24.25,90,1
+15,Bernardo Silva,M,4,Jan 17,MCI,CRY,W 4-0,3.35,59,1
+16,Bernardo Silva,M,4,Jan 13,MCI,BHA,W 1-0,14.25,90,1
+17,Bernardo Silva,M,4,Jan 3,MCI,@CHE,W 3-1,10.25,90,1
+18,Bernardo Silva,M,4,Dec 26,MCI,NEW,W 2-0,5.85,90,1
+19,Bernardo Silva,M,4,Dec 19,MCI,@SOU,W 1-0,12.0,90,1
+20,Bernardo Silva,M,4,Nov 21,MCI,@TOT,L 0-2,5.75,72,1
+21,Bernardo Silva,M,4,Nov 8,MCI,LIV,T 1-1,1.35,29,0
+22,Bernardo Silva,M,4,Oct 31,MCI,@SHU,W 1-0,9.75,90,1
+23,Bernardo Silva,M,4,Oct 24,MCI,@WHU,T 1-1,5.35,68,1
+24,Bernardo Silva,M,4,Oct 17,MCI,ARS,W 1-0,9.75,90,1
+25,Bernardo Silva,M,4,Oct 3,MCI,@LEE,T 1-1,5.0,25,0
+0,Phil Foden,"M,F",5,May 23,MCI,EVE,W 5-0,15.95,55,1
+1,Phil Foden,"M,F",5,May 18,MCI,@BHA,L 2-3,18.2,90,1
+2,Phil Foden,"M,F",5,May 8,MCI,CHE,L 1-2,2.5,19,0
+3,Phil Foden,"M,F",5,Apr 21,MCI,@AVL,W 2-1,21.0,90,1
+4,Phil Foden,"M,F",5,Apr 10,MCI,LEE,L 1-2,2.0,15,0
+5,Phil Foden,"M,F",5,Apr 3,MCI,@LEI,W 2-0,0.5,1,0
+6,Phil Foden,"M,F",5,Mar 10,MCI,SOU,W 5-2,34.0,90,1
+7,Phil Foden,"M,F",5,Mar 7,MCI,MUN,L 0-2,0.75,18,0
+8,Phil Foden,"M,F",5,Feb 27,MCI,WHU,W 2-1,4.5,24,0
+9,Phil Foden,"M,F",5,Feb 17,MCI,@EVE,W 3-1,16.5,90,1
+10,Phil Foden,"M,F",5,Feb 13,MCI,TOT,W 3-0,12.6,90,1
+11,Phil Foden,"M,F",5,Feb 7,MCI,@LIV,W 4-1,36.0,90,1
+12,Phil Foden,"M,F",5,Jan 30,MCI,SHU,W 1-0,9.75,90,1
+13,Phil Foden,"M,F",5,Jan 26,MCI,@WBA,W 5-0,8.55,51,1
+14,Phil Foden,"M,F",5,Jan 20,MCI,AVL,W 2-0,17.1,90,1
+15,Phil Foden,"M,F",5,Jan 17,MCI,CRY,W 4-0,4.0,29,0
+16,Phil Foden,"M,F",5,Jan 13,MCI,BHA,W 1-0,18.25,81,1
+17,Phil Foden,"M,F",5,Jan 3,MCI,@CHE,W 3-1,24.25,86,1
+18,Phil Foden,"M,F",5,Dec 26,MCI,NEW,W 2-0,0.75,1,0
+19,Phil Foden,"M,F",5,Dec 15,MCI,WBA,T 1-1,9.25,76,1
+20,Phil Foden,"M,F",5,Nov 28,MCI,BUR,W 5-0,8.75,23,0
+21,Phil Foden,"M,F",5,Nov 21,MCI,@TOT,L 0-2,3.0,18,0
+22,Phil Foden,"M,F",5,Oct 31,MCI,@SHU,W 1-0,3.75,9,0
+23,Phil Foden,"M,F",5,Oct 24,MCI,@WHU,T 1-1,15.5,45,0
+24,Phil Foden,"M,F",5,Oct 17,MCI,ARS,W 1-0,14.35,89,1
+25,Phil Foden,"M,F",5,Oct 3,MCI,@LEE,T 1-1,9.75,90,1
+26,Phil Foden,"M,F",5,Sep 27,MCI,LEI,L 2-5,3.0,64,1
+27,Phil Foden,"M,F",5,Sep 21,MCI,@WOL,W 3-1,20.0,90,1
+0,Raheem Sterling,"M,F",5,May 23,MCI,EVE,W 5-0,15.25,90,1
+1,Raheem Sterling,"M,F",5,May 14,MCI,@NEW,W 4-3,4.5,90,1
+2,Raheem Sterling,"M,F",5,May 8,MCI,CHE,L 1-2,15.5,90,1
+3,Raheem Sterling,"M,F",5,May 1,MCI,@CRY,W 2-0,3.75,90,1
+4,Raheem Sterling,"M,F",5,Apr 10,MCI,LEE,L 1-2,6.75,90,1
+5,Raheem Sterling,"M,F",5,Apr 3,MCI,@LEI,W 2-0,8.75,26,0
+6,Raheem Sterling,"M,F",5,Mar 7,MCI,MUN,L 0-2,6.0,90,1
+7,Raheem Sterling,"M,F",5,Mar 2,MCI,WOL,W 4-1,8.0,90,1
+8,Raheem Sterling,"M,F",5,Feb 21,MCI,@ARS,W 1-0,21.5,90,1
+9,Raheem Sterling,"M,F",5,Feb 17,MCI,@EVE,W 3-1,5.5,79,1
+10,Raheem Sterling,"M,F",5,Feb 13,MCI,TOT,W 3-0,19.75,90,1
+11,Raheem Sterling,"M,F",5,Feb 7,MCI,@LIV,W 4-1,24.1,90,1
+12,Raheem Sterling,"M,F",5,Feb 3,MCI,@BUR,W 2-0,22.25,90,1
+13,Raheem Sterling,"M,F",5,Jan 26,MCI,@WBA,W 5-0,25.0,90,1
+14,Raheem Sterling,"M,F",5,Jan 20,MCI,AVL,W 2-0,6.0,71,1
+15,Raheem Sterling,"M,F",5,Jan 17,MCI,CRY,W 4-0,14.25,90,1
+16,Raheem Sterling,"M,F",5,Jan 13,MCI,BHA,W 1-0,-2.5,7,0
+17,Raheem Sterling,"M,F",5,Jan 3,MCI,@CHE,W 3-1,16.75,90,1
+18,Raheem Sterling,"M,F",5,Dec 26,MCI,NEW,W 2-0,21.25,90,1
+19,Raheem Sterling,"M,F",5,Dec 19,MCI,@SOU,W 1-0,14.45,90,1
+20,Raheem Sterling,"M,F",5,Dec 15,MCI,WBA,T 1-1,19.25,90,1
+21,Raheem Sterling,"M,F",5,Dec 12,MCI,@MUN,T 0-0,3.0,90,1
+22,Raheem Sterling,"M,F",5,Dec 5,MCI,FUL,W 2-0,21.75,90,1
+23,Raheem Sterling,"M,F",5,Nov 21,MCI,@TOT,L 0-2,2.25,18,0
+24,Raheem Sterling,"M,F",5,Nov 8,MCI,LIV,T 1-1,4.5,90,1
+25,Raheem Sterling,"M,F",5,Oct 31,MCI,@SHU,W 1-0,10.25,90,1
+26,Raheem Sterling,"M,F",5,Oct 24,MCI,@WHU,T 1-1,7.0,90,1
+27,Raheem Sterling,"M,F",5,Oct 17,MCI,ARS,W 1-0,14.85,90,1
+28,Raheem Sterling,"M,F",5,Oct 3,MCI,@LEE,T 1-1,23.5,90,1
+29,Raheem Sterling,"M,F",5,Sep 27,MCI,LEI,L 2-5,5.0,90,1
+30,Raheem Sterling,"M,F",5,Sep 21,MCI,@WOL,W 3-1,10.25,82,1
+0,Riyad Mahrez,F,6,May 23,MCI,EVE,W 5-0,12.75,64,1
+1,Riyad Mahrez,F,6,May 18,MCI,@BHA,L 2-3,14.0,90,1
+2,Riyad Mahrez,F,6,Apr 21,MCI,@AVL,W 2-1,8.25,88,1
+3,Riyad Mahrez,F,6,Apr 3,MCI,@LEI,W 2-0,9.75,78,1
+4,Riyad Mahrez,F,6,Mar 10,MCI,SOU,W 5-2,34.5,60,1
+5,Riyad Mahrez,F,6,Mar 7,MCI,MUN,L 0-2,12.25,90,1
+6,Riyad Mahrez,F,6,Mar 2,MCI,WOL,W 4-1,29.25,90,1
+7,Riyad Mahrez,F,6,Feb 27,MCI,WHU,W 2-1,11.5,90,1
+8,Riyad Mahrez,F,6,Feb 21,MCI,@ARS,W 1-0,14.95,90,1
+9,Riyad Mahrez,F,6,Feb 17,MCI,@EVE,W 3-1,17.75,90,1
+10,Riyad Mahrez,F,6,Feb 13,MCI,TOT,W 3-0,2.0,10,0
+11,Riyad Mahrez,F,6,Feb 7,MCI,@LIV,W 4-1,4.5,71,1
+12,Riyad Mahrez,F,6,Feb 3,MCI,@BUR,W 2-0,7.25,90,1
+13,Riyad Mahrez,F,6,Jan 26,MCI,@WBA,W 5-0,23.6,90,1
+14,Riyad Mahrez,F,6,Jan 20,MCI,AVL,W 2-0,3.0,17,0
+15,Riyad Mahrez,F,6,Jan 13,MCI,BHA,W 1-0,8.75,66,1
+16,Riyad Mahrez,F,6,Jan 3,MCI,@CHE,W 3-1,1.0,4,0
+17,Riyad Mahrez,F,6,Dec 19,MCI,@SOU,W 1-0,4.25,18,0
+18,Riyad Mahrez,F,6,Dec 12,MCI,@MUN,T 0-0,6.0,66,1
+19,Riyad Mahrez,F,6,Dec 5,MCI,FUL,W 2-0,13.5,90,1
+20,Riyad Mahrez,F,6,Nov 28,MCI,BUR,W 5-0,44.25,90,1
+21,Riyad Mahrez,F,6,Nov 21,MCI,@TOT,L 0-2,8.25,72,1
+22,Riyad Mahrez,F,6,Oct 31,MCI,@SHU,W 1-0,9.75,85,1
+23,Riyad Mahrez,F,6,Oct 24,MCI,@WHU,T 1-1,10.75,90,1
+24,Riyad Mahrez,F,6,Oct 17,MCI,ARS,W 1-0,13.5,90,1
+25,Riyad Mahrez,F,6,Oct 3,MCI,@LEE,T 1-1,6.35,77,1
+26,Riyad Mahrez,F,6,Sep 27,MCI,LEI,L 2-5,21.5,90,1
+0,Sergio Aguero,F,6,May 23,MCI,EVE,W 5-0,27.5,24,0
+1,Sergio Aguero,F,6,May 8,MCI,CHE,L 1-2,11.75,69,1
+2,Sergio Aguero,F,6,May 1,MCI,@CRY,W 2-0,19.25,90,1
+3,Sergio Aguero,F,6,Apr 3,MCI,@LEI,W 2-0,4.5,62,1
+4,Sergio Aguero,F,6,Mar 13,MCI,@FUL,W 3-0,16.25,90,1
+5,Sergio Aguero,F,6,Mar 10,MCI,SOU,W 5-2,2.5,17,0
+6,Sergio Aguero,F,6,Feb 27,MCI,WHU,W 2-1,3.75,60,1
+7,Sergio Aguero,F,6,Jan 3,MCI,@CHE,W 3-1,1.0,4,0
+8,Sergio Aguero,F,6,Dec 26,MCI,NEW,W 2-0,3.0,12,0
+9,Sergio Aguero,F,6,Dec 15,MCI,WBA,T 1-1,1.25,14,0
+10,Sergio Aguero,F,6,Oct 24,MCI,@WHU,T 1-1,1.25,45,1
+11,Sergio Aguero,F,6,Oct 17,MCI,ARS,W 1-0,5.5,65,1
+0,Gabriel Jesus,F,6,May 23,MCI,EVE,W 5-0,18.5,73,1
+1,Gabriel Jesus,F,6,May 18,MCI,@BHA,L 2-3,4.25,12,0
+2,Gabriel Jesus,F,6,May 14,MCI,@NEW,W 4-3,15.1,90,1
+3,Gabriel Jesus,F,6,May 8,MCI,CHE,L 1-2,4.5,90,1
+4,Gabriel Jesus,F,6,May 1,MCI,@CRY,W 2-0,6.85,90,1
+5,Gabriel Jesus,F,6,Apr 21,MCI,@AVL,W 2-1,2.75,44,1
+6,Gabriel Jesus,F,6,Apr 10,MCI,LEE,L 1-2,10.25,90,1
+7,Gabriel Jesus,F,6,Apr 3,MCI,@LEI,W 2-0,21.0,90,1
+8,Gabriel Jesus,F,6,Mar 13,MCI,@FUL,W 3-0,22.0,90,1
+9,Gabriel Jesus,F,6,Mar 7,MCI,MUN,L 0-2,5.25,70,1
+10,Gabriel Jesus,F,6,Mar 2,MCI,WOL,W 4-1,29.5,90,1
+11,Gabriel Jesus,F,6,Feb 27,MCI,WHU,W 2-1,2.25,28,0
+12,Gabriel Jesus,F,6,Feb 21,MCI,@ARS,W 1-0,4.25,26,0
+13,Gabriel Jesus,F,6,Feb 17,MCI,@EVE,W 3-1,14.75,90,1
+14,Gabriel Jesus,F,6,Feb 13,MCI,TOT,W 3-0,4.75,78,1
+15,Gabriel Jesus,F,6,Feb 7,MCI,@LIV,W 4-1,9.25,17,0
+16,Gabriel Jesus,F,6,Feb 3,MCI,@BUR,W 2-0,15.1,90,1
+17,Gabriel Jesus,F,6,Jan 30,MCI,SHU,W 1-0,16.75,90,1
+18,Gabriel Jesus,F,6,Jan 26,MCI,@WBA,W 5-0,1.75,28,0
+19,Gabriel Jesus,F,6,Jan 20,MCI,AVL,W 2-0,8.0,30,0
+20,Gabriel Jesus,F,6,Jan 17,MCI,CRY,W 4-0,10.5,90,1
+21,Gabriel Jesus,F,6,Jan 13,MCI,BHA,W 1-0,3.75,22,0
+22,Gabriel Jesus,F,6,Dec 15,MCI,WBA,T 1-1,5.35,90,1
+23,Gabriel Jesus,F,6,Dec 12,MCI,@MUN,T 0-0,10.75,90,1
+24,Gabriel Jesus,F,6,Dec 5,MCI,FUL,W 2-0,6.0,90,1
+25,Gabriel Jesus,F,6,Nov 28,MCI,BUR,W 5-0,13.75,90,1
+26,Gabriel Jesus,F,6,Nov 21,MCI,@TOT,L 0-2,9.5,90,1
+27,Gabriel Jesus,F,6,Nov 8,MCI,LIV,T 1-1,15.25,90,1
+28,Gabriel Jesus,F,6,Sep 21,MCI,@WOL,W 3-1,18.6,90,1
+0,Ferran Torres,F,6,May 23,MCI,EVE,W 5-0,0.75,15,0
+1,Ferran Torres,F,6,May 18,MCI,@BHA,L 2-3,1.0,14,1
+2,Ferran Torres,F,6,May 14,MCI,@NEW,W 4-3,37.85,90,1
+3,Ferran Torres,F,6,May 8,MCI,CHE,L 1-2,5.0,70,1
+4,Ferran Torres,F,6,May 1,MCI,@CRY,W 2-0,21.6,90,1
+5,Ferran Torres,F,6,Apr 10,MCI,LEE,L 1-2,16.95,90,1
+6,Ferran Torres,F,6,Apr 3,MCI,@LEI,W 2-0,1.0,10,0
+7,Ferran Torres,F,6,Mar 13,MCI,@FUL,W 3-0,12.2,90,1
+8,Ferran Torres,F,6,Mar 10,MCI,SOU,W 5-2,2.0,28,0
+9,Ferran Torres,F,6,Feb 27,MCI,WHU,W 2-1,8.25,64,1
+10,Ferran Torres,F,6,Feb 13,MCI,TOT,W 3-0,2.0,20,0
+11,Ferran Torres,F,6,Jan 30,MCI,SHU,W 1-0,13.1,88,1
+12,Ferran Torres,F,6,Jan 26,MCI,@WBA,W 5-0,4.0,37,0
+13,Ferran Torres,F,6,Jan 17,MCI,CRY,W 4-0,8.5,18,0
+14,Ferran Torres,F,6,Dec 26,MCI,NEW,W 2-0,16.75,76,1
+15,Ferran Torres,F,6,Dec 19,MCI,@SOU,W 1-0,4.0,72,1
+16,Ferran Torres,F,6,Dec 12,MCI,@MUN,T 0-0,0.5,24,0
+17,Ferran Torres,F,6,Nov 28,MCI,BUR,W 5-0,14.25,67,1
+18,Ferran Torres,F,6,Nov 21,MCI,@TOT,L 0-2,5.25,90,1
+19,Ferran Torres,F,6,Nov 8,MCI,LIV,T 1-1,4.0,61,1
+20,Ferran Torres,F,6,Oct 31,MCI,@SHU,W 1-0,9.0,81,1
+21,Ferran Torres,F,6,Oct 3,MCI,@LEE,T 1-1,12.5,65,1
+22,Ferran Torres,F,6,Sep 27,MCI,LEI,L 2-5,3.0,26,0
+23,Ferran Torres,F,6,Sep 21,MCI,@WOL,W 3-1,1.0,8,0
+0,Liam Delap,F,6,Sep 27,MCI,LEI,L 2-5,0.75,39,0

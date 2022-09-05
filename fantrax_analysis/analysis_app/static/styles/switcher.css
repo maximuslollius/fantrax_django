@@ -1,0 +1,46 @@
+.switcher-panel {
+    width: 500px;
+    max-width: 500px;
+    display: flex;
+    margin-top 120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.switcher-button {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+    background-color: #000;
+    border-radius: 25px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.switcher-button:hover {
+    background-color: #444;
+    color: #8c4;
+}
+
+.switcher-icon {
+    font-size: 130px;
+    color: #8c4;
+}
+
+.switcher-left {
+    float: left;
+}
+
+.switcher-center {
+    float: center;
+    margin-left: 100px;
+}
+
+.switcher-right {
+    float: right;
+    margin-left: 130px;
+}

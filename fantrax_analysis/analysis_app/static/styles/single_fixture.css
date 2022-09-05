@@ -1,0 +1,17 @@
+.pitch-horizontal {
+    margin: auto; /* for centering divs */
+    background: #6db543 url(./Pitch-H.png);
+    width: 716px;
+    height: 470px;
+    float: center;
+}
+
+svg {
+    stroke: #fff;
+    background-color: #6db543 url(./Pitch-H.png);
+    fill: "none";
+}
+
+.Opta-JerseyNumber {
+    float: center;
+}

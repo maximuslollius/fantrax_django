@@ -1,0 +1,92 @@
+.scroll_div {
+    overflow-x: auto;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+form, input select, p {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    font-family: Robot, Arial, sans-serif;
+    font-size: 14px;
+    color: #666;
+    line-height: 22px;
+    text-align: left;
+}
+
+.filter-container {
+    position: relative;
+    display: flex;
+    justify-content: left;
+    height: inherit;
+    padding: 3px;
+}
+
+form {
+    width: 25%;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 5px #ccc;
+}
+
+input, select, textarea {
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input:hover, select:hover, textarea:hover {
+    outline: none;
+    border: 1px solid #095484;
+}
+
+input {
+    width: 150px;
+    padding: 5px;
+}
+
+select {
+    width: 80%;
+    padding: 7px 0;
+    background: transparent;
+}
+
+textarea {
+    width: calc(100% - 6px);
+}
+
+.item {
+    position: relative;
+    margin: 10px 0;
+}
+
+button {
+    width: 150px;
+    padding: 10px;
+    border: none;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-color: #095484;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0666a3;
+}
+
+#chart1 svg {
+    height: 400px;
+}
+
+.table.table-bordered.table-striped.table-sm>tbody>tr:hover {
+    background-color: #ff9999;
+}
+
+.table.table-bordered.table-striped.table-sm>tbody>tr.activated {
+    background-color: #04bf4f;
+}
+

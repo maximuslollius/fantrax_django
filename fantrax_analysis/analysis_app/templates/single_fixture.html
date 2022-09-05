@@ -1,0 +1,211 @@
+{% extends "base.html" %}
+
+{% block breadcrumbs %}
+<li class="breadcrumb-item"><a href="{% url 'core:switcher' %}">Home</a></li>
+<li class="breadcrumb-item"><a href="{% url 'core:score_predictor' %}">Score Predictor</a></li>
+<li class="breadcrumb-item active" aria-current="page">
+    <a href="{% url 'core:season_fixtures' %}">Fixtures</a>
+</li>
+{% endblock %}
+
+{% block content %}
+<link rel="stylesheet" href="/static/styles/single_fixture.css">
+<script src="/static/framework/single_fixture.js"></script>
+<script src="/static/formations.json"></script>
+    <h3>Single Fixture</h3>
+
+    <div class="scroll_div">
+        <select class="home-formation">
+            <option value="5-2-3-a">5-2-3-a</option>
+            <option value="4-2-3-1">4-2-3-1</option>
+            <option value="3-1-4-2">3-1-4-2</option>
+            <option value="3-1-3-3">3-1-3-3</option>
+            <option value="3-3-3-1">3-3-3-1</option>
+        </select>
+        <div class="pitch-horizontal">
+            <svg id="pitch-svg" class="Opta-Responsive-Svg" xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMinYMin meet" viewBox="0 0 832 556" height="476.6666666666667">
+                <defs>
+                    <filter id="shadow">
+                        <feDropShadow dx="0" dy="1.5" stdDeviation="0.5"/>
+                    </filter>
+                </defs>
+                <g class="Opta-Field" transform="translate(16,16)">
+                    <g class="Opta-Markings">
+                        <rect y="0" x="0" width="800" height="524" fill="none"></rect>
+                        <line x1="400" y1="524" x2="400" y2="0"></line>
+                        <circle cx="400" cy="262" r="69.71677559912854" fill="none"></circle>
+                        <circle cx="400" cy="262" r="2" fill="none"></circle>
+                        <path d="M0,413.43600000000004L136,413.43600000000004L136,110.56399999999996L0,110.56399999999996" fill="none"></path>
+                        <path d="M800,413.43600000000004L664,413.43600000000004L664,110.56399999999996L800,110.56399999999996" fill="none"></path>
+                        <path d="M0,331.168L46.4,331.168L46.4,192.832L0,192.832" fill="none"></path>
+                        <path d="M800,331.168L753.6,331.168L753.6,192.832L800,192.832" fill="none"></path>
+                        <path d="M0,287.152L-12,287.152L-12,236.848L0,236.848" fill="none"></path>
+                        <path d="M800,287.152L811.9999999999999,287.152L811.9999999999999,236.848L800,236.848" fill="none"></path>
+                        <path d="M5.763043760693427e-16,-9.411764705882353A9.411764705882353,9.411764705882353 0 0,1 9.411764705882353,0L9.411764705882353,0A9.411764705882353,9.411764705882353 0 0,0 5.763043760693427e-16,-9.411764705882353Z" transform="translate(0,524)"></path>
+                        <path d="M9.411764705882353,0A9.411764705882353,9.411764705882353 0 0,1 5.763043760693427e-16,9.411764705882353L5.763043760693427e-16,9.411764705882353A9.411764705882353,9.411764705882353 0 0,0 9.411764705882353,0Z" transform="translate(0,0)"></path>
+                        <path d="M5.763043760693427e-16,9.411764705882353A9.411764705882353,9.411764705882353 0 0,1 -9.411764705882353,1.1526087521386854e-15L-9.411764705882353,1.1526087521386854e-15A9.411764705882353,9.411764705882353 0 0,0 5.763043760693427e-16,9.411764705882353Z" transform="translate(800,0)"></path>
+                        <path d="M-9.411764705882353,1.1526087521386854e-15A9.411764705882353,9.411764705882353 0 0,1 -1.728913128208028e-15,-9.411764705882353L-1.728913128208028e-15,-9.411764705882353A9.411764705882353,9.411764705882353 0 0,0 -9.411764705882353,1.1526087521386854e-15Z" transform="translate(800,524)"></path>
+                        <path d="M44.43914525481061,-53.71769884275654A69.71677559912854,69.71677559912854 0 0,1 44.43914525481062,53.71769884275654L44.43914525481062,53.71769884275654A69.71677559912854,69.71677559912854 0 0,0 44.43914525481061,-53.71769884275654Z" transform="translate(92,262)"></path>
+                        <path d="M-44.439145254810605,53.71769884275655A69.71677559912854,69.71677559912854 0 0,1 -44.439145254810605,-53.717698842756555L-44.439145254810605,-53.717698842756555A69.71677559912854,69.71677559912854 0 0,0 -44.439145254810605,53.71769884275655Z" transform="translate(708,262)"></path>
+                    </g>
+                </g>
+                <g class="Opta-Players-Formation">
+                    <g class="Opta-Node Opta-Home Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="63.12" cy="278" r="18" class="15628 Opta-Home" fill="#02a6a6"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="63.12" y="278" dy="0.4em" fill="#fff">12</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="63.12" y="311" dy="0">Rodak</text>
+                    </g>
+                    <g class="Opta-Node Opta-Home Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="167.38" cy="83.38" r="18" class="15628 Opta-Home" fill="#02a6a6"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="167.38" y="83.38" dy="0.4em" fill="#fff">23</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="167.38" y="116.38" dy="0">Bryan</text>
+                    </g>
+                    <g class="Opta-Node Opta-Home Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="143.32" cy="204.36" r="18" class="15628 Opta-Home" fill="#02a6a6"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="143.32" y="204.36" dy="0.4em" fill="#fff">13</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="143.32" y="237.36" dy="0">Ream</text>
+                    </g>
+                    <g class="Opta-Node Opta-Home Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="143.32" cy="351.64" r="18" class="15628 Opta-Home" fill="#02a6a6"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="143.32" y="351.64" dy="0.4em" fill="#fff">3</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="143.32" y="384.64" dy="0">Hector</text>
+                    </g>
+                    <g class="Opta-Node Opta-Home Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="167.38" cy="472.62" r="18" class="15628 Opta-Home" fill="#02a6a6"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="167.38" y="472.62" dy="0.4em" fill="#fff">4</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="167.38" y="505.62" dy="0">Odoi</text>
+                    </g>
+                    <g class="Opta-Node Opta-Home Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="215.5" cy="204.36" r="18" class="15628 Opta-Home" fill="#02a6a6"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="215.5" y="204.36" dy="0.4em" fill="#fff">10</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="215.5" y="237.36" dy="0">Cairney</text>
+                    </g>
+                    <g class="Opta-Node Opta-Home Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="215.5" cy="351.64" r="18" class="15628 Opta-Home" fill="#02a6a6"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="215.5" y="351.64" dy="0.4em" fill="#fff">21</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="215.5" y="384.64" dy="0">Reed</text>
+                    </g>
+                    <g class="Opta-Node Opta-Home Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="295.7" cy="130.72" r="18" class="15628 Opta-Home" fill="#02a6a6"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="295.7" y="130.72" dy="0.4em" fill="#fff">17</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="295.7" y="163.72" dy="0">Cavaleiro</text>
+                    </g>
+                    <g class="Opta-Node Opta-Home Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="295.7" cy="278" r="18" class="15628 Opta-Home" fill="#02a6a6"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="295.7" y="278" dy="0.4em" fill="#fff">25</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="295.7" y="311" dy="0">Onomah</text>
+                    </g>
+                    <g class="Opta-Node Opta-Home Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="295.7" cy="425.28" r="18" class="15628 Opta-Home" fill="#02a6a6"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="295.7" y="425.28" dy="0.4em" fill="#fff">7</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="295.7" y="458.28" dy="0">Kebano</text>
+                    </g>
+                    <g class="Opta-Node Opta-Home Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="375.9" cy="278" r="18" class="15628 Opta-Home" fill="#02a6a6"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="375.9" y="278" dy="0.4em" fill="#fff">47</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="375.9" y="311" dy="0">Kamara</text>
+                    </g>
+                    <g class="Opta-Node Opta-Away Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="768.88" cy="278" r="18" class="15628 Opta-Home" fill="#215454"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="768.88" y="278" dy="0.4em" fill="#fff">1</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="768.88" y="311" dy="0">Leno</text>
+                    </g>
+                    <g class="Opta-Node Opta-Away Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="688.68" cy="414.76" r="18" class="15628 Opta-Home" fill="#215454"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="688.68" y="414.76" dy="0.4em" fill="#fff">3</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="688.68" y="447.76" dy="0">Tierney</text>
+                    </g>
+                    <g class="Opta-Node Opta-Away Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="688.68" cy="278" r="18" class="15628 Opta-Home" fill="#215454"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="688.68" y="278" dy="0.4em" fill="#fff">6</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="688.68" y="311" dy="0">Gabriel</text>
+                    </g>
+                    <g class="Opta-Node Opta-Away Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="688.68" cy="141.24" r="18" class="15628 Opta-Home" fill="#215454"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="688.68" y="141.24" dy="0.4em" fill="#fff">16</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="688.68" y="174.24" dy="0">Holding</text>
+                    </g>
+                    <g class="Opta-Node Opta-Away Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="568.38" cy="472.62" r="18" class="15628 Opta-Home" fill="#215454"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="568.38" y="472.62" dy="0.4em" fill="#fff">15</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="568.38" y="505.62" dy="0">Maitland-Niles</text>
+                    </g>
+                    <g class="Opta-Node Opta-Away Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="616.5" cy="357" r="18" class="15628 Opta-Home" fill="#215454"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="616.5" y="357" dy="0.4em" fill="#fff">34</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="616.5" y="390" dy="0">Xhaka</text>
+                    </g>
+                    <g class="Opta-Node Opta-Away Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="616.5" cy="199.1" r="18" class="15628 Opta-Home" fill="#215454"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="616.5" y="199.1" dy="0.4em" fill="#fff">25</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="616.5" y="232.1" dy="0">Elneny</text>
+                    </g>
+                    <g class="Opta-Node Opta-Away Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="568.38" cy="83.38" r="18" class="15628 Opta-Home" fill="#215454"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="568.38" y="83.38" dy="0.4em" fill="#fff">2</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="568.38" y="116.38" dy="0">Bellerin</text>
+                    </g>
+                    <g class="Opta-Node Opta-Away Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="496.2" cy="409.5" r="18" class="15628 Opta-Home" fill="#215454"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="496.2" y="409.5" dy="0.4em" fill="#fff">14</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="496.2" y="442.5" dy="0">Aubameyang</text>
+                    </g>
+                    <g class="Opta-Node Opta-Away Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="456.1" cy="278" r="18" class="15628 Opta-Home" fill="#215454"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="456.1" y="278" dy="0.4em" fill="#fff">9</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="456.1" y="311" dy="0">Lacazette</text>
+                    </g>
+                    <g class="Opta-Node Opta-Away Opta-Starter">
+                        <g class="Opta-PlayerNumber Opta-JS-Overlay">
+                            <circle cx="496.2" cy="146.5" r="18" class="15628 Opta-Home" fill="#215454"></circle>
+                            <text text-anchor="middle" class="Opta-JerseyNumber" x="496.2" y="146.5" dy="0.4em" fill="#fff">12</text>
+                        </g>
+                        <text class="Opta-PlayerName" fill="#fff" filter="url(#shadow)" text-anchor="middle" x="496.2" y="179.5" dy="0">Willian</text>
+                    </g>
+                </g>
+            </svg>
+        </div>
+    </div>
+{% endblock %}

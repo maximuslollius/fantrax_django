@@ -1,0 +1,514 @@
+,player,position,position_id,date,team,opp,score,fpts,min,starts
+0,Alisson,G,1,May 23,LIV,CRY,W 2-0,18.0,90,1
+1,Alisson,G,1,May 19,LIV,@BUR,W 3-0,24.0,90,1
+2,Alisson,G,1,May 16,LIV,@WBA,W 2-1,9.0,90,1
+3,Alisson,G,1,May 13,LIV,@MUN,W 4-2,2.5,90,1
+4,Alisson,G,1,May 8,LIV,SOU,W 2-0,22.5,90,1
+5,Alisson,G,1,Apr 24,LIV,NEW,T 1-1,8.5,90,1
+6,Alisson,G,1,Apr 19,LIV,@LEE,T 1-1,10.5,90,1
+7,Alisson,G,1,Apr 10,LIV,AVL,W 2-1,10.5,90,1
+8,Alisson,G,1,Apr 3,LIV,@ARS,W 3-0,15.0,90,1
+9,Alisson,G,1,Mar 15,LIV,@WOL,W 1-0,21.5,90,1
+10,Alisson,G,1,Mar 7,LIV,FUL,L 0-1,6.5,90,1
+11,Alisson,G,1,Mar 4,LIV,CHE,L 0-1,8.5,90,1
+12,Alisson,G,1,Feb 20,LIV,EVE,L 0-2,9.0,90,1
+13,Alisson,G,1,Feb 13,LIV,@LEI,L 1-3,7.0,90,1
+14,Alisson,G,1,Feb 7,LIV,MCI,L 1-4,3.0,90,1
+15,Alisson,G,1,Jan 31,LIV,@WHU,W 3-1,5.0,90,1
+16,Alisson,G,1,Jan 28,LIV,@TOT,W 3-1,5.0,90,1
+17,Alisson,G,1,Jan 21,LIV,BUR,L 0-1,10.0,90,1
+18,Alisson,G,1,Jan 17,LIV,MUN,T 0-0,18.5,90,1
+19,Alisson,G,1,Jan 4,LIV,@SOU,L 0-1,5.0,90,1
+20,Alisson,G,1,Dec 30,LIV,@NEW,T 0-0,17.5,90,1
+21,Alisson,G,1,Dec 27,LIV,WBA,T 1-1,6.0,90,1
+22,Alisson,G,1,Dec 19,LIV,@CRY,W 7-0,17.0,90,1
+23,Alisson,G,1,Dec 16,LIV,TOT,W 2-1,6.0,90,1
+24,Alisson,G,1,Dec 13,LIV,@FUL,T 1-1,9.5,90,1
+25,Alisson,G,1,Nov 28,LIV,@BHA,T 1-1,5.5,90,1
+26,Alisson,G,1,Nov 22,LIV,LEI,W 3-0,19.0,90,1
+27,Alisson,G,1,Nov 8,LIV,@MCI,T 1-1,5.0,90,1
+28,Alisson,G,1,Oct 31,LIV,WHU,W 2-1,6.0,90,1
+29,Alisson,G,1,Oct 24,LIV,SHU,W 2-1,7.5,90,1
+30,Alisson,G,1,Sep 28,LIV,ARS,W 3-1,7.0,90,1
+31,Alisson,G,1,Sep 20,LIV,@CHE,W 2-0,21.5,90,1
+32,Alisson,G,1,Sep 12,LIV,LEE,W 4-3,4.0,90,1
+0,Adrian,G,1,Feb 28,LIV,@SHU,W 2-0,19.5,90,1
+1,Adrian,G,1,Oct 17,LIV,@EVE,T 2-2,7.5,90,1
+2,Adrian,G,1,Oct 4,LIV,@AVL,L 2-7,6.5,90,1
+0,Caoimhin Kelleher,G,1,Feb 3,LIV,BHA,L 0-1,8.0,90,1
+1,Caoimhin Kelleher,G,1,Dec 6,LIV,WOL,W 4-0,17.0,90,1
+0,Trent Alexander-Arnold,D,2,May 23,LIV,CRY,W 2-0,15.5,90,1
+1,Trent Alexander-Arnold,D,2,May 19,LIV,@BUR,W 3-0,20.65,90,1
+2,Trent Alexander-Arnold,D,2,May 16,LIV,@WBA,W 2-1,20.5,90,1
+3,Trent Alexander-Arnold,D,2,May 13,LIV,@MUN,W 4-2,28.8,90,1
+4,Trent Alexander-Arnold,D,2,May 8,LIV,SOU,W 2-0,18.35,90,1
+5,Trent Alexander-Arnold,D,2,Apr 24,LIV,NEW,T 1-1,8.85,90,1
+6,Trent Alexander-Arnold,D,2,Apr 19,LIV,@LEE,T 1-1,20.2,90,1
+7,Trent Alexander-Arnold,D,2,Apr 10,LIV,AVL,W 2-1,21.2,90,1
+8,Trent Alexander-Arnold,D,2,Apr 3,LIV,@ARS,W 3-0,27.5,90,1
+9,Trent Alexander-Arnold,D,2,Mar 15,LIV,@WOL,W 1-0,20.05,90,1
+10,Trent Alexander-Arnold,D,2,Mar 7,LIV,FUL,L 0-1,3.5,13,0
+11,Trent Alexander-Arnold,D,2,Mar 4,LIV,CHE,L 0-1,10.35,90,1
+12,Trent Alexander-Arnold,D,2,Feb 28,LIV,@SHU,W 2-0,24.1,90,1
+13,Trent Alexander-Arnold,D,2,Feb 20,LIV,EVE,L 0-2,11.95,90,1
+14,Trent Alexander-Arnold,D,2,Feb 13,LIV,@LEI,L 1-3,16.25,90,1
+15,Trent Alexander-Arnold,D,2,Feb 7,LIV,MCI,L 1-4,14.3,90,1
+16,Trent Alexander-Arnold,D,2,Feb 3,LIV,BHA,L 0-1,10.85,90,1
+17,Trent Alexander-Arnold,D,2,Jan 31,LIV,@WHU,W 3-1,8.5,90,1
+18,Trent Alexander-Arnold,D,2,Jan 28,LIV,@TOT,W 3-1,25.95,90,1
+19,Trent Alexander-Arnold,D,2,Jan 21,LIV,BUR,L 0-1,10.5,90,1
+20,Trent Alexander-Arnold,D,2,Jan 17,LIV,MUN,T 0-0,16.75,90,1
+21,Trent Alexander-Arnold,D,2,Jan 4,LIV,@SOU,L 0-1,8.25,77,1
+22,Trent Alexander-Arnold,D,2,Dec 30,LIV,@NEW,T 0-0,16.85,90,1
+23,Trent Alexander-Arnold,D,2,Dec 27,LIV,WBA,T 1-1,11.1,90,1
+24,Trent Alexander-Arnold,D,2,Dec 19,LIV,@CRY,W 7-0,22.75,90,1
+25,Trent Alexander-Arnold,D,2,Dec 16,LIV,TOT,W 2-1,9.1,90,1
+26,Trent Alexander-Arnold,D,2,Dec 13,LIV,@FUL,T 1-1,7.5,68,1
+27,Trent Alexander-Arnold,D,2,Dec 6,LIV,WOL,W 4-0,5.35,22,0
+28,Trent Alexander-Arnold,D,2,Nov 8,LIV,@MCI,T 1-1,6.0,63,1
+29,Trent Alexander-Arnold,D,2,Oct 31,LIV,WHU,W 2-1,9.85,90,1
+30,Trent Alexander-Arnold,D,2,Oct 24,LIV,SHU,W 2-1,11.35,90,1
+31,Trent Alexander-Arnold,D,2,Oct 17,LIV,@EVE,T 2-2,8.45,90,1
+32,Trent Alexander-Arnold,D,2,Oct 4,LIV,@AVL,L 2-7,8.85,90,1
+33,Trent Alexander-Arnold,D,2,Sep 28,LIV,ARS,W 3-1,17.1,90,1
+34,Trent Alexander-Arnold,D,2,Sep 20,LIV,@CHE,W 2-0,17.75,90,1
+35,Trent Alexander-Arnold,D,2,Sep 12,LIV,LEE,W 4-3,7.2,89,1
+0,Neco Williams,D,2,May 13,LIV,@MUN,W 4-2,0.5,1,0
+1,Neco Williams,D,2,Mar 7,LIV,FUL,L 0-1,13.35,75,1
+2,Neco Williams,D,2,Dec 13,LIV,@FUL,T 1-1,3.0,22,0
+3,Neco Williams,D,2,Dec 6,LIV,WOL,W 4-0,12.7,68,1
+4,Neco Williams,D,2,Nov 28,LIV,@BHA,T 1-1,3.25,45,1
+5,Neco Williams,D,2,Nov 22,LIV,LEI,W 3-0,6.1,36,0
+0,Joseph Gomez,D,2,Nov 8,LIV,@MCI,T 1-1,3.8,90,1
+1,Joseph Gomez,D,2,Oct 31,LIV,WHU,W 2-1,6.05,90,1
+2,Joseph Gomez,D,2,Oct 24,LIV,SHU,W 2-1,10.15,90,1
+3,Joseph Gomez,D,2,Oct 17,LIV,@EVE,T 2-2,3.4,79,0
+4,Joseph Gomez,D,2,Oct 4,LIV,@AVL,L 2-7,2.0,61,1
+5,Joseph Gomez,D,2,Sep 28,LIV,ARS,W 3-1,8.7,90,1
+6,Joseph Gomez,D,2,Sep 12,LIV,LEE,W 4-3,10.2,90,1
+0,Joel Matip,D,2,Jan 28,LIV,@TOT,W 3-1,4.95,44,1
+1,Joel Matip,D,2,Jan 21,LIV,BUR,L 0-1,6.85,90,1
+2,Joel Matip,D,2,Dec 27,LIV,WBA,T 1-1,22.9,60,1
+3,Joel Matip,D,2,Dec 19,LIV,@CRY,W 7-0,20.5,90,1
+4,Joel Matip,D,2,Dec 13,LIV,@FUL,T 1-1,5.4,45,1
+5,Joel Matip,D,2,Dec 6,LIV,WOL,W 4-0,21.9,90,1
+6,Joel Matip,D,2,Nov 22,LIV,LEI,W 3-0,17.3,90,1
+7,Joel Matip,D,2,Nov 8,LIV,@MCI,T 1-1,5.8,90,1
+8,Joel Matip,D,2,Oct 17,LIV,@EVE,T 2-2,5.1,90,1
+9,Joel Matip,D,2,Sep 12,LIV,LEE,W 4-3,0.5,1,0
+0,Rhys Williams,D,2,May 23,LIV,CRY,W 2-0,13.35,90,1
+1,Rhys Williams,D,2,May 19,LIV,@BUR,W 3-0,17.05,90,1
+2,Rhys Williams,D,2,May 16,LIV,@WBA,W 2-1,6.55,83,1
+3,Rhys Williams,D,2,May 13,LIV,@MUN,W 4-2,6.9,90,1
+4,Rhys Williams,D,2,May 8,LIV,SOU,W 2-0,14.7,90,1
+5,Rhys Williams,D,2,Apr 3,LIV,@ARS,W 3-0,1.25,5,0
+6,Rhys Williams,D,2,Mar 7,LIV,FUL,L 0-1,6.05,90,1
+7,Rhys Williams,D,2,Dec 27,LIV,WBA,T 1-1,2.95,30,0
+8,Rhys Williams,D,2,Dec 16,LIV,TOT,W 2-1,10.05,90,1
+0,Nathaniel Phillips,D,2,May 23,LIV,CRY,W 2-0,15.55,90,1
+1,Nathaniel Phillips,D,2,May 19,LIV,@BUR,W 3-0,29.9,90,1
+2,Nathaniel Phillips,D,2,May 16,LIV,@WBA,W 2-1,11.2,90,1
+3,Nathaniel Phillips,D,2,May 13,LIV,@MUN,W 4-2,15.35,90,1
+4,Nathaniel Phillips,D,2,May 8,LIV,SOU,W 2-0,16.5,90,1
+5,Nathaniel Phillips,D,2,Apr 10,LIV,AVL,W 2-1,14.95,90,1
+6,Nathaniel Phillips,D,2,Apr 3,LIV,@ARS,W 3-0,16.5,90,1
+7,Nathaniel Phillips,D,2,Mar 15,LIV,@WOL,W 1-0,17.85,90,1
+8,Nathaniel Phillips,D,2,Mar 7,LIV,FUL,L 0-1,9.7,90,1
+9,Nathaniel Phillips,D,2,Feb 28,LIV,@SHU,W 2-0,16.1,90,1
+10,Nathaniel Phillips,D,2,Feb 20,LIV,EVE,L 0-2,4.8,59,0
+11,Nathaniel Phillips,D,2,Feb 3,LIV,BHA,L 0-1,7.6,90,1
+12,Nathaniel Phillips,D,2,Jan 31,LIV,@WHU,W 3-1,8.15,90,1
+13,Nathaniel Phillips,D,2,Jan 28,LIV,@TOT,W 3-1,2.95,44,0
+14,Nathaniel Phillips,D,2,Dec 30,LIV,@NEW,T 0-0,13.45,90,1
+15,Nathaniel Phillips,D,2,Nov 28,LIV,@BHA,T 1-1,12.15,90,1
+16,Nathaniel Phillips,D,2,Oct 31,LIV,WHU,W 2-1,9.15,90,1
+0,Virgil van Dijk,D,2,Oct 17,LIV,@EVE,T 2-2,1.0,11,1
+1,Virgil van Dijk,D,2,Oct 4,LIV,@AVL,L 2-7,5.85,90,1
+2,Virgil van Dijk,D,2,Sep 28,LIV,ARS,W 3-1,6.3,90,1
+3,Virgil van Dijk,D,2,Sep 20,LIV,@CHE,W 2-0,13.35,90,1
+4,Virgil van Dijk,D,2,Sep 12,LIV,LEE,W 4-3,15.8,90,1
+0,Ozan Kabak,D,2,Apr 24,LIV,NEW,T 1-1,7.75,90,1
+1,Ozan Kabak,D,2,Apr 19,LIV,@LEE,T 1-1,9.4,90,1
+2,Ozan Kabak,D,2,Apr 10,LIV,AVL,W 2-1,6.25,88,1
+3,Ozan Kabak,D,2,Apr 3,LIV,@ARS,W 3-0,12.25,83,1
+4,Ozan Kabak,D,2,Mar 15,LIV,@WOL,W 1-0,19.35,90,1
+5,Ozan Kabak,D,2,Mar 4,LIV,CHE,L 0-1,8.0,90,1
+6,Ozan Kabak,D,2,Feb 28,LIV,@SHU,W 2-0,16.15,90,1
+7,Ozan Kabak,D,2,Feb 20,LIV,EVE,L 0-2,8.45,90,1
+8,Ozan Kabak,D,2,Feb 13,LIV,@LEI,L 1-3,3.6,90,1
+0,Andrew Robertson,D,2,May 23,LIV,CRY,W 2-0,18.5,88,1
+1,Andrew Robertson,D,2,May 19,LIV,@BUR,W 3-0,33.7,90,1
+2,Andrew Robertson,D,2,May 16,LIV,@WBA,W 2-1,8.1,90,1
+3,Andrew Robertson,D,2,May 13,LIV,@MUN,W 4-2,9.2,90,1
+4,Andrew Robertson,D,2,May 8,LIV,SOU,W 2-0,15.2,90,1
+5,Andrew Robertson,D,2,Apr 24,LIV,NEW,T 1-1,14.95,90,1
+6,Andrew Robertson,D,2,Apr 19,LIV,@LEE,T 1-1,8.45,90,1
+7,Andrew Robertson,D,2,Apr 10,LIV,AVL,W 2-1,15.75,90,1
+8,Andrew Robertson,D,2,Apr 3,LIV,@ARS,W 3-0,17.7,60,1
+9,Andrew Robertson,D,2,Mar 15,LIV,@WOL,W 1-0,15.1,90,1
+10,Andrew Robertson,D,2,Mar 7,LIV,FUL,L 0-1,7.1,90,1
+11,Andrew Robertson,D,2,Mar 4,LIV,CHE,L 0-1,8.9,90,1
+12,Andrew Robertson,D,2,Feb 28,LIV,@SHU,W 2-0,16.95,90,1
+13,Andrew Robertson,D,2,Feb 20,LIV,EVE,L 0-2,9.6,90,1
+14,Andrew Robertson,D,2,Feb 13,LIV,@LEI,L 1-3,9.85,90,1
+15,Andrew Robertson,D,2,Feb 7,LIV,MCI,L 1-4,3.7,84,1
+16,Andrew Robertson,D,2,Feb 3,LIV,BHA,L 0-1,8.1,90,1
+17,Andrew Robertson,D,2,Jan 31,LIV,@WHU,W 3-1,4.9,90,1
+18,Andrew Robertson,D,2,Jan 28,LIV,@TOT,W 3-1,8.75,90,1
+19,Andrew Robertson,D,2,Jan 21,LIV,BUR,L 0-1,8.25,90,1
+20,Andrew Robertson,D,2,Jan 17,LIV,MUN,T 0-0,14.75,90,1
+21,Andrew Robertson,D,2,Jan 4,LIV,@SOU,L 0-1,11.25,90,1
+22,Andrew Robertson,D,2,Dec 30,LIV,@NEW,T 0-0,18.6,90,1
+23,Andrew Robertson,D,2,Dec 27,LIV,WBA,T 1-1,8.1,90,1
+24,Andrew Robertson,D,2,Dec 19,LIV,@CRY,W 7-0,29.3,90,1
+25,Andrew Robertson,D,2,Dec 16,LIV,TOT,W 2-1,18.5,90,1
+26,Andrew Robertson,D,2,Dec 13,LIV,@FUL,T 1-1,7.3,90,1
+27,Andrew Robertson,D,2,Dec 6,LIV,WOL,W 4-0,16.75,90,1
+28,Andrew Robertson,D,2,Nov 28,LIV,@BHA,T 1-1,11.8,90,1
+29,Andrew Robertson,D,2,Nov 22,LIV,LEI,W 3-0,26.65,90,1
+30,Andrew Robertson,D,2,Nov 8,LIV,@MCI,T 1-1,8.25,90,1
+31,Andrew Robertson,D,2,Oct 31,LIV,WHU,W 2-1,6.1,90,1
+32,Andrew Robertson,D,2,Oct 24,LIV,SHU,W 2-1,8.85,90,1
+33,Andrew Robertson,D,2,Oct 17,LIV,@EVE,T 2-2,17.35,90,1
+34,Andrew Robertson,D,2,Oct 4,LIV,@AVL,L 2-7,6.55,90,1
+35,Andrew Robertson,D,2,Sep 28,LIV,ARS,W 3-1,17.65,90,1
+36,Andrew Robertson,D,2,Sep 20,LIV,@CHE,W 2-0,15.45,90,1
+37,Andrew Robertson,D,2,Sep 12,LIV,LEE,W 4-3,14.35,90,1
+0,Konstantinos Tsimikas,D,2,May 19,LIV,@BUR,W 3-0,0.5,1,0
+1,Konstantinos Tsimikas,D,2,Feb 7,LIV,MCI,L 1-4,1.0,4,0
+0,Fabinho,"D,M",3,May 23,LIV,CRY,W 2-0,6.6,90,1
+1,Fabinho,"D,M",3,May 19,LIV,@BUR,W 3-0,6.0,90,1
+2,Fabinho,"D,M",3,May 16,LIV,@WBA,W 2-1,7.0,90,1
+3,Fabinho,"D,M",3,May 13,LIV,@MUN,W 4-2,10.1,90,1
+4,Fabinho,"D,M",3,May 8,LIV,SOU,W 2-0,10.2,90,1
+5,Fabinho,"D,M",3,Apr 24,LIV,NEW,T 1-1,5.9,90,1
+6,Fabinho,"D,M",3,Apr 19,LIV,@LEE,T 1-1,7.65,90,1
+7,Fabinho,"D,M",3,Apr 10,LIV,AVL,W 2-1,11.35,90,1
+8,Fabinho,"D,M",3,Apr 3,LIV,@ARS,W 3-0,19.5,90,1
+9,Fabinho,"D,M",3,Mar 15,LIV,@WOL,W 1-0,12.45,90,1
+10,Fabinho,"D,M",3,Mar 7,LIV,FUL,L 0-1,4.0,13,0
+11,Fabinho,"D,M",3,Mar 4,LIV,CHE,L 0-1,8.2,90,1
+12,Fabinho,"D,M",3,Feb 7,LIV,MCI,L 1-4,2.7,90,1
+13,Fabinho,"D,M",3,Jan 21,LIV,BUR,L 0-1,3.85,90,1
+14,Fabinho,"D,M",3,Jan 17,LIV,MUN,T 0-0,11.05,90,1
+15,Fabinho,"D,M",3,Jan 4,LIV,@SOU,L 0-1,4.7,90,1
+16,Fabinho,"D,M",3,Dec 30,LIV,@NEW,T 0-0,10.15,90,1
+17,Fabinho,"D,M",3,Dec 27,LIV,WBA,T 1-1,10.05,90,1
+18,Fabinho,"D,M",3,Dec 19,LIV,@CRY,W 7-0,14.65,90,1
+19,Fabinho,"D,M",3,Dec 16,LIV,TOT,W 2-1,9.6,90,1
+20,Fabinho,"D,M",3,Dec 13,LIV,@FUL,T 1-1,13.0,90,1
+21,Fabinho,"D,M",3,Dec 6,LIV,WOL,W 4-0,6.5,90,1
+22,Fabinho,"D,M",3,Nov 28,LIV,@BHA,T 1-1,7.95,90,1
+23,Fabinho,"D,M",3,Nov 22,LIV,LEI,W 3-0,7.55,90,1
+24,Fabinho,"D,M",3,Oct 24,LIV,SHU,W 2-1,7.6,90,1
+25,Fabinho,"D,M",3,Oct 17,LIV,@EVE,T 2-2,6.35,89,1
+26,Fabinho,"D,M",3,Oct 4,LIV,@AVL,L 2-7,9.0,90,1
+27,Fabinho,"D,M",3,Sep 28,LIV,ARS,W 3-1,10.75,90,1
+28,Fabinho,"D,M",3,Sep 20,LIV,@CHE,W 2-0,15.0,90,1
+29,Fabinho,"D,M",3,Sep 12,LIV,LEE,W 4-3,6.85,31,0
+0,Jordan Henderson,M,4,Feb 20,LIV,EVE,L 0-2,5.25,29,1
+1,Jordan Henderson,M,4,Feb 13,LIV,@LEI,L 1-3,12.25,90,1
+2,Jordan Henderson,M,4,Feb 7,LIV,MCI,L 1-4,6.6,90,1
+3,Jordan Henderson,M,4,Feb 3,LIV,BHA,L 0-1,14.05,90,1
+4,Jordan Henderson,M,4,Jan 31,LIV,@WHU,W 3-1,9.1,90,1
+5,Jordan Henderson,M,4,Jan 28,LIV,@TOT,W 3-1,6.4,90,1
+6,Jordan Henderson,M,4,Jan 17,LIV,MUN,T 0-0,7.4,90,1
+7,Jordan Henderson,M,4,Jan 4,LIV,@SOU,L 0-1,10.75,90,1
+8,Jordan Henderson,M,4,Dec 30,LIV,@NEW,T 0-0,9.55,90,1
+9,Jordan Henderson,M,4,Dec 27,LIV,WBA,T 1-1,10.35,90,1
+10,Jordan Henderson,M,4,Dec 19,LIV,@CRY,W 7-0,23.1,90,1
+11,Jordan Henderson,M,4,Dec 16,LIV,TOT,W 2-1,12.85,90,1
+12,Jordan Henderson,M,4,Dec 13,LIV,@FUL,T 1-1,11.15,90,1
+13,Jordan Henderson,M,4,Dec 6,LIV,WOL,W 4-0,23.25,81,1
+14,Jordan Henderson,M,4,Nov 28,LIV,@BHA,T 1-1,3.0,45,0
+15,Jordan Henderson,M,4,Nov 8,LIV,@MCI,T 1-1,6.5,90,1
+16,Jordan Henderson,M,4,Oct 31,LIV,WHU,W 2-1,6.25,90,1
+17,Jordan Henderson,M,4,Oct 24,LIV,SHU,W 2-1,12.8,90,1
+18,Jordan Henderson,M,4,Oct 17,LIV,@EVE,T 2-2,9.25,90,1
+19,Jordan Henderson,M,4,Sep 20,LIV,@CHE,W 2-0,5.25,45,1
+20,Jordan Henderson,M,4,Sep 12,LIV,LEE,W 4-3,10.0,66,1
+0,Georginio Wijnaldum,M,4,May 23,LIV,CRY,W 2-0,9.75,77,1
+1,Georginio Wijnaldum,M,4,May 19,LIV,@BUR,W 3-0,5.85,85,1
+2,Georginio Wijnaldum,M,4,May 16,LIV,@WBA,W 2-1,2.5,5,0
+3,Georginio Wijnaldum,M,4,May 13,LIV,@MUN,W 4-2,6.1,73,1
+4,Georginio Wijnaldum,M,4,May 8,LIV,SOU,W 2-0,6.85,90,1
+5,Georginio Wijnaldum,M,4,Apr 24,LIV,NEW,T 1-1,9.5,90,1
+6,Georginio Wijnaldum,M,4,Apr 19,LIV,@LEE,T 1-1,6.1,90,1
+7,Georginio Wijnaldum,M,4,Apr 10,LIV,AVL,W 2-1,6.35,69,1
+8,Georginio Wijnaldum,M,4,Apr 3,LIV,@ARS,W 3-0,3.0,11,0
+9,Georginio Wijnaldum,M,4,Mar 15,LIV,@WOL,W 1-0,7.1,66,1
+10,Georginio Wijnaldum,M,4,Mar 7,LIV,FUL,L 0-1,6.5,61,1
+11,Georginio Wijnaldum,M,4,Mar 4,LIV,CHE,L 0-1,8.0,90,1
+12,Georginio Wijnaldum,M,4,Feb 28,LIV,@SHU,W 2-0,9.1,90,1
+13,Georginio Wijnaldum,M,4,Feb 20,LIV,EVE,L 0-2,7.75,90,1
+14,Georginio Wijnaldum,M,4,Feb 13,LIV,@LEI,L 1-3,9.1,86,1
+15,Georginio Wijnaldum,M,4,Feb 7,LIV,MCI,L 1-4,5.75,90,1
+16,Georginio Wijnaldum,M,4,Feb 3,LIV,BHA,L 0-1,1.0,63,1
+17,Georginio Wijnaldum,M,4,Jan 31,LIV,@WHU,W 3-1,18.35,90,1
+18,Georginio Wijnaldum,M,4,Jan 28,LIV,@TOT,W 3-1,10.6,90,1
+19,Georginio Wijnaldum,M,4,Jan 21,LIV,BUR,L 0-1,6.85,90,1
+20,Georginio Wijnaldum,M,4,Jan 17,LIV,MUN,T 0-0,7.6,88,1
+21,Georginio Wijnaldum,M,4,Jan 4,LIV,@SOU,L 0-1,8.75,90,1
+22,Georginio Wijnaldum,M,4,Dec 30,LIV,@NEW,T 0-0,2.5,22,0
+23,Georginio Wijnaldum,M,4,Dec 27,LIV,WBA,T 1-1,10.75,90,1
+24,Georginio Wijnaldum,M,4,Dec 19,LIV,@CRY,W 7-0,6.75,69,1
+25,Georginio Wijnaldum,M,4,Dec 16,LIV,TOT,W 2-1,8.5,90,1
+26,Georginio Wijnaldum,M,4,Dec 13,LIV,@FUL,T 1-1,12.35,90,1
+27,Georginio Wijnaldum,M,4,Dec 6,LIV,WOL,W 4-0,16.6,90,1
+28,Georginio Wijnaldum,M,4,Nov 28,LIV,@BHA,T 1-1,5.5,90,1
+29,Georginio Wijnaldum,M,4,Nov 22,LIV,LEI,W 3-0,9.5,90,1
+30,Georginio Wijnaldum,M,4,Nov 8,LIV,@MCI,T 1-1,8.0,90,1
+31,Georginio Wijnaldum,M,4,Oct 31,LIV,WHU,W 2-1,6.75,90,1
+32,Georginio Wijnaldum,M,4,Oct 24,LIV,SHU,W 2-1,8.45,90,1
+33,Georginio Wijnaldum,M,4,Oct 17,LIV,@EVE,T 2-2,0.75,1,0
+34,Georginio Wijnaldum,M,4,Oct 4,LIV,@AVL,L 2-7,8.35,90,1
+35,Georginio Wijnaldum,M,4,Sep 28,LIV,ARS,W 3-1,6.25,90,1
+36,Georginio Wijnaldum,M,4,Sep 20,LIV,@CHE,W 2-0,7.25,90,1
+37,Georginio Wijnaldum,M,4,Sep 12,LIV,LEE,W 4-3,11.5,90,1
+0,Naby Keita,M,4,Mar 15,LIV,@WOL,W 1-0,4.6,22,0
+1,Naby Keita,M,4,Mar 7,LIV,FUL,L 0-1,9.2,90,1
+2,Naby Keita,M,4,Feb 28,LIV,@SHU,W 2-0,1.5,9,0
+3,Naby Keita,M,4,Dec 19,LIV,@CRY,W 7-0,17.25,90,1
+4,Naby Keita,M,4,Dec 6,LIV,WOL,W 4-0,1.25,9,0
+5,Naby Keita,M,4,Nov 22,LIV,LEI,W 3-0,7.25,54,1
+6,Naby Keita,M,4,Oct 4,LIV,@AVL,L 2-7,2.0,45,1
+7,Naby Keita,M,4,Sep 28,LIV,ARS,W 3-1,4.75,79,1
+8,Naby Keita,M,4,Sep 20,LIV,@CHE,W 2-0,6.75,64,1
+9,Naby Keita,M,4,Sep 12,LIV,LEE,W 4-3,7.45,59,1
+0,James Milner,M,4,May 23,LIV,CRY,W 2-0,2.75,11,0
+1,James Milner,M,4,May 19,LIV,@BUR,W 3-0,1.0,3,0
+2,James Milner,M,4,Apr 24,LIV,NEW,T 1-1,3.85,31,0
+3,James Milner,M,4,Apr 19,LIV,@LEE,T 1-1,7.2,90,1
+4,James Milner,M,4,Apr 10,LIV,AVL,W 2-1,7.5,90,1
+5,James Milner,M,4,Apr 3,LIV,@ARS,W 3-0,9.45,90,1
+6,James Milner,M,4,Mar 15,LIV,@WOL,W 1-0,3.0,22,0
+7,James Milner,M,4,Mar 7,LIV,FUL,L 0-1,8.7,75,1
+8,James Milner,M,4,Mar 4,LIV,CHE,L 0-1,2.75,9,0
+9,James Milner,M,4,Feb 28,LIV,@SHU,W 2-0,3.1,13,0
+10,James Milner,M,4,Feb 13,LIV,@LEI,L 1-3,3.5,16,1
+11,James Milner,M,4,Feb 7,LIV,MCI,L 1-4,3.5,21,0
+12,James Milner,M,4,Feb 3,LIV,BHA,L 0-1,6.2,90,1
+13,James Milner,M,4,Jan 31,LIV,@WHU,W 3-1,3.0,56,1
+14,James Milner,M,4,Jan 28,LIV,@TOT,W 3-1,16.5,90,1
+15,James Milner,M,4,Jan 17,LIV,MUN,T 0-0,0.5,1,0
+16,James Milner,M,4,Jan 4,LIV,@SOU,L 0-1,2.25,13,0
+17,James Milner,M,4,Dec 30,LIV,@NEW,T 0-0,9.5,73,1
+18,James Milner,M,4,Nov 28,LIV,@BHA,T 1-1,9.2,74,1
+19,James Milner,M,4,Nov 22,LIV,LEI,W 3-0,24.6,90,1
+20,James Milner,M,4,Nov 8,LIV,@MCI,T 1-1,4.0,27,0
+21,James Milner,M,4,Oct 31,LIV,WHU,W 2-1,0.25,1,0
+22,James Milner,M,4,Oct 24,LIV,SHU,W 2-1,1.35,7,0
+23,James Milner,M,4,Oct 4,LIV,@AVL,L 2-7,4.75,22,0
+24,James Milner,M,4,Sep 28,LIV,ARS,W 3-1,1.0,11,0
+25,James Milner,M,4,Sep 20,LIV,@CHE,W 2-0,1.5,26,0
+0,Curtis Jones,M,4,May 16,LIV,@WBA,W 2-1,4.75,58,1
+1,Curtis Jones,M,4,May 13,LIV,@MUN,W 4-2,10.75,15,0
+2,Curtis Jones,M,4,May 8,LIV,SOU,W 2-0,0.5,1,0
+3,Curtis Jones,M,4,Apr 24,LIV,NEW,T 1-1,1.25,12,0
+4,Curtis Jones,M,4,Mar 4,LIV,CHE,L 0-1,8.0,61,1
+5,Curtis Jones,M,4,Feb 28,LIV,@SHU,W 2-0,17.25,79,1
+6,Curtis Jones,M,4,Feb 20,LIV,EVE,L 0-2,8.25,62,1
+7,Curtis Jones,M,4,Feb 13,LIV,@LEI,L 1-3,7.0,74,1
+8,Curtis Jones,M,4,Feb 7,LIV,MCI,L 1-4,11.6,67,1
+9,Curtis Jones,M,4,Feb 3,LIV,BHA,L 0-1,2.0,10,0
+10,Curtis Jones,M,4,Jan 31,LIV,@WHU,W 3-1,11.5,32,0
+11,Curtis Jones,M,4,Jan 28,LIV,@TOT,W 3-1,3.75,11,0
+12,Curtis Jones,M,4,Jan 17,LIV,MUN,T 0-0,1.0,13,0
+13,Curtis Jones,M,4,Dec 30,LIV,@NEW,T 0-0,6.75,68,1
+14,Curtis Jones,M,4,Dec 27,LIV,WBA,T 1-1,8.0,83,1
+15,Curtis Jones,M,4,Dec 19,LIV,@CRY,W 7-0,0.85,21,0
+16,Curtis Jones,M,4,Dec 16,LIV,TOT,W 2-1,13.25,90,1
+17,Curtis Jones,M,4,Dec 13,LIV,@FUL,T 1-1,11.35,90,1
+18,Curtis Jones,M,4,Dec 6,LIV,WOL,W 4-0,8.65,90,1
+19,Curtis Jones,M,4,Nov 28,LIV,@BHA,T 1-1,2.85,16,0
+20,Curtis Jones,M,4,Nov 22,LIV,LEI,W 3-0,7.75,90,1
+21,Curtis Jones,M,4,Oct 31,LIV,WHU,W 2-1,5.5,70,1
+22,Curtis Jones,M,4,Oct 4,LIV,@AVL,L 2-7,2.85,29,0
+23,Curtis Jones,M,4,Sep 12,LIV,LEE,W 4-3,2.25,24,0
+0,Thiago,M,4,May 23,LIV,CRY,W 2-0,16.5,90,1
+1,Thiago,M,4,May 19,LIV,@BUR,W 3-0,10.75,90,1
+2,Thiago,M,4,May 16,LIV,@WBA,W 2-1,15.35,90,1
+3,Thiago,M,4,May 13,LIV,@MUN,W 4-2,12.75,90,1
+4,Thiago,M,4,May 8,LIV,SOU,W 2-0,17.5,90,1
+5,Thiago,M,4,Apr 24,LIV,NEW,T 1-1,11.75,76,1
+6,Thiago,M,4,Apr 19,LIV,@LEE,T 1-1,11.1,90,1
+7,Thiago,M,4,Apr 10,LIV,AVL,W 2-1,4.35,19,0
+8,Thiago,M,4,Apr 3,LIV,@ARS,W 3-0,9.5,90,1
+9,Thiago,M,4,Mar 15,LIV,@WOL,W 1-0,7.75,66,1
+10,Thiago,M,4,Mar 4,LIV,CHE,L 0-1,10.35,79,1
+11,Thiago,M,4,Feb 28,LIV,@SHU,W 2-0,7.1,75,1
+12,Thiago,M,4,Feb 20,LIV,EVE,L 0-2,11.0,86,1
+13,Thiago,M,4,Feb 13,LIV,@LEI,L 1-3,9.75,72,0
+14,Thiago,M,4,Feb 7,LIV,MCI,L 1-4,3.75,67,1
+15,Thiago,M,4,Feb 3,LIV,BHA,L 0-1,12.6,90,1
+16,Thiago,M,4,Jan 31,LIV,@WHU,W 3-1,11.5,90,1
+17,Thiago,M,4,Jan 28,LIV,@TOT,W 3-1,5.0,77,1
+18,Thiago,M,4,Jan 21,LIV,BUR,L 0-1,8.6,90,1
+19,Thiago,M,4,Jan 17,LIV,MUN,T 0-0,24.85,90,1
+20,Thiago,M,4,Jan 4,LIV,@SOU,L 0-1,11.5,90,1
+21,Thiago,M,4,Dec 30,LIV,@NEW,T 0-0,4.2,17,0
+22,Thiago,M,4,Oct 17,LIV,@EVE,T 2-2,14.1,90,1
+23,Thiago,M,4,Sep 20,LIV,@CHE,W 2-0,4.5,45,0
+0,Alex Oxlade-Chamberlain,M,4,May 23,LIV,CRY,W 2-0,0.5,1,0
+1,Alex Oxlade-Chamberlain,M,4,May 19,LIV,@BUR,W 3-0,10.75,8,0
+2,Alex Oxlade-Chamberlain,M,4,May 8,LIV,SOU,W 2-0,1.25,2,0
+3,Alex Oxlade-Chamberlain,M,4,Apr 19,LIV,@LEE,T 1-1,2.0,8,0
+4,Alex Oxlade-Chamberlain,M,4,Mar 15,LIV,@WOL,W 1-0,1.5,7,0
+5,Alex Oxlade-Chamberlain,M,4,Mar 4,LIV,CHE,L 0-1,2.5,27,0
+6,Alex Oxlade-Chamberlain,M,4,Feb 13,LIV,@LEI,L 1-3,1.0,14,0
+7,Alex Oxlade-Chamberlain,M,4,Feb 3,LIV,BHA,L 0-1,2.5,25,0
+8,Alex Oxlade-Chamberlain,M,4,Jan 31,LIV,@WHU,W 3-1,1.0,9,0
+9,Alex Oxlade-Chamberlain,M,4,Jan 21,LIV,BUR,L 0-1,4.0,56,1
+10,Alex Oxlade-Chamberlain,M,4,Jan 4,LIV,@SOU,L 0-1,5.25,56,1
+11,Alex Oxlade-Chamberlain,M,4,Dec 27,LIV,WBA,T 1-1,1.75,7,0
+12,Alex Oxlade-Chamberlain,M,4,Dec 19,LIV,@CRY,W 7-0,9.5,15,0
+0,Xherdan Shaqiri,M,4,May 16,LIV,@WBA,W 2-1,3.25,30,0
+1,Xherdan Shaqiri,M,4,Apr 10,LIV,AVL,W 2-1,3.75,1,0
+2,Xherdan Shaqiri,M,4,Mar 7,LIV,FUL,L 0-1,10.0,90,1
+3,Xherdan Shaqiri,M,4,Feb 20,LIV,EVE,L 0-2,3.0,26,0
+4,Xherdan Shaqiri,M,4,Feb 13,LIV,@LEI,L 1-3,1.0,2,0
+5,Xherdan Shaqiri,M,4,Feb 7,LIV,MCI,L 1-4,2.0,21,0
+6,Xherdan Shaqiri,M,4,Feb 3,LIV,BHA,L 0-1,4.75,63,1
+7,Xherdan Shaqiri,M,4,Jan 31,LIV,@WHU,W 3-1,16.25,68,1
+8,Xherdan Shaqiri,M,4,Jan 21,LIV,BUR,L 0-1,8.5,83,1
+9,Xherdan Shaqiri,M,4,Jan 17,LIV,MUN,T 0-0,4.25,75,1
+10,Xherdan Shaqiri,M,4,Jan 4,LIV,@SOU,L 0-1,4.5,34,0
+11,Xherdan Shaqiri,M,4,Dec 30,LIV,@NEW,T 0-0,0.5,1,0
+12,Xherdan Shaqiri,M,4,Nov 8,LIV,@MCI,T 1-1,4.0,31,0
+13,Xherdan Shaqiri,M,4,Oct 31,LIV,WHU,W 2-1,10.0,20,0
+0,Roberto Firmino,F,6,May 23,LIV,CRY,W 2-0,15.0,88,1
+1,Roberto Firmino,F,6,May 19,LIV,@BUR,W 3-0,16.5,80,1
+2,Roberto Firmino,F,6,May 16,LIV,@WBA,W 2-1,7.45,90,1
+3,Roberto Firmino,F,6,May 13,LIV,@MUN,W 4-2,27.6,90,1
+4,Roberto Firmino,F,6,May 8,LIV,SOU,W 2-0,8.25,10,0
+5,Roberto Firmino,F,6,Apr 24,LIV,NEW,T 1-1,14.6,90,1
+6,Roberto Firmino,F,6,Apr 19,LIV,@LEE,T 1-1,9.1,90,1
+7,Roberto Firmino,F,6,Apr 10,LIV,AVL,W 2-1,7.35,74,1
+8,Roberto Firmino,F,6,Apr 3,LIV,@ARS,W 3-0,8.75,77,1
+9,Roberto Firmino,F,6,Mar 4,LIV,CHE,L 0-1,8.5,90,1
+10,Roberto Firmino,F,6,Feb 28,LIV,@SHU,W 2-0,12.5,90,1
+11,Roberto Firmino,F,6,Feb 20,LIV,EVE,L 0-2,11.75,90,1
+12,Roberto Firmino,F,6,Feb 13,LIV,@LEI,L 1-3,21.0,90,1
+13,Roberto Firmino,F,6,Feb 7,LIV,MCI,L 1-4,7.25,90,1
+14,Roberto Firmino,F,6,Feb 3,LIV,BHA,L 0-1,7.0,78,1
+15,Roberto Firmino,F,6,Jan 31,LIV,@WHU,W 3-1,7.75,20,0
+16,Roberto Firmino,F,6,Jan 28,LIV,@TOT,W 3-1,18.5,86,1
+17,Roberto Firmino,F,6,Jan 21,LIV,BUR,L 0-1,1.5,32,0
+18,Roberto Firmino,F,6,Jan 17,LIV,MUN,T 0-0,12.25,84,1
+19,Roberto Firmino,F,6,Jan 4,LIV,@SOU,L 0-1,7.0,90,1
+20,Roberto Firmino,F,6,Dec 30,LIV,@NEW,T 0-0,11.6,90,1
+21,Roberto Firmino,F,6,Dec 27,LIV,WBA,T 1-1,5.5,89,1
+22,Roberto Firmino,F,6,Dec 19,LIV,@CRY,W 7-0,31.35,75,1
+23,Roberto Firmino,F,6,Dec 16,LIV,TOT,W 2-1,23.85,90,1
+24,Roberto Firmino,F,6,Dec 13,LIV,@FUL,T 1-1,9.6,90,1
+25,Roberto Firmino,F,6,Dec 6,LIV,WOL,W 4-0,5.75,73,1
+26,Roberto Firmino,F,6,Nov 28,LIV,@BHA,T 1-1,3.75,90,1
+27,Roberto Firmino,F,6,Nov 22,LIV,LEI,W 3-0,22.5,90,1
+28,Roberto Firmino,F,6,Nov 8,LIV,@MCI,T 1-1,4.25,59,1
+29,Roberto Firmino,F,6,Oct 31,LIV,WHU,W 2-1,3.0,70,1
+30,Roberto Firmino,F,6,Oct 24,LIV,SHU,W 2-1,15.1,83,1
+31,Roberto Firmino,F,6,Oct 17,LIV,@EVE,T 2-2,7.1,78,1
+32,Roberto Firmino,F,6,Oct 4,LIV,@AVL,L 2-7,19.25,68,1
+33,Roberto Firmino,F,6,Sep 28,LIV,ARS,W 3-1,6.25,89,1
+34,Roberto Firmino,F,6,Sep 20,LIV,@CHE,W 2-0,13.5,86,1
+35,Roberto Firmino,F,6,Sep 12,LIV,LEE,W 4-3,4.5,90,1
+0,Mohamed Salah,F,6,May 23,LIV,CRY,W 2-0,14.75,90,1
+1,Mohamed Salah,F,6,May 19,LIV,@BUR,W 3-0,6.1,90,1
+2,Mohamed Salah,F,6,May 16,LIV,@WBA,W 2-1,22.25,90,1
+3,Mohamed Salah,F,6,May 13,LIV,@MUN,W 4-2,14.5,88,1
+4,Mohamed Salah,F,6,May 8,LIV,SOU,W 2-0,18.6,86,1
+5,Mohamed Salah,F,6,Apr 24,LIV,NEW,T 1-1,18.25,90,1
+6,Mohamed Salah,F,6,Apr 19,LIV,@LEE,T 1-1,1.85,18,0
+7,Mohamed Salah,F,6,Apr 10,LIV,AVL,W 2-1,15.5,90,1
+8,Mohamed Salah,F,6,Apr 3,LIV,@ARS,W 3-0,15.25,90,1
+9,Mohamed Salah,F,6,Mar 15,LIV,@WOL,W 1-0,5.0,90,1
+10,Mohamed Salah,F,6,Mar 7,LIV,FUL,L 0-1,5.25,90,1
+11,Mohamed Salah,F,6,Mar 4,LIV,CHE,L 0-1,7.6,61,1
+12,Mohamed Salah,F,6,Feb 28,LIV,@SHU,W 2-0,9.25,90,1
+13,Mohamed Salah,F,6,Feb 20,LIV,EVE,L 0-2,8.5,90,1
+14,Mohamed Salah,F,6,Feb 13,LIV,@LEI,L 1-3,15.5,90,1
+15,Mohamed Salah,F,6,Feb 7,LIV,MCI,L 1-4,14.25,90,1
+16,Mohamed Salah,F,6,Feb 3,LIV,BHA,L 0-1,3.75,90,1
+17,Mohamed Salah,F,6,Jan 31,LIV,@WHU,W 3-1,29.1,90,1
+18,Mohamed Salah,F,6,Jan 28,LIV,@TOT,W 3-1,6.75,90,1
+19,Mohamed Salah,F,6,Jan 21,LIV,BUR,L 0-1,3.25,32,0
+20,Mohamed Salah,F,6,Jan 17,LIV,MUN,T 0-0,4.85,90,1
+21,Mohamed Salah,F,6,Jan 4,LIV,@SOU,L 0-1,6.25,90,1
+22,Mohamed Salah,F,6,Dec 30,LIV,@NEW,T 0-0,5.6,89,1
+23,Mohamed Salah,F,6,Dec 27,LIV,WBA,T 1-1,4.0,90,1
+24,Mohamed Salah,F,6,Dec 19,LIV,@CRY,W 7-0,28.25,33,0
+25,Mohamed Salah,F,6,Dec 16,LIV,TOT,W 2-1,23.5,90,1
+26,Mohamed Salah,F,6,Dec 13,LIV,@FUL,T 1-1,16.6,84,1
+27,Mohamed Salah,F,6,Dec 6,LIV,WOL,W 4-0,24.25,90,1
+28,Mohamed Salah,F,6,Nov 28,LIV,@BHA,T 1-1,9.25,64,1
+29,Mohamed Salah,F,6,Nov 8,LIV,@MCI,T 1-1,14.25,90,1
+30,Mohamed Salah,F,6,Oct 31,LIV,WHU,W 2-1,14.5,89,1
+31,Mohamed Salah,F,6,Oct 24,LIV,SHU,W 2-1,8.1,90,1
+32,Mohamed Salah,F,6,Oct 17,LIV,@EVE,T 2-2,20.5,90,1
+33,Mohamed Salah,F,6,Oct 4,LIV,@AVL,L 2-7,28.5,90,1
+34,Mohamed Salah,F,6,Sep 28,LIV,ARS,W 3-1,14.85,90,1
+35,Mohamed Salah,F,6,Sep 20,LIV,@CHE,W 2-0,12.0,90,1
+36,Mohamed Salah,F,6,Sep 12,LIV,LEE,W 4-3,44.75,90,1
+0,Diogo Jota,F,6,May 23,LIV,CRY,W 2-0,0.5,1,0
+1,Diogo Jota,F,6,May 13,LIV,@MUN,W 4-2,18.75,73,1
+2,Diogo Jota,F,6,May 8,LIV,SOU,W 2-0,11.75,78,1
+3,Diogo Jota,F,6,Apr 24,LIV,NEW,T 1-1,10.0,57,1
+4,Diogo Jota,F,6,Apr 19,LIV,@LEE,T 1-1,11.0,80,1
+5,Diogo Jota,F,6,Apr 10,LIV,AVL,W 2-1,10.25,90,1
+6,Diogo Jota,F,6,Apr 3,LIV,@ARS,W 3-0,19.0,28,0
+7,Diogo Jota,F,6,Mar 15,LIV,@WOL,W 1-0,20.1,81,1
+8,Diogo Jota,F,6,Mar 7,LIV,FUL,L 0-1,6.1,90,1
+9,Diogo Jota,F,6,Mar 4,LIV,CHE,L 0-1,2.25,27,0
+10,Diogo Jota,F,6,Dec 6,LIV,WOL,W 4-0,2.5,17,0
+11,Diogo Jota,F,6,Nov 28,LIV,@BHA,T 1-1,13.75,90,1
+12,Diogo Jota,F,6,Nov 22,LIV,LEI,W 3-0,24.75,89,1
+13,Diogo Jota,F,6,Nov 8,LIV,@MCI,T 1-1,6.0,90,1
+14,Diogo Jota,F,6,Oct 31,LIV,WHU,W 2-1,12.75,20,0
+15,Diogo Jota,F,6,Oct 24,LIV,SHU,W 2-1,16.75,83,1
+16,Diogo Jota,F,6,Oct 17,LIV,@EVE,T 2-2,3.0,12,0
+17,Diogo Jota,F,6,Oct 4,LIV,@AVL,L 2-7,10.85,90,1
+18,Diogo Jota,F,6,Sep 28,LIV,ARS,W 3-1,11.0,10,0
+0,Sadio Mane,F,6,May 23,LIV,CRY,W 2-0,32.25,90,1
+1,Sadio Mane,F,6,May 19,LIV,@BUR,W 3-0,17.0,88,1
+2,Sadio Mane,F,6,May 16,LIV,@WBA,W 2-1,13.35,90,1
+3,Sadio Mane,F,6,May 13,LIV,@MUN,W 4-2,1.25,15,0
+4,Sadio Mane,F,6,May 8,LIV,SOU,W 2-0,21.75,88,1
+5,Sadio Mane,F,6,Apr 24,LIV,NEW,T 1-1,11.5,90,1
+6,Sadio Mane,F,6,Apr 19,LIV,@LEE,T 1-1,18.0,70,1
+7,Sadio Mane,F,6,Apr 10,LIV,AVL,W 2-1,3.5,14,0
+8,Sadio Mane,F,6,Apr 3,LIV,@ARS,W 3-0,19.35,90,1
+9,Sadio Mane,F,6,Mar 15,LIV,@WOL,W 1-0,22.1,90,1
+10,Sadio Mane,F,6,Mar 7,LIV,FUL,L 0-1,3.25,27,0
+11,Sadio Mane,F,6,Mar 4,LIV,CHE,L 0-1,9.75,90,1
+12,Sadio Mane,F,6,Feb 28,LIV,@SHU,W 2-0,8.75,90,1
+13,Sadio Mane,F,6,Feb 20,LIV,EVE,L 0-2,9.6,90,1
+14,Sadio Mane,F,6,Feb 13,LIV,@LEI,L 1-3,11.75,90,1
+15,Sadio Mane,F,6,Feb 7,LIV,MCI,L 1-4,6.5,90,1
+16,Sadio Mane,F,6,Jan 28,LIV,@TOT,W 3-1,38.0,90,1
+17,Sadio Mane,F,6,Jan 21,LIV,BUR,L 0-1,17.25,90,1
+18,Sadio Mane,F,6,Jan 17,LIV,MUN,T 0-0,10.75,90,1
+19,Sadio Mane,F,6,Jan 4,LIV,@SOU,L 0-1,14.0,90,1
+20,Sadio Mane,F,6,Dec 30,LIV,@NEW,T 0-0,7.6,90,1
+21,Sadio Mane,F,6,Dec 27,LIV,WBA,T 1-1,16.1,90,1
+22,Sadio Mane,F,6,Dec 19,LIV,@CRY,W 7-0,25.25,57,1
+23,Sadio Mane,F,6,Dec 16,LIV,TOT,W 2-1,8.25,90,1
+24,Sadio Mane,F,6,Dec 13,LIV,@FUL,T 1-1,6.0,90,1
+25,Sadio Mane,F,6,Dec 6,LIV,WOL,W 4-0,11.75,90,1
+26,Sadio Mane,F,6,Nov 28,LIV,@BHA,T 1-1,2.0,26,0
+27,Sadio Mane,F,6,Nov 22,LIV,LEI,W 3-0,14.85,89,1
+28,Sadio Mane,F,6,Nov 8,LIV,@MCI,T 1-1,10.25,90,1
+29,Sadio Mane,F,6,Oct 31,LIV,WHU,W 2-1,14.75,90,1
+30,Sadio Mane,F,6,Oct 24,LIV,SHU,W 2-1,23.6,90,1
+31,Sadio Mane,F,6,Oct 17,LIV,@EVE,T 2-2,20.6,90,1
+32,Sadio Mane,F,6,Sep 28,LIV,ARS,W 3-1,20.5,80,1
+33,Sadio Mane,F,6,Sep 20,LIV,@CHE,W 2-0,29.5,90,1
+34,Sadio Mane,F,6,Sep 12,LIV,LEE,W 4-3,13.0,90,1
+0,Divock Origi,F,6,Feb 20,LIV,EVE,L 0-2,1.0,2,0
+1,Divock Origi,F,6,Feb 3,LIV,BHA,L 0-1,2.5,25,0
+2,Divock Origi,F,6,Jan 31,LIV,@WHU,W 3-1,4.85,79,1
+3,Divock Origi,F,6,Jan 28,LIV,@TOT,W 3-1,1.0,2,0
+4,Divock Origi,F,6,Jan 21,LIV,BUR,L 0-1,8.35,56,1
+5,Divock Origi,F,6,Jan 17,LIV,MUN,T 0-0,1.0,4,0
+6,Divock Origi,F,6,Dec 27,LIV,WBA,T 1-1,0.5,1,0
+7,Divock Origi,F,6,Dec 13,LIV,@FUL,T 1-1,1.5,6,0
+8,Divock Origi,F,6,Nov 22,LIV,LEI,W 3-0,0.5,1,0

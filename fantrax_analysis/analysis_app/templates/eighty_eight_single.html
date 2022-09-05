@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block breadcrumbs %}
+<li class="breadcrumb-item"><a href="{% url 'core:switcher' %}">Home</a></li>
+<li class="breadcrumb-item"><a href="{% url 'core:theeightyeight' %}">Eighty Eight</a></li>
+<li class="breadcrumb-item active" aria-current="page"><a href="{% url 'core:single88' %}">Single 88</a></li>
+{% endblock %}
+
+{% block content %}
+    <h3>Single 88</h3>
+
+        {% for t in teams %}
+
+        <div class="scroll_div">
+            <table id="eightyeight_table" class="table table-bordered table-striped table-sm" width="100%">
+                <thead class="head">
+                    <tr>
+                        {% for column in t.columns %}
+                        <th>{{ column }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+
+                <tbody class="tbody">
+                {% for i, r in t.iterrows %}
+                    <tr>
+                        {% for c in r %}
+                        <td>{{ c }}</td>
+                        {% endfor %}
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% endfor %}
+{% endblock %}

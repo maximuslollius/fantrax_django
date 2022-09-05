@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block breadcrumbs %}
+<li class="breadcrumb-item"><a href="{% url 'core:switcher' %}">Home</a></li>
+<li class="breadcrumb-item"><a href="{% url 'core:score_predictor' %}">Score Predictor</a></li>
+<li class="breadcrumb-item active" aria-current="page">
+    <a href="{% url 'core:season_fixtures' %}">Fixtures</a>
+</li>
+{% endblock %}
+
+{% block content %}
+<script src="/static/framework/season_fixtures.js"></script>
+    <h3>Fixtures</h3>
+
+    <div class="scroll_div">
+        <table id="opponent_ranker_fixtures_table" class="table table-bordered table-striped table-sm" width="100%">
+            <thead class="head">
+                <tr>
+                    <th>GW</th>
+                    <th>ACT GW</th>
+                    <th>HOME</th>
+                    <th>AWAY</th>
+                    <th>HOME 538</th>
+                    <th>AWAY 538</th>
+                    <th>LINK</th>
+                </tr>
+            </thead>
+
+            <tbody class="tbody" id="fixtures_tbody">
+            {% for r in object_list %}
+                <a class="single-match-ref" href="">
+                    <tr>
+                        <td>{{ r.gw }}</td>
+                        <td>{{ r.act_gw }}</td>
+                        <td>{{ r.home_team }}</td>
+                        <td>{{ r.away_team }}</td>
+                        <td>{{ r.home_pct }}</td>
+                        <td>{{ r.away_pct }}</td>
+                        <td><a href="{% url 'core:single_fixture' r.link|slugify %}">{{r.link}}</a></td>
+                    </tr>
+                </a>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock %}

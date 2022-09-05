@@ -1,0 +1,96 @@
+{% extends "base.html" %}
+
+{% block breadcrumbs %}
+<li class="breadcrumb-item">
+    <a href="{% url 'core:switcher' %}">Home</a>
+</li>
+<li class="breadcrumb-item active" aria-current="page">
+    <a href="{% url 'core:player_list' %}">Player List</a>
+</li>
+{% endblock %}
+
+{% block content %}
+    <script src="/static/framework/player_profile.js"></script>
+    <link rel="stylesheet" href="/static/styles/player_profile.css">
+
+    <div class="playerHero__bg-shape-container">
+        <div class="wrapper playerContainer">
+            <div class="imgContainer">
+                <p id="image-source">{{ image_src }}</p>
+                <img  src="" id="player-pic">
+            </div>
+
+            <h1>{{ player_name }}</h1>
+            <div id="team-pos-info">
+                <h3>{{ team }}</h3>
+                <h3>{{ position }}</h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="playerSummary">
+        <section class="summaryDetails">
+            <h3 class="subHeader">Start Record</h3>
+            <div class="recordLists">
+                <ul class="flex-container row"><li>
+                    <div class="label">P</div>
+                    <div id="info1"></div></li>
+                </ul>
+                <ul class="flex-container row">
+                    <li><div class="label">W</div>
+                    <div id="info2"></div></li>
+                </ul>
+                <ul class="flex-container row">
+                    <li><div class="label">D</div>
+                    <div id="info3"></div></li>
+                </ul>
+                <ul class="flex-container row">
+                    <li><div class="label">L</div>
+                    <div id="info4"></div></li>
+                </ul>
+                <ul class="flex-container row">
+                    <li><div id="info5"></div>
+                    <div class="label">%</div></li>
+                </ul>
+            </div>
+        </section>
+    </div>
+
+    <div class="scroll_div">
+    <table id="project-list-table" class="table table-bordered table-striped table-sm" width="100%">
+        <thead class="head">
+            <tr>
+                <th style="width: 120px;">GW</th>
+                <th style="width: 120px;">Player</th>
+                <th style="width: 60px;">Field Pos</th>
+                <th style="width: 60px;">Team</th>
+                <th style="width: 60px;">Opp</th>
+                <th style="width: 60px;">Start</th>
+                <th style="width: 60px;">Min</th>
+                <th style="width: 60px;">FPts</th>
+                <th style="width: 60px;">NormPts</th>
+                <th style="width: 60px;">Owned</th>
+            </tr>
+        </thead>
+
+        <tbody class="tbody">
+        {% for _, obj in object_list.iterrows %}
+            <tr>
+                <td style="width: 120px;">{{obj.gw}}</td>
+                <td style="width: 120px;">{{obj.name}}</td>
+                <td style="width: 70px;">{{obj.field_pos}}</td>
+                <td style="width: 60px;">{{obj.team}}</td>
+                <td style="width: 60px;">{{obj.opp}}</td>
+                <td class="starts" style="width: 60px;">{{obj.start}}</td>
+                <td class="mins" style="width: 60px;">{{obj.min}}</td>
+                <td class="f-pts" style="width: 60px;">{{obj.fpts}}</td>
+                <td style="width: 60px;">{{obj.normscore}}</td>
+                <td style="width: 60px;">{{obj.ownership}}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+
+    </table>
+    </div>
+
+{% endblock %}

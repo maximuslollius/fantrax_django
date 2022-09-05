@@ -1,0 +1,201 @@
+{% extends "base.html" %}
+
+{% block breadcrumbs %}
+<li class="breadcrumb-item">
+    <a href="{% url 'core:switcher' %}">Home</a>
+</li>
+<li class="breadcrumb-item active" aria-current="page">
+    <a href="{% url 'core:norm_score' %}">Normalised XIs</a>
+</li>
+{% endblock %}
+
+{% block content %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/styles/norm_scores.css">
+    <script src="/static/framework/norm_scores.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="panel panel-primary">
+                <div class="panel-heading">Normalised Points Plot</div>
+                <div class="panel-body" id="chart1">
+                    <svg></svg>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+    <h3>Players</h3>
+
+        <div>
+            <input type="text" id="dv-filter">
+        </div>
+
+        <div>
+          <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+            Filters
+          </button>
+
+
+          <button class="btn btn-primary" type="button" id="clear-output-button">
+            Clear Graph
+          </button>
+        </div>
+
+        <div class="collapse" id="collapseExample">
+              <div class="filter-container">
+                <form method="POST"> {% csrf_token %}
+                    <p><b>Filter Selector</b></p>
+                    <div class="item"|>
+                        <p>Club</p>
+                        <div>
+                            <select name="club" id="club">
+                                <option value="">All</option>
+                                <option value="ARS">Arsenal</option>
+                                <option value="AVL">Aston Villa</option>
+                                <option value="BHA">Brighton & Hove Albion</option>
+                                <option value="BUR">Burnley</option>
+                                <option value="CHE">Chelsea</option>
+                                <option value="CRY">Crystal Palace</option>
+                                <option value="EVE">Everton</option>
+                                <option value="FUL">Fulham</option>
+                                <option value="LEE">Leeds United</option>
+                                <option value="LEI">Leicester City</option>
+                                <option value="LIV">Liverpool</option>
+                                <option value="MCI">Manchester City</option>
+                                <option value="MUN">Manchester United</option>
+                                <option value="NEW">Newcastle United</option>
+                                <option value="SHU">Sheffield United</option>
+                                <option value="SOU">Southampton</option>
+                                <option value="TOT">Tottenham Hotspur</option>
+                                <option value="WBA">West Bromwich Albion</option>
+                                <option value="WHU">West Ham United</option>
+                                <option value="WOL">Wolverhampton Wanderers</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <p>Position</p>
+                        <div>
+                            <select name="position" id="pos">
+                                <option value="">All</option>
+                                <option value="G">G</option>
+                                <option value="D">D</option>
+                                <option value="M">M</option>
+                                <option value="F">F</option>
+                            </select>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+
+    </div>
+
+        <div class="scroll_div">
+            <table id="project-list-table" class="table table-bordered table-striped table-sm" width="100%">
+                <thead class="head">
+                    <tr>
+                        <th style="width: 120px;">Name</th>
+                        <th style="width: 120px;">Club</th>
+                        <th style="width: 70px;">Pos</th>
+                        <th style="width: 60px;">Pre</th>
+                        <th style="width: 60px;">GW1</th>
+                        <th style="width: 60px;">GW2</th>
+                        <th style="width: 60px;">GW3</th>
+                        <th style="width: 60px;">GW4</th>
+                        <th style="width: 60px;">GW5</th>
+                        <th style="width: 60px;">GW6</th>
+                        <th style="width: 60px;">GW7</th>
+                        <th style="width: 60px;">GW8</th>
+                        <th style="width: 60px;">GW9</th>
+                        <th style="width: 60px;">GW10</th>
+                        <th style="width: 60px;">GW11</th>
+                        <th style="width: 60px;">GW12</th>
+                        <th style="width: 60px;">GW13</th>
+                        <th style="width: 60px;">GW14</th>
+                        <th style="width: 60px;">GW15</th>
+                        <th style="width: 60px;">GW16</th>
+                        <th style="width: 60px;">GW17</th>
+                        <th style="width: 60px;">GW18</th>
+                        <th style="width: 60px;">GW19</th>
+                        <th style="width: 60px;">GW20</th>
+                        <th style="width: 60px;">GW21</th>
+                        <th style="width: 60px;">GW22</th>
+                        <th style="width: 60px;">GW23</th>
+                        <th style="width: 60px;">GW24</th>
+                        <th style="width: 60px;">GW25</th>
+                        <th style="width: 60px;">GW26</th>
+                        <th style="width: 60px;">GW27</th>
+                        <th style="width: 60px;">GW28</th>
+                        <th style="width: 60px;">GW29</th>
+                        <th style="width: 60px;">GW30</th>
+                        <th style="width: 60px;">GW31</th>
+                        <th style="width: 60px;">GW32</th>
+                        <th style="width: 60px;">GW33</th>
+                        <th style="width: 60px;">GW34</th>
+                        <th style="width: 60px;">GW35</th>
+                        <th style="width: 60px;">GW36</th>
+                        <th style="width: 60px;">GW37</th>
+                        <th style="width: 60px;">GW38</th>
+                    </tr>
+                </thead>
+
+                <tbody class="tbody">
+                {% for obj in object_list %}
+                    <tr>
+                        <td style="width: 120px;">{{obj.name}}</td>
+                        <td style="width: 120px;">{{obj.team}}</td>
+                        <td style="width: 70px;">{{obj.position}}</td>
+                        <td style="width: 60px;">{{obj.pre_01}}</td>
+                        <td style="width: 60px;">{{obj.gw_01}}</td>
+                        <td style="width: 60px;">{{obj.gw_02}}</td>
+                        <td style="width: 60px;">{{obj.gw_03}}</td>
+                        <td style="width: 60px;">{{obj.gw_04}}</td>
+                        <td style="width: 60px;">{{obj.gw_05}}</td>
+                        <td style="width: 60px;">{{obj.gw_06}}</td>
+                        <td style="width: 60px;">{{obj.gw_07}}</td>
+                        <td style="width: 60px;">{{obj.gw_08}}</td>
+                        <td style="width: 60px;">{{obj.gw_09}}</td>
+                        <td style="width: 60px;">{{obj.gw_10}}</td>
+                        <td style="width: 60px;">{{obj.gw_11}}</td>
+                        <td style="width: 60px;">{{obj.gw_12}}</td>
+                        <td style="width: 60px;">{{obj.gw_13}}</td>
+                        <td style="width: 60px;">{{obj.gw_14}}</td>
+                        <td style="width: 60px;">{{obj.gw_15}}</td>
+                        <td style="width: 60px;">{{obj.gw_16}}</td>
+                        <td style="width: 60px;">{{obj.gw_17}}</td>
+                        <td style="width: 60px;">{{obj.gw_18}}</td>
+                        <td style="width: 60px;">{{obj.gw_19}}</td>
+                        <td style="width: 60px;">{{obj.gw_20}}</td>
+                        <td style="width: 60px;">{{obj.gw_21}}</td>
+                        <td style="width: 60px;">{{obj.gw_22}}</td>
+                        <td style="width: 60px;">{{obj.gw_23}}</td>
+                        <td style="width: 60px;">{{obj.gw_24}}</td>
+                        <td style="width: 60px;">{{obj.gw_25}}</td>
+                        <td style="width: 60px;">{{obj.gw_26}}</td>
+                        <td style="width: 60px;">{{obj.gw_27}}</td>
+                        <td style="width: 60px;">{{obj.gw_28}}</td>
+                        <td style="width: 60px;">{{obj.gw_29}}</td>
+                        <td style="width: 60px;">{{obj.gw_30}}</td>
+                        <td style="width: 60px;">{{obj.gw_31}}</td>
+                        <td style="width: 60px;">{{obj.gw_32}}</td>
+                        <td style="width: 60px;">{{obj.gw_33}}</td>
+                        <td style="width: 60px;">{{obj.gw_34}}</td>
+                        <td style="width: 60px;">{{obj.gw_35}}</td>
+                        <td style="width: 60px;">{{obj.gw_36}}</td>
+                        <td style="width: 60px;">{{obj.gw_37}}</td>
+                        <td style="width: 60px;">{{obj.gw_38}}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+
+            </table>
+        </div>
+
+
+
+{% endblock %}
