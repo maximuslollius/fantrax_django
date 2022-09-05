@@ -13,18 +13,14 @@ def create_wb():
     filename = 'FantraxXIs2021_22.xlsx'
     writer = pd.ExcelWriter(filename, engine='xlsxwriter')
 
-    clubs = ['ars', 'avl', 'brf', 'bha', 'bur', 'che', 'cry', 'eve', 'lee', 'lei', 'liv', 'mci', 'mun', 'new', 'nor',
-             'sou', 'tot', 'wat', 'whu', 'wol']
+    clubs = ['ars', 'avl', 'brf', 'bha', 'bur', 'che', 'cry', 'eve', 'lee', 'lei',
+             'liv', 'mci', 'mun', 'new', 'nor', 'sou', 'tot', 'wat', 'whu', 'wol']
 
-    pre_conditions = pd.read_csv('initial_conditions.csv')
+    pre_conditions = pd.read_csv('initial_conditions_last_year.csv.csv')
 
     for club in clubs:
         minute_data = pd.read_csv('minute_data/' + club + '_minute_data.csv')
-        start_data = pd.read_csv('start_data/' + club + '_start_data.csv')
-        df = minute_data.merge(start_data, on=['player', 'date', 'team', 'opp'], how='left')
-        df.rename(columns={"position_x": "position", "position_id_x": "position_id"}, inplace=True)
-        df.drop(["position_y", "position_id_y"], axis=1, inplace=True)
-        df = df.merge(pre_conditions, on='player', how='left')
+        df = minute_data.merge(pre_conditions, on='player', how='left')
         write_club_sheet(writer, df, club)
 
     writer.save()
@@ -47,38 +43,51 @@ def get_norm_score(distributions, x):
     return norm_score
 
 
-start_date = ['May20', 'May13', 'May06', 'April29', 'April22', 'April15', 'April08', 'April01', 'March18', 'March11',
-              'March04', 'February25', 'February18', 'February11', 'February08', 'January21', 'January14', 'January01',
-              'December28', 'December25', 'December17', 'December14', 'December10', 'December03', 'November30',
-              'November26', 'November19', 'November05', 'October29', 'October22', 'October15', 'October01',
-              'September24', 'September17', 'September10', 'August27', 'August20', 'August13']
+start_date = ['2022May20', '2022May13', '2022May06',
+              '2022April29', '2022April22', '2022April15', '2022April08', '2022April01',
+              '2022March18', '2022March11', '2022March04',
+              '2022February25', '2022February18', '2022February11', '2022February08',
+              '2022January21', '2022January14', '2022January01',
+              '2021December28', '2021December25', '2021December17', '2021December14', '2021December10',
+              '2021December03', '2021November30', '2021November26', '2021November19', '2021November05',
+              '2021October29', '2021October22', '2021October15', '2021October01',
+              '2021September24', '2021September17', '2021September10',
+              '2021August27', '2021August20', '2021August13']
 
-end_date = ['May22', 'May19', 'May12', 'May05', 'April28', 'April21', 'April14', 'April07', 'March31',
-            'March17', 'March10', 'March03', 'February24', 'February17', 'February10', 'February07', 'January20',
-            'January13', 'December31', 'December27', 'December24', 'December16', 'December13', 'December09',
-            'December02', 'November29', 'November25', 'November18', 'November04', 'October28', 'October21', 'October14',
-            'September30', 'September23', 'September16', 'September09', 'August26', 'August19']
+end_date = ['2022May22', '2022May19', '2022May12',
+            '2022May05', '2022April28', '2022April21', '2022April14', '2022April07',
+            '2022March31', '2022March17', '2022March10',
+            '2022March03', '2022February24', '2022February17', '2022February10',
+            '2022February07', '2022January20', '2022January13',
+            '2021December31', '2021December27', '2021December24', '2021December16', '2021December13',
+            '2021December09', '2021December02', '2021November29', '2021November25', '2021November18',
+            '2021November04', '2021October28', '2021October21', '2021October14',
+            '2021September30', '2021September23', '2021September16',
+            '2021September09', '2021August26', '2021August19']
 
 
 def obtain_gw_from_date(x, start_date, end_date):
 
     x['Date'] = x['Date'].str.replace(' ', '')
-    x['Date'] = x['Date'].str.replace('Apr', 'April')
-    x['Date'] = x['Date'].str.replace('Mar', 'March')
-    x['Date'] = x['Date'].str.replace('Feb', 'February')
-    x['Date'] = x['Date'].str.replace('Jan', 'January')
-    x['Date'] = x['Date'].str.replace('Dec', 'December')
-    x['Date'] = x['Date'].str.replace('Nov', 'November')
-    x['Date'] = x['Date'].str.replace('Oct', 'October')
-    x['Date'] = x['Date'].str.replace('Sep', 'September')
-    x['Date'] = x['Date'].str.replace('Aug', 'August')
+    x['Date'] = x['Date'].str.replace('Jul', '2022July')
+    x['Date'] = x['Date'].str.replace('Jun', '2022June')
+    x['Date'] = x['Date'].str.replace('May', '2022May')
+    x['Date'] = x['Date'].str.replace('Apr', '2022April')
+    x['Date'] = x['Date'].str.replace('Mar', '2022March')
+    x['Date'] = x['Date'].str.replace('Feb', '2022February')
+    x['Date'] = x['Date'].str.replace('Jan', '2022January')
+    x['Date'] = x['Date'].str.replace('Dec', '2021December')
+    x['Date'] = x['Date'].str.replace('Nov', '2021November')
+    x['Date'] = x['Date'].str.replace('Oct', '2021October')
+    x['Date'] = x['Date'].str.replace('Sep', '2021September')
+    x['Date'] = x['Date'].str.replace('Aug', '2021August')
 
-    x['Date'] = pd.to_datetime(x['Date'], format='%B%d').dt.strftime('%B%d')
-    x['Date'] = pd.to_datetime(x['Date'], format='%B%d')
+    x['Date'] = pd.to_datetime(x['Date'], format='%Y%B%d').dt.strftime('%Y%B%d')
+    x['Date'] = pd.to_datetime(x['Date'], format='%Y%B%d')
 
     for i, date in enumerate(start_date):
-        date = datetime.strptime(date, '%B%d')
-        x.loc[(x['Date'] >= date) & (x['Date'] <= datetime.strptime(end_date[i], '%B%d')), 'GW'] = 38 - i
+        date = datetime.strptime(date, '%Y%B%d')
+        x.loc[(x['Date'] >= date) & (x['Date'] <= datetime.strptime(end_date[i], '%Y%B%d')), 'GW'] = 38 - i
 
     x['Date'] = x['Date'].dt.strftime('%B%d')
 
@@ -86,12 +95,12 @@ def obtain_gw_from_date(x, start_date, end_date):
 
 
 def obtain_fivethirtyeight(x, fivethirtyeight, fixtures):
-    '''
+    """
     Adds 538 predictions for each game
     :param player_predictions: df
     :param fivethirtyeight: csv
     :return:
-    '''
+    """
 
     gw = x['GW']
 
@@ -203,7 +212,7 @@ def calc_return(x):
     :return:
     '''
 
-    if x['pred'] >= 12 and x['start'] == 1:
+    if x['pred'] >= 12 and x['starts'] == 1:
         x = x['FPts'] - 12
     else:
         x = 0
@@ -295,7 +304,7 @@ def write_club_sheet(writer, df, clubname):
     df['return'] = df.apply(lambda x: calc_return(x), axis=1)
     df['post-avg'] = df.apply(lambda x: obtain_new_avg_five(x, df), axis=1)
     df['CumReturn'] = df.groupby('player')['return'].cumsum()
-    df = df.drop(['Unnamed: 0', 'goals', 'pre', 'opp_adj1', 'opp_adj2', 'DateNumeric'], axis=1)
+    df = df.drop(['Unnamed: 0', 'pre', 'opp_adj1', 'opp_adj2', 'DateNumeric'], axis=1)
 
     df.to_excel(writer, header=False, sheet_name=worksheet_name, startcol=1, startrow=6)
 

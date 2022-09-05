@@ -26,33 +26,34 @@ Pierre-Emerick Aubameyang,11.3,24
 Alexandre Lacazette,13.95,25
 Eddie Nketiah,12.5,26
 Emiliano Martinez,12.7,1
-Jed Steer,8.5,2
-Matthew Cash,13.3,3
-Calum Chambers,12.15,4
-Axel Tuanzebe,7.3,5
-Tyrone Mings,11.65,6
-Ezri Konsa Ngoyo,10.35,7
-Kortney Hause,12.1,8
-Lucas Digne,13.7,9
-Ashley Young,10.5,10
-Marvelous Nakamba,11.5,11
-Douglas Luiz,9.8,12
-Morgan Sanson,9.7,13
-Carney Chukwuemeka,15.65,14
-Tim Iroegbunam,12.25,15
-John McGinn,11.65,16
-Jacob Ramsey,10.95,17
-Jaden Philogene-Bidace,15.65,18
-Philippe Coutinho,15.5,19
-Trezeguet,15.8,20
-Emiliano Buendia,15.9,21
-Bertrand Traore,14.5,22
-Cameron Archer,14.2,23
-Leon Bailey,13.7,24
-Ollie Watkins,12.95,25
-Wesley,13.7,26
-Danny Ings,13.4,27
-Keinan Davis,15.45,28
+Robin Olsen,10.15,2
+Jed Steer,8.5,3
+Matthew Cash,13.3,4
+Calum Chambers,12.15,5
+Axel Tuanzebe,7.3,6
+Tyrone Mings,11.65,7
+Ezri Konsa Ngoyo,10.35,8
+Kortney Hause,12.1,9
+Lucas Digne,13.7,10
+Ashley Young,10.5,11
+Marvelous Nakamba,11.5,12
+Douglas Luiz,9.8,13
+Morgan Sanson,9.7,14
+Carney Chukwuemeka,15.65,15
+Tim Iroegbunam,12.25,16
+John McGinn,11.65,17
+Jacob Ramsey,10.95,18
+Jaden Philogene-Bidace,15.65,19
+Philippe Coutinho,15.5,20
+Trezeguet,15.8,21
+Emiliano Buendia,15.9,22
+Bertrand Traore,14.5,23
+Cameron Archer,14.2,24
+Leon Bailey,13.7,25
+Ollie Watkins,12.95,26
+Wesley,13.7,27
+Danny Ings,13.4,28
+Keinan Davis,15.45,29
 David Raya Martin,11.6,1
 Alvaro Fernandez,9.75,2
 Jonas Lossl,10.75,3
@@ -81,6 +82,7 @@ Sergi Canos,12.35,25
 Bryan Mbeumo,11.45,26
 Marcus Forss,11.45,27
 Ivan Toney,12,28
+Nathan Young-Coombes,9.85,29
 Robert Sanchez,10.6,1
 Jason Steele,9.5,2
 Joel Veltman,13.2,3
@@ -146,13 +148,14 @@ Ngolo Kante,12.9,15
 Saul Niguez,11.6,16
 Ruben Loftus-Cheek,10,17
 Ross Barkley,12.5,18
-Kai Havertz,12.55,19
-Callum Hudson-Odoi,15,20
-Mason Mount,15.5,21
-Christian Pulisic,13.5,22
-Hakim Ziyech,14.8,23
-Timo Werner,12.15,24
-Romelu Lukaku,12.15,25
+Kenedy,11.5,19
+Kai Havertz,12.55,20
+Callum Hudson-Odoi,15,21
+Mason Mount,15.5,22
+Christian Pulisic,13.5,23
+Hakim Ziyech,14.8,24
+Timo Werner,12.15,25
+Romelu Lukaku,12.15,26
 Vicente Guaita,9.6,1
 Jack Butland,7,2
 Joel Ward,10.45,3
@@ -196,18 +199,19 @@ Andre Gomes,11.45,16
 Donny van de Beek,13.65,17
 Dele Alli,13.75,18
 Tyler Onyango,11,19
-Anwar El Ghazi,14.6,20
-Andros Townsend,15.4,21
-Alex Iwobi,12.8,22
-Demarai Gray,13,23
-Anthony Gordon,11.1,24
-Richarlison,12.3,25
-Moise Kean,11.1,26
-Lewis Dobbin,11,27
-Salomon Rondon,12.25,28
-Dominic Calvert-Lewin,14.25,29
-Cenk Tosun,11.5,30
-Ellis Simms,11,31
+Isaac Price,11,20
+Anwar El Ghazi,14.6,21
+Andros Townsend,15.4,22
+Alex Iwobi,12.8,23
+Demarai Gray,13,24
+Anthony Gordon,11.1,25
+Richarlison,12.3,26
+Moise Kean,11.1,27
+Lewis Dobbin,11,28
+Salomon Rondon,12.25,29
+Dominic Calvert-Lewin,14.25,30
+Cenk Tosun,11.5,31
+Ellis Simms,11,32
 Illan Meslier,12.9,1
 Kristoffer Klaesson,10.9,2
 Luke Ayling,12.45,3
@@ -238,32 +242,33 @@ Joe Gelhardt,11.85,27
 Patrick Bamford,14.35,28
 Sam Greenwood,11.85,29
 Kasper Schmeichel,9.3,1
-Ricardo Pereira,11.5,2
-James Justin,13.25,3
-Daniel Amartey,10.05,4
-Jonny Evans,11.7,5
-Wesley Fofana,12.9,6
-Caglar Soyuncu,10.55,7
-Jannik Vestergaard,11,8
-Timothy Castagne,12.25,9
-Ryan Bertrand,8.9,10
-Luke Thomas,10.75,11
-Wilfred Ndidi,15,12
-Nampalys Mendy,8.85,13
-Boubakary Soumare,11.9,14
-Hamza Choudhury,11.6,15
-Youri Tielemans,13.2,16
-Kiernan Dewsbury-Hall,10.75,17
-Kasey McAteer,10.75,18
-Lewis Brunt,10.75,19
-Marc Albrighton,15.05,20
-Harvey Barnes,14.75,21
-James Maddison,15,22
-Ayoze Perez,13.6,23
-Ademola Lookman,12.35,24
-Kelechi Iheanacho,14.7,25
-Patson Daka,15.1,26
-Jamie Vardy,13.85,27
+Danny Ward,8.5,2
+Ricardo Pereira,11.5,3
+James Justin,13.25,4
+Daniel Amartey,10.05,5
+Jonny Evans,11.7,6
+Wesley Fofana,12.9,7
+Caglar Soyuncu,10.55,8
+Jannik Vestergaard,11,9
+Timothy Castagne,12.25,10
+Ryan Bertrand,8.9,11
+Luke Thomas,10.75,12
+Wilfred Ndidi,15,13
+Nampalys Mendy,8.85,14
+Boubakary Soumare,11.9,15
+Hamza Choudhury,11.6,16
+Youri Tielemans,13.2,17
+Kiernan Dewsbury-Hall,10.75,18
+Kasey McAteer,10.75,19
+Lewis Brunt,10.75,20
+Marc Albrighton,15.05,21
+Harvey Barnes,14.75,22
+James Maddison,15,23
+Ayoze Perez,13.6,24
+Ademola Lookman,12.35,25
+Kelechi Iheanacho,14.7,26
+Patson Daka,15.1,27
+Jamie Vardy,13.85,28
 Alisson,10.65,1
 Caoimhin Kelleher,12.5,2
 Trent Alexander-Arnold,15.6,3
@@ -298,24 +303,25 @@ Joao Cancelo,16.9,4
 Ruben Dias,11.85,5
 John Stones,13.9,6
 Aymeric Laporte,10.55,7
-Nathan Ake,8.9,8
-Benjamin Mendy,13,9
-Oleksandr Zinchenko,12.95,10
-Fernandinho,13.4,11
-Rodri,12.4,12
-Bernardo Silva,12.35,13
-Ilkay Gundogan,18.1,14
-Cole Palmer,12,15
-James Mcatee,12,16
-Kevin De Bruyne,19.35,17
-Phil Foden,17.5,18
-Jack Grealish,17.25,19
-Riyad Mahrez,16.3,20
-Ferran Torres,12.8,21
-Gabriel Jesus,13.95,22
-Raheem Sterling,13.2,23
-Liam Delap,0,24
-Kayky,8.25,25
+CJ Egan-Riley,8.5,8
+Nathan Ake,8.9,9
+Benjamin Mendy,13,10
+Oleksandr Zinchenko,12.95,11
+Fernandinho,13.4,12
+Rodri,12.4,13
+Bernardo Silva,12.35,14
+Ilkay Gundogan,18.1,15
+Cole Palmer,12,16
+James Mcatee,12,17
+Kevin De Bruyne,19.35,18
+Phil Foden,17.5,19
+Jack Grealish,17.25,20
+Riyad Mahrez,16.3,21
+Ferran Torres,12.8,22
+Gabriel Jesus,13.95,23
+Raheem Sterling,13.2,24
+Liam Delap,0,25
+Kayky,8.25,26
 David de Gea,9.85,1
 Aaron Wan-Bissaka,14.45,2
 Diogo Dalot,11.55,3
@@ -342,6 +348,7 @@ Anthony Elanga,14.7,23
 Cristiano Ronaldo,14.25,24
 Anthony Martial,12.75,25
 Edinson Cavani,15.3,26
+Shola Shoretire,15.5,27
 Martin Dubravka,10.8,1
 Karl Darlow,10.8,2
 Freddie Woodman,10.75,3
@@ -393,11 +400,12 @@ Kieran Dowell,9,19
 Kenny McLean,9.45,20
 Przemyslaw Placheta,9.45,21
 Milot Rashica,9.9,22
-Christos Tzolis,11.5,23
-Joshua Sargent,11.5,24
-Teemu Pukki,11.8,25
-Adam Idah,10,26
-Jonathan Rowe,9.45,27
+Tony Springett,9,23
+Christos Tzolis,11.5,24
+Joshua Sargent,11.5,25
+Teemu Pukki,11.8,26
+Adam Idah,10,27
+Jonathan Rowe,9.45,28
 Alex McCarthy,9.55,1
 Fraser Forster,10.7,2
 Willy Caballero,2,3
@@ -503,27 +511,28 @@ Said Benrahma,15.35,23
 Andriy Yarmolenko,11.2,24
 Michail Antonio,14.65,25
 Jose Sa,9.6,1
-Ki-Jana Hoever,11.3,2
-Maximilian Kilman,11.25,3
-Willy Boly,11.1,4
-Conor Coady,8.8,5
-Romain Saiss,12.55,6
-Toti,10.5,7
-Jonny,10.1,8
-Nelson Semedo,12.9,9
-Marcal,11.4,10
-Rayan Ait-Nouri,12.1,11
-Leander Dendoncker,9.85,12
-Joao Moutinho,12.15,13
-Ruben Neves,13.5,14
-Morgan Gibbs-White,13.15,15
-Luke Cundle,11,16
-Daniel Podence,12.45,17
-Trincao,13.2,18
-Hwang Hee-Chan,13.95,19
-Raul Jimenez,11.9,20
-Fabio Silva,11.4,21
-Adama Traore,14.35,22
-Chiquinho,13.25,23
-Pedro Neto,15.25,24
-Chem Campbell,11.5,25
+John Ruddy,9.25,2
+Ki-Jana Hoever,11.3,3
+Maximilian Kilman,11.25,4
+Willy Boly,11.1,5
+Conor Coady,8.8,6
+Romain Saiss,12.55,7
+Toti,10.5,8
+Jonny,10.1,9
+Nelson Semedo,12.9,10
+Marcal,11.4,11
+Rayan Ait-Nouri,12.1,12
+Leander Dendoncker,9.85,13
+Joao Moutinho,12.15,14
+Ruben Neves,13.5,15
+Morgan Gibbs-White,13.15,16
+Luke Cundle,11,17
+Daniel Podence,12.45,18
+Trincao,13.2,19
+Hwang Hee-Chan,13.95,20
+Raul Jimenez,11.9,21
+Fabio Silva,11.4,22
+Adama Traore,14.35,23
+Chiquinho,13.25,24
+Pedro Neto,15.25,25
+Chem Campbell,11.5,26

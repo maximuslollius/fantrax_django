@@ -6,13 +6,11 @@ from selenium.webdriver.common.by import By
 import time
 from datetime import datetime
 import pandas as pd
-from create_norm_scores_excel import create_wb, create_blank_sheet
-
 
 
 capabilities = DesiredCapabilities().FIREFOX
 capabilities["marionette"] = True
-browser = webdriver.Firefox(executable_path="/usr/local/Cellar/geckodriver/0.27.0/bin/geckodriver")
+browser = webdriver.Firefox(executable_path="/usr/local/Cellar/geckodriver/0.31.0/bin/geckodriver")
 wait = WebDriverWait(webdriver, 10)
 startTime = datetime.now()
 
@@ -75,8 +73,20 @@ def obtain_results_table(link):
                        "Unnamed: 17": "ACNC", "Unnamed: 18": "Int", "Unnamed: 19": "CLR", "Unnamed: 20": "CoS",
                        "Unnamed: 21": "BS", "Unnamed: 22": "AER", "Unnamed: 23": "BR",
                        "Unnamed: 24": "PKM", "Unnamed: 25": "OG", "Unnamed: 26": "GAD", "Unnamed: 27": "CS"}, axis=1)
+    browser.execute_script("arguments[0].click();", nav_bar[4])
+    time.sleep(10)
+    start_table = browser.find_elements_by_class_name('sticky-table')
+    start_df = pd.read_html(start_table[0].get_attribute('outerHTML'))
+    start_df = start_df[0].rename({"Unnamed: 0": "Date", "Unnamed: 1": "Team", "Unnamed: 2": "Opp",
+                       "Unnamed: 3": "Score", "Unnamed: 4": "FPts", "Unnamed: 5": "GS",
+                       "Unnamed: 6": "Min", "Unnamed: 7": "G", "Unnamed: 8": "A", "Unnamed: 9": "Pts",
+                       "Unnamed: 10": "S", "Unnamed: 11": "SOT", "Unnamed: 12": "FC", "Unnamed: 13": "FS",
+                       "Unnamed: 14": "YC", "Unnamed: 15": "RC", "Unnamed: 16": "Off",
+                       "Unnamed: 17": "PKG"}, axis=1)
+    start_df = start_df[['Date', 'Team', 'Opp', 'GS']]
+    df = df.merge(start_df, on=['Date', 'Team', 'Opp'])
 
-    return df[["Date", "Team", "Opp", "Score", "FPts", "Min", "G"]]
+    return df[["Date", "Team", "Opp", "Score", "FPts", "Min", "GS"]]
 
 
 def handle(club_links):
@@ -96,10 +106,10 @@ def handle(club_links):
 
     for i in range(len(club_links)):
         data = pd.DataFrame(columns=['player', 'position', 'position_id',
-                                     'date', 'team', 'opp', 'score', 'fpts', 'min', 'goals'])
+                                     'date', 'team', 'opp', 'score', 'fpts', 'min', 'starts'])
 
         link = club_links.loc[i, "Link"]
-        data[['date', 'team', 'opp', 'score', 'fpts', 'min', 'goals']] = obtain_results_table(link)
+        data[['date', 'team', 'opp', 'score', 'fpts', 'min', 'starts']] = obtain_results_table(link)
         data['player'] = club_links.loc[i, "Player"]
         data['position'] = club_links.loc[i, "Position"]
         data['position_id'] = club_links.loc[i, "Position ID"]
@@ -111,8 +121,8 @@ def handle(club_links):
     return total_data
 
 
-# ['ars', 'avl', 'brf', 'bha', 'bur', 'che', 'cry', 'eve', 'lee', 'lei',
-# 'liv', 'mci', 'mun', 'new', 'nor', 'sou', 'tot', 'wat', 'whu', 'wol']
+# ['ars', 'avl', 'bha', 'brf', 'bur', 'che', 'cry', 'eve', 'lee', 'lei',
+#  'liv', 'mci', 'mun', 'new', 'nor', 'sou', 'tot', 'wat', 'whu', 'wol']
 links = ['wol']
 
 for file in links:

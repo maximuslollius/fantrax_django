@@ -3,9 +3,9 @@ import numpy as np
 from datetime import datetime
 
 
-minute_data = pd.read_csv('minute_data/combined_minute_data.csv')
+minute_data = pd.read_csv('minute_data/combined_minute_data_2019_20.csv')
 distributions = pd.read_csv('distributions.csv')
-opening_predictions = pd.read_csv('initial_conditions.csv')
+opening_predictions = pd.read_csv('initial_conditions_last_year.csv.csv')
 fivethirtyeight = pd.read_csv('fixtures.csv')
 
 player_predictions = pd.DataFrame(columns=['Date', 'GW', 'Player', 'Position', 'Team', 'Opp', 'Start', 'Min', 'FPts',

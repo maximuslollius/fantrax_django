@@ -22,13 +22,13 @@ def get_summary_agg(df):
     return summary_df
 
 
-clubs = ['ars', 'avl', 'bha', 'bur', 'che', 'cry', 'eve', 'ful', 'lee', 'lei',
-         'liv', 'mci', 'mun', 'new', 'shu', 'sou', 'tot', 'wba', 'whu', 'wol']
+clubs = ['ars', 'avl', 'brf', 'bha', 'bur', 'che', 'cry', 'eve', 'lee', 'lei',
+         'liv', 'mci', 'mun', 'new', 'nor', 'sou', 'tot', 'wat', 'whu', 'wol']
 
 
 season_summary_df = pd.DataFrame()
 for club in clubs:
-    df = pd.read_excel(io='FantraxXIs2020_21.xlsx', sheet_name=club, skiprows=5)
+    df = pd.read_excel(io='FantraxXIs2021_22.xlsx', sheet_name=club, skiprows=5)
     club_season_summary_df = get_summary_agg(df)
     season_summary_df = pd.concat([season_summary_df, club_season_summary_df], axis=0)
-    season_summary_df.to_csv('SummaryStats2020_21.csv')
+    season_summary_df.to_csv('SummaryStats2021_22.csv')

@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-next_gameweek = 35
+next_gameweek = 36
 
 sheet_names = ['ars', 'avl', 'brf', 'bha', 'bur', 'che', 'cry', 'eve', 'lee', 'lei', 'liv', 'mci', 'mun', 'new', 'nor',
          'sou', 'tot', 'wat', 'whu', 'wol']
