@@ -2,10 +2,10 @@
 
 {% block breadcrumbs %}
 <li class="breadcrumb-item">
-    <a href="{% url 'core:switcher' %}">Home</a>
+    <a href="{% url 'analysis_app:switcher' %}">Home</a>
 </li>
 <li class="breadcrumb-item active" aria-current="page">
-    <a href="{% url 'core:player_list' %}">Player List</a>
+    <a href="{% url 'analysis_app:player_list' %}">Player List</a>
 </li>
 {% endblock %}
 
@@ -29,6 +29,37 @@
     </div>
 
     <div class="playerSummary">
+        <table>
+            <thead>
+                <tr>
+                    <th class="season" scope="col"><div class="th-full">Season</div></th>
+                    <th class="teamHeader" scope="col">Club</th>
+                    <th class="starts" scope="col">Starts</th>
+                    <th class="apps" scope="col">Apps</th>
+                    <th class="powrk" scope="col">Power Ranking</th>
+                    <th class="season-detail" scope="col">Detail</th>
+                </tr>
+            </thead>
+            <tbody>
+            {% for _, obj in object_list.iterrows %}
+                <tr>
+                    <td style="width: 120px;">{{obj.gw}}</td>
+                    <td style="width: 120px;">{{obj.name}}</td>
+                    <td style="width: 70px;">{{obj.field_pos}}</td>
+                    <td style="width: 60px;">{{obj.team}}</td>
+                    <td style="width: 60px;">{{obj.opp}}</td>
+                    <td class="starts" style="width: 60px;">{{obj.start}}</td>
+                    <td class="mins" style="width: 60px;">{{obj.min}}</td>
+                    <td class="f-pts" style="width: 60px;">{{obj.fpts}}</td>
+                    <td style="width: 60px;">{{obj.normsanalysis_app}}</td>
+                    <td style="width: 60px;">{{obj.ownership}}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <div class="playerSummary" hidden>
         <section class="summaryDetails">
             <h3 class="subHeader">Start Record</h3>
             <div class="recordLists">
@@ -84,7 +115,7 @@
                 <td class="starts" style="width: 60px;">{{obj.start}}</td>
                 <td class="mins" style="width: 60px;">{{obj.min}}</td>
                 <td class="f-pts" style="width: 60px;">{{obj.fpts}}</td>
-                <td style="width: 60px;">{{obj.normscore}}</td>
+                <td style="width: 60px;">{{obj.normsanalysis_app}}</td>
                 <td style="width: 60px;">{{obj.ownership}}</td>
             </tr>
         {% endfor %}

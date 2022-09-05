@@ -4,7 +4,7 @@ services:
   db:
     image: postgres
     environment:
-      - POSTGRES_DB=fantrax_20_21
+      - POSTGRES_DB=fantrax_django
       - POSTGRES_USER=johnhughes
       - POSTGRES_PASSWORD=postgres
   web:
@@ -22,31 +22,23 @@ services:
       - migration_2
       - mgmt_command_2
       - mgmt_command_3
-      - mgmt_command_4
   mgmt_command_1:
-    image: fantraxapp
-    command: python manage.py populate_norm_scores -f norm_scores.csv
-    volumes:
-      - .:/app
-    depends_on:
-      - db
-  mgmt_command_2:
     image: fantraxapp
     command: python manage.py populate_player_names -f player_names.csv
     volumes:
       - .:/app
     depends_on:
       - db
-  mgmt_command_3:
+  mgmt_command_2:
     image: fantraxapp
-    command: python manage.py populate_player_scores_from_csv -f player_profile_scores_s.csv
+    command: python manage.py populate_player_scores -f combined_minute_data_2019_20.csv
     volumes:
       - .:/app
     depends_on:
       - db
-  mgmt_command_4:
+  mgmt_command_3:
     image: fantraxapp
-    command: python manage.py populate_season_fixtures -f epl_fixtures.csv
+    command: python manage.py populate_season_fixtures -f fixtures_2019_20.csv
     volumes:
       - .:/app
     depends_on:

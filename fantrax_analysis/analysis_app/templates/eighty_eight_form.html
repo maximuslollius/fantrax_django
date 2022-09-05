@@ -1,9 +1,9 @@
 {% extends "base.html" %}
 
 {% block breadcrumbs %}
-<li class="breadcrumb-item"><a href="{% url 'core:switcher' %}">Home</a></li>
-<li class="breadcrumb-item"><a href="{% url 'core:theeightyeight' %}">Eighty Eight</a></li>
-<li class="breadcrumb-item active" aria-current="page"><a href="{% url 'core:theeightyeightform' %}">Form 88</a></li>
+<li class="breadcrumb-item"><a href="{% url 'analysis_app:switcher' %}">Home</a></li>
+<li class="breadcrumb-item"><a href="{% url 'analysis_app:theeightyeight' %}">Eighty Eight</a></li>
+<li class="breadcrumb-item active" aria-current="page"><a href="{% url 'analysis_app:theeightyeightform' %}">Form 88</a></li>
 {% endblock %}
 
 {% block content %}

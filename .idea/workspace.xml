@@ -1,7 +1,567 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5958f1e4-39a5-4df8-99a0-85556de04114" name="Default Changelist" comment="" />
+    <list default="true" id="5958f1e4-39a5-4df8-99a0-85556de04114" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/.idea/Fantrax_19_20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/agg_season.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/create_combined_minute_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/create_norm_scores_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/distributions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/templates/norm_score.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/fixtures.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/initial_conditions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/ars_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/avl_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/bha_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/bou_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/bur_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/che_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/cry_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/eve_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/lei_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/liv_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/mci_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/mun_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/new_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/nor_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/shu_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/sou_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/tot_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/wat_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/whu_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/links/wol_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/merge_links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/the88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_19_20/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/agg_season.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/create_combined_minute_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/create_norm_scores_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/distributions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/fantrax_scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/fixtures.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/initial_conditions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/ars_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/avl_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/bha_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/bur_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/che_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/cry_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/eve_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/ful_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/lee_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/lei_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/liv_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/mci_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/mun_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/new_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/shu_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/sou_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/tot_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/wba_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/whu_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/links/wol_links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fantrax_20_21/merge_links.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/first_week_predictions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/first_week_predictions.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/gameweeks/GW_01.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/gameweeks/GW_01.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/gameweeks/GW_02.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/gameweeks/GW_02.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/gameweeks/GW_03.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/gameweeks/GW_03.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/gameweeks/GW_04.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/gameweeks/GW_04.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/gameweeks/GW_05.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/gameweeks/GW_05.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/player_names.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/player_names.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/predicted_league_tables/fixtures.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/predicted_league_tables/fixtures.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/predicted_league_tables/mapping.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/predicted_league_tables/mapping.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/predicted_league_tables/ranked_matches.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/predicted_league_tables/ranked_matches.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/predicted_league_tables/rankings.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/fixtures/predicted_league_tables/rankings.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/manual_scrapes.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/manual_scrapes.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes/MaxKilman2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes/MaxKilman2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/AdamaTraoré.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/AdamaTraoré.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/Angelino.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/Angelino.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/AshleyYoung.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/AshleyYoung.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/BrandonPierrick.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/BrandonPierrick.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/CenkTosun.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/CenkTosun.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/CenkTosunPrior.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/CenkTosunPrior.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/Chicharito.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/Chicharito.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/ChristianEriksen.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/ChristianEriksen.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/CédricSoares.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/CédricSoares.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/CédricSoaresPrior.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/CédricSoaresPrior.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/DannyDrinkwater.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/DannyDrinkwaterPrior.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/DannyRose.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/DannyRosePrior.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/DennisSrbeny.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/DennisSrbeny.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/DimitriFoulquier.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/EmileSmithRowe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/EmileSmithRowe.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/FlorinAndone.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/FlorinAndone.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/GaetanBong.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/GaetanBong.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/George-KevinNkoudou.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/George-KevinNkoudou.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/HenrikhMkhitaryan.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/HenrikhMkhitaryan.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/IbrahimAmadou.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/IbrahimAmadou.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/JamaalLascelles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/JamaalLascelles.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/JesusVallejo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/JesusVallejo.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/JonathanKodjia.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/JonathanKodjia.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/KiSung-yueng.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/KiSung-yueng.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/KyleWalker-PetersPrior.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/KyleWalker-PetersPrior.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/MarcosRojo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/MarcosRojo.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/MayaYoshida.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/MayaYoshida.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/NachoMonreal.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/NachoMonreal.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/NathanHolland.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/NathanHolland.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/PatrickCutrone.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/PatrickCutrone.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/RobertoJimenez.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/RobertoJimenez.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/RyanBennettPrior.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/RyanBennettPrior.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/SebastianProdl.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/SebastianProdl.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/TariqLamptey.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/TariqLamptey.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/TariqLampteyPrior.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/TariqLampteyPrior.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/VictorCamarasa.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/scrapes/minutes_from_dict/VictorCamarasa.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/static/Maximin_Force.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/static/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/static/style2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/templates/switcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/templates/switcher.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/core/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_02.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_02.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_03.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_03.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_04.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_04.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_05.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_05.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_06.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_06.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_07.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_07.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_08.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_08.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_09.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_09.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_10.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_10.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_11.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_11.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_12.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_12.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_13.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_13.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_14.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_14.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_15.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_15.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_16.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_16.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_17.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/gameweek_17.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/ownership.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_19_20/fantrax_django/score_predictor/ownership.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/.jovianrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/The88/functions88.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/The88/functions88.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/Squad_Links.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/Squad_Links.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/fantrax_xis.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/fantrax_xis.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/luck.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/luck.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/norm_scores.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/norm_scores.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/player_names.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/player_names.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/rosters.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/fixtures/rosters.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/main88.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/main88.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/management/commands/populate_norm_scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/management/commands/populate_norm_scores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/management/commands/populate_player_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/management/commands/populate_player_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/management/commands/populate_season_fixtures.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/management/commands/populate_season_fixtures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/static/framework/norm_scores.js" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/static/framework/norm_scores.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/templates/eighty_eight_agg.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/templates/eighty_eight_agg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/templates/eighty_eight_landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/templates/eighty_eight_landing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/templates/norm_score.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/templates/norm_score.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/templates/player_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/templates/player_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/templates/season_fixtures.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/templates/season_fixtures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/core/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/heroku.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/heroku.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/score_predictor/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/score_predictor/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/scraper/fantrax_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/scraper/fantrax_scraper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/scraper/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/scraper/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/scraper/investment_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_20_21/score_predictor/scraper/investment_maker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fantrax_20_21/seaborn_plots/plot_scores.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_names.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_names.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/main88.py" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/main88.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/main_predictor.py" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/main_predictor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_player_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_player_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_player_scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_player_scores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_season_fixtures.py" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_season_fixtures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/player_list/player_list_and_profile_funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/player_list/player_list_and_profile_funcs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/framework/club_colours.js" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/framework/club_colours.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/aaron-connolly.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/aaron-connolly.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/aaron-cresswell.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/aaron-cresswell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/aaron-ramsdale.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/aaron-ramsdale.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/aaron-wan-bissaka.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/aaron-wan-bissaka.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/abdoulaye-doucoure.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/abdoulaye-doucoure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/adam-lallana.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/adam-lallana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/adam-webster.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/adam-webster.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/adama-traore.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/adama-traore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ademola-lookman.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ademola-lookman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/adrian.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/adrian.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ainsley-maitland-niles.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ainsley-maitland-niles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alex-iwobi.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alex-iwobi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alex-mccarthy.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alex-mccarthy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alex-oxlade-chamberlain.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alex-oxlade-chamberlain.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alex-telles.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alex-telles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alexandre-lacazette.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alexandre-lacazette.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alexis-mac-allister.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alexis-mac-allister.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alisson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alisson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/allan-saint-maximin.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/allan-saint-maximin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/allan.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/allan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alphonse-areola.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/alphonse-areola.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andi-zeqiri.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andi-zeqiri.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andre-gomes.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andre-gomes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andreas-christensen.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andreas-christensen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andrew-robertson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andrew-robertson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andriy-yarmolenko.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andriy-yarmolenko.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andros-townsend.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/andros-townsend.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/angelo-ogbonna.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/angelo-ogbonna.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/anthony-martial.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/anthony-martial.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/antonio-rudiger.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/antonio-rudiger.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/anwar-el-ghazi.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/anwar-el-ghazi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/arthur-masuaku.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/arthur-masuaku.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ashley-barnes.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ashley-barnes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ashley-westwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ashley-westwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/axel-tuanzebe.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/axel-tuanzebe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/aymeric-laporte.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/aymeric-laporte.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ayoze-perez.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ayoze-perez.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-chilwell.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-chilwell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-davies.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-davies.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-godfrey.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-godfrey.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-johnson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-johnson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-mee.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-mee.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ben-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/benjamin-mendy.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/benjamin-mendy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/bernardo-silva.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/bernardo-silva.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/bernd-leno.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/bernd-leno.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/bertrand-traore.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/bertrand-traore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/billy-gilmour.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/billy-gilmour.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/brandon-williams.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/brandon-williams.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/bruno-fernandes.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/bruno-fernandes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/bukayo-saka.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/bukayo-saka.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/caglar-soyuncu.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/caglar-soyuncu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/callum-hudson-odoi.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/callum-hudson-odoi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/callum-wilson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/callum-wilson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/calum-chambers.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/calum-chambers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/caoimhin-kelleher.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/caoimhin-kelleher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/cedric-soares.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/cedric-soares.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/cesar-azpilcueta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/charlie-taylor.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/charlie-taylor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/che-adams.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/che-adams.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/cheikhou-kouyate.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/cheikhou-kouyate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/chris-wood.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/chris-wood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/christian-benteke.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/christian-benteke.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/christian-pulisic.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/christian-pulisic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ciaran-clark.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ciaran-clark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/conor-coady.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/conor-coady.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/conor-gallagher.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/conor-gallagher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/craig-dawson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/craig-dawson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/curtis-jones.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/curtis-jones.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dale-stephens.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dale-stephens.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dan-burn.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dan-burn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dane-scarlett.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dane-scarlett.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/daniel-amartey.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/daniel-amartey.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/daniel-james.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/daniel-james.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/daniel-podence.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/daniel-podence.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/danny-ings.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/danny-ings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/danny-welbeck.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/danny-welbeck.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/david-de-gea.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/david-de-gea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/davinson-sanchez.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/davinson-sanchez.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dean-henderson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dean-henderson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/declan-rice.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/declan-rice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dele-alli.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dele-alli.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/diego-llorente.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/diego-llorente.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/diogo-jota.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/diogo-jota.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/divock-origi.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/divock-origi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dominic-calvert-lewin.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dominic-calvert-lewin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/donny-van-de-beek.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/donny-van-de-beek.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/douglas-luiz.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/douglas-luiz.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dwight-gayle.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dwight-gayle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dwight-mcneil.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/dwight-mcneil.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/eberechi-eze.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/eberechi-eze.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/eddie-nketiah.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/eddie-nketiah.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ederson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ederson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/edinson-cavani.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/edinson-cavani.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/edouard-mendy.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/edouard-mendy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/elliot-anderson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/elliot-anderson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/emerson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/emerson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/emil-krafth.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/emil-krafth.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/emile-smith-rowe.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/emile-smith-rowe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/emiliano-martinez.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/emiliano-martinez.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/eric-bailly.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/eric-bailly.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/eric-dier.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/eric-dier.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/erik-pieters.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/erik-pieters.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ezri-konsa-ngoyo.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ezri-konsa-ngoyo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fabian-delph.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fabian-delph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fabian-schar.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fabian-schar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fabinho.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fabinho.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fabio-silva.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fabio-silva.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/federico-fernandez.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/federico-fernandez.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fernandinho.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fernandinho.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ferran-torres.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ferran-torres.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fraser-forster.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fraser-forster.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fred.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/fred.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/gabriel-jesus.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/gabriel-jesus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/gabriel-magalhaes.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/gabriel-magalhaes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/gabriel-martinelli.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/gabriel-martinelli.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/georginio-wjinaldum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/giovani-lo-celso.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/giovani-lo-celso.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/granit-xhaka.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/granit-xhaka.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/hakim-ziyech.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/hakim-ziyech.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/hamza-choudhury.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/hamza-choudhury.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/harry-kane.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/harry-kane.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/harry-maguire.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/harry-maguire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/harry-winks.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/harry-winks.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/harvey-barnes.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/harvey-barnes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/helder-costa.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/helder-costa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/hugo-lloris.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/hugo-lloris.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ian-poveda-ocampo.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ian-poveda-ocampo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ibrahima-diallo.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ibrahima-diallo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ilkay-gundogan.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ilkay-gundogan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/illan-meslier.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/illan-meslier.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/isaac-hayden.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/isaac-hayden.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/issa-diop.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/issa-diop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jack-cork.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jack-cork.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jack-grealish.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jack-grealish.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jack-harrison.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jack-harrison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jack-stephens.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jack-stephens.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jacob-murphy.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jacob-murphy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jacob-ramsey.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jacob-ramsey.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jairo-riedewald.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jairo-riedewald.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jakub-moder.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jakub-moder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jamaal-lascelles.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jamaal-lascelles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jamal-lewis.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jamal-lewis.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-justin.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-justin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-maddison.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-maddison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-mcarthur.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-mcarthur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-milner.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-milner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-tarkowski.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-tarkowski.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-tomkins.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-tomkins.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-ward-prowse.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/james-ward-prowse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jamie-shackleton.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jamie-shackleton.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jamie-vardy.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jamie-vardy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jan-bednarek.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jan-bednarek.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jannik-vestergaard.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jannik-vestergaard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/japhet-tanganga.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/japhet-tanganga.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jarrod-bowen.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jarrod-bowen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/javier-manquillo.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/javier-manquillo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jay-rodriguez.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jay-rodriguez.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jean-philippe-gbamin.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jean-philippe-gbamin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jean-philippe-mateta.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jean-philippe-mateta.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jeff-hendrick.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jeff-hendrick.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jeffrey-schlupp.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jeffrey-schlupp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jesse-lingard.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jesse-lingard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joachim-andersen.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joachim-andersen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joao-cancelo.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joao-cancelo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joao-moutinho.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joao-moutinho.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joao-virginia.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joao-virginia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joe-rodon.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joe-rodon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joel-matip.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joel-matip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joel-veltman.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joel-veltman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joel-ward.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joel-ward.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joelinton.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joelinton.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/johann-gudmundsson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/johann-gudmundsson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/john-mcginn.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/john-mcginn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/john-ruddy.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/john-ruddy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/john-stones.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/john-stones.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jonjo-shelvey.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jonjo-shelvey.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jonny-evans.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jonny-evans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jonny.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jonny.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jordan-ayew.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jordan-ayew.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jordan-henderson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jordan-henderson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jordan-pickford.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jordan-pickford.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jorginho.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/jorginho.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joseph-gomez.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joseph-gomez.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joseph-willock.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joseph-willock.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/josh-brownhill.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/josh-brownhill.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/josh-maja.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/josh-maja.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joshua-king.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/joshua-king.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/juan-mata.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/juan-mata.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kai-havertz.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kai-havertz.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kalvin-phillips.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kalvin-phillips.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/karl-darlow.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/karl-darlow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kasper-schmeichel.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kasper-schmeichel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/keinan-davis.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/keinan-davis.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kelechi-iheanacho.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kelechi-iheanacho.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kepa-arrizabalaga.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kepa-arrizabalaga.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kevin-de-bruyne.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kevin-de-bruyne.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kevin-long.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kevin-long.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ki-jana-hoever.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ki-jana-hoever.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kieran-tierney.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kieran-tierney.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/konstantinos-tsimikas.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/konstantinos-tsimikas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kortney-hause.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kortney-hause.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kurt-zouma.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kurt-zouma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kyle-walker-peters.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kyle-walker-peters.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kyle-walker.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/kyle-walker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/leander-dendoncker.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/leander-dendoncker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/leandro-trossard.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/leandro-trossard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/lewis-dunk.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/lewis-dunk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/lewis-richardson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/lewis-richardson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/liam-cooper.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/liam-cooper.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/lucas-digne.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/lucas-digne.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/lucas-moura.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/lucas-moura.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/luka-milivojevic.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/luka-milivojevic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/lukasz-fabianski.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/lukasz-fabianski.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/luke-ayling.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/luke-ayling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/luke-shaw.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/luke-shaw.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/luke-thomas.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/luke-thomas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/manuel-lanzini.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/manuel-lanzini.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/marc-albrighton.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/marc-albrighton.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/marcal.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/marcal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/marcos-alonso.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/marcos-alonso.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/marcus-rashford.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/marcus-rashford.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mark-noble.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mark-noble.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/martin-dubravka.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/martin-dubravka.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/martin-odegaard.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/martin-odegaard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/marvelous-nakamba.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/marvelous-nakamba.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mason-greenwood.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mason-greenwood.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mason-holgate.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mason-holgate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mason-mount.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mason-mount.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matej-vydra.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matej-vydra.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mateo-kovacic.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mateo-kovacic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mateusz-klich.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mateusz-klich.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matt-doherty.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matt-doherty.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matt-ritchie.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matt-ritchie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matt-targett.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matt-targett.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matthew-cash.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matthew-cash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matthew-longstaff.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matthew-longstaff.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matthew-lowton.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/matthew-lowton.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/maximilian-kilman.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/maximilian-kilman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/michael-keane.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/michael-keane.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/michael-obafemi.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/michael-obafemi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/michail-antonio.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/michail-antonio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/miguel-almiron.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/miguel-almiron.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mohamed-elneny.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mohamed-elneny.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mohamed-salah.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mohamed-salah.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mohammed-salisu.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/mohammed-salisu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/morgan-gibbs-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/morgan-gibbs-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/morgan-sanson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/morgan-sanson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/moussa-djenepo.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/moussa-djenepo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/moussa-sissoko.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/moussa-sissoko.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/naby-keita.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/naby-keita.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nampalys-mendy.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nampalys-mendy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathan-ake.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathan-ake.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathan-broadhead.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathan-broadhead.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathan-redmond.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathan-redmond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathan-tella.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathan-tella.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathaniel-clyne.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathaniel-clyne.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathaniel-phillips.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nathaniel-phillips.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/neal-maupay.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/neal-maupay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/neco-williams.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/neco-williams.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nelson-semedo.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nelson-semedo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nemanja-matic.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nemanja-matic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ngolo-kante.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ngolo-kante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nick-pope.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nick-pope.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nicolas-pepe.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/nicolas-pepe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/niels-nkounkou.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/niels-nkounkou.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/oleksandr-zinchenko.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/oleksandr-zinchenko.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ollie-watkins.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ollie-watkins.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/oriol-romeu.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/oriol-romeu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/owen-otasowie.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/owen-otasowie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ozan-kabak.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ozan-kabak.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pablo-fornals.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pablo-fornals.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pablo-mari.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pablo-mari.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pascal-gross.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pascal-gross.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pascal-struijk.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pascal-struijk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/patrick-bamford.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/patrick-bamford.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/paul-dummett.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/paul-dummett.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/paul-pogba.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/paul-pogba.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pedro-neto.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pedro-neto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/percy-tau.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/percy-tau.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/phil-bardsley.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/phil-bardsley.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/phil-foden.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/phil-foden.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pierre-emerick-aubameyang.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pierre-emerick-aubameyang.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pierre-emile-hojbjerg.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/pierre-emile-hojbjerg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/raheem-sterling.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/raheem-sterling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/raphinha.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/raphinha.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/raul-jimenez.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/raul-jimenez.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/rayan-ait-nouri.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/rayan-ait-nouri.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/reda-khadra.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/reda-khadra.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/reece-james.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/reece-james.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/reiss-nelson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/reiss-nelson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/rhys-williams.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/rhys-williams.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ricardo-pereira.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ricardo-pereira.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/richarlison.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/richarlison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/riyad-mahrez.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/riyad-mahrez.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/rob-holding.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/rob-holding.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/robert-sanchez.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/robert-sanchez.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/roberto-firmino.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/roberto-firmino.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/robin-koch.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/robin-koch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/robin-olsen.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/robin-olsen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/rodri.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/rodri.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/rodrigo.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/rodrigo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/romain-saiss.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/romain-saiss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ross-barkley.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ross-barkley.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ruben-dias.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ruben-dias.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ruben-loftus-cheek.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ruben-loftus-cheek.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ruben-neves.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ruben-neves.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/runar-alex-runarsson.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/runar-alex-runarsson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ryan-bertrand.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ryan-bertrand.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ryan-fraser.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ryan-fraser.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ryan-fredericks.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/ryan-fredericks.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/sadio-mane.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/sadio-mane.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/said-benrahma.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/said-benrahma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/scott-mctominay.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/scott-mctominay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/seamus-coleman.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/seamus-coleman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/sean-longstaff.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/sean-longstaff.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/serge-aurier.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/serge-aurier.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/sergio-reguilon.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/sergio-reguilon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/shola-shoretire.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/shola-shoretire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/solly-march.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/solly-march.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/son-heung-min.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/son-heung-min.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/steven-alzate.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/steven-alzate.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/steven-bergwijn.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/steven-bergwijn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/stuart-armstrong.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/stuart-armstrong.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/stuart-dallas.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/stuart-dallas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/takumi-minamino.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/takumi-minamino.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tanguy-ndombele.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tanguy-ndombele.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tariq-lamptey.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tariq-lamptey.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/theo-walcott.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/theo-walcott.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/thiago-silva.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/thiago-silva.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/thiago.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/thiago.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/thomas-partey.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/thomas-partey.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/timo-werner.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/timo-werner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/timothy-castagne.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/timothy-castagne.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tom-davies.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tom-davies.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tomas-soucek.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tomas-soucek.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/trent-alexander-arnold.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/trent-alexander-arnold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/trezeguet.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/trezeguet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tyler-roberts.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tyler-roberts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tyrick-mitchell.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tyrick-mitchell.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tyrone-mings.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/tyrone-mings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/vicente-guaita.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/vicente-guaita.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/victor-lindelof.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/victor-lindelof.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/virgil-van-dijk.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/virgil-van-dijk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/vladimir-coufal.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/vladimir-coufal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/wilfred-ndidi.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/wilfred-ndidi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/wilfried-zaha.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/wilfried-zaha.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/william-smallbone.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/william-smallbone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/willy-boly.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/willy-boly.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/willy-caballero.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/willy-caballero.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/yerry-mina.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/yerry-mina.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/youri-tielemans.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/youri-tielemans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/yves-bissouma.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/yves-bissouma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/zack-steffen.png" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/profile_pics/zack-steffen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/eighty_eight_agg.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/eighty_eight_agg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/eighty_eight_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/eighty_eight_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/eighty_eight_landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/eighty_eight_landing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/eighty_eight_single.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/eighty_eight_single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/norm_score.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/norm_score.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/player_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/player_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/player_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/player_profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/rankings.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/rankings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/score_predictor_landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/score_predictor_landing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/score_predictor_overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/score_predictor_overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/season_fixtures.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/season_fixtures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/single_fixture.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/single_fixture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/switcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/switcher.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/analysis_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/analysis_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_analysis/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_analysis/docker-compose.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +572,17 @@
     <favorites_list name="fantrax_django" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="159" column="7" selection-start-line="159" selection-start-column="7" selection-end-line="159" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,124 +594,165 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Brandon Pierrick</find>
-      <find>robinson</find>
-      <find>callum</find>
-      <find>Dennis Srbeny</find>
-      <find>Dimitri Foulquier</find>
-      <find>Emile Smith Rowe</find>
-      <find>Florin Andone</find>
-      <find>Georges-Kevin Nkoudou</find>
-      <find>nathan h</find>
-      <find>Ravel Morrison</find>
-      <find>sort</find>
-      <find>team</find>
-      <find>walker</find>
-      <find>rose</find>
-      <find>(prior)</find>
-      <find>-p</find>
-      <find>walker-</find>
-      <find>bennet</find>
-      <find>insert_leavers</find>
-      <find>amp</find>
-      <find>pred_0</find>
-      <find>FirstWeekPred</find>
-      <find>range</find>
-      <find>name</find>
-      <find>Name</find>
-      <find>pred_9</find>
-      <find>9</find>
-      <find>pred</find>
-      <find>up_until_gw</find>
-      <find>16</find>
+      <find>holding</find>
+      <find>salib</find>
+      <find>diop</find>
+      <find>chalobah</find>
+      <find>elneny</find>
+      <find>emerson</find>
+      <find>ritchie</find>
+      <find>dennis</find>
+      <find>spence</find>
+      <find>digne</find>
+      <find>undav</find>
+      <find>jack step</find>
+      <find>fofana</find>
+      <find>fredericks</find>
+      <find>freder</find>
+      <find>bednarek</find>
+      <find>reid</find>
+      <find>ogbonna</find>
+      <find>schar</find>
+      <find>lasce</find>
+      <find>luke t</find>
+      <find>rondon</find>
+      <find>maupay</find>
+      <find>diaz</find>
+      <find>jota</find>
+      <find>drameh</find>
+      <find>mara</find>
+      <find>niles</find>
+      <find>gilmour</find>
+      <find>martinez</find>
     </findStrings>
+    <replaceStrings>
+      <replace>xj5bmf9wkesfs16i</replace>
+      <replace>PlayerScoresMinutes</replace>
+      <replace>analysis_app</replace>
+      <replace>Josh Brown</replace>
+      <replace>Jeremy N</replace>
+      <replace>Jurgen</replace>
+      <replace>Tyrone</replace>
+      <replace>NOT</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Fantrax_22_23</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/score_predictor/core/static/style2.css" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixture_amp.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/templates/rankings.html" />
-        <option value="$PROJECT_DIR$/score_predictor/core/templates/fixtures.html" />
-        <option value="$PROJECT_DIR$/score_predictor/core/prediction_maker/fixture_amp.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/templates/season_fixtures.html" />
-        <option value="$PROJECT_DIR$/score_predictor/core/templates/eighty_eight_landing.html" />
-        <option value="$PROJECT_DIR$/score_predictor/core/templates/eighty_eight_single.html" />
-        <option value="$PROJECT_DIR$/score_predictor/core/scrapes/transfermarkt/player_image_scrape.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/management/commands/populate_table_predictions.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/management/commands/populate_season_fixtures.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/management/commands/player_scores.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/management/commands/populate_first_gwpredictions.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/urls.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/templates/score_predictor_landing.html" />
-        <option value="$PROJECT_DIR$/score_predictor/core/models.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/templates/score_predictor_overview.html" />
-        <option value="$PROJECT_DIR$/score_predictor/core/scrapes/player_image_scrape.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/scrapes/copy_minutes_files_names.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/management/commands/populate_player_names.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/management/commands/populate_player_scores.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/predicted_league_tables/mapping.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/scrapes/player_minutes_scrape.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/player_names.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_01.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_02.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_03.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_04.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_05.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_06.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_07.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_08.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_09.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_10.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_11.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_12.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_13.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_14.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_15.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_16.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_17.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_18.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_19.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_20.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/first_week_predictions.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/management/commands/populate_first_week_pred.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/templates/eighty_eight_agg.html" />
-        <option value="$PROJECT_DIR$/score_predictor/core/main88.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/fixtures/predicted_league_tables/rankings.csv" />
-        <option value="$PROJECT_DIR$/score_predictor/core/main_predictor.py" />
-        <option value="$PROJECT_DIR$/score_predictor/core/views.py" />
+        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/single_fixture.html" />
+        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/switcher.html" />
+        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/player_list.html" />
+        <option value="$PROJECT_DIR$/Fantrax_21_22/create_combined_minute_data.py" />
+        <option value="$PROJECT_DIR$/Fantrax_19_20/links/whu_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_19_20/minute_data/whu_minute_data.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_19_20/minute_data/combined_minute_data.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_20_21/links/bur_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_20_21/minute_data/bur_minute_data.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_19_20/links/bha_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_19_20/minute_data/bha_minute_data.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_19_20/links/avl_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_19_20/minute_data/avl_minute_data.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_20_21/links/avl_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_20_21/minute_data/avl_minute_data.csv" />
+        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/framework/club_colours.js" />
+        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/player_profile.html" />
+        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/player_list/player_list_and_profile_funcs.py" />
+        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_player_names.py" />
+        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/models.py" />
+        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_player_scores.py" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/mun_link.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/create_norm_scores.py" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/create_norm_scores_excel.py" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/cry_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/formatting.py" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/brf_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/mci_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/tot_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/che_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/bou_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/not_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/whu_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/new_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/lei_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/avl_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/create_investment_list.py" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/eve_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/liv_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/lee_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/ful_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/wol_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/sou_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/bha_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/ownership.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/mun_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/links/ars_links.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/fantrax_scraper.py" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/fixtures.csv" />
+        <option value="$PROJECT_DIR$/Fantrax_22_23/initial_conditions.csv" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/fantrax_django.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fantrax_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantrax_django" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/score_predictor/core/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Fantrax_22_23" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/score_predictor/core/static" />
-      <recent name="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks" />
-      <recent name="$PROJECT_DIR$/score_predictor/core/fixtures" />
+      <recent name="$PROJECT_DIR$/Fantrax_22_23" />
+      <recent name="$PROJECT_DIR$/Fantrax_21_22" />
+      <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_minute_scores/Fantrax_20_21" />
+      <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_minute_scores/Fantrax_21_22" />
+      <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/gw_fixtures" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/score_predictor/core/scrapes" />
-      <recent name="$PROJECT_DIR$/score_predictor/core/fixtures" />
-      <recent name="$PROJECT_DIR$/score_predictor/core/management" />
-      <recent name="$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks" />
-      <recent name="$PROJECT_DIR$/score_predictor/core/fixtures/predicted_league_tables" />
+      <recent name="$PROJECT_DIR$/Fantrax_22_23/initial_conditions_prior" />
+      <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_minute_scores/full_season_scores" />
+      <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_minute_scores" />
+      <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app" />
+      <recent name="$PROJECT_DIR$/Fantrax_19_20" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -178,6 +789,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="fantrax_env" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="fantrax_django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Envs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Envs/fantrax_env" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -193,20 +825,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="804" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49679488" visible="true" weight="0.20366456" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49679488" visible="true" weight="0.28751975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5032051" side_tool="true" weight="0.22262509" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32771084" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32650602" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49964765" visible="true" weight="0.30617976" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49964765" weight="0.37029704" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.31686747" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -214,7 +846,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49679488" visible="true" weight="0.20366456" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49679488" visible="true" weight="0.20295984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5032051" side_tool="true" weight="0.22262509" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -225,7 +857,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49964765" visible="true" weight="0.2626506" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49964765" visible="true" weight="0.42891565" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.31686747" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -235,366 +867,483 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Fantrax_21_22/links/ars_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/forms.py">
+    <entry file="file://$PROJECT_DIR$/Fantrax_21_22/links/cry_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="314">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_21_22/initial_conditions.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_21_22/fantrax_scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="52" column="18" lean-forward="true" selection-end-line="131" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/ars_minute_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/avl_minute_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/eve_minute_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/mun_minute_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_names.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_minute_scores/complete_players_minutes.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_21_22/create_norm_scores_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4254">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/distributions.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_analysis/analysis_app/main_predictor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="500" lean-forward="true" selection-start-line="500" selection-end-line="500" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_21_22/create_investment_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="133" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_player_scores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/formatting.py" />
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/create_norm_scores_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4440">
+          <caret line="299" column="11" selection-start-line="299" selection-start-column="7" selection-end-line="299" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/not_minute_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/sou_minute_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/bha_minute_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/brf_minute_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/che_minute_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/initial_conditions_prior/initial_conditions_promoted.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="54" column="11" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/tot_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/cry_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/brf_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/che_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/bou_minute_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/mci_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/not_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/whu_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/new_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/eve_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/liv_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/lee_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/ful_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/wol_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/bou_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/sou_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/avl_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/initial_conditions_prior/initial_conditions_last_year.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="167">
+          <caret line="393" column="13" selection-start-line="393" selection-start-column="6" selection-end-line="393" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/lei_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/bha_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/ownership.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="178">
+          <caret line="82" column="17" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/mun_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/ars_links.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/initial_conditions.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="354">
+          <caret line="403" lean-forward="true" selection-start-line="403" selection-end-line="403" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/create_investment_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="27" column="99" selection-start-line="27" selection-start-column="88" selection-end-line="27" selection-end-column="99" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/templates/score_predictor_overview.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/scrapes/minutes/AndreasChristensen.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/scrapes/player_image_scrape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="43" column="48" lean-forward="true" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/scrapes/copy_minutes_files_names.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/management/commands/populate_player_names.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/fixtures.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="152">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/all_player_minutes.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/scrapes/minutes_from_dict/AdalbertoPeñaranda.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/predicted_league_tables/mapping.csv">
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/fantrax_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="542" column="31" lean-forward="true" selection-start-line="542" selection-start-column="31" selection-end-line="542" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/management/commands/populate_player_scores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-650">
-          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+        <state relative-caret-position="400">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
           <folding>
-            <element signature="e#91#142#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_23.csv">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="612" column="7" selection-start-line="612" selection-start-column="1" selection-end-line="612" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/player_names.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="130" column="10" lean-forward="true" selection-start-line="130" selection-start-column="10" selection-end-line="130" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_01.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="134" column="11" lean-forward="true" selection-start-line="134" selection-start-column="11" selection-end-line="134" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_03.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="172" column="30" lean-forward="true" selection-start-line="172" selection-start-column="30" selection-end-line="172" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_02.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="134" column="26" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_04.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="142" column="21" selection-start-line="142" selection-start-column="14" selection-end-line="142" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_05.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="298" column="13" selection-start-line="298" selection-start-column="13" selection-end-line="298" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_06.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="315" column="7" selection-start-line="315" selection-start-column="7" selection-end-line="315" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_07.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="313" column="11" lean-forward="true" selection-start-line="313" selection-start-column="11" selection-end-line="313" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_08.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="322" column="27" selection-start-line="322" selection-start-column="20" selection-end-line="322" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_09.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="311" column="27" selection-start-line="311" selection-start-column="20" selection-end-line="311" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_10.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="361" column="22" selection-start-line="361" selection-start-column="15" selection-end-line="361" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_11.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="329" column="22" lean-forward="true" selection-start-line="329" selection-start-column="22" selection-end-line="329" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_12.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="334" column="27" selection-start-line="334" selection-start-column="27" selection-end-line="334" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_13.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="323" column="14" selection-start-line="323" selection-start-column="14" selection-end-line="323" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_15.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="329" column="18" lean-forward="true" selection-start-line="329" selection-start-column="18" selection-end-line="329" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_14.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="329" column="12" selection-start-line="329" selection-start-column="12" selection-end-line="329" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_16.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="332" column="12" selection-start-line="332" selection-start-column="12" selection-end-line="332" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_17.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="302" column="5" lean-forward="true" selection-start-line="302" selection-start-column="5" selection-end-line="302" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_18.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="328" column="27" selection-start-line="328" selection-start-column="20" selection-end-line="328" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_19.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="331" column="13" selection-start-line="331" selection-start-column="13" selection-end-line="331" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_21.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="332" column="10" lean-forward="true" selection-start-line="332" selection-start-column="10" selection-end-line="332" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_20.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="343" column="23" selection-start-line="343" selection-start-column="23" selection-end-line="343" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/gameweeks/GW_25.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="313" column="13" selection-start-line="313" selection-start-column="6" selection-end-line="313" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/first_week_predictions.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="601" column="26" lean-forward="true" selection-start-line="601" selection-start-column="26" selection-end-line="601" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/management/commands/populate_table_predictions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/management/commands/populate_first_week_pred.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="e#102#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Library/Caches/PyCharmCE2019.1/python_stubs/1979123889/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="4782" column="8" selection-start-line="4782" selection-start-column="8" selection-end-line="4782" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/templates/eighty_eight_agg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/main88.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/predicted_league_tables/ranked_matches.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="300" column="28" lean-forward="true" selection-start-line="300" selection-start-column="28" selection-end-line="300" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/predicted_league_tables/fixtures.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5230" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/fixtures/predicted_league_tables/rankings.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/main_predictor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="118" column="10" selection-start-line="118" selection-start-column="10" selection-end-line="118" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/scrapes/player_minutes_scrape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="87" column="27" lean-forward="true" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_predictor/core/The88/functions88.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="136" column="15" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="562">
+          <caret line="159" column="7" selection-start-line="159" selection-start-column="7" selection-end-line="159" selection-end-column="7" />
         </state>
       </provider>
     </entry>

@@ -2,10 +2,10 @@
 
 {% block breadcrumbs %}
 <li class="breadcrumb-item">
-    <a href="{% url 'core:switcher' %}">Home</a>
+    <a href="{% url 'analysis_app:switcher' %}">Home</a>
 </li>
 <li class="breadcrumb-item active" aria-current="page">
-    <a href="{% url 'core:player_list' %}">Player List</a>
+    <a href="{% url 'analysis_app:player_list' %}">Player List</a>
 </li>
 {% endblock %}
 
@@ -26,7 +26,7 @@
                 <tbody class="tbody">
                 {% for obj in object_list %}
                     <tr>
-                        <td><a href="{% url 'core:player_profile' obj.name|slugify %}">{{obj.name}}</a></td>
+                        <td><a href="{% url 'analysis_app:player_profile' obj.name|slugify %}">{{obj.name}}</a></td>
                         <td>{{obj.team}}</td>
                         <td>{{obj.position}}</td>
                     </tr>

@@ -1,8 +1,8 @@
 {% extends "base.html" %}
 
 {% block breadcrumbs %}
-<li class="breadcrumb-item"><a href="{% url 'core:switcher' %}">Home</a></li>
-<li class="breadcrumb-item active" aria-current="page"><a href="{% url 'core:theeightyeight' %}">Eighty Eight</a></li>
+<li class="breadcrumb-item"><a href="{% url 'analysis_app:switcher' %}">Home</a></li>
+<li class="breadcrumb-item active" aria-current="page"><a href="{% url 'analysis_app:theeightyeight' %}">Eighty Eight</a></li>
 {% endblock %}
 
 {% block content %}
@@ -11,10 +11,10 @@
     <div style="height: 50px;"></div>
 
     <h5>The 88</h5>
-    <a href="{% url 'core:single88' %}">View Single Week (Hard Coded)</a>
+    <a href="{% url 'analysis_app:single88' %}">View Single Week (Hard Coded)</a>
     <br>
-    <a href="{% url 'core:agg88' %}">View Aggregate Score (Hard Coded)</a><br>
-    <a href="{% url 'core:theeightyeightform' %}">The 88 Form</a><br>
+    <a href="{% url 'analysis_app:agg88' %}">View Aggregate Sanalysis_app (Hard Coded)</a><br>
+    <a href="{% url 'analysis_app:theeightyeightform' %}">The 88 Form</a><br>
     <p>Browse by Ownership</p>
     <p>Browse by Club</p>
 

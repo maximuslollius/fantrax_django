@@ -2,25 +2,25 @@
 
 {% block breadcrumbs %}
 <li class="breadcrumb-item">
-    <a href="{% url 'core:switcher' %}">Home</a>
+    <a href="{% url 'analysis_app:switcher' %}">Home</a>
 </li>
 <li class="breadcrumb-item active" aria-current="page">
-    <a href="{% url 'core:score_predictor' %}">Score Predictor</a>
+    <a href="{% url 'analysis_app:sanalysis_app_predictor' %}">Sanalysis_app Predictor</a>
 </li>
 {% endblock %}
 
 {% block content %}
 
-    <h3>Score Predictor</h3>
+    <h3>Sanalysis_app Predictor</h3>
     <div style="height: 50px;"></div>
 
     <h5>Opposition Ranker</h5>
-    <a href="{% url 'core:rankings' %}">Rankings</a>
+    <a href="{% url 'analysis_app:rankings' %}">Rankings</a>
     <br>
-    <a href="{% url 'core:season_fixtures' %}">Matches</a>
+    <a href="{% url 'analysis_app:season_fixtures' %}">Matches</a>
 
-    <h5>Score Predictor</h5>
-    <a href="{% url 'core:browse_club' %}">Browse by Club</a>
+    <h5>Sanalysis_app Predictor</h5>
+    <a href="{% url 'analysis_app:browse_club' %}">Browse by Club</a>
     <p>Pick my Best Team</p>
 
 

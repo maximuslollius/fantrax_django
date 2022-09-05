@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
-from core.The88.functions88 import call_gameweeks, team_creator
-from core.models import PlayerNames
+from analysis_app.The88.functions88 import call_gameweeks, team_creator
+from analysis_app.models import PlayerNames
 
 
 def call_single_88(ee_inputs):

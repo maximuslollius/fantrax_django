@@ -4,7 +4,7 @@ A command module to take the season fixture list from .csv to json and upload in
 
 from django.core.management.base import BaseCommand
 from django.db import transaction
-from core.models import SeasonFixtures, PredictedTable
+from analysis_app.models import SeasonFixtures
 
 import os
 import pandas as pd
@@ -25,7 +25,7 @@ class Command(BaseCommand):
         :return:
         '''
 
-        path_to_file = os.path.join(os.getcwd(), 'core', 'fixtures', file)
+        path_to_file = os.path.join(os.getcwd(), 'analysis_app', 'fixtures', 'gw_fixtures', file)
 
         with open(path_to_file) as f:
 
@@ -47,16 +47,10 @@ class Command(BaseCommand):
             SeasonFixtures.objects.create(
                 id=i,
                 gw=row[1]['GW'],
-                act_gw=row[1]['ACT_GW'],
-                game_order=row[1]['GAME_ORDER'],
-                act_game_order=row[1]['ACT_GAME_ORDER'],
                 home_team=row[1]['HOME'],
                 away_team=row[1]['AWAY'],
-                home_pct=row[1]['HOME_538'],
-                away_pct=row[1]['AWAY_538'],
-                link=row[1]['link'],
-                home_formation=row[1]['HOME_FORMATION'],
-                away_formation=row[1]['AWAY_FORMATION']
+                home_pct=row[1]['HOME_SCORE'],
+                away_pct=row[1]['AWAY_SCORE'],
             )
 
     def handle(self, *args, **options):

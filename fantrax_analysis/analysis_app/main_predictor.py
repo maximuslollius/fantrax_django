@@ -1,21 +1,21 @@
 import pandas as pd
 import numpy as np
 # from core.predicotr.predictor_functions import gw_pred_one
-from core.models import PlayerScores, FirstWeekPred, PredictedTable, SeasonFixtures
+from analysis_app.models import PlayerScoresMinutes, SeasonFixtures
 import os
-from core.main88 import call_single_88, agg_single_gw
+from analysis_app.main88 import call_single_88, agg_single_gw
 import decimal
 
 
 def get_names():
     '''
-    Returns the names and basic (actual) scores from PlayerScores module.
+    Returns the names and basic (actual) scores from PlayerScoresMinutes module.
     :return: scored_df
     '''
     # Convert our two backends to df for manipulation
     from django_pandas.io import read_frame
     # read in the models required
-    scores_qs = PlayerScores.objects.all()
+    scores_qs = PlayerScoresMinutes.objects.all()
     scores_df = read_frame(scores_qs)
     pred_01_qs = FirstWeekPred.objects.all()
     pred_01_df = read_frame(pred_01_qs)

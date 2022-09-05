@@ -1,10 +1,10 @@
 {% extends "base.html" %}
 
 {% block breadcrumbs %}
-<li class="breadcrumb-item"><a href="{% url 'core:switcher' %}">Home</a></li>
-<li class="breadcrumb-item"><a href="{% url 'core:score_predictor' %}">Score Predictor</a></li>
+<li class="breadcrumb-item"><a href="{% url 'analysis_app:switcher' %}">Home</a></li>
+<li class="breadcrumb-item"><a href="{% url 'analysis_app:sanalysis_app_predictor' %}">Sanalysis_app Predictor</a></li>
 <li class="breadcrumb-item active" aria-current="page">
-    <a href="{% url 'core:season_fixtures' %}">Fixtures</a>
+    <a href="{% url 'analysis_app:season_fixtures' %}">Fixtures</a>
 </li>
 {% endblock %}
 
@@ -36,7 +36,7 @@
                         <td>{{ r.away_team }}</td>
                         <td>{{ r.home_pct }}</td>
                         <td>{{ r.away_pct }}</td>
-                        <td><a href="{% url 'core:single_fixture' r.link|slugify %}">{{r.link}}</a></td>
+                        <td><a href="{% url 'analysis_app:single_fixture' r.link|slugify %}">{{r.link}}</a></td>
                     </tr>
                 </a>
             {% endfor %}
