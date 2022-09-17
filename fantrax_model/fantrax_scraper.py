@@ -131,9 +131,11 @@ def handle(club_links):
     return total_data
 
 
-season_file_dict = {'2019-20': 'links_19_20', '2020-21': 'links_20_21',
-                    '2021-22': 'links_21_22', '2022-23': 'links_22_23'}
+season_file_dict = {'2019-20': ['links_19_20', 'minute_data_19_20'],
+                    '2020-21': ['links_20_21', 'minute_data_20_21'],
+                    '2021-22': ['links_21_22', 'minute_data_21_22'],
+                    '2022-23': ['links_22_23', 'minute_data_22_23']}
 
-club_links = pd.read_csv('player_url_links/' + season_file_dict[args.season] + '/' + args.club + '_links.csv')
+club_links = pd.read_csv('player_url_links/' + season_file_dict[args.season][0] + '/' + args.club + '_links.csv')
 club_data = handle(club_links)
-club_data.to_csv('minute_data/' + args.club + '_minute_data.csv')
+club_data.to_csv('minute_data/' + season_file_dict[args.season][1] + '/' + args.club + '_minute_data.csv')
