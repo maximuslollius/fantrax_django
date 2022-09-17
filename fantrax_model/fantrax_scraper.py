@@ -6,20 +6,28 @@ from selenium.webdriver.common.by import By
 import time
 from datetime import datetime
 import pandas as pd
+import argparse
 
 
+# Initialise Firefox:
 capabilities = DesiredCapabilities().FIREFOX
 capabilities["marionette"] = True
 browser = webdriver.Firefox(executable_path="/usr/local/Cellar/geckodriver/0.31.0/bin/geckodriver")
 wait = WebDriverWait(webdriver, 10)
 startTime = datetime.now()
 
+# Take in arguments from the command line:
+parser = argparse.ArgumentParser()
+parser.add_argument("-s", "--season", default="2022-23", help="The EPL Season of interest")
+parser.add_argument("-c", "--club",  help="The EPL club of interest")
+args = parser.parse_args()
+
 
 def fantrax_login():
-    '''
+    """
     A login to fantrax so when we try to get the player bio page we are already logged in
     :return:
-    '''
+    """
     browser.get('https://www.fantrax.com/login')
     time.sleep(10)
     Input_Username = browser.find_element_by_id('mat-input-0')
@@ -123,11 +131,9 @@ def handle(club_links):
     return total_data
 
 
-# ['ars', 'avl', 'bha', 'bou', 'brf', 'che', 'cry', 'eve', 'ful', 'lee',
-#  'lei', 'liv', 'mci', 'mun', 'new', 'not', 'sou', 'tot', 'whu', 'wol']
-links = ['ars']
+season_file_dict = {'2019-20': 'links_19_20', '2020-21': 'links_20_21',
+                    '2021-22': 'links_21_22', '2022-23': 'links_22_23'}
 
-for file in links:
-    club_links = pd.read_csv('links/' + file + '_links.csv')
-    club_data = handle(club_links)
-    club_data.to_csv('minute_data/' + file + '_minute_data.csv')
+club_links = pd.read_csv('player_url_links/' + season_file_dict[args.season] + '/' + args.club + '_links.csv')
+club_data = handle(club_links)
+club_data.to_csv('minute_data/' + args.club + '_minute_data.csv')

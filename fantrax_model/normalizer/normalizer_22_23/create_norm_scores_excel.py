@@ -298,7 +298,6 @@ def write_club_sheet(writer, df, clubname):
     df['opp_adj2'] = (df['opp_adj1'] - 33)/10
     df['DateNumeric'] = df['Date'].apply(lambda x: turn_date_numeric(x))
     df.sort_values(by=['club_pos_id', 'player', 'GW', 'DateNumeric'], inplace=True)
-    # df['pre-avg'] = df.apply(lambda x: obtain_avg_five(x, df), axis=1)
     df['pre-avg'] = obtain_avg_five(df)
     df['pred'] = df['opp_adj2'] + df['pre-avg']
     df['return'] = df.apply(lambda x: calc_return(x), axis=1)
