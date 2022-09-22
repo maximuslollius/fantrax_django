@@ -1,12 +1,21 @@
 import pandas as pd
 import numpy as np
+from normalizer.get_norm_params import get_season_shorthand, get_current_clubs, get_gameweek_dates
+import os
+import argparse
+import xlsxwriter
 
-next_gameweek = 7
+# Take in arguments from the command line:
+parser = argparse.ArgumentParser()
+parser.add_argument("-s", "--season", default="2022-23", help="The EPL Season of interest")
+parser.add_argument("-ng", "--nextgw", help="The upcoming gameweek (as integer 1-38)")
+args = parser.parse_args()
 
-sheet_names = ['ars', 'avl', 'bha', 'bou', 'brf', 'che', 'cry', 'eve', 'ful', 'lee',
-               'lei', 'liv', 'mci', 'mun', 'new', 'not', 'sou', 'tot', 'whu', 'wol']
+next_gameweek = int(args.nextgw)
+season_short_hand = get_season_shorthand(args.season)
+sheet_names = clubs = get_current_clubs(args.season)
 
-fixtures = pd.read_csv('fixtures.csv')
+fixtures = pd.read_csv(os.path.join('fixtures', 'fixtures_{}'.format(season_short_hand), 'fixtures.csv'))
 fixtures = fixtures[fixtures['GW'] == next_gameweek]
 
 complete_norms = pd.DataFrame(columns=['Name', 'Pos', 'Pos ID', 'Date', 'Team', 'Opp', 'Result', 'FPts', 'Min', 'Start',
@@ -15,7 +24,8 @@ complete_norms = pd.DataFrame(columns=['Name', 'Pos', 'Pos ID', 'Date', 'Team', 
 
 for sheet_name in sheet_names:
     capitalised_clubname = sheet_name.upper()
-    club_df = pd.read_excel(open('FantraxXIs2022_23.xlsx', 'rb'), sheet_name=sheet_name, skiprows=5)
+    club_df = pd.read_excel(open(os.path.join('output', 'FantraxXIs20{}.xlsx'.format(season_short_hand)),
+                                 'rb'), sheet_name=sheet_name, skiprows=5)
     club_df.drop(['Unnamed: 0', 'Unnamed: 1'], axis=1, inplace=True)
     complete_norms = pd.concat([complete_norms, club_df], ignore_index=True)
 
@@ -37,7 +47,6 @@ def fivethirtyeight_next(x, fivethirtyeight):
         :return:
         '''
 
-    gw = x['GW']
     team = x['Team']
     my_fixture = fivethirtyeight[fivethirtyeight['FIXTURE_CODE'].str.contains(team)].reset_index()
 
