@@ -1,46 +1,49 @@
 player,pre,club_pos_id
 Aaron Ramsdale,10.6,1
 Takehiro Tomiyasu,12.7,2
-Ben White,11,3
-William Saliba,11,4
-Rob Holding,10.75,5
-Gabriel Magalhaes,11.35,6
-Kieran Tierney,13.1,7
-Oleksandr Zinchenko,15.5,8
-Mohamed Elneny,11.6,9
-Thomas Partey,11.95,10
-Albert Sambi Lokonga,11.55,11
-Granit Xhaka,9.05,12
-Fabio Vieira,10.9,13
-Ethan Nwaneri,10.5,14
-Martin Odegaard,12.75,15
-Emile Smith Rowe,15.75,16
-Bukayo Saka,15.25,17
-Gabriel Martinelli,16.25,18
-Marquinhos,14.75,19
-Gabriel Jesus,16.9,20
-Eddie Nketiah,14.8,21
+Cedric Soares,11.95,3
+Ben White,11,4
+William Saliba,11,5
+Rob Holding,10.75,6
+Gabriel Magalhaes,11.35,7
+Kieran Tierney,13.1,8
+Oleksandr Zinchenko,15.5,9
+Mohamed Elneny,11.6,10
+Thomas Partey,11.95,11
+Albert Sambi Lokonga,11.55,12
+Granit Xhaka,9.05,13
+Fabio Vieira,10.9,14
+Ethan Nwaneri,10.5,15
+Martin Odegaard,12.75,16
+Emile Smith Rowe,15.75,17
+Bukayo Saka,15.25,18
+Gabriel Martinelli,16.25,19
+Marquinhos,14.75,20
+Gabriel Jesus,16.9,21
+Eddie Nketiah,14.8,22
+Reiss Nelson,12.9,23
 Emiliano Martinez,9.7,1
-Matty Cash,13.2,2
-Calum Chambers,11.5,3
-Tyrone Mings,10.55,4
-Ezri Konsa,8.8,5
-Diego Carlos,11.4,6
-Jan Bednarek,11.8,7
-Lucas Digne,12.3,8
-Ludwig Augustinsson,11.3,9
-Ashley Young,10.5,10
-Douglas Luiz,11.15,11
-Boubacar Kamara,12.65,12
-Leander Dendoncker,10,13
-John McGinn,12.9,14
-Jacob Ramsey,11.8,15
-Philippe Coutinho,16,16
-Emiliano Buendia,15.75,17
-Leon Bailey,13.85,18
-Ollie Watkins,11.2,19
-Danny Ings,11.6,20
-Cameron Archer,6.35,21
+Robin Olsen,5.5,2
+Matty Cash,13.2,3
+Calum Chambers,11.5,4
+Tyrone Mings,10.55,5
+Ezri Konsa,8.8,6
+Diego Carlos,11.4,7
+Jan Bednarek,11.8,8
+Lucas Digne,12.3,9
+Ludwig Augustinsson,11.3,10
+Ashley Young,10.5,11
+Douglas Luiz,11.15,12
+Boubacar Kamara,12.65,13
+Leander Dendoncker,10,14
+John McGinn,12.9,15
+Jacob Ramsey,11.8,16
+Philippe Coutinho,16,17
+Emiliano Buendia,15.75,18
+Leon Bailey,13.85,19
+Ollie Watkins,11.2,20
+Danny Ings,11.6,21
+Cameron Archer,6.35,22
 Robert Sanchez,10,1
 Tariq Lamptey,14.25,2
 Joel Veltman,11.9,3
@@ -49,17 +52,19 @@ Adam Webster,10.8,5
 Jan-Paul van Hecke,11,6
 Pervis Estupinan,12.6,7
 Levi Colwill,12.6,8
-Pascal Gross,13.75,9
-Enock Mwepu,14.5,10
-Moises Caicedo,12.9,11
-Billy Gilmour,10.7,12
-Kaoru Mitoma,11.6,13
-Alexis Mac Allister,13.4,14
-Adam Lallana,9.85,15
-Solly March,13.85,16
+Enock Mwepu,14.5,9
+Moises Caicedo,12.9,10
+Billy Gilmour,10.7,11
+Kaoru Mitoma,11.6,12
+Alexis Mac Allister,13.4,13
+Adam Lallana,9.85,14
+Solly March,13.85,15
+Pascal Gross,13.75,16
 Leandro Trossard,12.3,17
 Danny Welbeck,13.15,18
 Deniz Undav,8.95,19
+Jeremy Sarmiento,12,20
+Julio Enciso,11.5,21
 Mark Travers,8.75,1
 Neto,9.75,2
 Adam Smith,11.35,3
@@ -225,26 +230,28 @@ Luis Sinisterra,12.45,18
 Sam Greenwood,14.2,19
 Joe Gelhardt,15.6,20
 Patrick Bamford,12,21
+Wilfried Gnonto,12,22
 Danny Ward,9.5,1
 James Justin,10.1,2
 Jonny Evans,11.65,3
 Daniel Amartey,9.4,4
-Wout Faes,10.5,5
-Timothy Castagne,12.2,6
-Luke Thomas,11.35,7
-Nampalys Mendy,8,8
-Wilfred Ndidi,12.5,9
-Boubakary Soumare,12.2,10
-Youri Tielemans,13.3,11
-Kiernan Dewsbury-Hall,11.9,12
-Marc Albrighton,12.75,13
-Dennis Praet,11.25,14
-Harvey Barnes,15.2,15
-James Maddison,15.1,16
-Ayoze Perez,19.45,17
-Patson Daka,13.6,18
-Jamie Vardy,13.9,19
-Kelechi Iheanacho,12.6,20
+Caglar Soyuncu,10.05,5
+Wout Faes,10.5,6
+Timothy Castagne,12.2,7
+Luke Thomas,11.35,8
+Nampalys Mendy,8,9
+Wilfred Ndidi,12.5,10
+Boubakary Soumare,12.2,11
+Youri Tielemans,13.3,12
+Kiernan Dewsbury-Hall,11.9,13
+Marc Albrighton,12.75,14
+Dennis Praet,11.25,15
+Harvey Barnes,15.2,16
+James Maddison,15.1,17
+Ayoze Perez,19.45,18
+Patson Daka,13.6,19
+Jamie Vardy,13.9,20
+Kelechi Iheanacho,12.6,21
 Alisson,12.2,1
 Trent Alexander-Arnold,18.7,2
 Joseph Gomez,14.85,3
@@ -260,13 +267,14 @@ Jordan Henderson,12.55,12
 James Milner,14,13
 Thiago,15.55,14
 Curtis Jones,13.3,15
-Harvey Elliott,12.6,16
-Fabio Carvalho,15.6,17
-Mohamed Salah,18.65,18
-Roberto Firmino,15.4,19
-Darwin Nunez,13.8,20
-Luis Diaz,17.25,21
-Diogo Jota,14.9,22
+Alex Oxlade-Chamberlain,14.65,16
+Harvey Elliott,12.6,17
+Fabio Carvalho,15.6,18
+Mohamed Salah,18.65,19
+Roberto Firmino,15.4,20
+Darwin Nunez,13.8,21
+Luis Diaz,17.25,22
+Diogo Jota,14.9,23
 Ederson,10.6,1
 Kyle Walker,11.4,2
 Rico Lewis,11,3
@@ -321,16 +329,17 @@ Jamal Lewis,9.7,9
 Matt Ritchie,10.7,10
 Sean Longstaff,11,11
 Joe Willock,12.75,12
-Elliot Anderson,11.8,13
-Bruno Guimaraes,16.4,14
-Ryan Fraser,11.5,15
-Jacob Murphy,13,16
-Miguel Almiron,12.6,17
-Joelinton,12.5,18
-Allan Saint-Maximin,14.9,19
-Alexander Isak,13.1,20
-Callum Wilson,11.3,21
-Chris Wood,8.6,22
+Jonjo Shelvey,9.5,13
+Elliot Anderson,11.8,14
+Bruno Guimaraes,16.4,15
+Ryan Fraser,11.5,16
+Jacob Murphy,13,17
+Miguel Almiron,12.6,18
+Joelinton,12.5,19
+Allan Saint-Maximin,14.9,20
+Alexander Isak,13.1,21
+Callum Wilson,11.3,22
+Chris Wood,8.6,23
 Dean Henderson,10.1,1
 Neco Williams,27.6,2
 Serge Aurier,15.9,3
@@ -349,8 +358,8 @@ Ryan Yates,11.6,15
 Cafu,12,16
 Lewis O'Brien,10.7,17
 Remo Freuler,10.7,18
-Morgan Gibbs-White,6.25,19
-Jesse Lingard,12.75,20
+Jesse Lingard,12.75,19
+Morgan Gibbs-White,6.25,20
 Alex Mighten,11.85,21
 Brennan Johnson,14.5,22
 Emmanuel Dennis,15.6,23
@@ -379,6 +388,7 @@ Adam Armstrong,10.25,20
 Che Adams,12.8,21
 Sekou Mara,11.4,22
 Samuel Edozie,10.4,23
+Theo Walcott,9.8,24
 Hugo Lloris,11.25,1
 Matt Doherty,17.05,2
 Djed Spence,14.45,3
@@ -398,7 +408,8 @@ Dejan Kulusevski,18.15,16
 Lucas Moura,15.5,17
 Son Heung-Min,19.1,18
 Richarlison,13,19
-Harry Kane,15.2,20
+Bryan Gil,13.1,20
+Harry Kane,15.2,21
 Lukasz Fabianski,10.2,1
 Alphonse Areola,6.5,2
 Vladimir Coufal,11.35,3
