@@ -2,37 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5958f1e4-39a5-4df8-99a0-85556de04114" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Fantrax_2019_20" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2019_20" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/The88/functions88.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/The88/functions88.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/Squad_Links.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/Squad_Links.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/fantrax_xis.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/fantrax_xis.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/luck.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/luck.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/norm_scores.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/norm_scores.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/player_names.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/player_names.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/rosters.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/fixtures/rosters.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/main88.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/main88.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/management/commands/populate_norm_scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/management/commands/populate_norm_scores.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/management/commands/populate_player_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/management/commands/populate_player_names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/management/commands/populate_season_fixtures.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/management/commands/populate_season_fixtures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/static/framework/norm_scores.js" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/static/framework/norm_scores.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/templates/eighty_eight_agg.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/templates/eighty_eight_agg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/templates/eighty_eight_landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/templates/eighty_eight_landing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/templates/norm_score.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/templates/norm_score.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/templates/player_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/templates/player_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/templates/season_fixtures.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/templates/season_fixtures.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/core/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/heroku.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/heroku.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/score_predictor/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/score_predictor/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/scraper/fantrax_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/scraper/fantrax_scraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/scraper/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Fantrax_2020_21/score_predictor/scraper/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/create_norm_scores_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/create_norm_scores_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/fixtures/fixtures_22_23/fixtures.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/fixtures/fixtures_22_23/fixtures.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/initial_conditions/ic_22_23/initial_conditions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/initial_conditions/ic_22_23/initial_conditions.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/invest_list.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/invest_list.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/ars_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/ars_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/avl_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/avl_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/bha_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/bha_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/bou_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/bou_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/brf_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/brf_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/che_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/che_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/cry_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/cry_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/eve_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/eve_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/ful_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/ful_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/lee_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/lee_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/lei_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/lei_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/liv_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/liv_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/mci_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/mci_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/mun_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/mun_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/new_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/new_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/not_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/not_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/sou_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/sou_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/tot_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/tot_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/whu_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/whu_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/wol_minute_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/wol_minute_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/output/FantraxXIs2022_23.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/output/FantraxXIs2022_23.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/ownership.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/ownership.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/avl_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/avl_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/bha_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/bha_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/che_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/che_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/eve_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/eve_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/lee_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/lee_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/liv_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/liv_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/mun_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/mun_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/new_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/new_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/not_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/not_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/tot_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/tot_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/whu_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/whu_links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/wol_links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/wol_links.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +52,32 @@
     <favorites_list name="fantrax_django" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fantrax_model/create_investment_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="162" selection-start-line="162" selection-end-line="162" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fantrax_model/fixtures/fixtures_22_23/fixtures.csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="299">
+              <caret line="166" column="25" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="25" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,36 +89,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>salib</find>
-      <find>diop</find>
-      <find>chalobah</find>
-      <find>elneny</find>
-      <find>emerson</find>
-      <find>ritchie</find>
-      <find>dennis</find>
-      <find>spence</find>
-      <find>digne</find>
-      <find>undav</find>
-      <find>jack step</find>
-      <find>fofana</find>
-      <find>fredericks</find>
-      <find>freder</find>
-      <find>bednarek</find>
-      <find>reid</find>
-      <find>ogbonna</find>
-      <find>schar</find>
-      <find>lasce</find>
-      <find>luke t</find>
-      <find>rondon</find>
-      <find>maupay</find>
-      <find>diaz</find>
-      <find>jota</find>
-      <find>drameh</find>
-      <find>mara</find>
-      <find>niles</find>
-      <find>gilmour</find>
+      <find>oxlade</find>
+      <find>walc</find>
+      <find>gross</find>
+      <find>shelv</find>
+      <find>soyuncu</find>
+      <find>kane</find>
+      <find>gil</find>
+      <find>faes</find>
+      <find>olsen</find>
       <find>martinez</find>
-      <find>idea</find>
+      <find>bamford</find>
+      <find>nket</find>
+      <find>nelson</find>
+      <find>tomiy</find>
+      <find>soares</find>
+      <find>sanson</find>
+      <find>manq</find>
+      <find>trippier</find>
+      <find>seme</find>
+      <find>tanganga</find>
+      <find>forster</find>
+      <find>ferguson</find>
+      <find>channon</find>
+      <find>calv</find>
+      <find>jota</find>
+      <find>ellio</find>
+      <find>thiago</find>
+      <find>henderson</find>
+      <find>henn</find>
+      <find>henness</find>
     </findStrings>
     <replaceStrings>
       <replace>xj5bmf9wkesfs16i</replace>
@@ -108,39 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/single_fixture.html" />
-        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/switcher.html" />
-        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/player_list.html" />
-        <option value="$PROJECT_DIR$/Fantrax_21_22/create_combined_minute_data.py" />
-        <option value="$PROJECT_DIR$/Fantrax_19_20/links/whu_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_19_20/minute_data/whu_minute_data.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_19_20/minute_data/combined_minute_data.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_20_21/links/bur_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_20_21/minute_data/bur_minute_data.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_19_20/links/bha_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_19_20/minute_data/bha_minute_data.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_19_20/links/avl_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_19_20/minute_data/avl_minute_data.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_20_21/links/avl_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_20_21/minute_data/avl_minute_data.csv" />
-        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/static/framework/club_colours.js" />
-        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/templates/player_profile.html" />
-        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/player_list/player_list_and_profile_funcs.py" />
-        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_player_names.py" />
-        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/models.py" />
-        <option value="$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_player_scores.py" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/links/mun_link.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/create_norm_scores.py" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/create_norm_scores_excel.py" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/links/cry_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/formatting.py" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/links/brf_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/links/mci_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/links/tot_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/links/che_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/links/bou_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/links/not_links.csv" />
-        <option value="$PROJECT_DIR$/Fantrax_22_23/links/whu_links.csv" />
         <option value="$PROJECT_DIR$/Fantrax_22_23/links/new_links.csv" />
         <option value="$PROJECT_DIR$/Fantrax_22_23/links/lei_links.csv" />
         <option value="$PROJECT_DIR$/Fantrax_22_23/links/avl_links.csv" />
@@ -159,16 +159,39 @@
         <option value="$PROJECT_DIR$/Fantrax_22_23/fixtures.csv" />
         <option value="$PROJECT_DIR$/Fantrax_22_23/initial_conditions.csv" />
         <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/fantrax_django.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/fantrax_model/main.py" />
+        <option value="$PROJECT_DIR$/fantrax_model/normalizer/normalizer_22_23/create_norm_scores_excel.py" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/mci_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/normalizer/normalizer_21_22/create_norm_scores_excel.py" />
+        <option value="$PROJECT_DIR$/fantrax_model/normalizer/get_norm_params.py" />
+        <option value="$PROJECT_DIR$/fantrax_model/create_investment_list.py" />
+        <option value="$PROJECT_DIR$/fantrax_model/the88.py" />
+        <option value="$PROJECT_DIR$/fantrax_model/initial_conditions/ic_21_22/initial_conditions.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/initial_conditions/ic_22_23/initial_conditions_prior/initial_conditions_last_year.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/brf_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/cry_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/bou_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/fantrax_scraper.py" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/sou_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/ownership.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/ful_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/lei_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/ars_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/create_norm_scores_excel.py" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/avl_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/new_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/tot_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/bha_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/wol_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/liv_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/whu_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/mun_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/eve_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/che_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/not_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/lee_links.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/initial_conditions/ic_22_23/initial_conditions.csv" />
+        <option value="$PROJECT_DIR$/fantrax_model/fixtures/fixtures_22_23/fixtures.csv" />
       </list>
     </option>
   </component>
@@ -182,7 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,31 +212,62 @@
               <item name="fantrax_django" type="b2602c69:ProjectViewProjectNode" />
               <item name="fantrax_django" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fantrax_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantrax_django" type="462c0819:PsiDirectoryNode" />
+              <item name="fantrax_model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantrax_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantrax_django" type="462c0819:PsiDirectoryNode" />
+              <item name="fantrax_model" type="462c0819:PsiDirectoryNode" />
+              <item name="fixtures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantrax_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantrax_django" type="462c0819:PsiDirectoryNode" />
+              <item name="fantrax_model" type="462c0819:PsiDirectoryNode" />
+              <item name="initial_conditions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantrax_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantrax_django" type="462c0819:PsiDirectoryNode" />
+              <item name="fantrax_model" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fantrax_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fantrax_django" type="462c0819:PsiDirectoryNode" />
+              <item name="fantrax_model" type="462c0819:PsiDirectoryNode" />
+              <item name="player_url_links" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Fantrax_22_23" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fantrax_model/initial_conditions/ic_21_22" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fantrax_model/initial_conditions/ic_21_22" />
+      <recent name="$PROJECT_DIR$/fantrax_model" />
       <recent name="$PROJECT_DIR$/Fantrax_22_23" />
       <recent name="$PROJECT_DIR$/Fantrax_21_22" />
       <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_minute_scores/Fantrax_20_21" />
-      <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_minute_scores/Fantrax_21_22" />
-      <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/gw_fixtures" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fantrax_model/normalizer/legacy" />
+      <recent name="$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23" />
       <recent name="$PROJECT_DIR$/Fantrax_22_23/initial_conditions_prior" />
       <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_minute_scores/full_season_scores" />
       <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_minute_scores" />
-      <recent name="$PROJECT_DIR$/fantrax_analysis/analysis_app" />
-      <recent name="$PROJECT_DIR$/Fantrax_19_20" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -295,9 +348,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49679488" visible="true" weight="0.28751975" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49679488" visible="true" weight="0.27906978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5032051" side_tool="true" weight="0.22262509" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -307,28 +360,28 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49921012" visible="true" weight="0.32970297" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49964765" weight="0.33168316" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49921012" weight="0.25148514" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49964765" visible="true" weight="0.36385542" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007899" side_tool="true" weight="0.32970297" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32771084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49679488" visible="true" weight="0.20295984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49679488" visible="true" weight="0.2085976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5032051" side_tool="true" weight="0.22262509" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32771084" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32650602" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49964765" visible="true" weight="0.42891565" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003524" side_tool="true" weight="0.31686747" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49921012" weight="0.25148514" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49964765" visible="true" weight="0.35180724" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007899" side_tool="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -395,479 +448,422 @@
     <option name="LAST_COMMIT_MESSAGE" value="Attempt to commit via PyCharm with a .gitignore" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Fantrax_21_22/links/cry_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="314">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_21_22/initial_conditions.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_21_22/fantrax_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="52" column="18" lean-forward="true" selection-end-line="131" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/ars_minute_data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/avl_minute_data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/eve_minute_data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/mun_minute_data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_names.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fantrax_analysis/analysis_app/fixtures/player_minute_scores/complete_players_minutes.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_21_22/create_norm_scores_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4254">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/distributions.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fantrax_analysis/analysis_app/main_predictor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="500" lean-forward="true" selection-start-line="500" selection-end-line="500" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_21_22/create_investment_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="133" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fantrax_analysis/analysis_app/management/commands/populate_player_scores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/formatting.py" />
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/create_norm_scores_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4440">
-          <caret line="299" column="11" selection-start-line="299" selection-start-column="7" selection-end-line="299" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/not_minute_data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/sou_minute_data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/bha_minute_data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/brf_minute_data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/che_minute_data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/initial_conditions_prior/initial_conditions_promoted.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="54" column="11" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/tot_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/cry_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/brf_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/che_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/minute_data/bou_minute_data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/mci_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/not_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/whu_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/new_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/eve_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/liv_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/lee_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/ful_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/wol_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/bou_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/sou_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/avl_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
-          <column index="0" width="100" />
-          <column index="1" width="100" />
-          <column index="2" width="100" />
-          <column index="3" width="100" />
-          <column index="4" width="100" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/initial_conditions_prior/initial_conditions_last_year.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="167">
-          <caret line="393" column="13" selection-start-line="393" selection-start-column="6" selection-end-line="393" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/lei_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/bha_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/ownership.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="178">
-          <caret line="82" column="17" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/mun_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/ars_links.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/initial_conditions.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
-          <column index="0" width="100" />
-          <column index="1" width="100" />
-          <column index="2" width="100" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="354">
-          <caret line="403" lean-forward="true" selection-start-line="403" selection-end-line="403" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/create_investment_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/fixtures.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="152">
-          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/fantrax_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/player_names.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="-12198" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/mun_links.csv" />
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/links/ars_links.csv" />
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/initial_conditions.csv" />
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/create_investment_list.py" />
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/fixtures.csv" />
+    <entry file="file://$PROJECT_DIR$/Fantrax_22_23/fantrax_scraper.py" />
+    <entry file="file://$PROJECT_DIR$/player_names.csv" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="534">
           <caret line="159" column="6" lean-forward="true" selection-start-line="159" selection-start-column="6" selection-end-line="159" selection-end-column="6" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/brf_minute_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/normalizer/legacy/normalizer_22_23/create_norm_scores_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/normalizer/legacy/normalizer_21_22/create_norm_scores_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="68" column="47" selection-start-line="68" selection-start-column="47" selection-end-line="68" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/normalizer/legacy/normalizer_20_21/create_norm_scores_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/normalizer/legacy/normalizer_19_20/create_norm_scores_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/the88.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/initial_conditions/ic_19_20/initial_conditions.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/initial_conditions/ic_20_21/initial_conditions.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="213">
+          <caret line="208" column="13" selection-start-line="208" selection-start-column="6" selection-end-line="208" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/initial_conditions/ic_21_22/initial_conditions.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="578">
+          <caret line="538" lean-forward="true" selection-start-line="538" selection-end-line="538" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/tot_minute_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="124">
+          <caret line="76" column="14" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/normalizer/get_norm_params.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-944">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/ful_minute_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="373">
+          <caret line="65" column="50" lean-forward="true" selection-start-line="65" selection-start-column="50" selection-end-line="65" selection-end-column="50" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/eve_minute_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/minute_data/minute_data_22_23/ars_minute_data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/create_norm_scores_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="350" selection-start-line="350" selection-end-line="350" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/brf_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/tot_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/lei_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/new_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/ownership.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="445">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/eve_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/wol_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/cry_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/ful_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/sou_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/bha_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/avl_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/liv_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/ars_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/whu_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/che_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/bou_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/initial_conditions/ic_22_23/initial_conditions_prior/initial_conditions_promoted.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/initial_conditions/ic_22_23/initial_conditions_prior/initial_conditions_last_year.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="135">
+          <caret line="111" column="23" lean-forward="true" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/mun_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/initial_conditions/ic_22_23/initial_conditions.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="284">
+          <caret line="237" column="21" lean-forward="true" selection-start-line="237" selection-start-column="21" selection-end-line="237" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/not_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/lee_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/player_url_links/links_22_23/mci_links.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/fantrax_scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/create_investment_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fantrax_model/fixtures/fixtures_22_23/fixtures.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="299">
+          <caret line="166" column="25" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
   </component>

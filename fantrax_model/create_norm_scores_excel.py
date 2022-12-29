@@ -9,13 +9,15 @@ import xlsxwriter
 # Take in arguments from the command line:
 parser = argparse.ArgumentParser()
 parser.add_argument("-s", "--season", default="2022-23", help="The EPL Season of interest")
+parser.add_argument("-ct", "--condtype", default="investment", help="The EPL Season of interest")
 args = parser.parse_args()
 
 
-def create_wb(season):
+def create_wb(season, conditional_type):
     '''
     Create norm scores workbook
     :param season: The current season
+    :param conditional_type: Conditonal formatting either investment active only or all starts.
     :return:
     '''
     season_short_hand = get_season_shorthand(season)
@@ -30,7 +32,7 @@ def create_wb(season):
         minute_data = pd.read_csv(os.path.join('minute_data', 'minute_data_{}'.format(season_short_hand), club +
                                                '_minute_data.csv'))
         df = minute_data.merge(pre_conditions, on='player', how='left')
-        write_club_sheet(writer, df, club, season)
+        write_club_sheet(writer, df, club, season, conditional_type)
 
     writer.save()
 
@@ -245,7 +247,7 @@ def create_blank_sheet(writer, worksheet_name, show_gridlines=False):
     writer.sheets[worksheet_name].hide_gridlines(gridlines_values)
 
 
-def write_club_sheet(writer, df, clubname, season):
+def write_club_sheet(writer, df, clubname, season, conditional_type):
     '''
     Write
     :param writer: excel writer engine
@@ -313,21 +315,36 @@ def write_club_sheet(writer, df, clubname, season):
     format3 = writer.book.add_format({'bg_color': '#FFEB9C',
                                    'font_color': '#9C6500'})
 
-    for i in range(7, 500):
-        worksheet.conditional_format('C{0}:T{0}'.format(i), {'type': 'formula',
-                                                             'criteria': '=IF(AND($L{0}>0, '
-                                                                         '$Q{0}>=12,$R{0}>=0),"Y","")="Y"'
-                                     .format(i), 'format': format2})
-        worksheet.conditional_format('C{0}:T{0}'.format(i), {'type': 'formula',
-                                                             'criteria': '=IF(AND($L{0}>0, '
-                                                                         '$Q{0}>=12,$R{0}<-2),"Y","")="Y"'
-                                     .format(i), 'format': format1})
-        worksheet.conditional_format('C{0}:T{0}'.format(i), {'type': 'formula',
-                                                             'criteria': '=IF(AND($L{0}>0, $Q{0}>=12,'
-                                                                         '$R{0}<0, $R{0}>=-2),"Y","")="Y"'
-                                     .format(i), 'format': format3})
+    if conditional_type == 'investment':
+        for i in range(7, 500):
+            worksheet.conditional_format('C{0}:T{0}'.format(i), {'type': 'formula',
+                                                                 'criteria': '=IF(AND($L{0}>0, '
+                                                                             '$Q{0}>=12,$R{0}>=0),"Y","")="Y"'
+                                         .format(i), 'format': format2})
+            worksheet.conditional_format('C{0}:T{0}'.format(i), {'type': 'formula',
+                                                                 'criteria': '=IF(AND($L{0}>0, '
+                                                                             '$Q{0}>=12,$R{0}<-2),"Y","")="Y"'
+                                         .format(i), 'format': format1})
+            worksheet.conditional_format('C{0}:T{0}'.format(i), {'type': 'formula',
+                                                                 'criteria': '=IF(AND($L{0}>0, $Q{0}>=12,'
+                                                                             '$R{0}<0, $R{0}>=-2),"Y","")="Y"'
+                                         .format(i), 'format': format3})
+    else:
+        for i in range(7, 500):
+            worksheet.conditional_format('C{0}:T{0}'.format(i), {'type': 'formula',
+                                                                 'criteria': '=IF(AND($L{0}>0, '
+                                                                             '$J{0}>=12),"Y","")="Y"'
+                                         .format(i), 'format': format2})
+            worksheet.conditional_format('C{0}:T{0}'.format(i), {'type': 'formula',
+                                                                 'criteria': '=IF(AND($L{0}>0, '
+                                                                             '$J{0}<10),"Y","")="Y"'
+                                         .format(i), 'format': format1})
+            worksheet.conditional_format('C{0}:T{0}'.format(i), {'type': 'formula',
+                                                                 'criteria': '=IF(AND($L{0}>0,'
+                                                                             '$J{0}>=10),"Y","")="Y"'
+                                         .format(i), 'format': format3})
 
     df.to_excel(writer, header=False, sheet_name=worksheet_name, startcol=1, startrow=6)
 
 
-create_wb(args.season)
+create_wb(args.season, args.condtype)
