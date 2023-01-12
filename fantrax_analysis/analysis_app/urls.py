@@ -26,7 +26,6 @@ urlpatterns = [
     path('register/', registerPage, name='register'),
     path('login/', loginPage, name='login'),
 
-
     path('player_list/', PlayerListView.as_view(), name='player_list'),
     path('player_list/player-profile/<slug:slug>', PlayerInfoView.as_view(), name='player_profile'),
 
