@@ -1,6 +1,6 @@
 Name,owned,owner_id
 Aaron Ramsdale,BRZL,1
-Matt Doherty,BRZL,2
+Cristian Romero,BRZL,2
 Tyrone Mings,BRZL,3
 Lewis Dunk,BRZL,4
 Trevoh Chalobah,BRZL,5
@@ -17,10 +17,10 @@ Wilfried Zaha,BRZL,15
 Aleksandar Mitrovic,BRZL,16
 Nick Pope,COF,1
 Emerson Royal,COF,2
-Willy Boly,COF,3
-Ethan Pinnock,COF,4
-Raphael Varane,COF,5
-Andrew Robertson,COF,6
+Ethan Pinnock,COF,3
+Raphael Varane,COF,4
+Andrew Robertson,COF,5
+Victor Kristiansen,COF,6
 Tyler Adams,COF,7
 Thomas Partey,COF,8
 Ilkay Gundogan,COF,9
@@ -38,12 +38,12 @@ Ben Mee,DAMO,4
 Aymeric Laporte,DAMO,5
 Nathan Ake,DAMO,6
 Rodri,DAMO,7
-Martin Odegaard,DAMO,8
-Alexis Mac Allister,DAMO,9
-Morgan Gibbs-White,DAMO,10
-Daniel Podence,DAMO,11
-Dejan Kulusevski,DAMO,12
-Demarai Gray,DAMO,13
+Joao Palhinha,DAMO,8
+Martin Odegaard,DAMO,9
+Alexis Mac Allister,DAMO,10
+Morgan Gibbs-White,DAMO,11
+Daniel Podence,DAMO,12
+Dejan Kulusevski,DAMO,13
 Willian,DAMO,14
 Ollie Watkins,DAMO,15
 Erling Haaland,DAMO,16
@@ -96,7 +96,7 @@ Son Heung-Min,GUN,14
 Alejandro Garnacho Ferreyra,GUN,15
 Evan Ferguson,GUN,16
 Fraser Forster,GUN2,1
-Rico Lewis,GUN2,2
+Stefan Bajcetic,GUN2,2
 Manuel Akanji,GUN2,3
 Gabriel Magalhaes,GUN2,4
 Luke Shaw,GUN2,5
@@ -115,9 +115,9 @@ Bernd Leno,HAE,1
 Diogo Dalot,HAE,2
 Aaron Wan-Bissaka,HAE,3
 Antonee Robinson,HAE,4
-Rayan Ait-Nouri,HAE,5
+Nelson Semedo,HAE,5
 Oleksandr Zinchenko,HAE,6
-Ivan Perisic,HAE,7
+Moises Caicedo,HAE,7
 Douglas Luiz,HAE,8
 Thiago,HAE,9
 Christian Norgaard,HAE,10
@@ -132,28 +132,28 @@ Kieran Trippier,RORY,2
 Ben White,RORY,3
 Aaron Cresswell,RORY,4
 Pervis Estupinan,RORY,5
-Tyrell Malacia,RORY,6
-Cheick Oumar Doucoure,RORY,7
-Tomas Soucek,RORY,8
-Conor Gallagher,RORY,9
-Kaoru Mitoma,RORY,10
-Bruno Guimaraes,RORY,11
-Bukayo Saka,RORY,12
-Joelinton,RORY,13
+Cheick Oumar Doucoure,RORY,6
+Kamaldeen Sulemana,RORY,7
+Kaoru Mitoma,RORY,8
+Bruno Guimaraes,RORY,9
+Bukayo Saka,RORY,10
+Joelinton,RORY,11
+Wilfried Gnonto,RORY,12
+Adama Traore,RORY,13
 Darwin Nunez,RORY,14
 Alexander Isak,RORY,15
 Harry Kane,RORY,16
 Ederson,SUP,1
 William Saliba,SUP,2
 Thiago Silva,SUP,3
-Renan Lodi,SUP,4
-Rico Henry,SUP,5
-Jacob Ramsey,SUP,6
-Bernardo Silva,SUP,7
-Andreas Pereira,SUP,8
-Bryan Mbeumo,SUP,9
-Leon Bailey,SUP,10
-Wilfried Gnonto,SUP,11
+Tim Ream,SUP,4
+Renan Lodi,SUP,5
+Rico Henry,SUP,6
+Joao Moutinho,SUP,7
+Bernardo Silva,SUP,8
+Andreas Pereira,SUP,9
+Bryan Mbeumo,SUP,10
+Leon Bailey,SUP,11
 Antony,SUP,12
 Richarlison,SUP,13
 Cody Gakpo,SUP,14
