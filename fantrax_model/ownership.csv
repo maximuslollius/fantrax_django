@@ -1,13 +1,13 @@
 Name,owned,owner_id
 Aaron Ramsdale,BRZL,1
-Cristian Romero,BRZL,2
-Tyrone Mings,BRZL,3
-Lewis Dunk,BRZL,4
-Trevoh Chalobah,BRZL,5
+Serge Aurier,BRZL,2
+Max Kilman,BRZL,3
+Conor Coady,BRZL,4
+Marc Guehi,BRZL,5
 Dan Burn,BRZL,6
 Reece James,BRZL,7
 Solly March,BRZL,8
-Marc Roca,BRZL,9
+Tomas Soucek,BRZL,9
 Ruben Neves,BRZL,10
 Kevin De Bruyne,BRZL,11
 Kiernan Dewsbury-Hall,BRZL,12
@@ -17,25 +17,25 @@ Wilfried Zaha,BRZL,15
 Aleksandar Mitrovic,BRZL,16
 Nick Pope,COF,1
 Emerson Royal,COF,2
-Ethan Pinnock,COF,3
-Raphael Varane,COF,4
-Andrew Robertson,COF,5
-Victor Kristiansen,COF,6
-Tyler Adams,COF,7
-Thomas Partey,COF,8
-Ilkay Gundogan,COF,9
-Eberechi Eze,COF,10
-Weston McKennie,COF,11
-Bruno Fernandes,COF,12
-Allan Saint-Maximin,COF,13
-Kai Havertz,COF,14
-Raheem Sterling,COF,15
-Tete,COF,16
+Kyle Walker,COF,3
+Issa Diop,COF,4
+Ethan Pinnock,COF,5
+Cristian Romero,COF,6
+Andrew Robertson,COF,7
+Tyler Adams,COF,8
+Thomas Partey,COF,9
+Ilkay Gundogan,COF,10
+Abdoulaye Doucoure,COF,11
+Eberechi Eze,COF,12
+Bruno Fernandes,COF,13
+Allan Saint-Maximin,COF,14
+Kai Havertz,COF,15
+Kelechi Iheanacho,COF,16
 Keylor Navas,DAMO,1
 Sven Botman,DAMO,2
 Craig Dawson,DAMO,3
 Ben Mee,DAMO,4
-Aymeric Laporte,DAMO,5
+Joel Matip,DAMO,5
 Nathan Ake,DAMO,6
 Rodri,DAMO,7
 Joao Palhinha,DAMO,8
@@ -48,21 +48,21 @@ Willian,DAMO,14
 Ollie Watkins,DAMO,15
 Erling Haaland,DAMO,16
 Alisson,DK,1
-Robert Sanchez,DK,2
-Trent Alexander-Arnold,DK,3
-Nathan Collins,DK,4
-Kalidou Koulibaly,DK,5
-Ruben Dias,DK,6
-Neco Williams,DK,7
-Matheus Nunes,DK,8
-Harvey Barnes,DK,9
-Said Benrahma,DK,10
-Jarrod Bowen,DK,11
-Leandro Trossard,DK,12
-Marcus Rashford,DK,13
-Danny Ings,DK,14
-Ivan Toney,DK,15
-Dominic Calvert-Lewin,DK,16
+Trent Alexander-Arnold,DK,2
+Nathan Collins,DK,3
+Kalidou Koulibaly,DK,4
+Ruben Dias,DK,5
+Neco Williams,DK,6
+Matheus Nunes,DK,7
+Fabinho,DK,8
+John McGinn,DK,9
+Harvey Barnes,DK,10
+Said Benrahma,DK,11
+Jarrod Bowen,DK,12
+Leandro Trossard,DK,13
+Marcus Rashford,DK,14
+Danny Ings,DK,15
+Ivan Toney,DK,16
 David de Gea,EOC,1
 Fabian Schar,EOC,2
 Eric Dier,EOC,3
@@ -70,7 +70,7 @@ Lisandro Martinez,EOC,4
 Virgil van Dijk,EOC,5
 Timothy Castagne,EOC,6
 Casemiro,EOC,7
-Rodrigo Bentancur,EOC,8
+Andreas Pereira,EOC,8
 Granit Xhaka,EOC,9
 Jorginho,EOC,10
 Mathias Jensen,EOC,11
@@ -80,52 +80,52 @@ Reiss Nelson,EOC,14
 Roberto Firmino,EOC,15
 Mohamed Salah,EOC,16
 David Raya,GUN,1
-Serge Aurier,GUN,2
-Kenny Tete,GUN,3
-James Tarkowski,GUN,4
-Benoit Badiashile,GUN,5
-Pascal Struijk,GUN,6
+Kenny Tete,GUN,2
+James Tarkowski,GUN,3
+Benoit Badiashile,GUN,4
+Ben Davies,GUN,5
+Romain Perraud,GUN,6
 James Ward-Prowse,GUN,7
-Youri Tielemans,GUN,8
-Marcus Tavernier,GUN,9
-James Maddison,GUN,10
-Pascal Gross,GUN,11
-Dwight McNeil,GUN,12
-Miguel Almiron,GUN,13
-Son Heung-Min,GUN,14
-Alejandro Garnacho Ferreyra,GUN,15
-Evan Ferguson,GUN,16
+Jefferson Lerma,GUN,8
+Amadou Onana,GUN,9
+Marcus Tavernier,GUN,10
+James Maddison,GUN,11
+Pascal Gross,GUN,12
+Emile Smith Rowe,GUN,13
+Dwight McNeil,GUN,14
+Miguel Almiron,GUN,15
+Son Heung-Min,GUN,16
 Fraser Forster,GUN2,1
-Stefan Bajcetic,GUN2,2
-Manuel Akanji,GUN2,3
-Gabriel Magalhaes,GUN2,4
-Luke Shaw,GUN2,5
-Pierre-Emile Hojbjerg,GUN2,6
-Declan Rice,GUN2,7
-Enzo Fernandez,GUN2,8
-Marcel Sabitzer,GUN2,9
-Mykhailo Mudryk,GUN2,10
-Anthony Gordon,GUN2,11
-Riyad Mahrez,GUN2,12
-Luis Diaz,GUN2,13
-Gabriel Jesus,GUN2,14
-Callum Wilson,GUN2,15
-Eddie Nketiah,GUN2,16
-Bernd Leno,HAE,1
+Jason Steele,GUN2,2
+Joel Veltman,GUN2,3
+Manuel Akanji,GUN2,4
+Adam Webster,GUN2,5
+Gabriel Magalhaes,GUN2,6
+Luke Shaw,GUN2,7
+Ben Chilwell,GUN2,8
+Pierre-Emile Hojbjerg,GUN2,9
+Declan Rice,GUN2,10
+Enzo Fernandez,GUN2,11
+Manor Solomon,GUN2,12
+Riyad Mahrez,GUN2,13
+Luis Diaz,GUN2,14
+Gabriel Jesus,GUN2,15
+Callum Wilson,GUN2,16
+Vicente Guaita,HAE,1
 Diogo Dalot,HAE,2
 Aaron Wan-Bissaka,HAE,3
 Antonee Robinson,HAE,4
-Nelson Semedo,HAE,5
-Oleksandr Zinchenko,HAE,6
-Moises Caicedo,HAE,7
-Douglas Luiz,HAE,8
-Thiago,HAE,9
-Christian Norgaard,HAE,10
-Crysencio Summerville,HAE,11
-Mason Mount,HAE,12
-Jack Grealish,HAE,13
-Brennan Johnson,HAE,14
-Noni Madueke,HAE,15
+Tyrick Mitchell,HAE,5
+Nelson Semedo,HAE,6
+Oleksandr Zinchenko,HAE,7
+Moises Caicedo,HAE,8
+Douglas Luiz,HAE,9
+Idrissa Gueye,HAE,10
+Christian Norgaard,HAE,11
+Crysencio Summerville,HAE,12
+Michael Olise,HAE,13
+Jack Grealish,HAE,14
+Brennan Johnson,HAE,15
 Diogo Jota,HAE,16
 Jordan Pickford,RORY,1
 Kieran Trippier,RORY,2
@@ -133,7 +133,7 @@ Ben White,RORY,3
 Aaron Cresswell,RORY,4
 Pervis Estupinan,RORY,5
 Cheick Oumar Doucoure,RORY,6
-Kamaldeen Sulemana,RORY,7
+Hamed Traore,RORY,7
 Kaoru Mitoma,RORY,8
 Bruno Guimaraes,RORY,9
 Bukayo Saka,RORY,10
@@ -145,17 +145,17 @@ Alexander Isak,RORY,15
 Harry Kane,RORY,16
 Ederson,SUP,1
 William Saliba,SUP,2
-Thiago Silva,SUP,3
+Lewis Dunk,SUP,3
 Tim Ream,SUP,4
-Renan Lodi,SUP,5
-Rico Henry,SUP,6
-Joao Moutinho,SUP,7
-Bernardo Silva,SUP,8
-Andreas Pereira,SUP,9
-Bryan Mbeumo,SUP,10
-Leon Bailey,SUP,11
-Antony,SUP,12
-Richarlison,SUP,13
-Cody Gakpo,SUP,14
+Rico Henry,SUP,5
+Fabio Vieira,SUP,6
+Bernardo Silva,SUP,7
+Emiliano Buendia,SUP,8
+Bryan Mbeumo,SUP,9
+Leon Bailey,SUP,10
+Antony,SUP,11
+Richarlison,SUP,12
+Cody Gakpo,SUP,13
+Evan Ferguson,SUP,14
 Joao Felix,SUP,15
-Gianluca Scamacca,SUP,16
+Raheem Sterling,SUP,16
